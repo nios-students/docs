@@ -1,6 +1,11 @@
 The following are some commonly used acronyms in android development.
 
-- TEE: Trusted Execution Environment
+- NIOS: National Institute of Open Schooling. 
+
+  [Wikipedia](https://en.wikipedia.org/wiki/National_Institute_of_Open_Schooling)
+
+  [Website](https://www.nios.ac.in/)
+
 - DT/Tree: Device Tree
 - AOSP: Android Open Source Project
 - PIF: PlayIntegrityFramework, an API exposed by Google to verify
