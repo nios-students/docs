@@ -1,6 +1,6 @@
 <strong>NIOS Students</strong>
 
-Building Android from start to finish (WIP)
+Guides to make your NIOS journey easy. 
 
 ## Getting started
 Information and guides:
