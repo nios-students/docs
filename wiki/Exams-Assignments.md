@@ -10,8 +10,16 @@ On Demand Examinations are held throughout the year* (excluding april-may oct-no
 
 Tutor Marked Assignment is crucial for students as it carries atleast 20% weightage on your final report card. It can be uploaded online in NIOS portal. TMA for vocational subjects does not exist (data entry 632) etc. TMA is just QnA. They will ask you questions, and you are supposed to write the answers, take pictures, make a pdf file, and then upload them online. TMA is only applicable for the learners admitted under Stream-I of NIOS. TMA is not there for students of Stream-2,3 & 4.
 ### Practical Exams
+Practical examinations are conducted at your study centre/AI (in mhh cases) 1 month before the public exams. For on-demand exams, they are conducted the next day after the theory exams. For more info
+[Detailed Info on Practicals](https://drive.google.com/drive/folders/19LBYcv2Fi9WVE_hnYtLhwE7niWUPigBY)
+``` 
 
-Practical exams are conducted for students of Stream-I only. They are conducted for students who have specific academic subjects like chemistry, physics and for all vocational subjects like data entry operations.
 ### PCP (Personal Contact Programme)
+There are a total of 35 classes:
+- 30 for doubt cleaning (these do not carry any marks)
+- 05 classes for ONLY practical subjects (these carry 50% of the practical marks)
 
-PCP is meant only for the learners of NIOS enrolled under Stream-I. Maximum of 30 Personal Contact Programme (PCP) sessions as per NIOS norms are organized per subject for theory and 5 additional practical sessions for a subject having practical on face-to-face basis, generally on weekends and holidays, in the first year of admission, by AIs (Study Centres). Guidelines in this regard are also hosted on website. 
+There are two types of Personal Contact Programs:
+1. PCP/Doubt Cleaning
+2. FA/Practical PCP
+```
