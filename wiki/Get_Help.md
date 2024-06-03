@@ -8,16 +8,17 @@ Because these are 3rd party chat groups, remember to follow these while/before a
 
 ### Groups
 #### Telegram
-- [chat1](linkhere)
+- [chat1](https://t.me/nios_freehelp)
 
-- [chat2](linkhere)
+- [chat2](https://t.me/NIOS_HELP_DESK)
 
 #### Discord
-- [chat1](link)
-- [chat2](link)
+- [chat1](https://discord.com/invite/DesKMxwd)
+- [chat2](https://discord.com/invite/RrnFktpA)
 
 #### Reddit
-- [chat1](link)
+- [chat1](https://www.reddit.com/r/NIOS_Students/s/pSa1tMljWR)
+
 
 #### Official Support
-- [Contact NIOS](linkhere)
+- [Contact NIOS](https://nios.ac.in/contact-us/headquarter.aspx)
