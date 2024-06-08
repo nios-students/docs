@@ -12,3 +12,6 @@ Information and guides:
 
 Chat Groups:
 - [Get Help](/wiki/Get_Help)
+
+Guidelines:
+- [Guidelines](/wiki/Guidelines)
