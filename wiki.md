@@ -1,6 +1,6 @@
 <strong>NIOS Students</strong>
 
-Guides to make your NIOS journey easy. 
+Guides to make your NIOS journey easily. 
 
 ## Getting started
 Information and guides:
