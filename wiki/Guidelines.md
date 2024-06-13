@@ -102,7 +102,7 @@ Principal/Correspondent
 1. Scan all documents using [Oken Scanner](https://play.google.com/store/apps/details?id=com.cambyte.okenscan).
 2. Mail them to your RC (RC contact information: [Regional Center](https://sdmis.nios.ac.in/home/regional-center)).
 3. You have to send all documents to the RC physically as well.
-4. Please email me at tamimtasira@gmail.com if you encounter any problems.
+4. Please email me at tamimtasira[at]gmail(dot)com if you encounter any problems.
 5. Do not wait for the datesheet. Send the documents to the RC after your exam fees are paid.
 6. The RC will mail you a letter. Take a printout of that letter and use it.
 ```
