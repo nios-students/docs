@@ -31,7 +31,7 @@
 8. **Uploading of TMA(s)**  
    🔗 [https://sdmis.nios.ac.in/tma/index](https://sdmis.nios.ac.in/tma/index)  
    Click the subject you wish to give your TMA of, choose your medium of study, click on upload, and find the file of that subject.  
-   **Note:** The limit is 1MB.  
+   **Note:** The limit is 5MB.  
    Check if your TMA was uploaded from TMA Status via your dashboard.
    
 # NIOS Exam Scribe Process
@@ -46,7 +46,7 @@ I'm writing from experience as I took the April 2024 exams with a scribe. Firstl
 5. Student ID card of the school and Aadhaar card of the writer/scribe
 6. NIOS ID card of the learner
 
-Xerox copies work.
+Xerox copies works.
 
 ## How can I find and fill these documents?
 First, visit the NIOS website and download the Application by the Parent and Medical Certificate from the [Provisions for Learners with Disability](https://nios.ac.in/departmentsunits/evaluation/general-and-specific-relaxations-(disability-wise)-during-nios-examination.aspx). Take a printout of these documents.
