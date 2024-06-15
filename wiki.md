@@ -9,6 +9,7 @@ Information and guides:
 - [Admissions](/wiki/Admissions)
 - [Study Materials](/wiki/Study-Materials)
 - [Exam, Assignments and Practicals](/wiki/Exams-Assignments)
+- [E-Services and Re-Checking](/wiki/EServices)
 
 Chat Groups:
 - [Get Help](/wiki/Get_Help)
