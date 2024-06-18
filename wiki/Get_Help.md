@@ -23,5 +23,10 @@ Because these are 3rd party chat groups, remember to follow these while/before a
 [chat2](https://www.reddit.com/r/Nios_unofficial/s/varZyi0F3R)
 
 
-#### Official Support
+#### Official Support (HQ)
 - [Contact NIOS](https://nios.ac.in/contact-us/headquarter.aspx)
+#### Official Support (RC)
+- [Contact NIOS RC'S](https://sdmis.nios.ac.in/home/regional-center)
+
+#### Email address of the pingforhelp 
+- tamim[at]gmail(dot)com
