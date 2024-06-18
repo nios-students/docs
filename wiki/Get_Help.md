@@ -14,7 +14,8 @@ Because these are 3rd party chat groups, remember to follow these while/before a
 
 #### Discord
 - [chat1](https://discord.com/invite/DesKMxwd)
-- [chat2](https://discord.com/invite/FgWC8tGv)
+-
+[chat2](https://discord.com/invite/FgWC8tGv)
 
 #### Reddit
 - [chat1](https://www.reddit.com/r/NIOS_Students/s/pSa1tMljWR)
