@@ -6,3 +6,4 @@ The following are some commonly used acronyms.
 - ODES: On Demand Exams. [Link to section](/wiki/Exams-Assignments.md#on-demand-examination)
 - OBE: Open Basic Education
 - PE: Public Exam. [Link to section](/wiki/Exams-Assignments.md#public-examination)
+- UFM: Unfair means 
