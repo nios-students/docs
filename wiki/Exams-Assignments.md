@@ -17,7 +17,8 @@ Practical examinations are conducted at your study centre/AI (in mhh cases) 1 mo
 ### PCP (Personal Contact Programme)
 There are a total of 35 classes:
 - 30 for doubt cleaning (these do not carry any marks)
-- 05 classes for ONLY practical subjects (these carry 50% of the practical marks)
+- 05 classes for ONLY practical subjects (these carry 50% of the practical marks) [See this](https://drive.google.com/file/d/19auYIHocmCcdMysj0dB0FeP_TciA5G_l/view?usp=drivesdk) 
+PCP classes are for only stream 1 learners only and the fa marks for other streams the marks transfer over to SA/Practical exam See this](https://drive.google.com/file/d/19auYIHocmCcdMysj0dB0FeP_TciA5G_l/view?usp=drivesdk) 
 
 There are two types of Personal Contact Programs:
 1. PCP/Doubt Cleaning
