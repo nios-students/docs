@@ -12,7 +12,7 @@ Tutor Marked Assignment is crucial for students as it carries atleast 20% weight
 ### Practical Exams
 Practical examinations are conducted at your study centre/AI (in mhh cases) 1 month before the public exams. For on-demand exams, they are conducted the next day after the theory exams. For more info
 [Detailed Info on Practicals](https://drive.google.com/drive/folders/19LBYcv2Fi9WVE_hnYtLhwE7niWUPigBY)
-``` 
+
 
 ### PCP (Personal Contact Programme)
 There are a total of 35 classes:
@@ -22,4 +22,4 @@ There are a total of 35 classes:
 There are two types of Personal Contact Programs:
 1. PCP/Doubt Cleaning
 2. FA/Practical PCP
-```
+
