@@ -1,7 +1,7 @@
 # Guidelines For TMA Uploading/Downloading
 
 1. **First download the TMA questions paper from dashboard**  
-   🔗 [https://sdmis.nios.ac.in/](https://sdmis.nios.ac.in/)
+   🔗 [NIOS Student portal](https://sdmis.nios.ac.in/)
 2. **Click on "Download TMA"**  
    Download the PDFs.
 3. **Prep work**  
@@ -29,10 +29,10 @@
    Make sure you are in a well-lighted area. Open the Oken scanner app or any other scanner app.  
    Click pictures of the TMA ensuring that the full page is in the frame.
 8. **Uploading of TMA(s)**  
-   🔗 [https://sdmis.nios.ac.in/tma/index](https://sdmis.nios.ac.in/tma/index)  
+   🔗 [TMA portal](https://sdmis.nios.ac.in/tma/index)  
    Click the subject you wish to give your TMA of, choose your medium of study, click on upload, and find the file of that subject.  
-   **Note:** The limit is 5MB.  
-   Check if your TMA was uploaded from TMA Status via your dashboard.
+   **Note:** The limit is # 5MB.  
+   Check if your TMA was uploaded from TMA Status via your dashboard under TMA Status.
    
 # NIOS Exam Scribe Process
 
