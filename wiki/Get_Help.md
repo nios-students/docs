@@ -27,4 +27,4 @@ Because these are 3rd party chat groups, remember to follow these guidelines whi
 
 #### Email Address of ping
 - tamim[at]gmail[dot]com
-- nioshelpinghand[at]gmail.com
+- nioshelpinghand@gmail.com
