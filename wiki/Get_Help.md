@@ -26,5 +26,5 @@ Because these are 3rd party chat groups, remember to follow these guidelines whi
 - [Contact NIOS RC's](https://sdmis.nios.ac.in/home/regional-center)
 
 #### Email Address of ping
-- tamim[at]gmail[dot]com
+- tamim@gmail.com
 - nioshelpinghand@gmail.com
