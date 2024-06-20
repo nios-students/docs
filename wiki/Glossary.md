@@ -7,3 +7,4 @@ The following are some commonly used acronyms.
 - OBE: Open Basic Education
 - PE: Public Exam. [Link to section](/wiki/Exams-Assignments.md#public-examination)
 - UFM: Unfair means 
+- VOS: Virtual Open Schooling
