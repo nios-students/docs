@@ -12,7 +12,7 @@ Because these are 3rd party chat groups, remember to follow these guidelines whi
 - [chat2](https://t.me/NIOS_HELP_DESK)
 
 #### Discord
-- [chat1](https://discord.com/invite/DesKMxwd)
+- [chat1](https://discord.com/invite/3cdyAzU4)
 - [chat2](https://discord.com/invite/FgWC8tGv)
 
 #### Reddit
