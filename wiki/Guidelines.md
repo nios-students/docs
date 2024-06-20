@@ -20,7 +20,7 @@
    - Sub code:
    - Medium of study:
    - Study centre/AI:  
-     Both name and code check your ID card, the blue section or "MyDetails" on your dashboard.
+     Both name and code check your ID card, the blue section or "My Details" on your dashboard.
 6. **Answer writing**  
    Every question has two options A and B. Make sure that you write the question number as follows,
    - 1 A ans.  
@@ -31,7 +31,7 @@
 8. **Uploading of TMA(s)**  
    🔗 [TMA portal](https://sdmis.nios.ac.in/tma/index)  
    Click the subject you wish to give your TMA of, choose your medium of study, click on upload, and find the file of that subject.  
-   **Note:** The limit is # 5MB.  
+   **Note:** The limit is  5MB.  
    Check if your TMA was uploaded from TMA Status via your dashboard under TMA Status.
    
 # NIOS Exam Scribe Process
