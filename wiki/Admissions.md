@@ -27,11 +27,15 @@ In the National Institute of Open Schooling (NIOS), there are primarily four str
 
 ### NIOS Stream 1
 
-Open to all learners and freshers. Admission is available twice a year. Examinations are held in April/May for Block 1 learners and October/November for Block 2 learners. Students in Stream 1 will have to submit TMAs, give practicals and theory exams. Theory Exams and practicals are both mandatory to be able to atleast pass.
+Open to all learners and freshers. Admissions are open throughout the year. Examinations are held in April-May for Block 1 learners and October-November for Block 2 learners. Students in Stream 1 must submit TMAs and attend PCP classes.
+
+[Admission schedule and registration fees structure](https://sdmis.nios.ac.in/home/fees)
+
+
 
 ### NIOS Stream 2
 
-~ This stream is available for learners who: have failed or passed but want to improve scores in the Secondary or Senior Secondary (10th class or 12th class) examination from a recognized board and want to update their qualification in one or up to four subjects to be able to fill eligibility critereas for their goals such as JEE, Pilot exam etc. These exams are available for to write during October to Novembber Public Examinations for Stream 2 enrolled students. Stream 2 students will not have TMAs. Students can apply for TOC (Transfer of Credit) where they are allowed to transfer marks of upto 2 subjects from previous board examination into NIOS marksheet.
+~ This stream is available for learners who: have failed or passed but want to improve scores in the Secondary or Senior Secondary (10th class or 12th class) examination from a recognized board and want to update their qualification in one or up to four subjects to be able to fill eligibility critereas for their goals such as Pilot exam etc. These exams are available for to write during October to Novembber Public Examinations for Stream 2 enrolled students. Stream 2 students will not have TMAs. Students can apply for TOC (Transfer of Credit) where they are allowed to transfer marks of upto 2 subjects from previous board examination into NIOS marksheet.
 ### NIOS Stream 3
 
 On-Demand Examination System (ODES) at Secondary Level (10th class). Open for admissions throughout the year. Suitable for learners seeking to update their qualifications or clear failed subjects at the Secondary level. Also applicable for those who couldn't clear or appear for Secondary exams from recognized boards and wish to appear through the On Demand Exams at Secondary level. Students can apply for TOC (Transfer of Credit) where they are allowed to transfer marks of upto 2 subjects from previous board examination into NIOS marksheet.
