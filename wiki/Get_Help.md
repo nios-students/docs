@@ -28,3 +28,9 @@ Because these are 3rd party chat groups, remember to follow these guidelines whi
 #### Email Address of ping
 - tamimtasira@gmail.com
 - nioshelpinghand@gmail.com
+
+#### Email Address of NIOS HQ
+
+- lsc@nios.ac.in
+- dirrsss@nios.ac.in
+- cm@nios.nios.ac.in
