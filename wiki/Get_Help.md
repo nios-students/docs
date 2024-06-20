@@ -17,12 +17,8 @@ Because these are 3rd party chat groups, remember to follow these guidelines whi
 
 #### Reddit
 - [chat1](https://www.reddit.com/r/NIOS_Students/s/pSa1tMljWR)
--
-[chat2](https://www.reddit.com/r/Nios_unofficial/s/varZyi0F3R)
-
--
-[chat3](https://www.reddit.com/r/N1OS/s/kMDSRoMHyw)
-
+- [chat2](https://www.reddit.com/r/Nios_unofficial/s/varZyi0F3R)
+- [chat3](https://www.reddit.com/r/N1OS/s/kMDSRoMHyw)
 
 #### Official Support (HQ)
 - [Contact NIOS](https://nios.ac.in/contact-us/headquarter.aspx)
