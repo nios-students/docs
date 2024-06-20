@@ -34,8 +34,7 @@ Open to all learners and freshers. Admissions are open throughout the year. Exam
 
 
 ### NIOS Stream 2
-
-~ This stream is available for learners who: have failed or passed but want to improve scores in the Secondary or Senior Secondary (10th class or 12th class) examination from a recognized board and want to update their qualification in one or up to four subjects to be able to fill eligibility critereas for their goals such as Pilot exam etc. These exams are available for to write during October to Novembber Public Examinations for Stream 2 enrolled students.
+This stream is available for learners who: have failed or passed but want to improve scores in the Secondary or Senior Secondary (10th class or 12th class) examination from a recognized board and want to update their qualification in one or up to four subjects to be able to fill eligibility critereas for their goals such as Pilot exam etc. These exams are available for to write during October to Novembber Public Examinations for Stream 2 enrolled students.
 ### NIOS Stream 3
 
 On-Demand Examination System (ODES) at Secondary Level (10th class). Open for admissions throughout the year. Suitable for learners seeking to update their qualifications or clear failed subjects at the Secondary level. Also applicable for those who couldn't clear or appear for Secondary exams from recognized boards and wish to appear through the On Demand Exams at Secondary level. Students can apply for TOC (Transfer of Credit) where they are allowed to transfer marks of upto 2 subjects from previous board examination into NIOS marksheet.
@@ -44,3 +43,6 @@ On-Demand Examination System (ODES) at Secondary Level (10th class). Open for ad
 On-Demand Examination System (ODES) at Senior Secondary level (11th & 12th class). Open for admissions throughout the year. Intended for learners who have already passed Senior Secondary or above from any recognized Board/University and want to update their qualifications or clear failed subjects. Also applicable for those who couldn't clear or appear for Senior Secondary exams from recognized boards and wish to appear through the On Demand Exams at Senior Secondary level in any month except April,May, October & November. Students can apply for TOC (Transfer of Credit) where they are allowed to transfer marks of upto 2 subjects from previous board examination into NIOS marksheet.
 
 [More Info on Stream 3 and 4](https://rcguwahati.nios.ac.in/registration-for-on-demand-examination-ode-and-procedure.html)
+### NIOS Stream 5 
+This is for OBE (Open Basic Education) 
+[more info](https://sdmis.nios.ac.in/modules/obe-registration/obe)
