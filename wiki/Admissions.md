@@ -18,6 +18,7 @@ Procedure: From the year 2010-11, NIOS has introduced 100% On-line admission in 
 Though we suggest that you register yourself for admission from nios portal.
 
 [Link to more detailed information on Admissions, Subjects offered, Fee Structure & more.](https://nios.ac.in/student-information-section/admission-procedure.aspx)
+
 [Offical Guidelines](https://drive.google.com/drive/folders/1S8z_RbST1EgllO27tPGU_uemNi7Kdpsj)
 
 ## NIOS Admission Streams
