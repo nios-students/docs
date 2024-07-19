@@ -6,5 +6,11 @@ The following are some commonly used acronyms.
 - ODES: On Demand Exams. [Link to section](/wiki/Exams-Assignments.md#on-demand-examination)
 - OBE: Open Basic Education
 - PE: Public Exam. [Link to section](/wiki/Exams-Assignments.md#public-examination)
-- UFM: Unfair means 
+- ODL: Open and Distance Learning
 - VOS: Virtual Open Schooling
+- SYT: Subject Yet to be Cleared in Theory
+- SYP: Subject Yet to be Cleared in practical 
+- SYC: Subject Yet to be Cleared  to clear 
+- UFM: Using Of Unfair means 
+- RL: Result Later
+- 
