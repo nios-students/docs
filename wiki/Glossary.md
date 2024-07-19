@@ -10,7 +10,7 @@ The following are some commonly used acronyms.
 - VOS: Virtual Open Schooling
 - SYT: Subject Yet to be Cleared in Theory
 - SYP: Subject Yet to be Cleared in practical 
-- SYC: Subject Yet to be Cleared  to clear 
+- SYC: Subject Yet to be Cleared
 - UFM: Using Of Unfair means 
 - RL: Result Later
 - 
