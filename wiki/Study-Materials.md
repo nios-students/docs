@@ -7,4 +7,4 @@ Other Course Materials can be found [here](https://nios.ac.in/online-course-mate
  
 [Vocational Books](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1nL-EvabkRTi)
 
-If you're unable to locate the information you need or if you have any uncertainties, don't hesitate to create a [post](https://www.reddit.com/r/NIOS_Students/submit) and reach out to our [community](Get_Help)! We're here to help and support you.
+If you're unable to locate the information you need or if you have any uncertainties, don't hesitate to create a [post](https://www.reddit.com/r/NIOS_Students/submit) and reach out to our [community](https://discord.com/invite/wJF4UGvY)! We're here to help and support you.
