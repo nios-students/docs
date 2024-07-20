@@ -13,6 +13,7 @@ Dates of TMA
 - **Block-1 april** starts in december last date is 31 of january.
 
 - **Block-2 october** starts in june last is 31 july
+
 *Note you must submit your TMAs in the first year even if your not giving that sebject(s)*
 
 ### Practical Exams
@@ -38,11 +39,13 @@ There are two types of PCP's
 Dates of PCP
 - **Block-1 april** 
 PCP/doubt clearing Nov-Jan 
-FA PCP Jan-Mar
+
+- FA PCP Jan-Mar
  
 - **Block-2 oct**
 PCP/doubt clearing June-jul
-FA PCP Aug-Sept
+
+- FA PCP Aug-Sept
 
 
 
