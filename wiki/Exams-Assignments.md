@@ -12,6 +12,10 @@ Tutor Marked Assignment is crucial for students as it carries atleast 20% weight
 ### Practical Exams
 Practical examinations are conducted at your study centre/AI (in most cases) 1 month before the public exams. For on-demand exams, they are conducted the next day after the theory exams. For more info
 [Detailed Info on Practicals](https://drive.google.com/file/d/19On8794dMI_S5kyRILewYpoOcvtpA7E1/view?usp=drivesdk) *Please open that in landscape mode*
+Dates of TMA
+Block-1 april exam starts in december last is 31 of january
+Block-2 starts in june last is 31 july
+*Note you must submit your TMAs in the first year even if your not giving sebject(s)*
 
 
 ### PCP (Personal Contact Programme)
