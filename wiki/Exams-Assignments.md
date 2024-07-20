@@ -10,14 +10,18 @@ On Demand Examinations are held throughout the year* (excluding april-may oct-no
 
 TMA is crucial for students as it carries atleast 20% weightage your theory.It can be uploaded online in NIOS portal. [nios student dashboard](https://sdmis.nios.ac.in/auth) TMA for vocational subjects does not exist (data entry 632) etc. TMA is just QnA. They will ask you questions, and you are supposed to write the answers, take pictures, make a .pdf file, and then upload them online.[For detailed on how to make TMA](https://nios-students.pages.dev/wiki/Guidelines) TMA is only applicable for the learners admitted under Stream-I of NIOS. No TMA for other streams.
 Dates of TMA
-Block-1 april exam starts in december last is 31 of january
-Block-2 starts in june last is 31 july
+- **Block-1 april** starts in december last date is 31 of january.
+
+- **Block-2 october** starts in june last is 31 july
 *Note you must submit your TMAs in the first year even if your not giving that sebject(s)*
 
 ### Practical Exams
 Practical examinations are conducted at your study centre/AI (in most cases) 1 month before the public exams. For on-demand exams, they are conducted the next day after the theory exams. For more info
 [Detailed Info on Practicals](https://drive.google.com/file/d/19On8794dMI_S5kyRILewYpoOcvtpA7E1/view?usp=drivesdk) *Please open that in landscape mode*
+Dates of practical exam
+- **Block-1 april** March 
 
+- **Block-2 october** September 
 
 ### PCP (Personal Contact Programme)
 As we know that NIOS is open and distance learning system where students don't have to go to school everyday. In PCP classe aren't meant for explaining the textbook it's meant for doubt cleaning
@@ -32,10 +36,11 @@ There are two types of PCP's
 2. FA/Practical PCP
  Teacher helps prep for practical file/record book and explain what to do in the practical examinations
 Dates of PCP
-**Block-1 april** 
+- **Block-1 april** 
 PCP/doubt clearing Nov-Jan 
-FA PCP Jan-Mar 
-**Block-2 oct**
+FA PCP Jan-Mar
+ 
+- **Block-2 oct**
 PCP/doubt clearing June-jul
 FA PCP Aug-Sept
 
