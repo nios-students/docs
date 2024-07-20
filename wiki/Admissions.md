@@ -48,4 +48,4 @@ On-Demand Examination System (ODES) at Senior Secondary level (11th & 12th class
 [More Info on Stream 3 and 4](https://rcguwahati.nios.ac.in/registration-for-on-demand-examination-ode-and-procedure.html)
 ### NIOS Stream 5 
 This is for OBE (Open Basic Education) 
-[more info](https://sdmis.nios.ac.in/modules/obe-registration/obe)
+[more info](https://nios.ac.in/media/documents/prospectus/OBE_Prospectus/OBE_Children_Prospectus_2024-25_Final.pdf)
