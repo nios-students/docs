@@ -31,4 +31,13 @@ There are two types of PCP's
  You ask the teacher douts
 2. FA/Practical PCP
  Teacher helps prep for practical file/record book and explain what to do in the practical examinations
+Dates of PCP
+**Block-1 april** 
+PCP/doubt clearing Nov-Jan 
+FA PCP Jan-Mar 
+**Block-2 oct**
+PCP/doubt clearing June-jul
+FA PCP Aug-Sept
+
+
 
