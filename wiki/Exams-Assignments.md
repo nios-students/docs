@@ -49,13 +49,5 @@ There are two types of PCPs:
 1. **PCP/Doubt Clearing:** You ask the teacher doubts.
 2. **FA Practical PCP:** Teacher helps prepare for the practical file/record book and explains what to do in the practical examinations.
 
-**Dates of PCP:**
-  **Block-1 April:**
-  - PCP/Doubt Clearing: Nov-Jan
-  - FA PCP: Jan-Mar
-  **Block-2 October:**
-  - PCP/Doubt Clearing: June-July
-  - FA PCP: Aug-Sept
-
 
 
