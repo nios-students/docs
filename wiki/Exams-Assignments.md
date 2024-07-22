@@ -53,6 +53,7 @@ There are two types of PCPs:
   **Block-1 April**
   - PCP/Doubt Clearing: Nov-Jan
   - FA PCP: Jan-Mar
+    
    **Block-2 October**
   - PCP/Doubt Clearing: June-July
   - FA PCP: Aug-Sept
