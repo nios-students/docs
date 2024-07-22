@@ -11,8 +11,8 @@ Because these are 3rd party chat groups, remember to follow these guidelines whi
 - [chat1](https://t.me/nios_freehelp)
 - [chat2](https://t.me/NIOS_HELP_DESK)
 - [Chat-3 speciSfically for students who are giving JEE](https://t.me/jeeniosdoubts)
-- [Chat-4 peciSfically for students who are giving NEET](https://t.me/NEETNIOS)
-- [Chat-5 peciSfically for students who have IT related sebjects](https://t.me/nios_freehelp_cs)
+- [Chat-4 speciSfically for students who are giving NEET](https://t.me/NEETNIOS)
+- [Chat-5 speciSfically for students who have IT related sebjects](https://t.me/nios_freehelp_cs)
 
 #### Discord
 - [chat1](https://discord.com/invite/3cdyAzU4)
