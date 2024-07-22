@@ -1,6 +1,6 @@
 # Examination / TMA / Practical Info
 
-### PE (Public Examinationp)
+### PE (Public Examination)
 
 The Public Examinations are held twice a year in the months of April-May and October-November on dates fixed by the NIOS for students. 
 Eligibility criteria for writing PE
