@@ -8,7 +8,7 @@ All student who admitted under **stream 1 & 2**
 
 ### ODE (On Demand Examination)
 
-On Demand Examinations are held throughout the year (excluding April-May and October-November) for students who want to write their examinations when they wish to. You can give as many attempts as you wish!
+ODE are held throughout the year (excluding April-May and October-November) for students who want to write their examinations when they wish to. You can give as many attempts as you wish!
 Eligibility criteria for writing ODE
 All student who admitted under **stream 1,3 and 4**
 
@@ -49,11 +49,11 @@ There are two types of PCPs:
 1. **PCP/Doubt Clearing:** You ask the teacher doubts.
 2. **FA Practical PCP:** Teacher helps prepare for the practical file/record book and explains what to do in the practical examinations.
    **Dates of PCP:**
+   
   **Block-1 April**
   - PCP/Doubt Clearing: Nov-Jan
   - FA PCP: Jan-Mar
-    
-  **Block-2 October**
+   **Block-2 October**
   - PCP/Doubt Clearing: June-July
   - FA PCP: Aug-Sept
 
