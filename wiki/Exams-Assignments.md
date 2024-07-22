@@ -47,7 +47,7 @@ PCP classes are for **Stream-1 learners only**, and the marks for other streams 
 
 There are two types of PCPs:
 1. **PCP/Doubt Clearing:** You ask the teacher doubts.
-2. **FA/Practical PCP:** Teacher helps prepare for the practical file/record book and explains what to do in the practical examinations.
+2. **FA Practical PCP:** Teacher helps prepare for the practical file/record book and explains what to do in the practical examinations.
 
 **Dates of PCP:**
   **Block-1 April:**
