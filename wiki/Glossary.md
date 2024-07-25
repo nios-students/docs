@@ -8,9 +8,17 @@ The following are some commonly used acronyms.
 - PE: Public Exam. [Link to section](/wiki/Exams-Assignments.md#public-examination)
 - ODL: Open and Distance Learning
 - VOS: Virtual Open Schooling
-- SYT: Subject Yet to be Cleared in Theory
-- SYP: Subject Yet to be Cleared in practical 
+- SYT: Subject Yet To Be Cleared In Theory
+- SYP: Subject Yet to Be Cleared In Practical 
 - SYC: Subject Yet to be Cleared
-- UFM: Using Of Unfair means 
+- UFM: Using Of Unfair Means 
 - RL: Result Later
-- 
+-  RW: Result Withheld
+- NC: Not computable as the required data for result calculation is unavailable
+- AI/SC: Accredited Institutes/Study Centre
+- RC: Regional Centre
+- VOC: Vocational
+  
+
+
+  
