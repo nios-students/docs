@@ -18,6 +18,7 @@ The following are some commonly used acronyms.
 - AI/SC: Accredited Institutes/Study Centre
 - RC: Regional Centre
 - VOC: Vocational
+- SSS: Student Support Services
   
 
 
