@@ -39,5 +39,5 @@ Because these are 3rd party chat groups, remember to follow these guidelines whi
 - rcell[at]nios(dot)ac(dot)in
 - cm[at]nios(dot)ac(dot)in
 
-  ##### Email Address of NIOS RC's (Phone numbers)
+  ##### NIOS RC's Phone numbers
   - [Click here](https://web.archive.org/web/20220223204252/https://sdmis.nios.ac.in/home/regional-center)
