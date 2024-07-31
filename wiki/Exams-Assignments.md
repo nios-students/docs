@@ -30,12 +30,12 @@ I'm giving eng-302 DDO-336  Math-311 and i plan to give others in the next year 
 
 ### Practical Exams
 
-Practical examinations are conducted at your study centre/AI (in most cases) 1 month before the public exams. For on-demand exams, please ask in exam center the date and time on the day of theory paper
+Practical examinations are conducted at your study centre/AI (in most cases) 1 month before the public exams. For on-demand exams, please ask in exam center the date and time on the day of theory paper. 
 [detailed info on practicals](https://drive.google.com/file/d/19On8794dMI_S5kyRILewYpoOcvtpA7E1/view?usp=drivesdk) (please open that in landscape mode)
 
 **Dates of Practical Exam:**
-- **Block-1 April:** March
-- **Block-2 October:** September
+- **Block-1 April** March
+- **Block-2 October** September
 
 ### PCP (Personal Contact Programme)
 
@@ -51,12 +51,12 @@ There are two types of PCPs:
    **Dates of PCP:**
    
   **Block-1 April**
-  - PCP/Doubt Clearing: Nov-Jan
-  - FA PCP: Jan-Mar
+  - PCP/Doubt Clearing  Nov-Jan
+  - FA PCP  Jan-Mar
     
    **Block-2 October**
-  - PCP/Doubt Clearing: June-July
-  - FA PCP: Aug-Sept
+  - PCP/Doubt Clearing  June-July
+  - FA PCP  Aug-Sept
 
 
 
