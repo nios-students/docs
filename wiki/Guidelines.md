@@ -105,5 +105,6 @@ Principal/Correspondent
 4. Please email me at tamimtasira[at]gmail(dot)com if you encounter any problems.
 5. Do not wait for the datesheet. Send the documents to the RC after your exam fees are paid.
 6. The RC will mail you a letter. Take a printout of that letter and use it.
-Here's a copy of mine ![Letter]()
+Here's a copy of mine
+ <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/image0.jpg" alt="Letter" width="600" height="851"/>
 
