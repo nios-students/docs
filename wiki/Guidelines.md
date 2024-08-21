@@ -20,7 +20,7 @@
    - Sub code:
    - Medium of study:
    - Study centre/AI:  
-     Both name and code check your ID card, the blue section or "My Details" on your dashboard.
+     *Both name and code check your ID card, the blue section or "My Details" on your dashboard*
 7. **Answer writing**  
    Every question has two options A and B. Make sure that you write the question number as follows,
    - 1 A ans.  
@@ -46,7 +46,7 @@ I'm writing from experience as I took the April 2024 exams with a scribe. Firstl
 5. Student ID card of the school and Aadhaar card of the writer/scribe
 6. NIOS ID card of the learner
 
-Xerox copies works.
+*Xerox copies works*
 
 ## How can I find and fill these documents?
 First, visit the NIOS website and download the Application by the Parent and Medical Certificate from the [Provisions for Learners with Disability](https://nios.ac.in/departmentsunits/evaluation/general-and-specific-relaxations-(disability-wise)-during-nios-examination.aspx). Take a printout of these documents.
@@ -105,4 +105,5 @@ Principal/Correspondent
 4. Please email me at tamimtasira[at]gmail(dot)com if you encounter any problems.
 5. Do not wait for the datesheet. Send the documents to the RC after your exam fees are paid.
 6. The RC will mail you a letter. Take a printout of that letter and use it.
-```
+Here's a copy of mine ![Letter]()
+
