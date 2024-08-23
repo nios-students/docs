@@ -2,7 +2,7 @@
 23-08-2024,10.25 IST*
 # Books,guides and notes
 
-- [Offical website](https://nios.ac.in/online-course-material.aspx)
+- [books](https://nios.ac.in/online-course-material.aspx)
 
 - [VOC books (in pdf)](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1L-EvabkRTi)
 
@@ -51,6 +51,7 @@ Compiler of handwritten TMAs **Sid**
 Webs Dev **Sounddrill**
 
 Chemistry and maths notes made by **Musicholic_20**
+
 English format by **1pointperspective**
 
 Editor of english format and formated this document 
