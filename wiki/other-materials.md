@@ -1,19 +1,20 @@
 *Revised at
-23-08-2024,10.25 IST*
-# Books,guides and notes
+23-08-2024,09.25 IST*
+# Books,Guides And Notes
 
 - [books](https://nios.ac.in/online-course-material.aspx)
 
 - [VOC books (in pdf)](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1L-EvabkRTi)
 
-- [Guides]( https://drive.google.com/drive/folders/1Y4fr5EDyuxpoapeeQHkqvkki11fdBeZV) *work in progress right now we have Physical education, Physics and  Chemistry.*
+- [Guides(https://drive.google.com/drive/folders/1Y4fr5EDyuxpoapeeQHkqvkki11fdBeZV)
+  *work in progress right now we have Physical education, Physics and  Chemistry.*
 - [English format](https://drive.google.com/file/d/16_x7g3z3xabTg_a1eRRZBhVV8LLhFiD1/view?usp=drivesdk)
 
 - [Student made notes](https://drive.google.com/drive/folders/1vXLyIQTRAoP_jEQ0eZRUijmr0Wnux_dn)
 
-Right now we have **maths,chemistry and introduction to laws**
+Right now we have **Maths,Chemistry and Introduction To Laws**
 
-# Practical files 
+# Practical Files 
 
 - [Computer Science-330](https://drive.google.com/drive/folders/11q-CZ_ZrJzB3wU-klxCRyhASJv_VIoQ_)
 
@@ -27,7 +28,7 @@ Right now we have **maths,chemistry and introduction to laws**
 - [Biology-314](https://drive.google.com/file/d/1B9tbmsOODQAoU8PWchWjCT801nsQR37k/view?usp=drivesdk)
 - [Mass Communication-335](https://drive.google.com/file/d/10MQXshxbdzUpaDKg1AQ1YELTH5g0ixv1/view?usp=drivesdk)
 - [Geography-316](https://drive.google.com/file/d/1BdssxglXR_rF4UaQrsI3g_P9kazh7Ty8/view?usp=drivesdk)
-# TMAs
+# TMA's
 - [Sec 10th](https://drive.google.com/drive/folders/1jvxqUL-eb--M7UuknJfnYwwLbWdYifCB)
 
 - [Sr.Sec 12th](https://drive.google.com/drive/folders/1lgKI4azmOY9-DN0Zln9z8rwQw7pZ3mGq)
@@ -50,11 +51,11 @@ Compiler of PYQ's practical files, Handwritten TMAs,voc books,writer of Introduc
 
 Compiler of handwritten TMAs **Sid**
 
-Webs Dev **Sounddrill**
+**Web Dev Sounddrill**
 
-Chemistry and maths notes made by **Musicholic_20**
+**Chemistry and maths notes by Musicholic_20**
 
-English format by **1pointperspective**
+**English format by 1pointperspective**
 
-Editor of english format and formated this document 
-**aqeel_ur** 
+**Editor of english format and formated this document 
+aqeel_ur** 
