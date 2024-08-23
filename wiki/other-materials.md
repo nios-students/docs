@@ -6,7 +6,7 @@
 
 - [VOC books (in pdf)](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1L-EvabkRTi)
 
-- [Guides(https://drive.google.com/drive/folders/1Y4fr5EDyuxpoapeeQHkqvkki11fdBeZV)
+- [Guides](https://drive.google.com/drive/folders/1Y4fr5EDyuxpoapeeQHkqvkki11fdBeZV)
   *work in progress right now we have Physical education, Physics and  Chemistry.*
 - [English format](https://drive.google.com/file/d/16_x7g3z3xabTg_a1eRRZBhVV8LLhFiD1/view?usp=drivesdk)
 
