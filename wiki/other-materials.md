@@ -44,7 +44,7 @@ Note: You have add font/first page your information name, enrol num etc.
 _______________
 # Credits 
 
-** Special thanks!! to anyone sent there paper**
+**Special thanks!! to anyone sent there paper**
 
 Compiler of PYQ's practical files, Handwritten TMAs,voc books,writer of Introduction To Laws notes, writer of practical files of 336,663 and 330 and person in charge of updating and maintenance of this doc
 **Tamim**
