@@ -33,6 +33,7 @@ Right now we have **maths,chemistry and introduction to laws**
 - [Sr.Sec 12th](https://drive.google.com/drive/folders/1lgKI4azmOY9-DN0Zln9z8rwQw7pZ3mGq)
 
 - [Handwritten TMAs](https://drive.google.com/drive/folders/1eFHUKAtpzh-rBjDm4k4zfn3_AZmu0Byh)
+
 Note: You have add font/first page your information name, enrol num etc.
 # PYQ's
 - [**PYQ's april 24 (sr. Sec) 12th**](https://drive.google.com/drive/folders/1pPiI4xloWBmxJ05zej-b-WDO2KzyKlnr)
@@ -40,6 +41,7 @@ Note: You have add font/first page your information name, enrol num etc.
 - [**PYQ's april 24 (Sec) 10th**](https://drive.google.com/drive/folders/1TeVxkTpZndUQNLPmUMGjQaekqa6-D7QC) 
 
 - [Offical PYQ's page (www.nios.ac.in)](https://nios.ac.in/student-information-section/question-paper-of-previous-year-examination-academic.aspx)
+
 **Updated april 2024 Sr.Sec (12th) only. Oct-nov 2023 isn't available**
 _______________
 # Credits 
