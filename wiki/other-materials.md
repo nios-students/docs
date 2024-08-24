@@ -65,7 +65,7 @@ _______________
 
 # Copyright Statement
 
-All  student made notes, practical files (namely 330,663 and 336) are sebject to © nios-Students Contributors 2024. Thw above listed can not
+All  student made notes, practical files (namely 330,663 and 336) are sebject to © nios-Students Contributors 2024. The above listed can not
 modified nor allowed to sell without the permission of web developer and writer. 
 
 
