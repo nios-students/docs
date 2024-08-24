@@ -1,4 +1,4 @@
-VV*Revised at
+*Revised at
 24-08-2024,07.37 IST*
 # Books,Guides And Notes
 
