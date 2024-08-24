@@ -13,7 +13,7 @@ Information and guides:
 - [E-Services and Re-Checking](/wiki/EServices)
 
 Chat Groups:
-- [Get Help](/wiki/Get_Help)
+- [Come hang!](/wiki/Get_Help)
 
-Guidelines:
-- [Guidelines](/wiki/Guidelines)
+How to:
+- [How to make TMA's](/wiki/Guidelines)
