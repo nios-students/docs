@@ -1,5 +1,5 @@
 *Revised at
-23-08-2024,09.25 IST*
+24-08-2024,18.37 IST*
 # Books,Guides And Notes
 
 - [books](https://nios.ac.in/online-course-material.aspx)
