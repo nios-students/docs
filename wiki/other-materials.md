@@ -1,15 +1,15 @@
-*Revised at
-24-08-2024,18.37 IST*
+VV*Revised at
+24-08-2024,07.37 IST*
 # Books,Guides And Notes
 
 - [books](https://nios.ac.in/online-course-material.aspx)
 
-- [VOC books (in pdf)](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1L-EvabkRTi)
+- [Vocational Books (in .pdf)](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1L-EvabkRTi)
 
 - [Guides](https://drive.google.com/drive/folders/1Y4fr5EDyuxpoapeeQHkqvkki11fdBeZV)
 
   *work in progress right now we have Physical education, Physics and  Chemistry.*
-- [English format](https://drive.google.com/file/d/16_x7g3z3xabTg_a1eRRZBhVV8LLhFiD1/view?usp=drivesdk)
+- [English formats of letter, e-mail etc](https://drive.google.com/file/d/16_x7g3z3xabTg_a1eRRZBhVV8LLhFiD1/view?usp=drivesdk)
 
 - [Student made notes](https://drive.google.com/drive/folders/1vXLyIQTRAoP_jEQ0eZRUijmr0Wnux_dn)
 
@@ -25,15 +25,16 @@ Right now we have **Maths,Chemistry and Introduction To Laws**
 - [Biology-314](https://drive.google.com/file/d/1B9tbmsOODQAoU8PWchWjCT801nsQR37k/view?usp=drivesdk)
 - [Mass Communication-335](https://drive.google.com/file/d/10MQXshxbdzUpaDKg1AQ1YELTH5g0ixv1/view?usp=drivesdk)
 - [Geography-316](https://drive.google.com/file/d/1BdssxglXR_rF4UaQrsI3g_P9kazh7Ty8/view?usp=drivesdk)
+- [Paintig](https://www.nios.ac.in)
 # TMA's
-- [Sec 10th](https://drive.google.com/drive/folders/1jvxqUL-eb--M7UuknJfnYwwLbWdYifCB)
+- [Secondary 10th](https://drive.google.com/drive/folders/1jvxqUL-eb--M7UuknJfnYwwLbWdYifCB)
 
-- [Sr.Sec 12th](https://drive.google.com/drive/folders/1lgKI4azmOY9-DN0Zln9z8rwQw7pZ3mGq)
+- [Sr.Secondary 12th](https://drive.google.com/drive/folders/1lgKI4azmOY9-DN0Zln9z8rwQw7pZ3mGq)
 
 - [Handwritten TMAs](https://drive.google.com/drive/folders/1eFHUKAtpzh-rBjDm4k4zfn3_AZmu0Byh)
 
-Note: You have add font/first page your information name, enrol num etc.
-# PYQ's
+Note: You have add font/first page your information name, enrollment number etc.
+# Question Papers of Previous Year's Examination
 - [**PYQ's april 24 (sr. Sec) 12th**](https://drive.google.com/drive/folders/1pPiI4xloWBmxJ05zej-b-WDO2KzyKlnr)
 
 - [**PYQ's april 24 (Sec) 10th**](https://drive.google.com/drive/folders/1TeVxkTpZndUQNLPmUMGjQaekqa6-D7QC) 
@@ -58,4 +59,15 @@ Compiler of handwritten TMAs **Sid**
 **English format by 1pointperspective**
 
 **Editor of english format and formated this document 
-aqeel_ur** 
+aqeel_ur**
+
+_______________
+
+# Copyright Statement
+
+All  student made notes, practical files (namely 330,663 and 336) are sebject to © nios-Students Contributors 2024. Thw above listed can not
+modified nor allowed to sell without the permission of web developer and writer. 
+
+
+ 
+
