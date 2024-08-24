@@ -1,5 +1,5 @@
 *Revised at
-24-08-2024,07.37 IST*
+24-08-2024,01.41 IST*
 # Books,Guides And Notes
 
 - [books](https://nios.ac.in/online-course-material.aspx)
@@ -25,7 +25,7 @@ Right now we have **Maths,Chemistry and Introduction To Laws**
 - [Biology-314](https://drive.google.com/file/d/1B9tbmsOODQAoU8PWchWjCT801nsQR37k/view?usp=drivesdk)
 - [Mass Communication-335](https://drive.google.com/file/d/10MQXshxbdzUpaDKg1AQ1YELTH5g0ixv1/view?usp=drivesdk)
 - [Geography-316](https://drive.google.com/file/d/1BdssxglXR_rF4UaQrsI3g_P9kazh7Ty8/view?usp=drivesdk)
-- [Paintig](https://www.nios.ac.in)
+- [Painting (12th)-332](https://drive.google.com/file/d/1cNMc3Cs83zRhLMpjqmiwg_t-hb8QFEw1/view?usp=drivesdk)
 # TMA's
 - [Secondary 10th](https://drive.google.com/drive/folders/1jvxqUL-eb--M7UuknJfnYwwLbWdYifCB)
 
@@ -47,12 +47,13 @@ _______________
 
 **Special thanks!! to anyone sent there paper**
 
-Compiler of PYQ's practical files, Handwritten TMAs,voc books,writer of Introduction To Laws notes, writer of practical files of 336,663 and 330 and person in charge of updating and maintenance of this doc
+Compiler of PYQ's practical files, Handwritten TMAs,voc books,writer of Introduction To Laws notes, writer of practical files of 336,663 and 330 and person in charge of updating and maintenance of this document 
+
 **Tamim**
 
 Compiler of handwritten TMAs **Sid**
 
-**Web Dev by PugzAreCute and Sounddrill**
+**Web Devs PugzAreCute and Sounddrill**
 
 **Chemistry and maths notes by Musicholic_20**
 
@@ -65,7 +66,7 @@ _______________
 
 # Copyright Statement
 
-All  student made notes, practical files (namely 330,663 and 336) are sebject to © nios-Students Contributors 2024. The above listed can not
+* All  student made notes, practical files (namely 330,663 and 336) are sebject to © nios-Students Contributors 2024. The above listed can not
 modified nor allowed to sell without the permission of web developer and writer. 
 
 
