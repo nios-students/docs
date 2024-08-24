@@ -51,7 +51,7 @@ Compiler of PYQ's practical files, Handwritten TMAs,voc books,writer of Introduc
 
 Compiler of handwritten TMAs **Sid**
 
-**Web Dev Sounddrill**
+**Web Dev by PugzAreCute and Sounddrill**
 
 **Chemistry and maths notes by Musicholic_20**
 
