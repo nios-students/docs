@@ -8,7 +8,7 @@ Information and guides:
 - [About Us and NIOS](/wiki/About)
 - [Admissions](/wiki/Admissions)
 - [Study Materials](/wiki/Study-Materials)
-- [Other-Materials](/wiki/ other-materials)
+- [Other Materials](/wiki/ other-materials)
 - [Exam, Assignments and Practicals](/wiki/Exams-Assignments)
 - [E-Services and Re-Checking](/wiki/EServices)
 
