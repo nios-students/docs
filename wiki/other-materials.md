@@ -1,5 +1,5 @@
 *Revised at
-25-08-2024,01.41 IST*
+25-08-2024,10.55 IST*
 # Books,Guides And Notes
 
 - [books](https://nios.ac.in/online-course-material.aspx)
@@ -8,7 +8,7 @@
 
 - [Guides](https://drive.google.com/drive/folders/1Y4fr5EDyuxpoapeeQHkqvkki11fdBeZV)
 
-  *work in progress right now we have Physical education, Physics and  Chemistry.*
+  *work in progress right now we have Physical education, Physics, maths and  Chemistry.*
 - [English formats of letter, e-mail etc](https://drive.google.com/file/d/16_x7g3z3xabTg_a1eRRZBhVV8LLhFiD1/view?usp=drivesdk)
 
 - [Student made notes](https://drive.google.com/drive/folders/1vXLyIQTRAoP_jEQ0eZRUijmr0Wnux_dn)
@@ -48,19 +48,21 @@ _______________
 **Special thanks!! to anyone sent there paper**
 
 Compiler of PYQ's practical files, Handwritten TMAs,voc books,writer of Introduction To Laws notes, writer of practical files of 336,663 and 330 and person in charge of updating and maintenance of this document 
-
 **Tamim**
 
-Compiler of handwritten TMAs **Sid**
+Compiler of handwritten TMAs, Guides of physics and chemistry
+**Sid**
 
-**Web Devs PugzAreCute and Sounddrill**
+Web Devs 
+**PugzAreCute and Sounddrill**
 
-**Chemistry and maths notes by Musicholic_20**
+Writer of Chemistry and maths notes compiler and editor of guide of maths 
+**Musicholic_20**
 
-**English format by 1pointperspective**
+English formats  **1pointperspective**
 
-**Editor of english format and formated this document 
-aqeel_ur**
+Editor of english formats and formated this document 
+**aqeel_ur**
 
 _______________
 
