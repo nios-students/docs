@@ -59,7 +59,8 @@ Web Devs
 Writer of Chemistry and maths notes compiler and editor of guide of maths 
 **Musicholic_20**
 
-English formats  **1pointperspective**
+English formats             
+**1pointperspective**
 
 Editor of english formats and formated this document 
 **aqeel_ur**
