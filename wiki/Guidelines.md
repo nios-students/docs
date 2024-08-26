@@ -43,9 +43,6 @@ TMA Evaluated:-*
 Your TMA is corrected 
 Note: the ones which are marked with a "*" are important.
 The dates can from student to student but it takes time for april 24 the feedback/marks was given to everyone by the  31 april 2024.
-Thanks for being for here! 
-Best regards,
-☢ Team,
-<@1023246902084517919>
+
    
 
