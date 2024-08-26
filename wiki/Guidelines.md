@@ -33,5 +33,19 @@
    Click the subject you wish to give your TMA of, choose your medium of study, click on upload, and find the file of that subject.  
    **Note:** The limit is  5MB.  
    Check if your TMA was uploaded from TMA Status via your dashboard under TMA Status.
+# Terms of TMA and the date of feedback of TMA
+TMA Submission pending:- TMA isn't upload yet*
+Upload online:- TMA is upload on the NIOS server.*
+ TMA Allocated:- When the study centre gets your TMA(s) and accepts.
+TMA Evaluation in progress:- 
+The teacher is checking.
+TMA Evaluated:-*
+Your TMA is corrected 
+Note: the ones which are marked with a "*" are important.
+The dates can from student to student but it takes time for april 24 the feedback/marks was given to everyone by the  31 april 2024.
+Thanks for being for here! 
+Best regards,
+☢ Team,
+<@1023246902084517919>
    
 
