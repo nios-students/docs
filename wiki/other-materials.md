@@ -78,4 +78,4 @@ modified nor allowed to sell without the permission of web developer and content
 * No code, images, logos or any other assets of The National
 Institute of Open Schooling copy nor used in making of the website.
 * If copyright laws arebviolated 
-We shall remove such content upon notice from the copyright holder please contact us at tamimtasira@gmail.com or DM (direct message) in our [communities](https://nios-students.pages.dev/wikiGet_Help)
+We shall remove such content upon notice from the copyright holder please contact us at tamimtasira[at]gmail.com or DM (direct message) in our [communities](https://nios-students.pages.dev/wikiGet_Help)
