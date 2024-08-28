@@ -1,5 +1,5 @@
 *Revised at
-25-08-2024,10.55 IST*
+28-08-2024,7.15 IST*
 # Books,Guides And Notes
 
 - [books](https://nios.ac.in/online-course-material.aspx)
@@ -26,8 +26,10 @@ Right now we have **Maths,Chemistry and Introduction To Laws**
 - [Mass Communication-335](https://drive.google.com/file/d/10MQXshxbdzUpaDKg1AQ1YELTH5g0ixv1/view?usp=drivesdk)
 - [Geography-316](https://drive.google.com/file/d/1BdssxglXR_rF4UaQrsI3g_P9kazh7Ty8/view?usp=drivesdk)
 - [Painting (12th)-332](https://drive.google.com/file/d/1cNMc3Cs83zRhLMpjqmiwg_t-hb8QFEw1/view?usp=drivesdk)
+- [Physical Education- 373](https://drive.google.com/file/d/1eIvdEYEIBClLFyMGLcggA8Zd8pbil0vw/view?usp=drivesdk)
 # TMA's
 - [Secondary 10th](https://drive.google.com/drive/folders/1jvxqUL-eb--M7UuknJfnYwwLbWdYifCB)
+
 
 - [Sr.Secondary 12th](https://drive.google.com/drive/folders/1lgKI4azmOY9-DN0Zln9z8rwQw7pZ3mGq)
 
