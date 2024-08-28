@@ -2,7 +2,7 @@
 28-08-2024,7.15 IST*
 # Books,Guides And Notes
 
-- [books](https://nios.ac.in/online-course-material.aspx)
+- [Books](https://nios.ac.in/online-course-material.aspx)
 
 - [Vocational Books (in .pdf)](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1L-EvabkRTi)
 
@@ -18,7 +18,8 @@ Right now we have **Maths,Chemistry and Introduction To Laws**
 # Practical Files 
 
 - [Computer Science-330](https://drive.google.com/drive/folders/11q-CZ_ZrJzB3wU-klxCRyhASJv_VIoQ_)
-- [VOC-Computer Hardware -663](https://drive.google.com/drive/folders/11eGz1VegBsV__1TscayN7ATEHLTkF04O)
+- [VOC-Computer Hardware
+663](https://drive.google.com/drive/folders/11eGz1VegBsV__1TscayN7ATEHLTkF04O)
 - [Data Entry operations-336](https://drive.google.com/drive/folders/11mK_9Yh_m6UkxUXbic-We-H6SNwUCMDd)
 - [Physics-312](https://drive.google.com/file/d/1B9Yh26xWQt3eFkhQK-nzPKMMVIPkqZ5r/view?usp=drivesdk)
 - [Chemistry-313](https://drive.google.com/file/d/1B9TzkCS1fOwDLkYGRB_2pfO2ThQ9fJNP/view?usp=drivesdk)
@@ -47,9 +48,9 @@ Note: You have add font/first page your information name, enrollment number etc.
 _______________
 # Credits 
 
-**Special thanks!! to anyone sent there paper**
+**Special thanks!! to anyone who scan and sent there paper**
 
-Compiler of PYQ's practical files, Handwritten TMAs,voc books,writer of Introduction To Laws notes, writer of practical files of 336,663 and 330 and person in charge of updating and maintenance of this document 
+Compiler of PYQ's practical files, Handwritten TMAs,voc books,writer of Introduction To Laws note,practical files of 336,663 and 330 and person in charge of updating and maintenance of this document 
 **Tamim**
 
 Compiler of handwritten TMAs, Guides of physics and chemistry
@@ -72,8 +73,9 @@ _______________
 # Copyright Statement
 
 * All  student made notes, practical files (namely 330,663 and 336) are sebject to © nios-Students Contributors 2024. The above listed can not
-modified nor allowed to sell without the permission of web developer and writer. 
+modified nor allowed to sell without the permission of web developer and content author of particular the sebject/topic/work.
 
-
- 
-
+* No code, images, logos or any other assets of The National
+Institute of Open Schooling copy nor used in making of the website.
+* If copyright laws arebviolated 
+We shall remove such content upon notice from the copyright holder please contact us at tamimtasira@gmail.com or DM (direct message) in our [communities](https://nios-students.pages.dev/wikiGet_Help)
