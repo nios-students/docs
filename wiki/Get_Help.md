@@ -24,7 +24,7 @@ Because these are 3rd party chat groups, remember to follow these guidelines whi
 - [chat-2](https://www.reddit.com/r/Nios_unofficial/s/varZyi0F3R)
 
  
-###### Official Support (HQ)
+##### Official Support (HQ)
 - [Contact NIOS](https://nios.ac.in/contact-us/headquarter.aspx)
 
 ####### Official Support (RC)
