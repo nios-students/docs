@@ -35,7 +35,7 @@ Because these are 3rd party chat groups, remember to follow these guidelines whi
 - nioshelpinghand[at]
 gmail(dot)com
 
-#### Email Address of NIOS HQ
+### Email Address of NIOS HQ
 
 - lsc[at]nios(dot)ac(dot)in
 - rcell[at]nios(dot)ac(dot)in
