@@ -17,4 +17,4 @@ Chat Groups:
 
 How to:
 - [How to make TMA's](/wiki/Guidelines)
-- [How to apply for scribe?](/wiki/EServices)
+- [How to apply for scribe?](/wiki/Howto's-scribe)
