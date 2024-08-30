@@ -1,8 +1,6 @@
 ---------------------------------------------------
 
 Pen Name: Musicholic_20
-IRL Name: - 
-
 - [Web](https://nios-students.pages.dev/wiki/other-materials)
 - [Gdrive](https://drive.google.com/drive/folders/1vaByc-LOQmRnBjUc4AMWJqAcuDZLu4xw?usp=drive_link)
 ---------------
