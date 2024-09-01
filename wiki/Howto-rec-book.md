@@ -1,20 +1,20 @@
-# Guidelines for making the practical file/
-Record book. 
+# Guidelines for making the practical file/Record book.
 
-FAQ'S 
-How many experiments / activities should I write??
+## FAQ'S 
+- How many experiments / activities should I write??
 
 Ans: maximum **10**
      minimum **8**
 
-The specific dates and times aren't given in my hallticket why is that?! (for [PE](https://nios-students.pages.dev/wiki/Exams-Assignments#pe-public-examination) APRIL and  OCTOBER ONLY**)
+- The specific dates and times aren't given in my hallticket why is that?! (for [PE](https://nios-students.pages.dev/wiki/Exams-Assignments#pe-public-examination) APRIL and  OCTOBER ONLY**)
 
 Ans: NIOS will give certain dates e.g.20 to 23 the centre can conduct to exam in **these dates**. For specific dates go to the one or two days before the **1st practical exam**
-I only have the hallticket for theory exam what about practicals?! (**For [ODE](https://nios-students.pages.dev/wiki/Exams-Assignments#ode-on-demand-examination) stream 3&4 ONLY**)
+
+- I only have the hallticket for theory exam what about practicals?! (**For [ODE](https://nios-students.pages.dev/wiki/Exams-Assignments#ode-on-demand-examination) stream 3&4 ONLY**)
 
 Ans: You won't get practical hallticket as your centre is same for both practical and theory you have ask them when'll  my practical exam will be conducted. They will give date and time.
 
-Where should I submit the practical file??
+- Where should I submit the practical file??
 
 Ans: Offline at the practical examination as follows:
 -----------------------------
@@ -45,7 +45,8 @@ Step-5 Write the procedure (if not provided in some subjects).
 Step-6 Document the learner's observation.
 Step-7 Print out the pictures.
 Step-8 Copy everything into the record book.
-**note: Some subjects might require filling up tables (For physics chemistry biology etc)**
+Step-9 Write your name, sebject and class on a label.
+**note: Some subjects might require filling up tables (For physics chemistry biology etc) and acknowledgement letter and certificate isn't needed**
 
 
 
