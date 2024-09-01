@@ -4,13 +4,14 @@ Record book.
 FAQ'S 
 1. Where should I submit the practical file? 
 Ans Offline at the practical examination dates as follows:
---------
-srNo. Stream | Block | Month
-1.   1 1 (Apr exam)  | March 
-2.    1 2 (Oct exam) |September 
-3.     Stream-2      -      Same as "Stream-1 block-2 (Oct Exam)"
-4.    Please ask your center       -   
-5.    Please ask your center       -   
+| Sr. No. | Stream     | Block                | Month      |
+|---------|------------|----------------------|------------|
+| 1       | 1          | 1 (Apr exam)          | March      |
+| 2       | 1          | 2 (Oct exam)          | September  |
+| 3       | Stream-2   | Same as "Stream-1 block-2 (Oct Exam)" | |
+| 4       |            | Please ask your center on the day of theory paper | |
+| 5       |            | Please ask your center on the day of theory paper | |
+
 
 How to make the practical file?
 Prep work 
