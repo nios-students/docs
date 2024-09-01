@@ -39,13 +39,21 @@ One side lines and other side write i.e. Without lines.
 **Prep work II**
 
 Step-1 Download your lab manual from [nios.ac.in](https://nios.ac.in/online-course-material.aspx#maincontent)
+
 Step-2 Pick where practicals will you write or copy paste from our stuff [**IT'S FREE!!!!**](https://nios-students.pages.dev/wiki/other-materials)
-Step-3 Start by finding pictures or conducting experiments (relevant for computer-related subjects).
-Step-4 Copy and paste the aim, objectives, prerequisites, materials required, and precautions. In some subjects, the aim may involve writing/copying the line just below the practical number (no need to match the book's number).
-Step-5 Write the procedure (if not provided in some subjects).
-Step-6 Document the learner's observation.
-Step-7 Print out the pictures.
-Step-8 Copy everything into the record book.
+
+Step-3 Start by finding pictures or conducting experiments (relevant for computer-related subjects)
+
+Step-4 Copy and paste the aim, objectives, prerequisites, materials required, and precautions. In some subjects, the aim may involve writing/copying the line just below the practical number (no need to match the book's number)
+
+Step-5 Write the procedure (if not provided in some subjects)
+
+Step-6 Document the learner's observation
+
+Step-7 Print out the pictures
+
+Step-8 Copy everything into the record book
+
 Step-9 Write your name, sebject and class on a label.
 
 **note: Some subjects might require filling up tables (For physics chemistry biology etc) and acknowledgement letter and certificate *isn't needed***
