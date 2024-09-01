@@ -4,6 +4,7 @@ Record book.
 FAQ'S 
 1. Where should I submit the practical file? 
 Ans Offline at the practical examination dates as follows:
+-----------------------------
 | Sr. No. | Stream     | Block                | Month      |
 |---------|------------|----------------------|------------|
 | 1       | 1          | 1 (Apr exam)          | March      |
