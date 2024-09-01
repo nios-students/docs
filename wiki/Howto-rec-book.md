@@ -8,7 +8,7 @@ Ans: maximum **10**
 
 - The specific dates and times aren't given in my hallticket why is that?! (for [PE](https://nios-students.pages.dev/wiki/Exams-Assignments#pe-public-examination) APRIL and  OCTOBER ONLY**)
 
-Ans: NIOS will give certain dates e.g.20 to 23 the centre can conduct to exam in **these dates**. For specific dates go to the one or two days before the **1st practical exam**
+Ans: NIOS will give certain dates e.g.20 to 23 to the centre can conduct to exam in **any day in these dates**. For specific dates go to the one or two days before the **1st practical exam**
 
 - I only have the hallticket for theory exam what about practicals?! (**For [ODE](https://nios-students.pages.dev/wiki/Exams-Assignments#ode-on-demand-examination) stream 3&4 ONLY**)
 
@@ -27,7 +27,8 @@ Ans: Offline at the practical examination as follows:
 | 5       |            | Please ask your center on the day of theory paper | |
 --------------------------------
 
-# How to make the practical file? Prep work-I
+# How to make the practical file?
+**Prep work I**
  
 **Stuff to buy**
 
@@ -35,7 +36,7 @@ Ans: Offline at the practical examination as follows:
 One side lines and other side write i.e. Without lines.
 2. Pen any colour works (I used bule) and other stationery stuff.
 
-**Prep work-II**
+**Prep work II**
 
 Step-1 Download your lab manual from [nios.ac.in](https://nios.ac.in/online-course-material.aspx#maincontent)
 Step-2 Pick where practicals will you write or copy paste from our stuff [**IT'S FREE!!!!**](https://nios-students.pages.dev/wiki/other-materials)
