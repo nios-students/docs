@@ -47,6 +47,7 @@ Step-6 Document the learner's observation.
 Step-7 Print out the pictures.
 Step-8 Copy everything into the record book.
 Step-9 Write your name, sebject and class on a label.
+
 **note: Some subjects might require filling up tables (For physics chemistry biology etc) and acknowledgement letter and certificate *isn't needed***
 
 
