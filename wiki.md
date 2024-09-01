@@ -18,3 +18,5 @@ Chat Groups:
 How to:
 - [How to make TMA's](/wiki/Guidelines)
 - [How to apply for a scribe?](/wiki/howto's-scribe)
+- [How to make practical file/record book]()
+- [How and what do to in practical exam]()
