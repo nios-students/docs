@@ -1,5 +1,5 @@
 *Revised at
-28-08-2024,7.15 IST*
+04-08-2024,12.15 IST*
 # Books,Guides And Notes
 
 - [Books](https://nios.ac.in/online-course-material.aspx)
@@ -14,6 +14,8 @@
 - [Student made notes](https://drive.google.com/drive/folders/1vXLyIQTRAoP_jEQ0eZRUijmr0Wnux_dn)
 
 Right now we have **Maths,Chemistry and Introduction To Laws**
+
+- [Terminal Answers](www.nios.ac.in) for the sebject not available in the above link [here!](https://brainly.in)
 
 # Practical Files 
 
