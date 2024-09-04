@@ -16,7 +16,7 @@ Chat Groups:
 - [Come hang!](/wiki/Get_Help)
 
 How to:
-- [How to make TMA?](/wiki/guidelines)
+- [How to make TMA?](/wiki/Guidelines)
 - [How to apply for a scribe?](/wiki/howto's-scribe)
 - [How to make practical file/record book?]( /wiki/howto-rec-book)
 - [How and what do to in practical exam](/wiki/howtopractical)
