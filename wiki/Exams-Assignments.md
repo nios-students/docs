@@ -30,7 +30,7 @@ I'm giving eng-302 DDO-336  Math-311 and i plan to give others in the next year 
 
 ### Practical Exams
 
-Practical examinations are conducted at your study centre/AI (in most cases) 1 month before the public exams. For on-demand exams, please ask in exam center the date and time on the day of theory paper. 
+Practical examinations are conducted at your study centre/AI (in most cases) 1 month before the public exams. For on-demand exams, please ask in exam center **the date and time on the day of theory paper.** 
 [detailed info on practicals](https://drive.google.com/file/d/19On8794dMI_S5kyRILewYpoOcvtpA7E1/view?usp=drivesdk) (please open that in landscape mode)
 
 **Dates of Practical Exam:**
@@ -39,11 +39,11 @@ Practical examinations are conducted at your study centre/AI (in most cases) 1 m
 
 ### PCP (Personal Contact Programme)
 
-As we know that NIOS is an open and distance learning system where students don't have to go to school every day. PCP classes aren't meant for explaining the textbook; they are meant for doubt clearing. There are a total of 35 classes:
+As we know that NIOS is an “open and distance learning system” where students don't have to go to school every day. PCP classes aren't meant for explaining the textbook; they are meant for doubt clearing. There are a total of **35 classes**:
 - 30 for doubt clearing (these do not carry any marks)
-- 05 classes for ONLY practical subjects. These carry **50% weightage of practical i.e. if a sebject has 20 max marks. 10 for FA PCPs and 10 for Practical exam also known as SA/Sixth PCP/Final PCP.
+- 05 classes for ONLY practical subjects. These carry **50% weightage of practical** i.e. if a sebject has 20 max marks. 10 for FA PCPs and 10 for Practical exam also known as SA/Sixth PCP/Final PCP.
 
-FA PCP classes are for **Stream-1 learners only**, and the marks for other streams transfer over to SA/Practical exam [See this](https://drive.google.com/file/d/19auYIHocmCcdMysj0dB0FeP_TciA5G_l/view?usp=drivesdk).
+PCP classes are for **Stream-1 learners only**, and the marks for other streams transfer over to SA/Practical exam [see this](https://drive.google.com/file/d/19auYIHocmCcdMysj0dB0FeP_TciA5G_l/view?usp=drivesdk).
 
 There are two types of PCPs:
 1. **PCP/Doubt Clearing:** You ask the teacher doubts.
