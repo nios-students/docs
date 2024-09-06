@@ -5,19 +5,20 @@ Admissions is completely **online**.
 ### Secondary course (10th Standard)
 
 This Course is equivalent to the Xth standard. However NIOS integrates 9th and 10th into one grade. The content of 9th and 10th present in it's books. Unlike other boards you may choose your subjects from the [table](https://www.nios.ac.in/departmentsunits/academic/senior-secondary-course-equivalent-to-class-xii.aspx) **Exceptions** 
-1. a) You are required to take __at least one language sebject__
-b) You can __take two language sebject(s)__ e.g. Hindi and English ✔ ~~Hindi, English and Arabic~~ ***X***
-2. a) You are required to take __five subjects including languages__
-b) You can add two __more subjects but the maximum count of subjects shouldn't go past seven__
+1. (*a*) You are required to take __at least one language sebject__
+(*b*) You can __take two language sebject(s)__ e.g. Hindi and English ✔ ~~Hindi, English and Arabic~~ ***X***
+2. (*a*) You are required to take __five subjects including languages__
+(*b*) You can add two __more subjects but the maximum count of subjects shouldn't go past seven__
 
 ### Senior Secondary course: (12th Standard)
 
-This Course is equivalent to the 12th standard . However NIOS integrates 11th and 12th into one grade. The content of 11th and 12th present in it's books. Unlike other boards you may choose your subjects from the [table](https://www.nios.ac.in/departmentsunits/academic/senior-secondary-course-equivalent-to-class-xii.aspx) **Exceptions** 
-1. a) You are required to take __at least one language sebject__
-b) You can __take two language sebject(s)__ e.g. Hindi and English ✔ ~~Hindi, English and Arabic~~ ***X***
-2. a) You are required to take __five subjects including languages__
-b) You can add two __more subjects but the maximum count of subjects shouldn't go past seven__
-c) Don't think that you can complete 12th in one year __IF you passed out of 10th you are required To have a one year gap between passing from 10th and clearing 12th__
+This Course is equivalent to the 12th standard . However NIOS integrates 11th and 12th into one grade. The content of 11th and 12th present in it's books. Unlike other boards you may choose your subjects from the [table](https://www.nios.ac.in/departmentsunits/academic/senior-secondary-course-equivalent-to-class-xii.aspx) 
+**Exceptions** 
+1. (*a*) You are required to take __at least one language sebject__
+(*b*) You can __take two language sebject(s)__ e.g. Hindi and English ✔ ~~Hindi, English and Arabic~~ ***X***
+2. (*a*) You are required to take __five subjects including languages__
+(*b*) You can add two __more subjects but the maximum count of subjects shouldn't go past seven__
+(*c*) Don't think that you can complete 12th in one year __IF you passed out of 10th you are required To have a one year gap between passing from 10th and clearing 12th__
 
 
 
