@@ -4,7 +4,8 @@ Admissions is completely **online**.
 
 ### Secondary course (10th Standard)
 
-This Course is equivalent to the Xth standard. However NIOS integrates 9th and 10th into one grade. The content of 9th and 10th present in it's books. Unlike other boards you may choose your subjects from the [table](https://www.nios.ac.in/departmentsunits/academic/senior-secondary-course-equivalent-to-class-xii.aspx) **Exceptions** 
+This Course is equivalent to the Xth standard. However NIOS integrates 9th and 10th into one grade. The content of 9th and 10th present in it's books. Unlike other boards you may choose your subjects from the [table](https://www.nios.ac.in/departmentsunits/academic/senior-secondary-course-equivalent-to-class-xii.aspx) 
+**Exceptions** 
 1. (*a*) You are required to take __at least one language sebject__
 (*b*) You can __take two language sebject(s)__ e.g. Hindi and English ✔ ~~Hindi, English and Arabic~~ ***X***
 2. (*a*) You are required to take __five subjects including languages__
@@ -27,7 +28,7 @@ Procedure: NIOS has introduced 100% On-line admission in order to facilitate lea
 - register themselves On-line directly
 - may visit their Regional Centre for on line-registration. They aren't helpful
 
-Though we suggest that you register yourself for admission from nios portal it's easy.
+Though we suggest that you register yourself for admission from nios portal it's easy!
 
 [Link to more detailed information on Admissions, Subjects offered, Fee Structure & more.](https://nios.ac.in/student-information-section/admission-procedure.aspx)
 
@@ -35,7 +36,7 @@ Though we suggest that you register yourself for admission from nios portal it's
 
 ## Streams Of Addmission 
 
-In NIOS, there are __primarily four streams__.
+In NIOS, there are __primarily four streams__. Unlike other boards you can choose your subjects the stream word in the context of NIOS isn't Science,Commerce,Humanities and arts it's on basis such as are you pubic exam and on demand exam many other factors
 
 [Watch this NIOS video to learn more about admission and streams.](https://youtube.com/playlist?list=PLSh652xpu_YH8C93k-3hMEH5yCnIwSAyQ&si=iBrRMlwzIezPlW9G)
 
