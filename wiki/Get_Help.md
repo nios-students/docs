@@ -24,22 +24,16 @@ Because these are 3rd party chat groups, remember to follow these guidelines whi
 - [chat-2](https://www.reddit.com/r/Nios_unofficial/s/varZyi0F3R)
 
  
-##### Official Support (HQ)
-- [Contact NIOS](https://nios.ac.in/contact-us/headquarter.aspx)
-
-####### Official Support (RC)
-- [Contact NIOS RC's](https://sdmis.nios.ac.in/home/regional-center)
+##### Official NIOS email address 
+- For admission related: dirsss[AT]nios.ac.in
+-  For books: mpdd[AT]nios.ac.in
+- For ODE: odes[AT]nios.ac.in
+- For result: rcell[AT]nios.ac.in 
+- [For specific subject questions](https://nios.ac.in/contact-us/ask-your-teacher.aspx)
+- [Regional Centre mail address](https://web.archive.org/web/20220216190435/https://sdmis.nios.ac.in/home/regional-center)
+- For general enquiries: lsc[AT]nios.ac.in
+-  For complaints and feedback: cm[AT]nios.ac.in
 
 ###### Email Address of ping
-- unofficialnios[at]gmail(dot)com
-- nioshelpinghand[at]
-gmail(dot)com
-
-### Email Address of NIOS HQ
-
-- lsc[at]nios(dot)ac(dot)in
-- rcell[at]nios(dot)ac(dot)in
-- cm[at]nios(dot)ac(dot)in
-
-  ##### NIOS RC's Phone numbers
-  - [Click here](https://web.archive.org/web/20220223204252/https://sdmis.nios.ac.in/home/regional-center)
+- unofficialnios[AT]gmail.com
+- nioshelpinghand[AT]gmail.com
