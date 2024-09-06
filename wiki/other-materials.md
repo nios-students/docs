@@ -46,7 +46,6 @@ Note: You have add font/first page your information name, enrollment number etc.
 
 - [Offical PYQ's page (www.nios.ac.in)](https://nios.ac.in/student-information-section/question-paper-of-previous-year-examination-academic.aspx)
 
-**Updated april 2024 Sr.Sec (12th) only. Oct-nov 2023 isn't available**
 _______________
 # Credits 
 
