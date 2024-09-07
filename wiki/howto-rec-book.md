@@ -3,7 +3,7 @@
 ## FAQ'S
 - In what I should make the file?
 Ans: Just go to your nearest stationery store and ask for a “**record book**
-   ![Sample of record book(put me here make sure I'm not too big)
+   ![Sample of record book](put me here make sure I'm not too big)
 
 - How many experiments / activities should I write??
 
@@ -63,7 +63,7 @@ Step-8 Copy everything into the record book
 Step-9 Write your name, sebject and class on a label.
 
 **note: Some subjects might require filing tables (For physics chemistry biology etc)
-Acknowledgement letter and Certificate *isn't needed***
+Acknowledgement letter and Certificate *isn't needed**
 
 
 
