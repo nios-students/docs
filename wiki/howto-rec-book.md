@@ -1,16 +1,22 @@
 # Guidelines for making the practical file/Record book.
 
-## FAQ'S 
+## FAQ'S
+- In what I should make the file?
+Ans: Just go to your nearest stationery store and ask for a “**record book**
+   ![Sample of record book(put me here make sure I'm not too big)
+
 - How many experiments / activities should I write??
 
-Ans: maximum **10**
+Ans: Maximum **10**
+     ---------
      minimum **8**
 
 - The specific dates and times aren't given in my hallticket why is that?! (for [PE](https://nios-students.pages.dev/wiki/Exams-Assignments#pe-public-examination) **APRIL and  OCTOBER ONLY**)
+
 Ans: NIOS gives a “range of dates”  (e.g., 20th to 23rd) to the center, and the center **can hold/conduct the exam on **any day within those dates**. For specific dates and time you need to visit your center one or two days **before the first practical exam** The dates will be displayed on the notice board.
 PS: On your hallticket also specific dates aren't given.
 
-- I only have the hallticket for theory exam what about practicals?! (**For [ODE](https://nios-students.pages.dev/wiki/Exams-Assignments#ode-on-demand-examination) stream 3&4 ONLY**)
+- I only have the hallticket for theory exam what about practicals?! (**For [ODE](https://nios-students.pages.dev/wiki/Exams-Assignments#ode-on-demand-examination) exam ONLY**)
 
 Ans: You won't get practical hallticket as your centre is same for both practical and theory you have ask them when'll  my practical exam will be conducted. They will give date and time.
 
