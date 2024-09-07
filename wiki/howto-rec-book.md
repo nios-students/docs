@@ -2,8 +2,9 @@
 
 ## FAQ'S
 - In what I should make the file?
-Ans: Just go to your nearest stationery store and ask for a “**record book**
-   ![Sample of record book](put me here make sure I'm not too big)
+Ans: Just go to your nearest stationery store and ask for a
+**record book**
+   ![Sample of record book](put me **here** make sure I'm not too big)
 
 - How many experiments / activities should I write??
 
