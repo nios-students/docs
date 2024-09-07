@@ -6,9 +6,9 @@
 Ans: maximum **10**
      minimum **8**
 
-- The specific dates and times aren't given in my hallticket why is that?! (for [PE](https://nios-students.pages.dev/wiki/Exams-Assignments#pe-public-examination) APRIL and  OCTOBER ONLY**)
-
-Ans: NIOS will give certain dates e.g.20 to 23 to the centre can conduct to exam in **any day in these dates**. For specific dates go to the one or two days before the **1st practical exam**
+- The specific dates and times aren't given in my hallticket why is that?! (for [PE](https://nios-students.pages.dev/wiki/Exams-Assignments#pe-public-examination) **APRIL and  OCTOBER ONLY**)
+Ans: NIOS gives a “range of dates”  (e.g., 20th to 23rd) to the center, and the center **can hold/conduct the exam on **any day within those dates**. For specific dates and time you need to visit your center one or two days **before the first practical exam** The dates will be displayed on the notice board.
+PS: On your hallticket also specific dates aren't given.
 
 - I only have the hallticket for theory exam what about practicals?! (**For [ODE](https://nios-students.pages.dev/wiki/Exams-Assignments#ode-on-demand-examination) stream 3&4 ONLY**)
 
