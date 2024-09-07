@@ -8,9 +8,7 @@ Ans: Just go to your nearest stationery store and ask for a
 
 - How many experiments / activities should I write??
 
-Ans: Maximum **10**
-     ---------
-     minimum **8**
+Ans: Maximum **10**|Minimum **8**
 
 - The specific dates and times aren't given in my hallticket why is that?! (for [PE](https://nios-students.pages.dev/wiki/Exams-Assignments#pe-public-examination) **APRIL and  OCTOBER ONLY**)
 
