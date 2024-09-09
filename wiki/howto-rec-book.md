@@ -17,7 +17,7 @@ PS: On your hallticket also specific dates aren't given.
 
 - I only have the hallticket for theory exam what about practicals?! (**For [ODE](https://nios-students.pages.dev/wiki/Exams-Assignments#ode-on-demand-examination) exam ONLY**)
 
-Ans: You won't get practical hallticket as your centre is same for both practical and theory you have ask them when'll  my practical exam will be conducted. They will give date and time.
+Ans: You won't get practical hallticket as your centre is same for both practical and theory you have ask them when'll  my practical exam will be conducted. **They will give date and time**.
 
 - Where should I submit the practical file??
 
@@ -62,7 +62,7 @@ Step-8 Copy everything into the record book
 Step-9 Write your name, sebject and class on a label
 
 ***note: Some subjects might require filing tables (For physics chemistry biology etc)
-Acknowledgement letter and Certificate isn't needed****
+acknowledgement letter and certificate isn't needed****
 
 
 
