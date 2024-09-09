@@ -45,7 +45,7 @@ One side lines and other side write i.e. Without lines.
 
 Step-1 Download your lab manual from [nios.ac.in](https://nios.ac.in/online-course-material.aspx#maincontent)
 
-Step-2 Pick where practicals will you write or copy paste from our stuff [__***IT'S FREE!!!!***__](https://nios-students.pages.dev/wiki/other-materials)
+Step-2 Pick where practicals will you write or copy paste from our stuff [__***IT'S FREE!!!!***__](https://nios-students.pages.dev/wiki/other-materials#practical-files)
 
 Step-3 Start by finding pictures or conducting experiments (relevant for computer-related subjects)
 
