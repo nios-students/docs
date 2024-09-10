@@ -4,7 +4,8 @@
 - In what I should make the file?
 Ans: Just go to your nearest stationery store and ask for a
 **record book**
-   <img src="Rec_Book.jpg" alt="Sample of record book" width="400px">
+   <img src="Rec_Book.jpg" alt="Sample of record book" style="width: 400px;">
+
 
 
 - How many experiments / activities should I write??
