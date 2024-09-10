@@ -4,7 +4,8 @@
 - In what I should make the file?
 Ans: Just go to your nearest stationery store and ask for a
 **record book**
-   <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/Rec_book.jpg" alt="Letter" width="400" height="567">
+   <img
+src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/Rec_book.jpg" alt="Rec_book" width="400"">
 
 
 
