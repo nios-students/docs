@@ -4,7 +4,7 @@
 - In what I should make the file?
 Ans: Just go to your nearest stationery store and ask for a
 **record book**
-   ![Sample of record book](put me **here** make sure I'm not too big)
+   ![Sample of record book](Rec_Book.jpg)
 
 - How many experiments / activities should I write??
 
