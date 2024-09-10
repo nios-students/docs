@@ -4,7 +4,7 @@
 - In what I should make the file?
 Ans: Just go to your nearest stationery store and ask for a
 **record book**
-   <img src="Rec_Book.jpg" alt="Sample of record book" style="width: 400px;">
+   <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/Rec_book.jpg" alt="Letter" width="400" height="567"/
 
 
 
