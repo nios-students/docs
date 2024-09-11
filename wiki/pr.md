@@ -34,7 +34,7 @@ b) For stream 2,3,4 **100%** of marks are scored/given during practical exam.
 
 - When is this?
   
-  Note: For streams 3 and 4 you have to ask your center. For stream 1 and 2 specific dates isn't given. You have to visit the centre one or two days **Before the first exam** e.g. 20th you have to go 18th or 19th.
+  Note: For streams 3 and 4 you have to ask your center. For stream 1 and 2 specific dates isn't given. You have to visit the centre one or two days **before the first exam** e.g. 20th you have to go 18th or 19th.
 
   View the table below;
 
@@ -75,7 +75,7 @@ doesn't matter how you score the marks. For a example in sci. and tech you got 0
 
 | Sr.No | Seb Code               | Pr. | FA  | SA  | File | Viva | Activities/Answering the Paper | Passing Marks |
 | ----- | ---------------------- | --- | --- | --- | ---- | ---- | ------------------------------ | ------------- |
-| 1     | 211,212,216 and others | 15  | 7½ | 7½ | 1½  | 2½  | 5                              | 4             |
+| 1     | 211,212,216 and others (with 20 marks| 15  | 7½ | 7½ | 1½  | 2½  | 5                              | 4             |
 | 2     | 229                    | 60  | 30  | 30  | 5    | 5    | 20                             | 19            |
 | 3     | 225                    | 70  | 35  | 35  | 7    | 10   | 25                             | 23            |
 | 4     | 608                    | 70  | -   | 70  | 10   | 10   | 50                             | 23            |
@@ -110,6 +110,7 @@ Go to the address given in the hallticket for specific time and date. The schedu
 5. Record book
 6. pad
 7. Water bottle *remember to stay hydrated and chill*
+
 Note: All the documents should in printed form black and white works. *The hallticket is released one week before the first exam*
 
 #### Other stuff
