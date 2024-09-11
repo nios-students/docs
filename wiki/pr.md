@@ -17,9 +17,9 @@
 FA also known as FA PCP carries 50% of practical marks **FA IS FOR STREAM 1 ONLY**
 
 **Exceptions**
-  a) NO FA for stream 2,3,4 meaning **100%** of marks are scored/given during practical exam.
+a) NO FA for stream 2,3,4 meaning **100%** of marks are scored/given during practical exam.
 
-  b) NO FA **marks** for vocational sebjects meaning **100%** of marks is Scored/given during Practical exam.
+b) NO FA **marks** for vocational sebjects meaning **100%** of marks is Scored/given during Practical exam.
 
 - What is SA?
   
@@ -51,7 +51,7 @@ b) For stream 2,3,4 **100%** of marks are scored/given during practical exam.
 
 - What marks for viva,flie etc?
 
-Note: File submission, viva, and activities/answering the paper come under the SA/Practical exam except for FA. "PR." is the maximum of practical.
+Note: File submission, viva, and activities/answering the paper come under the SA/Practical exam except for FA. "PR." is the maximum of practical. “Seb Code” is the sebject code.
 
 ***Table breaking down practical (12th Sr.Sec);***
 
@@ -67,7 +67,8 @@ Note: File submission, viva, and activities/answering the paper come under the S
 | 8     | 622                                                | 70  | -  | 70 | 5    | 5    | 5                              | 23            |
 | 9     | 373                                                | 30  | 15 | 15 | 3    | 5    | 10                             | 9             |
 
-Note:  File submission, viva, and activities/answering the paper come under the SA/Practical exam except for FA. "PR." is the maximum of practical. In 10th  (secondary) Passing in practical isn't required i.e. You need to get 33% of the maximum marks it how doesn't matter how to score the marks. For a example in sci. and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered. Here 'Passing marks' are given for completeness.
+Note:  File submission, viva, and activities/answering the paper come under the SA/Practical exam except for FA. "PR." is the maximum of practical. “Seb Code” is the sebject code. In 10th  (secondary) Passing in practical isn't required i.e. You need to get 33% of the maximum marks it
+doesn't matter how you score the marks. For a example in sci. and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered passed Here 'Passing marks' are given for completeness.
 
 ***Table breaking down practical (10th Sec);***
 
@@ -80,7 +81,7 @@ Note:  File submission, viva, and activities/answering the paper come under the 
 
 [Source](https://nios.ac.in/media/documents/notification/yr2024/Exam/PG_2024.pdf)
 
-- What kind of questions will they ask?
+- What kind of questions will they ask in viva?
 
 Basic stuff regarding the subject like full forms, basic terms why did choose this subject etc
 
@@ -101,20 +102,21 @@ Go to the address given in the hallticket for specific time and date. The schedu
 
 **What to bring (On the day of the exam)**
 
-1. Id card of nios [Click here to Download](https://sdmis.nios.ac.in/auth) 
+1. Id card of nios [Click here to download]() 
 2. Pen and other stationary
 3. ID Proof like Aadhaar Card, Passport or PAN card etc
-4. Practical hallticket [Click here to Download](https://sdmis.nios.ac.in/search/hall-ticket)
+4. Practical hallticket [Click here to download](https://sdmis.nios.ac.in/search/hall-ticket)
 5. Record book
 6. pad
-7. Water bottle *remember to say highlighted and chill*
+7. Water bottle *remember to stay hydrated and chill*
 Note: All the documents should in printed form black and white works. *The hallticket is released one week before the first exam*
 
 #### Other stuff
 The time for all Subjects is ***3hrs***
+Remember at fill your information correct on the answer sheet
 
 ----
 For any questions post/ask [here](https://www.reddit.com/r/NIOS_Students/submit)
 
-# Research and Written by your truly *ping*
+# Research and Written by yours  truly *ping*
 
