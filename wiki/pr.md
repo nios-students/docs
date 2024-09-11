@@ -17,6 +17,7 @@
 FA also known as FA PCP carries 50% of practical marks **FA IS FOR STREAM 1 ONLY**
 
 **Exceptions**
+
 a) NO FA for stream 2,3,4 meaning **100%** of marks are scored/given during practical exam.
 
 b) NO FA **marks** for vocational sebjects meaning **100%** of marks is Scored/given during Practical exam.
@@ -102,7 +103,7 @@ Go to the address given in the hallticket for specific time and date. The schedu
 
 **What to bring (On the day of the exam)**
 
-1. Id card of nios [Click here to download]() 
+1. Id card of nios [Click here to download](https://sdmis.nios.ac.in/registration/id-card) 
 2. Pen and other stationary
 3. ID Proof like Aadhaar Card, Passport or PAN card etc
 4. Practical hallticket [Click here to download](https://sdmis.nios.ac.in/search/hall-ticket)
