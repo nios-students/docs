@@ -9,13 +9,15 @@ Information and guides:
 - [Admissions](/wiki/Admissions)
 - [Study Materials](/wiki/Study-Materials)
 - [Other Materials](/wiki/other-materials)
-- [Exam, Assignments and Practicals](/wiki/Exams-Assignments)
+- [FAQ'S](/wiki/FAQ'S)
+- [Exams,TMA and Practicals](/wiki/Exams-Assignments)
 - [E-Services and Re-Checking](/wiki/EServices)
 
 Chat Groups:
 - [Come hang!](/wiki/Get_Help)
 
 How to:
+- [How to take admission into NIOS](https://nios.ac.in/student-information-section/admission-procedure-videos.aspx)
 - [How to make TMA?](/wiki/Guidelines)
 - [How to apply for a scribe?](/wiki/howto's-scribe)
 - [How to make practical file/record book?]( /wiki/howto-rec-book)
