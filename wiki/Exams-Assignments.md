@@ -1,10 +1,11 @@
 # Examination / TMA / Practical/ PCP Info
 
-### PE (Public Examination)
+## PE (Public Examination)
 
 The Public Examinations are held twice a year in the months of April-May and October-November on dates fixed by the NIOS for students. 
 Eligibility criteria for writing PE
-All student who admitted under **stream 1 & 2**
+All student who admitted under **stream 1 & 2** [How to pay exam fees fee?](https://drive.google.com/file/d/1SQAL7MZbkI2XUnyTSU0Nl0RbVB82HXKF/view?usp=drivesdk)
+please note that **students of stream 2 don't have to pay exam fees for the first time**
 
 ### ODE (On Demand Examination)
 
@@ -15,23 +16,23 @@ All student who admitted under **stream 1,3 and 4**
 
 
 
-### TMA (Tutor Marked Assignment)
+#### TMA (Tutor Marked Assignment)
 
 TMA is crucial for students as it carries 20% weightage of your theory paper [See this sebject wise marks](https://drive.google.com/) It is uploaded online on the [NIOS portal](https://sdmis.nios.ac.in/auth) only. TMA for vocational subjects **does not exist** (e.g., Data Entry-632). TMA is just Q&A 
-they will ask you questions, and you are supposed to write the answers, take pictures, make a PDF file, and then upload them online. [For details on how to make TMA](https://nios-students.pages.dev/wiki/Guidelines). TMA is only applicable for learners admitted under **Stream-1 of NIOS. No TMA for other streams**
+they will ask you questions, and you are supposed to write the answers, take pictures, make a PDF file, and then upload them online. [For details on how to make TMA](https://nios-students.pages.dev/wiki/Guidelines). TMA is only applicable for learners admitted under **stream 1 of NIOS. No TMA for other streams**
 
 **Dates of TMA:**
-- **Block-1 April:** Starts in December, due on 31st January.
-- **Block-2 October:** Starts in June, due on 31st July.
+- **Block-1 April:** Starts in December, due on __31st January__
+- **Block-2 October:** Starts in June, due on __31st July__
 
 *Note: You **must** submit your TMAs of all subjects in the first year even if you are not giving those  subject(s)*
 e.g
 I'm giving eng-302 DDO-336  Math-311 and i plan to give others in the next year I'll submit others  too namely chem-312 CS-330
 
-### Practical Exams
+#### Practical Exams
 
 Practical examinations are conducted at your study centre/AI (in most cases) 1 month before the public exams. For on-demand exams, please ask in exam center **the date and time on the day of theory paper.** 
-[detailed info on practicals](https://drive.google.com/file/d/19On8794dMI_S5kyRILewYpoOcvtpA7E1/view?usp=drivesdk) (please open that in landscape mode)
+[detailed info on practicals](https://nios-students.pages.dev/wiki/pr)
 
 **Dates of Practical Exam:**
 - **Block-1 April** March
