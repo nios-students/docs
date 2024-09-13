@@ -19,5 +19,5 @@ How to:
 - [How to make TMA?](/wiki/Guidelines)
 - [How to apply for a scribe?](/wiki/howto's-scribe)
 - [How to make practical file/record book?]( /wiki/howto-rec-book)
-- [How and what do to in practical exam](/wiki/pr)
+- [What and what not to do in theory exam ](/wiki/pr)
 - [How to what to in theory exam](/wiki/th)
