@@ -5,7 +5,7 @@ Guides to make your NIOS journey easily!!
 ## Getting started
 Information and guides:
 - [Glossary](/wiki/Glossary)
-- [About Us and NIOS](/wiki/About)
+- [About NIOS and US](/wiki/About)
 - [Admissions](/wiki/Admissions)
 - [Study Materials](/wiki/Study-Materials)
 - [Other Materials](/wiki/other-materials)
