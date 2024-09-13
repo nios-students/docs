@@ -4,7 +4,10 @@ Admissions is completely **online**.
 
 ### Secondary course (10th Standard)
 
-This Course is equivalent to the Xth standard. However NIOS integrates 9th and 10th into one grade. The content of 9th and 10th present in it's books. Unlike other boards you may choose your subjects from the [table](https://www.nios.ac.in/departmentsunits/academic/senior-secondary-course-equivalent-to-class-xii.aspx) 
+This Course is equivalent to the Xth standard. However NIOS integrates 9th and 10th into one grade. The content of 9th and 10th present in it's books. Unlike other boards you may choose your subjects from the table
+<img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/Screenshot%202024-09-13%20190823.png" alt="Screenshot" width="400">
+
+
 **Exceptions** 
 1. (*a*) You are required to take __at least one language sebject__
 (*b*) You can __take two language sebject(s)__ e.g. Hindi and English ✔ ~~Hindi, English and Arabic~~ ***X***
