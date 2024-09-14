@@ -1,6 +1,6 @@
 # Guidelines for theory exam
 
-## Important checklist
+## Important Checklist
 
 Documents and stuff to take in the exam 
 
@@ -10,13 +10,14 @@ Documents and stuff to take in the exam
 - Pen,Pencil,exam pad etc
 - Water bottle
 - Bag
+NOTE: Black and white works.
 
 ### Things to know **before** the exam
 
 Download the map of your exam centre and visit your centre before the exam starts. They say that phone isn't allowed in the hallticket but most centre don't mind if it's in a bag and in **outside the exam hall** just make it's powered off or on silent mode. Most centres will have place to keep the bag.
 
 A table the marks divided in MCQs,Fill in the banks,1-6 marks questions
-** Sr.Secondary (12th)**
+**Sr.Secondary (12th)**
 --------------------------------
 
 
