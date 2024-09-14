@@ -17,11 +17,11 @@ NOTE: Black and white works.
 Download the map of your exam centre and visit your centre before the exam starts. They say that phone isn't allowed in the hallticket but most centre don't mind if it's in a bag and in **outside the exam hall** just make it's powered off or on silent mode. Most centres will have place to keep the bag.
 
 A table the marks divided in MCQs,Fill in the banks,1-6 marks questions
-**Sr.Secondary (12th)**
+Senior Secondary (12th)
 --------------------------------
 
 
-**Secondary 10th**
+Secondary (10th)
 --------------------------------
 
 
