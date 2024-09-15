@@ -7,10 +7,10 @@
 3. **Prep work**  
    Get a blue pen, ruler, pencil, and a notebook or A4 sheets, anything works.  
    Download a document scanner of your choice:  
-   🔗 [Okenscan](https://play.google.com/store/apps/details?id=com.cambyte.okenscan)
+   [Okenscan](https://play.google.com/store/apps/details?id=com.cambyte.okenscan)
 5. **Download the solved TMAs or start finding the answers.**  
-   - 🔗 [Sr. Secondary](https://drive.google.com/drive/folders/1lgKI4azmOY9-DN0Zln9z8rwQw7pZ3mGq)
-   - 🔗 [Secondary](https://drive.google.com/drive/folders/1jvxqUL-eb--M7UuknJfnYwwLbWdYifCB)  
+   - [Sr. Secondary](https://drive.google.com/drive/folders/1lgKI4azmOY9-DN0Zln9z8rwQw7pZ3mGq)
+   -  [Secondary](https://drive.google.com/drive/folders/1jvxqUL-eb--M7UuknJfnYwwLbWdYifCB)  
    **Note:** These are from session 2023. We update them if NIOS changes the TMA.
 6. **Front page**  
    Write this information on the first page.
@@ -25,7 +25,7 @@
 
    Every question has two options *A* and *B* Make sure that you write the question number as follows,
    - 1 A ans.  
-   > Pro tip: At the top right corner of the page write pg-1 and so on
+   > **Pro tip: At the top right corner of the page write pg-1 and so on**
 8. **Scanning of TMA**  
    Make sure you are in a well-lighted area. Open the Oken scanner app or any other scanner app.  
    Click pictures of the TMA ensuring that the full page is in the frame.
