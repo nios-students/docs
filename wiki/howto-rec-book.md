@@ -9,13 +9,13 @@ Ans: Just go to your nearest stationery store and ask for a
 
 
 
-- How many experiments / activities should I write??
+- How many experiments / activities should I write in it?
 
 Ans: Maximum **10**|Minimum **8**
 
 - The specific dates and times aren't given in my hallticket why is that?! (for [PE](https://nios-students.pages.dev/wiki/Exams-Assignments#pe-public-examination) **APRIL and  OCTOBER ONLY**)
 
-Ans: NIOS gives a “range of dates”  (e.g., 20th to 23rd) to the center, and the center **can hold/conduct the exam on **any day within those dates**. For specific dates and time you need to visit your center one or two days **before the first practical exam** The dates will be displayed on the notice board.
+Ans: NIOS gives a “__range of dates__”  (e.g., 20th to 23rd) to the center, and **the center can hold/conduct the exam on any day within those dates**. For specific dates and time you need to visit your center one or two days **before the first practical exam** The dates will be displayed on the notice board.
 PS: On your hallticket also specific dates aren't given.
 
 - I only have the hallticket for theory exam what about practicals?! (**For [ODE](https://nios-students.pages.dev/wiki/Exams-Assignments#ode-on-demand-examination) exam ONLY**)
@@ -30,9 +30,9 @@ Ans: Offline at the practical examination as follows:
 |---------|------------|----------------------|------------|
 | 1       | 1          | 1 (Apr exam)          | March      |
 | 2       | 1          | 2 (Oct exam)          | September  |
-| 3       | Stream-2   | Same as "Stream-1 block-2 (Oct Exam)" | |
-| 4       |            | Please ask your center on the day of theory paper | |
-| 5       |            | Please ask your center on the day of theory paper | |
+| 3       | 2          | Same as "Stream-1 block-2 (Oct Exam)" | |
+| 4       |  3          | Please ask your center on the day of theory paper | |
+| 5       |  4         | Please ask your center on the day of theory paper | |
 --------------------------------
 
 # How to make the practical file?
