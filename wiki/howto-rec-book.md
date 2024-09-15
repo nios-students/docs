@@ -30,7 +30,7 @@ Ans: Offline at the practical examination as follows:
 |---------|------------|----------------------|------------|
 | 1       | 1          | 1 (Apr exam)          | March      |
 | 2       | 1          | 2 (Oct exam)          | September  |
-| 3       | 2          | Same as "Stream-1 block-2 (Oct Exam)" | |
+| 3       | 2          | 1 Oct exam           | | September 
 | 4       |  3          | Please ask your center on the day of theory paper | |
 | 5       |  4         | Please ask your center on the day of theory paper | |
 --------------------------------
