@@ -11,7 +11,7 @@ For more information, check out these websites
 
 NIOS Toll-free Helpline Number: 1800-180-9393
 
-They are available from 9:00 to 5:30.
+They are available from 9:00 to 5:30 on working days
 
 [For Contacting Headquarter, Regional Offices & more.](https://www.nios.ac.in/contact-us.aspx)
 
