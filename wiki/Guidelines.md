@@ -44,7 +44,7 @@
 - TMA Evaluated:- Your TMA is corrected*
 -  "-":- You passed that sebject.  
 Note: the ones which are marked with a “*” are important.
-The dates can differ from student to student but it takes time for april 24 the feedback/marks was given to everyone by the  31 april 2024.
+The dates can differ from student to student but it takes time for april 2024 the feedback/marks was given to everyone by the  31 april 2024.
 
    
 
