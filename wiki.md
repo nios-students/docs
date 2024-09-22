@@ -17,7 +17,7 @@ Chat Groups:
 - [Come hang!](/wiki/Get_Help)
 
 How to:
-- [How to take admission into NIOS](https://nios.ac.in/student-information-section/admission-procedure-videos.aspx)
+- [How to take admission](https://nios.ac.in/student-information-section/admission-procedure-videos.aspx)
 - [How to make TMA](/wiki/Guidelines)
 - [How to apply for a scribe?](/wiki/howto's-scribe)
 - [How to make practical file/record book]( /wiki/howto-rec-book)
