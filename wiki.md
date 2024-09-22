@@ -24,4 +24,4 @@ How to:
 - [What to and what not to do in practical exam](/wiki/pr)
 - [What to and what not to in theory exam](/wiki/th)
 
-[Hand books](/wiki/Seb_Hand_Books.md)
+[Hand books]( /wiki/Seb_Hand_Books.md)
