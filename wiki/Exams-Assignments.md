@@ -18,7 +18,7 @@ All student who admitted under **stream 1,3 and 4**
 
 #### TMA (Tutor Marked Assignment)
 
-TMA is crucial for students as it carries 20% weightage of your theory paper [See this sebject wise marks](https://drive.google.com/) It is uploaded online on the [NIOS portal](https://sdmis.nios.ac.in/auth) only. TMA for vocational subjects **does not exist** (e.g., Data Entry-632). TMA is just Q&A 
+TMA is crucial for students as it carries 20% weightage of your theory paper [See this sebject wise marks](https://drive.google.com/) It is uploaded online on the [portal](https://sdmis.nios.ac.in/auth) only. TMA for vocational subjects **does not exist** (e.g., Data Entry-632). TMA is just Q&A 
 they will ask you questions, and you are supposed to write the answers, take pictures, make a PDF file, and then upload them online. [For details on how to make TMA](https://nios-students.pages.dev/wiki/Guidelines). TMA is only applicable for learners admitted under **stream 1 of NIOS. No TMA for other streams**
 
 **Dates of TMA:**
