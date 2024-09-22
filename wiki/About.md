@@ -9,9 +9,9 @@ For more information, check out these websites
 - [NIOS (National Institue of Open Schooling)](https://www.nios.ac.in/)
 - [Department of School Education and Literacy](https://dsel.education.gov.in/nios)
 
-NIOS Toll-free Helpline Number: 1800-180-9393
+NIOS Toll-free Helpline Number: 1800-180-9393 or write a email at lsc[at]nios.ac.in
 
-They are available from 9:00 to 5:30 on working days
+They are available from 9:00 to 5:30 on working days ~~With wait time of 1-2 hrs~~
 
 [For Contacting Headquarter, Regional Offices & more.](https://www.nios.ac.in/contact-us.aspx)
 
