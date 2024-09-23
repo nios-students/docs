@@ -23,6 +23,7 @@ How to:
 - [How to make practical file/record book]( /wiki/howto-rec-book)
 - [What to and what not to do in practical exam](/wiki/pr)
 - [What to and what not to in theory exam](/wiki/th)
-- 
-Guides made by your seniors! 
-- [Hand books](/wiki/Seb_Hand_Books.md)
+
+Guides made by your seniors:
+ 
+- [Hand books](/wiki/Seb_Hand_Books)
