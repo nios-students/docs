@@ -1,5 +1,5 @@
 *Revised at
-16-09-2024,1.53 IST*
+23-09-2024,5.01 IST*
 
 # Books,Guides And Notes
 The materials are applicable for all exams so please stop asking that.
@@ -9,14 +9,14 @@ The materials are applicable for all exams so please stop asking that.
 
 - [Guides](https://drive.google.com/drive/folders/1Y4fr5EDyuxpoapeeQHkqvkki11fdBeZV)
 
-  *work in progress right now we have Physical education, Physics, maths and  Chemistry.*
+  *work in progress right now we have Physical education, Physics, maths, Chemistry and English (12th Sr.Sec)*
 - [English formats of letter, e-mail etc](https://drive.google.com/file/d/16_x7g3z3xabTg_a1eRRZBhVV8LLhFiD1/view?usp=drivesdk)
 
 - [Student made notes](https://drive.google.com/drive/folders/1vXLyIQTRAoP_jEQ0eZRUijmr0Wnux_dn)
 
 Right now we have **Maths,Chemistry and Introduction To Laws**
 
-- [Terminal Answers](www.nios.ac.in) for the sebject not available in the above link [here!](https://brainly.in)
+- [Terminal Answers](https://drive.google.com/drive/folders/13pAmRsJ2DFe5P_mV6QdmGonMpWq5Upwd) for the sebject not available in the above link [here!](https://brainly.in)
 
 # Practical Files 
 
@@ -31,7 +31,8 @@ Right now we have **Maths,Chemistry and Introduction To Laws**
 - [Geography-316](https://drive.google.com/file/d/1BdssxglXR_rF4UaQrsI3g_P9kazh7Ty8/view?usp=drivesdk)
 - [Painting (12th)-332](https://drive.google.com/file/d/1cNMc3Cs83zRhLMpjqmiwg_t-hb8QFEw1/view?usp=drivesdk)
 - [Physical Education-373](https://drive.google.com/file/d/1eIvdEYEIBClLFyMGLcggA8Zd8pbil0vw/view?usp=drivesdk)
-# TMA's
+- **Basic Computing Coming Soon**
+# TMA
 - [Secondary 10th](https://drive.google.com/drive/folders/1jvxqUL-eb--M7UuknJfnYwwLbWdYifCB)
 
 
