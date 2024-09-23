@@ -9,7 +9,7 @@ The materials are applicable for all exams so please stop asking that.
 
 - [Guides](https://drive.google.com/drive/folders/1Y4fr5EDyuxpoapeeQHkqvkki11fdBeZV)
 
-  *work in progress right now we have Physical education, Physics, maths, Chemistry and English (12th Sr.Sec)*
+  ***work in progress right now we have Physical education, Physics, maths, Chemistry and English (12th Sr.Sec)***
 - [English formats of letter, e-mail etc](https://drive.google.com/file/d/16_x7g3z3xabTg_a1eRRZBhVV8LLhFiD1/view?usp=drivesdk)
 
 - [Student made notes](https://drive.google.com/drive/folders/1vXLyIQTRAoP_jEQ0eZRUijmr0Wnux_dn)
@@ -38,11 +38,11 @@ Right now we have **Maths,Chemistry and Introduction To Laws**
 
 - [Sr.Secondary 12th](https://drive.google.com/drive/folders/1lgKI4azmOY9-DN0Zln9z8rwQw7pZ3mGq)
 
-- [Handwritten TMAs](https://drive.google.com/drive/folders/1eFHUKAtpzh-rBjDm4k4zfn3_AZmu0Byh)
+- [Handwritten](https://drive.google.com/drive/folders/1eFHUKAtpzh-rBjDm4k4zfn3_AZmu0Byh)
 
 Note: You have add font/first page your information name, enrollment number etc.
 # Question Papers of Previous Year's Examination
-- [**PYQ's april 24 (sr. Sec) 12th**](https://drive.google.com/drive/folders/1pPiI4xloWBmxJ05zej-b-WDO2KzyKlnr)
+- [**PYQ's april 24 (sr.Sec) 12th**](https://drive.google.com/drive/folders/1pPiI4xloWBmxJ05zej-b-WDO2KzyKlnr)
 
 - [**PYQ's april 24 (Sec) 10th**](https://drive.google.com/drive/folders/1TeVxkTpZndUQNLPmUMGjQaekqa6-D7QC) 
 
@@ -53,7 +53,7 @@ _______________
 
 **Special thanks!! to anyone who scan and sent there paper**
 
-Compiler of PYQ's practical files, Handwritten TMAs,voc books,writer of Introduction To Laws note,practical files of 336,663 and 330 and person in charge of updating and maintenance of this document 
+Compiler of PYQ's practical files, Handwritten TMAs,voc books,writer of Introduction To Laws notes,practical files of 336,663 and 330 and person in charge of updating and maintenance of this document 
 **Tamim**
 
 Compiler of handwritten TMAs, Guides of physics and chemistry
@@ -61,7 +61,9 @@ Compiler of handwritten TMAs, Guides of physics and chemistry
 
 Web Devs 
 **PugzAreCute and Sounddrill**
-Writer of terminal QnA @dahej_~~daddy~~
+
+Writer of terminal QnA
+**dahej_~~daddy~~**
 
 Writer of Chemistry and maths notes compiler and editor of guide of maths 
 **Musicholic_20**
