@@ -56,14 +56,13 @@ _______________
 Compiler of PYQ's practical files, Handwritten TMAs,voc books,writer of Introduction To Laws notes,practical files of 336,663 and 330 and person in charge of updating and maintenance of this document 
 **Tamim**
 
-Compiler of handwritten TMAs, Guides of physics and chemistry
+Compiler of handwritten TMAs, **Guides** of physics and chemistry
 **Sid**
 
-Web Devs 
+Web Developers
 **PugzAreCute and Sounddrill**
 
-Writer of terminal QnA
-**dahej_~~daddy~~**
+Writer of terminal QnA(Physics, Chemistry and biology) **dahej_~~daddy~~**
 
 Writer of Chemistry and maths notes compiler and editor of guide of maths 
 **Musicholic_20**
