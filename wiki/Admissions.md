@@ -1,6 +1,6 @@
 # Admissions
 
-Admissions is completely **online**.
+Admissions is completely **online**
 
 ### Secondary course (10th Standard)
 
@@ -39,15 +39,15 @@ Though we suggest that you register yourself for admission from nios portal it's
 
 ## Streams Of Addmission 
 
-In NIOS, there are __primarily four streams__. Unlike other boards you can choose your subjects the stream word in the context of NIOS isn't Science,Commerce,Humanities and arts it's on basis such as are you pubic exam and on demand exam many other factors
+In NIOS, there are __primarily four streams__. Unlike other boards you can choose whatever subjects. The stream word in the context of NIOS isn't Science,Commerce,Humanities and arts it's on basis such as are you pubic exam and on demand exam many other factors
 
-[Watch this NIOS video to learn more about admission and streams.](https://youtube.com/playlist?list=PLSh652xpu_YH8C93k-3hMEH5yCnIwSAyQ&si=iBrRMlwzIezPlW9G)
+[Watch this NIOS video to learn more about admission and streams](https://youtube.com/playlist?list=PLSh652xpu_YH8C93k-3hMEH5yCnIwSAyQ&si=iBrRMlwzIezPlW9G)
 
 ### NIOS Stream 1
 
-Open to all learners and freshers. Admissions are open throughout the year. Examinations are held in April-May for Block 1 learners and October-November for Block 2 learners (Although you may give exams in different blocks from yours and [On Demand](https://nios-students.pages.dev/wiki/Exams-Assignments#ode-on-demand-examination) **after the first exam is past you don't have appear in it) Students in Stream 1 must submit TMAs and attend PCP classes. [More info on TMA & PCP](https://nios-students.pages.dev/wiki/Exams-Assignments)
+Open to all learners and freshers. Admissions are open throughout the year. Examinations are held in April-May for Block 1 learners and October-November for Block 2 learners (Although you may give exams in different blocks from yours and [On Demand](https://nios-students.pages.dev/wiki/Exams-Assignments#ode-on-demand-examination) **after the first exam is past you don't have appear in it**) Students in Stream 1 must submit TMAs and attend PCP classes. [More info on TMA & PCP](https://nios-students.pages.dev/wiki/Exams-Assignments)
 
-[Admission schedule and registration fees structure](https://sdmis.nios.ac.in/home/fees)
+[Admission schedule and registration fees structure](https://nios.ac.in/media/documents/notification/yr2024/Admission/Notification-37-2024.pdf)
 
 
 
@@ -55,12 +55,8 @@ Open to all learners and freshers. Admissions are open throughout the year. Exam
 
 This stream is available for learners who: have failed or passed but want to improve scores in the Secondary or Senior Secondary (10th class or 12th class) examination from a recognized board and want to update their qualification in one or up to four subjects to be able to fill eligibility critereas for their goals such as addmission into Commercial pilot course etc.   These exams are available for to write during October to Novembber Public Examinations for Stream 2 enrolled students. **Examination fees are included in the addmission fees**
 
-### NIOS Stream 3
+### NIOS Stream 3&4
 
-On-Demand Examination System (ODES) at Secondary Level (10th class). Open for admissions throughout the year. Suitable for learners seeking to update their qualifications or clear failed subjects at the Secondary level. Also applicable for those who couldn't clear or appear for Secondary exams from recognized boards and wish to appear through the On Demand Exams at Secondary level. Students can apply for TOC (Transfer of Credit) where they are allowed to transfer marks of upto 2 subjects from previous board examination into NIOS marksheet.
-
-### NIOS Stream 4
-
-On-Demand Examination System (ODES) at Senior Secondary level (11th & 12th class). Open for admissions throughout the year. Intended for learners who have already passed Senior Secondary or above from any recognized Board/University and want to update their qualifications or clear failed subjects. Also applicable for those who couldn't clear or appear for Senior Secondary exams from recognized boards and wish to appear through the On Demand Exams at Senior Secondary level in any month except April,May, October & November. Students can apply for TOC (Transfer of Credit) where they are allowed to transfer marks of upto 2 subjects from previous board examination into NIOS marksheet.
+On-Demand Examination System (ODES) at Secondary Level (10th class) and Senior Secondary level (12th class) Open for admissions throughout the year. Suitable for learners seeking to update their qualifications or clear failed subjects  
 
 [More Info on Stream 3 and 4](https://rcguwahati.nios.ac.in/registration-for-on-demand-examination-ode-and-procedure.html)
