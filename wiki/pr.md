@@ -24,7 +24,7 @@ b) NO FA **marks** for vocational sebjects meaning **100%** of marks is Scored/g
 
 - What is SA?
   
-SA also kown as practical exam here other 50% of the marks are given/scored
+SA also kown as practical exam here other **50%** of the marks are given/scored
 
 **Exceptions**
 
@@ -52,8 +52,6 @@ b) For stream 2,3,4 **100%** of marks are scored/given during practical exam.
 
 - What are the marks viva,flie etc?
 
-Note: File submission, viva, and activities/answering the paper come under the SA/Practical exam except for FA. "PR." is the maximum of practical. “Seb Code” is the sebject code. The marks for submitting file comes under FA marks.
-
 ***Table breaking down practical (12th Sr.Sec);***
 
 | Sr.No | Seb Code                                           | Pr. | FA | SA | File | Viva | Activities/Answering the Paper | Passing Marks |
@@ -68,9 +66,7 @@ Note: File submission, viva, and activities/answering the paper come under the S
 | 8     | 622                                                | 70  | -  | 70 | 5    | 5    | 5                              | 23            |
 | 9     | 373                                                | 30  | 15 | 15 | 3    | 5    | 10                             | 9             |
 
-Note:  File submission, viva, and activities/answering the paper come under the SA/Practical exam except for FA. "PR." is the maximum of practical. “Seb Code” is the sebject code. The marks for submitting file comes under FA marks. In 10th  (secondary) Passing in practical isn't required i.e. You need to get 33% of the maximum marks it doesn't matter how you score the marks. For a example in sci. and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered passed Here 'Passing marks' are given for completeness.
-
-***Table breaking down practical (10th Sec);***
+***Table breaking down practical (10th Sec):***
 
 | Sr.No | Seb Code               | Pr. | FA  | SA  | File | Viva | Activities/Answering the Paper | Passing Marks |
 | ----- | ---------------------- | --- | --- | --- | ---- | ---- | ------------------------------ | ------------- |
@@ -80,10 +76,11 @@ Note:  File submission, viva, and activities/answering the paper come under the 
 | 4     | 608                    | 70  | -   | 70  | 10   | 10   | 50                             | 23            |
 
 [Source](https://nios.ac.in/media/documents/notification/yr2024/Exam/PG_2024.pdf)
+Note: Viva and activities/answering the paper come under the SA/Practical Exam. "PR." is the maximum of practical. “Seb Code” is the sebject code of the sebject. The marks for submitting file comes under FA marks. In 10th  (secondary) Passing in practical isn't required i.e. You need to get 33% of the maximum marks it doesn't matter how you score the marks. For a example in sci. and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered passed Here 'Passing marks' are given for completeness only. **THIS TABLE Applies TO STREAM 1 ONLY**
 
 - What kind of questions will they ask in viva?
 
-Basic stuff regarding the subject like full forms, basic terms why did choose this subject etc
+Basic stuff regarding the subject like full forms, basic terms why did choose this subject etc.
 
 - Will they ask to Perform activities/experiments
 
