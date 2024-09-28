@@ -24,7 +24,7 @@ This Course is equivalent to the 12th standard. However NIOS integrates 11th and
 1. (*a*) You are required to take __at least one language sebject__
 
 (*b*) You can __take two language sebject(s)__ e.g. Hindi and English ✔ ~~Hindi, English and Arabic~~ ***X***
-3. (*a*) You are required to take __five subjects including languages__
+2. (*a*) You are required to take __five subjects including languages__
 
 (*b*) You can add two __more subjects but the maximum count of subjects shouldn't go past seven__
 
@@ -57,7 +57,7 @@ Open to all learners and freshers. Admissions are open throughout the year. Exam
 
 
 
- ###### NIOS Stream 2
+ ## NIOS Stream 2
 
 This stream is available for learners who have failed or passed but want to improve scores in the Secondary or Senior Secondary (10th class or 12th class) examination from a recognized board and want to update their qualification in one or up to four subjects to be able to fill eligibility critereas for their goals such as addmission into Commercial pilot course etc.   These exams are available for to write during October to Novembber Public Examinations for Stream 2 enrolled students. **Examination fees are included in the addmission fees**
 
@@ -73,6 +73,9 @@ ToC is one of the flagship features of NIOS. The **failed** learners can transfe
 The ₹**230 per sebject** (as per __new notification:37/2024__)
 Sebject you wish to Transfer **must** most in NIOS curriculum.
 The **original failed marksheet** should be present in physical copy and you have  to send it your Regional Center after confirmation of admission along with a copy of addmission form.
+
+# 
+
 
 
 
