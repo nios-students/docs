@@ -68,7 +68,7 @@ b) For stream 2,3,4 **100%** of marks are scored/given during practical exam.
 
 | Sr.No | Seb Code               | Pr. | FA  | SA  | File | Viva | Activities/Answering the Paper | Passing Marks |
 | ----- | ---------------------- | --- | --- | --- | ---- | ---- | ------------------------------ | ------------- |
-| 1     | 211,212,216 and others (with 20 marks)| 15  | 7½ | 7½ | 1½  | 2½  | 5                              | 4             |
+| 1     | 211,212,216 and others (with 20 marks)  | 20  | 7½ | 7½ | 1½  | 2½  | 5                              | 4             |
 | 2     | 229                    | 60  | 30  | 30  | 5    | 5    | 20                             | 19            |
 | 3     | 225                    | 70  | 35  | 35  | 7    | 10   | 25                             | 23            |
 | 4     | 608                    | 70  | -   | 70  | 10   | 10   | 50                             | 23            |
