@@ -1,11 +1,9 @@
 # Practical Exam
 
-## FAQs
-
 - What happens in the practical exam?
 
 1. Submission of practical file
-2. Viva/Oral
+2. Viva/oral
 3. Activity/Answering the Paper
 
 **Submission of practical file at the day of exam**
@@ -14,7 +12,7 @@
 
 - What is FA?
 
-FA also known as FA PCP carries 50% of practical marks. In these classes they'll help with making practical file and explain what to do practical exam **FA IS FOR STREAM 1 ONLY**
+FA (formative assessment) also known as FA PCP carries **50% of practical marks** In these classes they'll help with making practical file and explain what to do practical exam **FA IS FOR STREAM 1 ONLY**
 
 **Exceptions**
 
@@ -52,7 +50,7 @@ b) For stream 2,3,4 **100%** of marks are scored/given during practical exam.
 
 - What are the marks viva,flie etc?
 
-***Table breaking down practical (12th Sr.Sec):***
+# Table breaking down practical (12th Sr.Sec):
 
 | Sr.No | Seb Code                                           | Pr. | FA | SA | File | Viva | Activities/Answering the Paper | Passing Marks |
 | ----- | -------------------------------------------------- | --- | -- | -- | ---- | ---- | ------------------------------ | ------------- |
@@ -66,7 +64,7 @@ b) For stream 2,3,4 **100%** of marks are scored/given during practical exam.
 | 8     | 622                                                | 70  | -  | 70 | 5    | 5    | 5                              | 23            |
 | 9     | 373                                                | 30  | 15 | 15 | 3    | 5    | 10                             | 9             |
 
-***Table breaking down practical (10th Sec):***
+# Table breaking down practical (10th Sec):
 
 | Sr.No | Seb Code               | Pr. | FA  | SA  | File | Viva | Activities/Answering the Paper | Passing Marks |
 | ----- | ---------------------- | --- | --- | --- | ---- | ---- | ------------------------------ | ------------- |
@@ -76,20 +74,21 @@ b) For stream 2,3,4 **100%** of marks are scored/given during practical exam.
 | 4     | 608                    | 70  | -   | 70  | 10   | 10   | 50                             | 23            |
 
 [Source](https://nios.ac.in/media/documents/notification/yr2024/Exam/PG_2024.pdf)
-Note: Viva and activities/answering the paper come under the SA/Practical Exam. "PR." is the maximum of practical. “Seb Code” is the sebject code of the sebject. The marks for submitting file comes under FA marks. In 10th  (secondary) Passing in practical isn't required i.e. You need to get 33% of the maximum marks it doesn't matter how you score the marks. For a example in sci. and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered passed Here 'Passing marks' are given for completeness only. **THIS TABLE Applies TO STREAM 1 ONLY**
+Note: Viva and activities/answering the paper come under the SA/Practical Exam. "pr." is the maximum of practical. “Seb Code” is the sebject code of the sebject. The marks for submitting file comes under FA marks. In 10th  (secondary) Passing in practical isn't required i.e. You need to get 33% of the maximum marks it doesn't matter how you score the marks. For a example in sci. and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered passed Here 'Passing marks' are given for completeness only. **THIS TABLE Applies TO STREAM 1 ONLY**
 
 - What kind of questions will they ask in viva?
 
-Basic stuff regarding the subject like full forms, basic terms why did choose this subject etc.
+Basic stuff regarding the subject like full forms,basic terms why did choose this subject etc.
 
-- Will they ask to Perform activities/experiments
+- Will they ask to Perform activities/experiments?
 
 Probably not even if they do it would basic stuff.
 
-- What will come in the paper?
+- What will come in the writen paper?
 
-They will ask any experiments in your lab manual
-You have to write the whole thing mostly it's like this ***Write any two from the given two***
+- They will ask any experiments in your lab manual?
+
+You have to write the whole thing mostly it's like this ***Write any two from the given four***
 
 ## Instructions/Checklist
 
@@ -98,11 +97,10 @@ You have to write the whole thing mostly it's like this ***Write any two from th
 Go to the address given in the hallticket for specific time and date. The schedule should be displayed on there notice board or gate.
 
 **What to bring (On the day of the exam)**
-
-1. Id card of nios [Click here to download](https://sdmis.nios.ac.in/registration/id-card) 
+1. [ID card of NIOS](https://sdmis.nios.ac.in/registration/id-card) 
 2. Pen and other stationary
-3. ID Proof like Aadhaar Card, Passport or PAN card etc
-4. Practical hallticket [Click here to download](https://sdmis.nios.ac.in/search/hall-ticket)
+3. ID Proof like aadhaar Card, Passport or PAN card etc
+4. [Practical hallticket](https://sdmis.nios.ac.in/search/hall-ticket)
 5. Record book
 6. pad
 7. Water bottle *remember to stay hydrated and chill!*
@@ -112,11 +110,10 @@ Note: All the documents should in printed form black and white works. *The hallt
 #### Other stuff
 The time for all Subjects is ***3hrs***
 Remember at fill your information correct on the answer sheet
-
 Wear anything __formal clothing__
 
 ----
-For any questions post/ask [here!](https://www.reddit.com/r/NIOS_Students/submit)
+For any questions [post/ask](https://www.reddit.com/r/NIOS_Students/submit)
 
 # Research and Written by yours  truly *ping*
 
