@@ -24,7 +24,7 @@ b) NO FA **marks** for vocational sebjects meaning **100%** of marks is Scored/g
 
 - What is SA?
   
-SA also kown as practical exam here other **50%** of the marks are given/scored
+SA also kown as practical exam here other **50%** of the marks are given/scored.
 
 **Exceptions**
 
@@ -36,23 +36,23 @@ b) For stream 2,3,4 **100%** of marks are scored/given during practical exam.
   
   Note: For streams 3 and 4 you have to ask your center. For stream 1 and 2 specific dates isn't given. You have to visit the centre one or two days **before the first exam** e.g. 20th you have to go 18th or 19th.
 
-  View the table below;
+  View the table below:
 
 ---
 
 | Sr. No. | Stream | Block                                             | Month     |
 | ------- | ------ | ------------------------------------------------- | --------- |
-| 1       | 1      | 1 (Apr exam)                                      | March     |
-| 2       | 1      | 2 (Oct exam)                                      | September |
-| 3       | 2      | Same as "Stream-1 block-2 (Oct Exam)"             |           |
-| 4       | 3      | Please ask your center on the day of theory paper |           |
-| 5       | 4      | Please ask your center on the day of theory paper |           |
+| 1       | 1      | 1 (Apr Exam)                                      | March     |
+| 2       | 1      | 2 (Oct Exam)                                      | September |
+| 3       | 2      | Same as "stream-1 block-2 (Oct Exam)"             |          |
+| 4       | 3      | Please ask your center on the day of theory paper |     -      |
+| 5       | 4      | Please ask your center on the day of theory paper |      -     |
 
 ---
 
 - What are the marks viva,flie etc?
 
-***Table breaking down practical (12th Sr.Sec);***
+***Table breaking down practical (12th Sr.Sec):***
 
 | Sr.No | Seb Code                                           | Pr. | FA | SA | File | Viva | Activities/Answering the Paper | Passing Marks |
 | ----- | -------------------------------------------------- | --- | -- | -- | ---- | ---- | ------------------------------ | ------------- |
@@ -116,7 +116,7 @@ Remember at fill your information correct on the answer sheet
 Wear anything __formal clothing__
 
 ----
-For any questions post/ask [here](https://www.reddit.com/r/NIOS_Students/submit)
+For any questions post/ask [here!](https://www.reddit.com/r/NIOS_Students/submit)
 
 # Research and Written by yours  truly *ping*
 
