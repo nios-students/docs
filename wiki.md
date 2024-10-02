@@ -2,7 +2,7 @@
 
 Guides to make your NIOS journey easily!! 
 
-## Getting started
+# Getting started
 Information and guides:
 - [Glossary](/wiki/Glossary)
 - [About NIOS and Us](/wiki/About)
