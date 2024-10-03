@@ -109,9 +109,12 @@ Note: All the documents should in printed form black and white works. *The hallt
 
 #### Other stuff
 The time for all Subjects is ***3hrs***
+
 Remember at fill your information correct on the answer sheet
+
 Wear anything __formal clothing__
-[Info on view of SA marks](/view-assessment)
+
+[Info on view of SA marks](wiki/view-assessment)
 
 ----
 For any questions [post/ask](https://www.reddit.com/r/NIOS_Students/submit)
