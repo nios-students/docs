@@ -114,7 +114,7 @@ Remember at fill your information correct on the answer sheet
 
 Wear anything __formal clothing__
 
-[Info on view of SA marks](wiki/view-assessment)
+[Info on view of SA marks](https://nios-students.pages.dev/wiki/view-assessment)
 
 ----
 For any questions [post/ask](https://www.reddit.com/r/NIOS_Students/submit)
