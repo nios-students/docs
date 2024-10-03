@@ -1,19 +1,17 @@
 *Revised at
 23-09-2024,5.01 IST*
-
-# Books,Guides And Notes
+Books,Guides And Notes
 The materials are applicable for all exams so please stop asking that.
-- [Books](https://nios.ac.in/online-course-material.aspx)
+------------ [Books](https://nios.ac.in/online-course-material.aspx)
 
 - [Vocational Books (in .pdf)](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1nL-EvabkRTi)
 
 - [Guides](https://drive.google.com/drive/folders/1Y4fr5EDyuxpoapeeQHkqvkki11fdBeZV)
-
-  ***work in progress right now we have Physical education, Physics, maths, Chemistry and English (12th Sr.Sec)***
+ **work in progress right now we have Physical education, Physics, maths, Chemistry and English (12th Sr.Sec)**
 - [English formats of letter, e-mail etc](https://drive.google.com/file/d/16_x7g3z3xabTg_a1eRRZBhVV8LLhFiD1/view?usp=drivesdk)
 
+- [Question Bank(12th)](https://drive.google.com/drive/folders/1BUGHbC5k6UpgkfrdY3FWd47MzJ0SJM8r)
 - [Student made notes](https://drive.google.com/drive/folders/1vXLyIQTRAoP_jEQ0eZRUijmr0Wnux_dn)
-
 Right now we have **Maths,Chemistry and Introduction To Laws**
 
 - [Terminal Answers](https://drive.google.com/drive/folders/13pAmRsJ2DFe5P_mV6QdmGonMpWq5Upwd) for the sebject not available in the above link [here!](https://brainly.in)
@@ -21,9 +19,9 @@ Right now we have **Maths,Chemistry and Introduction To Laws**
 # Practical Files 
 
 - [Computer Science-330](https://drive.google.com/drive/folders/11q-CZ_ZrJzB3wU-klxCRyhASJv_VIoQ_)
-- [VOC-Computer Hardware
-663](https://drive.google.com/drive/folders/11eGz1VegBsV__1TscayN7ATEHLTkF04O)
-- [Data Entry operations-336](https://drive.google.com/drive/folders/11mK_9Yh_m6UkxUXbic-We-H6SNwUCMDd)
+- [VOC-Computer Hardware Assembly and Maintenance-663](https://drive.google.com/drive/folders/11eGz1VegBsV__1TscayN7ATEHLTkF04O)
+- [Computer & office application-631](https://drive.google.com/file/d/165UaWHD_6GEG8igXil3k7Fgi5tymbXJT/view?usp=drivesdk)
+- [Data Entry Operations-**336**(12th)](https://drive.google.com/drive/folders/11mK_9Yh_m6UkxUXbic-We-H6SNwUCMDd)
 - [Physics-312](https://drive.google.com/file/d/1B9Yh26xWQt3eFkhQK-nzPKMMVIPkqZ5r/view?usp=drivesdk)
 - [Chemistry-313](https://drive.google.com/file/d/1B9TzkCS1fOwDLkYGRB_2pfO2ThQ9fJNP/view?usp=drivesdk)
 - [Biology-314](https://drive.google.com/file/d/1B9tbmsOODQAoU8PWchWjCT801nsQR37k/view?usp=drivesdk)
@@ -80,7 +78,6 @@ _______________
 
 * All  student made notes, practical files (namely 330,663 and 336) are sebject to © nios-Students Contributors 2024. The above listed can not
 modified nor allowed to sell without the permission of web developer and content author of particular the sebject/topic/work.
-
 * No code, images, logos or any other assets of The National
 Institute of Open Schooling copy nor used in making of this website.
 * If copyright laws have been violated. We shall remove such content upon notice from the copyright holder. Please contact us at tamimtasira[at]gmail.com or DM (direct message) in our [communities](https://nios-students.pages.dev/wiki/Get_Help)
