@@ -42,27 +42,28 @@ Right now we have **Maths,Chemistry and Introduction To Laws**
 
 Note: You have add font/first page your information name, enrollment number etc.
 # Question Papers of Previous Year's Examination
-- [**PYQ's april 24 (sr.Sec) 12th**](https://drive.google.com/drive/folders/1pPiI4xloWBmxJ05zej-b-WDO2KzyKlnr)
+- [PYQs of Sr.Secondary (12th) april 2024](https://drive.google.com/drive/folders/1pPiI4xloWBmxJ05zej-b-WDO2KzyKlnr)
 
-- [**PYQ's april 24 (Sec) 10th**](https://drive.google.com/drive/folders/1TeVxkTpZndUQNLPmUMGjQaekqa6-D7QC) 
+- [PYQs of april 2024 Secondary (10th)](https://drive.google.com/drive/folders/1TeVxkTpZndUQNLPmUMGjQaekqa6-D7QC) 
 
-- [Offical PYQ's page (www.nios.ac.in)](https://nios.ac.in/student-information-section/question-paper-of-previous-year-examination-academic.aspx)
+- [**Offical PYQs page (www.nios.ac.in)**](https://nios.ac.in/student-information-section/question-paper-of-previous-year-examination-academic.aspx)
+- **Syllabus Bifurcation, Sample Question Paper, Marking Scheme & QPD of** [Secondary (10th)](https://nios.ac.in/online-course-material/secondary-courses.aspx) and [Sr.Secondary (12th)](https://nios.ac.in/online-course-material/sr-secondary-courses.aspx) 
 
 _______________
 # Credits 
 
 **Special thanks!! to anyone who scan and sent there paper**
 
-Compiler of PYQ's practical files, Handwritten TMAs,voc books,writer of Introduction To Laws notes,practical files of 336,663 and 330 and person in charge of updating and maintenance of this document 
+Compiler of PYQ's practical files, Handwritten TMAs,voc books,writer of Introduction To Laws notes,practical files of 336,663,330 and person in charge of maintenance of this document 
 **Tamim**
 
-Compiler of handwritten TMAs, **Guides** of physics and chemistry
+Compiler of handwritten TMAs,Guides of physics and chemistry
 **Sid**
 
 Web Developers
 **PugzAreCute and Sounddrill**
 
-Writer of terminal QnA(Physics, Chemistry and biology) **dahej_~~daddy~~**
+Writer of terminal QnA(Physics, Chemistry, biology and maths) **dahej_~~daddy~~**
 
 Writer of Chemistry and maths notes compiler and editor of guide of maths 
 **Musicholic_20**
@@ -81,6 +82,5 @@ _______________
 modified nor allowed to sell without the permission of web developer and content author of particular the sebject/topic/work.
 
 * No code, images, logos or any other assets of The National
-Institute of Open Schooling copy nor used in making of the website.
-* If copyright laws arebviolated 
-We shall remove such content upon notice from the copyright holder please contact us at tamimtasira[at]gmail.com or DM (direct message) in our [communities](https://nios-students.pages.dev/wiki/Get_Help)
+Institute of Open Schooling copy nor used in making of this website.
+* If copyright laws have been violated. We shall remove such content upon notice from the copyright holder. Please contact us at tamimtasira[at]gmail.com or DM (direct message) in our [communities](https://nios-students.pages.dev/wiki/Get_Help)
