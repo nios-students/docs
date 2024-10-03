@@ -74,7 +74,8 @@ b) For stream 2,3,4 **100%** of marks are scored/given during practical exam.
 | 4     | 608                    | 70  | -   | 70  | 10   | 10   | 50                             | 23            |
 
 [Source](https://nios.ac.in/media/documents/notification/yr2024/Exam/PG_2024.pdf)
-Note: Viva and activities/answering the paper come under the SA/Practical Exam. "pr." is the maximum of practical. “Seb Code” is the sebject code of the sebject. The marks for submitting file comes under FA marks. In 10th  (secondary) Passing in practical isn't required i.e. You need to get 33% of the maximum marks it doesn't matter how you score the marks. For a example in sci. and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered passed Here 'Passing marks' are given for completeness only. **THIS TABLE Applies TO STREAM 1 ONLY**
+
+Note: **Viva and activities/answering the paper come under the SA/Practical Exam. "pr." is the maximum of practical. “Seb Code” is the sebject code of the sebject. The marks for submitting file comes under FA marks. In 10th  (secondary) Passing in practical isn't required i.e. You need to get 33% of the maximum marks it doesn't matter how you score the marks. For a example in sci. and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered passed Here 'Passing marks' are given for completeness only. THIS TABLE Applies TO STREAM 1 ONLY**
 
 - What kind of questions will they ask in viva?
 
@@ -96,7 +97,7 @@ You have to write the whole thing mostly it's like this ***Write any two from th
 
 Go to the address given in the hallticket for specific time and date. The schedule should be displayed on there notice board or gate.
 
-**What to bring (On the day of the exam)**
+**What to bring (On the day of the exam**
 1. [ID card of NIOS](https://sdmis.nios.ac.in/registration/id-card) 
 2. Pen and other stationary
 3. ID Proof like aadhaar Card, Passport or PAN card etc
@@ -107,7 +108,7 @@ Go to the address given in the hallticket for specific time and date. The schedu
 
 Note: All the documents should in printed form black and white works. *The hallticket is released one week before the first exam*
 
-#### Other stuff
+## Other stuff
 The time for all Subjects is ***3hrs***
 
 Remember at fill your information correct on the answer sheet
@@ -117,7 +118,7 @@ Wear anything __formal clothing__
 [Info on view of SA marks](https://nios-students.pages.dev/wiki/view-assessment)
 
 ----
-For any questions [post/ask](https://www.reddit.com/r/NIOS_Students/submit)
+For questions? [Ask here](https://www.reddit.com/r/NIOS_Students/submit)
 
-# Research and Written by yours  truly *ping*
+### Research and Written by yours  truly *ping*
 
