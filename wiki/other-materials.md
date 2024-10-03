@@ -22,7 +22,7 @@ Right now we have **Maths,Chemistry and Introduction To Laws**
 
 - [Computer Science-330](https://drive.google.com/drive/folders/11q-CZ_ZrJzB3wU-klxCRyhASJv_VIoQ_)
 - [VOC-Computer Hardware Assembly and Maintenance-663](https://drive.google.com/drive/folders/11eGz1VegBsV__1TscayN7ATEHLTkF04O)
-- [Computer & office application-631](https://drive.google.com/file/d/165UaWHD_6GEG8igXil3k7Fgi5tymbXJT/view?usp=drivesdk)
+- [VOC-Computer & office application-631](https://drive.google.com/file/d/165UaWHD_6GEG8igXil3k7Fgi5tymbXJT/view?usp=drivesdk)
 - [Data Entry Operations-**336**(12th)](https://drive.google.com/drive/folders/11mK_9Yh_m6UkxUXbic-We-H6SNwUCMDd)
 - [Physics-312](https://drive.google.com/file/d/1B9Yh26xWQt3eFkhQK-nzPKMMVIPkqZ5r/view?usp=drivesdk)
 - [Chemistry-313](https://drive.google.com/file/d/1B9TzkCS1fOwDLkYGRB_2pfO2ThQ9fJNP/view?usp=drivesdk)
@@ -82,4 +82,4 @@ _______________
 modified nor allowed to sell without the permission of web developer and content author of particular the sebject/topic/work.
 * No code, images, logos or any other assets of The National
 Institute of Open Schooling copy nor used in making of this website.
-* If copyright laws have been violated. We shall remove such content upon notice from the copyright holder. Please contact us at tamimtasira[at]gmail.com or DM (direct message) in our [communities](https://nios-students.pages.dev/wiki/Get_Help)
+* If copyright laws have been violated. We shall remove such content upon notice from the copyright holder. Please contact us at unofficialnios[at]gmail.com or DM (direct message) thought our [communities](https://nios-students.pages.dev/wiki/Get_Help)
