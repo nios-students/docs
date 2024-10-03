@@ -14,5 +14,5 @@ https://exams.nios.ac.in/auth/view-student-formative-assessment (Ignore what is 
 **Step-3** View it!
 
 Here's example of how it looks.
-img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/sa.jpg" alt="SA" width="400" height="567"/>
+img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/sa.jpg" alt="SA"
 
