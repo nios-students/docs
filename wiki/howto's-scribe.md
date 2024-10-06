@@ -1,8 +1,9 @@
-# NIOS Exam Scribe Process
+NIOS Scribe Process
+--------
 
 I'm writing from experience as I took the April 2024 exams with a scribe. Firstly, NIOS or the exam center will not provide a scribe/writer. You have to find one by yourself.
 
-## Documents Required
+# Documents Required
 1. Application by the Parent
 2. Medical Certificate
 3. Copy of Disability Certificate
@@ -39,12 +40,12 @@ First, visit the NIOS website and download the Application by the Parent and Med
 ### Is a medical certificate required?
 Yes, without the medical certificate, the form will not be accepted.
 
-### How to fill the Medical Certificate:
+#### How to fill the Medical Certificate:
 1. Who can fill it? The hospital you go to for checkups or any government hospital.
 2. Make sure that you have the signature and seal of the doctor and hospital.
 3. Write this in the last line: "E Blindness/Low-vision" and "Scribe and reader is required."
 
-### How to fill out the Study Certificate:
+##### How to fill out the Study Certificate:
 Just fill in the format given below:
 
 ```
@@ -62,12 +63,16 @@ Principal/Correspondent
 [Seal of the school]  
 ```
 
-## Next Steps
+###### Next Steps
 1. Scan all documents using [Oken Scanner](https://play.google.com/store/apps/details?id=com.cambyte.okenscan).
-2. Mail them to your RC (RC contact information: [Regional Center](https://sdmis.nios.ac.in/home/regional-center)).
-3. You have to send all documents to the RC physically as well.
-4. Please email me at tamimtasira[at]gmail(dot)com if you encounter any problems.
-5. Do not wait for the datesheet. Send the documents to the RC after your exam fees are paid.
-6. The RC will mail you a letter. Take a printout of that letter and use it.
+2. Mail them to your RC [contact info Regional Center](https://sdmis.nios.ac.in/home/regional-center).
+3. You **must** them physically.
+- Do not wait for the datesheet. Send the documents to the RC after you pay the exam fees.
+- The RC will mail you a letter. Take a printout of that letter and use it.
+
 Here's a copy of mine
+-----------
  <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/image0.jpg" alt="Letter" width="400" height="567"/>
+
+**For any questions please email at
+tamimtasira[AT]gmail.com
