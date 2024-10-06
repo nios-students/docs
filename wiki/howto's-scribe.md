@@ -1,5 +1,5 @@
 NIOS Scribe Process
---------
+---------------------
 
 I'm writing from experience as I took the April 2024 exams with a scribe. Firstly, NIOS or the exam center will not provide a scribe/writer. You have to find one by yourself.
 
@@ -32,10 +32,10 @@ First, visit the NIOS website and download the Application by the Parent and Med
 13. Tick the course enrolled in
 14. Write the nature of the disability (e.g., if you have low vision, write "Blindness")
 15. Get your disability certificate and write the hospital's name there
-16. Sl. No should be at the top right corner
+16. Sl. No should be at the top right corner write that in “Sl. No”
 17. Write the date given on the disability certificate
 18. Fill the table with the subjects you paid exam fees for
-19. Write "Yes" under "Self-arranged" for all subjects. Write "Scribe" in the right-side column (for all subjects).
+19. Write "Yes" under "Self-arranged" for all subjects. Write "Scribe" in the right-side column.
 
 ### Is a medical certificate required?
 Yes, without the medical certificate, the form will not be accepted.
@@ -45,7 +45,7 @@ Yes, without the medical certificate, the form will not be accepted.
 2. Make sure that you have the signature and seal of the doctor and hospital.
 3. Write this in the last line: "E Blindness/Low-vision" and "Scribe and reader is required."
 
-##### How to fill out the Study Certificate:
+#### How to fill out the Study Certificate:
 Just fill in the format given below:
 
 ```
@@ -63,7 +63,7 @@ Principal/Correspondent
 [Seal of the school]  
 ```
 
-###### Next Steps
+##### Next Steps
 1. Scan all documents using [Oken Scanner](https://play.google.com/store/apps/details?id=com.cambyte.okenscan).
 2. Mail them to your RC [contact info Regional Center](https://sdmis.nios.ac.in/home/regional-center).
 3. You **must** them physically.
