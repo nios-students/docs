@@ -1,7 +1,7 @@
 Admissions
 ----------------------------
 
-__Admissions are completely online from https://sdmis.nios.ac.in/ ONLY__
+__Admissions are completely online from https://sdmis.nios.ac.in ONLY__
 
 ## Secondary (10th Standard)
 
@@ -15,8 +15,7 @@ This Course is equivalent to the Xth standard. However NIOS integrates 9th and 1
 *b*) You __can take upto 2 language sebject(s)__ e.g. Hindi and English ***✔*** ~~Hindi,English and Arabic~~ ***X***
 
 2. *a*) You are required to opt  __4 academic sebjects for "certification"__ (*not* including language sebjects) 
-> Author's note: The reason certification in qoutes because part dual students don't get a certificate. They just pass specific 
- sebjects that they need for there career e.g. For taking admission into the commercial pilot course one of the requirement is that the student has to study physics and mathematics in 12th so,they take register in part admission to fulfil the requirements **IF** you just passed 8th/9th/12th i.e a fresher. You must click **NO** for part admission when registering.
+> <span style="color:red">Author's note: The reason certification in qoutes because part dual students don't get a certificate. They just pass specific sebjects that they need for there career e.g. For taking admission into the commercial pilot course one of the requirement is that the student has to study physics and mathematics in 12th so,they take register in part admission to fulfil the requirements **IF** you just passed 8th/9th/12th i.e a fresher. You must click **NO** for part admission when registering.
 
 *b*) You can add 2 __more subjects but the maximum count of subjects shouldn't go past seven i.e. no more than 7 sebjects__
 
