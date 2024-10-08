@@ -3,8 +3,9 @@ Everything about view assessment
 
 What is this?
 
-Firstly this **ONLY FOR [PE](https://nios-students.pages.dev/wiki/Exams-Assignments) students only** You can whether your [AI (Study Center)](https://nios-students.pages.dev/wiki/Glossary#:~:text=AI/SC%3A%20Accredited%20Institutes/Study%20Centre) has entered the practical 
- marks or not. "Marks Awarded" "Marks not awarded" **NOT ANY NUMBERS** It takes 1-2 weeks to update. I know it's kinda pointless.
+Firstly this **ONLY FOR [PE](https://nios-students.pages.dev/wiki/Exams-Assignments) students.** You can whether your [AI (Study Center)](https://nios-students.pages.dev/wiki/Glossary#:~:text=AI/SC%3A%20Accredited%20Institutes/Study%20Centre) has entered the practical 
+ marks or not. "Marks Awarded" "Marks not awarded" **NOT ANY NUMBERS.** It takes 1-2 weeks to update. 
+~~I know it's kinda pointless.~~
 
 # How to check it?
 
