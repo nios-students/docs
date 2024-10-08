@@ -12,7 +12,7 @@ The materials are applicable for all exams so please stop asking that.
  **work in progress right now we have Physical education, Physics, maths, Chemistry and English (12th Sr.Sec)**
 - [English formats of letter, e-mail etc](https://drive.google.com/file/d/16_x7g3z3xabTg_a1eRRZBhVV8LLhFiD1/view?usp=drivesdk)
 
-- [Question Bank(12th)](https://drive.google.com/drive/folders/1BUGHbC5k6UpgkfrdY3FWd47MzJ0SJM8r)
+- [Question Banks (12th)](https://drive.google.com/drive/folders/1BUGHbC5k6UpgkfrdY3FWd47MzJ0SJM8r)
 - [Student made notes](https://drive.google.com/drive/folders/1vXLyIQTRAoP_jEQ0eZRUijmr0Wnux_dn)
 Right now we have **Maths,Chemistry and Introduction To Laws**
 
@@ -31,7 +31,7 @@ Right now we have **Maths,Chemistry and Introduction To Laws**
 - [Geography-316](https://drive.google.com/file/d/1BdssxglXR_rF4UaQrsI3g_P9kazh7Ty8/view?usp=drivesdk)
 - [Painting (12th)-332](https://drive.google.com/file/d/1cNMc3Cs83zRhLMpjqmiwg_t-hb8QFEw1/view?usp=drivesdk)
 - [Physical Education-373](https://drive.google.com/file/d/1eIvdEYEIBClLFyMGLcggA8Zd8pbil0vw/view?usp=drivesdk)
-- **Basic Computing Coming Soon**
+- [Basic Computing-608][new](https://drive.google.com/file/d/1ByDCX_yhvUg-SXHroICBEaNCUzaPHwYI/view?usp=drivesdk)
 # TMA
 - [Secondary 10th](https://drive.google.com/drive/folders/1jvxqUL-eb--M7UuknJfnYwwLbWdYifCB)
 
