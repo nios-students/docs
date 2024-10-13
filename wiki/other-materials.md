@@ -12,14 +12,14 @@ The materials are applicable for all exams so please stop asking that.
  **work in progress right now we have Physical education, Physics, maths, Chemistry and English (12th Sr.Sec)**
 - [English formats of letter, e-mail etc](https://drive.google.com/file/d/16_x7g3z3xabTg_a1eRRZBhVV8LLhFiD1/view?usp=drivesdk)
 
-- [Question Banks (12th)](https://drive.google.com/drive/folders/1BUGHbC5k6UpgkfrdY3FWd47MzJ0SJM8r)
+- [Question Banks (**12th**)](https://drive.google.com/drive/folders/1BUGHbC5k6UpgkfrdY3FWd47MzJ0SJM8r) Physics,Chemistry biology,Mathematics,Geograpy,Political Science,Home science,Environmental science,Political Science,Early Child Care,History,Physical Education,Painting,Introduction TLaws,Sociology,Business,Studies,Economics and English
 - [Student made notes](https://drive.google.com/drive/folders/1vXLyIQTRAoP_jEQ0eZRUijmr0Wnux_dn)
 Right now we have **Maths,Chemistry and Introduction To Laws**
 
 - [Terminal Answers](https://drive.google.com/drive/folders/13pAmRsJ2DFe5P_mV6QdmGonMpWq5Upwd) for the sebject not available in the above link [here!](https://brainly.in)
 
-# Practical Files 
-
+# Practical Files
+Sr.Secondary 
 - [Computer Science-330](https://drive.google.com/drive/folders/11q-CZ_ZrJzB3wU-klxCRyhASJv_VIoQ_)
 - [VOC-Computer Hardware Assembly and Maintenance-663](https://drive.google.com/drive/folders/11eGz1VegBsV__1TscayN7ATEHLTkF04O)
 - [VOC-Computer & office application-631](https://drive.google.com/file/d/165UaWHD_6GEG8igXil3k7Fgi5tymbXJT/view?usp=drivesdk)
@@ -29,9 +29,11 @@ Right now we have **Maths,Chemistry and Introduction To Laws**
 - [Biology-314](https://drive.google.com/file/d/1B9tbmsOODQAoU8PWchWjCT801nsQR37k/view?usp=drivesdk)
 - [Mass Communication-335](https://drive.google.com/file/d/10MQXshxbdzUpaDKg1AQ1YELTH5g0ixv1/view?usp=drivesdk)
 - [Geography-316](https://drive.google.com/file/d/1BdssxglXR_rF4UaQrsI3g_P9kazh7Ty8/view?usp=drivesdk)
-- [Painting (12th)-332](https://drive.google.com/file/d/1cNMc3Cs83zRhLMpjqmiwg_t-hb8QFEw1/view?usp=drivesdk)
+- [Painting (12th)-**332**](https://drive.google.com/file/d/1cNMc3Cs83zRhLMpjqmiwg_t-hb8QFEw1/view?usp=drivesdk)
 - [Physical Education-373](https://drive.google.com/file/d/1eIvdEYEIBClLFyMGLcggA8Zd8pbil0vw/view?usp=drivesdk)
-- [Basic Computing-608][new](https://drive.google.com/file/d/1ByDCX_yhvUg-SXHroICBEaNCUzaPHwYI/view?usp=drivesdk)
+
+Secondary  
+- [Basic Computing-608](https://drive.google.com/file/d/1ByDCX_yhvUg-SXHroICBEaNCUzaPHwYI/view?usp=drivesdk)
 # TMA
 - [Secondary 10th](https://drive.google.com/drive/folders/1jvxqUL-eb--M7UuknJfnYwwLbWdYifCB)
 
