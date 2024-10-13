@@ -3,7 +3,7 @@ Admissions
 
 __Admissions are completely online from https://sdmis.nios.ac.in ONLY__
 
-## Secondary (10th Standard)
+# Secondary (10th Standard)
 
 This Course is equivalent to the Xth standard. However NIOS integrates 9th and 10th into one grade. The content of 9th and 10th present in it's books. Unlike other boards you may choose your subjects from the  [table](https://www.nios.ac.in/departmentsunits/academic/senior-secondary-course-equivalent-to-class-xii.aspx) 
 <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/Screenshot%202024-09-13%20190823.png" alt="Screenshot" width="400">
@@ -20,8 +20,7 @@ This Course is equivalent to the Xth standard. However NIOS integrates 9th and 1
 *b*) You can add 2 __more subjects but the maximum count of subjects shouldn't go past seven i.e. no more than 7 sebjects__
 
 *c*) NIOS let's you choice any sebject however, you **MUST** chose your sebjects according to your future career/goals
-### Senior Secondary (12th Standard)
-
+##Senior Secondary (12th Standard)
 This Course is equivalent to the 12th standard. However NIOS integrates 11th and 12th into one grade. The content of 11th and 12th present in it's books. Unlike other boards you may choose your subjects from the [table](https://www.nios.ac.in/departmentsunits/academic/senior-secondary-course-equivalent-to-class-xii.aspx) 
 <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/Screenshot%202024-09-13%20190823.png" alt="Screenshot" width="400">
 
@@ -54,12 +53,12 @@ Though we suggest that you register yourself for admission from [NIO'S sdmims po
 
 [Offical Guidelines](https://drive.google.com/drive/folders/1S8z_RbST1EgllO27tPGU_uemNi7Kdpsj)
 
-#### Streams Of Addmission 
+### Streams Of Addmission 
 In NIOS, there are __primarily four streams__. Unlike other boards you can choose whatever subjects. The stream word in the context of NIOS isn't Science,Commerce,Humanities and arts it’s on basis such as are you Pubic Exam or On Demand Exam many other factors
 
 [Watch this NIOS video to learn about admission streams](https://youtu.be/NpNZ-BbiLag?si=knia4e06Q5hltxif)
 
-##### Stream 1
+#### Stream 1
 Open to all learners and freshers. Admissions are open throughout the year. Examinations are held in April-May for Block 1 learners and October-November for Block 2 learners (Although you may give exams in different blocks from yours and [On Demand](https://nios-students.pages.dev/wiki/Exams-Assignments#ode-on-demand-examination) **after the first exam is past you don't have appear in it**) Students in stream 1 must submit TMAs and attend PCP classes. 
 
 [More info on TMA & PCP](https://nios-students.pages.dev/wiki/Exams-Assignments)
