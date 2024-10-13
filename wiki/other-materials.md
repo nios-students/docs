@@ -1,18 +1,15 @@
 *Revised at
-23-09-2024,5.01 IST*
+11-10-2024,9:48 PM IST*
 Books,Guides And Notes
 The materials are applicable for all exams so please stop asking that.
----- 
-
-- [Books](https://nios.ac.in/online-course-material.aspx)
-
-- [Vocational Books (in .pdf)](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1nL-EvabkRTi)
+----
+[Books](https://nios.ac.in/online-course-material.aspx) and [Vocational Books (in .pdf)](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1nL-EvabkRTi)
 
 - [Guides](https://drive.google.com/drive/folders/1Y4fr5EDyuxpoapeeQHkqvkki11fdBeZV)
  **work in progress right now we have Physical education, Physics, maths, Chemistry and English (12th Sr.Sec)**
 - [English formats of letter, e-mail etc](https://drive.google.com/file/d/16_x7g3z3xabTg_a1eRRZBhVV8LLhFiD1/view?usp=drivesdk)
 
-- [Question Banks (**12th**)](https://drive.google.com/drive/folders/1BUGHbC5k6UpgkfrdY3FWd47MzJ0SJM8r) Physics,Chemistry biology,Mathematics,Geograpy,Political Science,Home science,Environmental science,Political Science,Early Child Care,History,Physical Education,Painting,Introduction TLaws,Sociology,Business,Studies,Economics and English
+- [Question Banks (**12th**)](https://drive.google.com/drive/folders/1BUGHbC5k6UpgkfrdY3FWd47MzJ0SJM8r) Physics,Chemistry biology,Mathematics,Geograpy,Political Science,Home science,Environmental science,Political Science,Early Child Care,History,Physical Education,Painting,Introduction To Laws,Sociology,Business,Studies,Economics and English
 - [Student made notes](https://drive.google.com/drive/folders/1vXLyIQTRAoP_jEQ0eZRUijmr0Wnux_dn)
 Right now we have **Maths,Chemistry and Introduction To Laws**
 
@@ -48,7 +45,7 @@ Note: You have add font/first page your information name, enrollment number etc.
 
 - [PYQs of april 2024 Secondary (10th)](https://drive.google.com/drive/folders/1TeVxkTpZndUQNLPmUMGjQaekqa6-D7QC) 
 
-- [**Offical PYQs page (www.nios.ac.in)**](https://nios.ac.in/student-information-section/question-paper-of-previous-year-examination-academic.aspx)
+- [**Offical PYQs page (nios.ac.in)**](https://nios.ac.in/student-information-section/question-paper-of-previous-year-examination-academic.aspx)
 - **Syllabus Bifurcation, Sample Question Paper, Marking Scheme & QPD of** [Secondary (10th)](https://nios.ac.in/online-course-material/secondary-courses.aspx) and [Sr.Secondary (12th)](https://nios.ac.in/online-course-material/sr-secondary-courses.aspx) 
 
 _______________
@@ -84,4 +81,5 @@ _______________
 modified nor allowed to sell without the permission of web developer and content author of particular the sebject/topic/work.
 * No code, images, logos or any other assets of The National
 Institute of Open Schooling copy nor used in making of this website.
-* If copyright laws have been violated. We shall remove such content upon notice from the copyright holder. Please contact us at unofficialnios[at]gmail.com or DM (direct message) thought our [communities](https://nios-students.pages.dev/wiki/Get_Help)
+* If copyright laws have been violated. We shall remove such content upon notice from the copyright holder. Please contact us at
+unofficialnios[at]gmail.com or DM (direct message) thought our [communities](https://nios-students.pages.dev/wiki/Get_Help)
