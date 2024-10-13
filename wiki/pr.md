@@ -48,9 +48,9 @@ b) For stream 2,3,4 **100%** of marks are scored/given during practical exam.
 
 ---
 
-- What are the marks viva,flie etc?
+- What are the marks for  viva,flie etc?
 
-# Table breaking down practical (12th Sr.Sec):
+# Table breaking down practical marks (12th Sr.Sec):
 
 | Sr.No | Seb Code                                           | Pr. | FA | SA | File | Viva | Activities/Answering the Paper | Passing Marks |
 | ----- | -------------------------------------------------- | --- | -- | -- | ---- | ---- | ------------------------------ | ------------- |
@@ -64,7 +64,7 @@ b) For stream 2,3,4 **100%** of marks are scored/given during practical exam.
 | 8     | 622                                                | 70  | -  | 70 | 5    | 5    | 5                              | 23            |
 | 9     | 373                                                | 30  | 15 | 15 | 3    | 5    | 10                             | 9             |
 
-# Table breaking down practical (10th Sec):
+# Table breaking down practical marks (10th Sec):
 
 | Sr.No | Seb Code               | Pr. | FA  | SA  | File | Viva | Activities/Answering the Paper | Passing Marks |
 | ----- | ---------------------- | --- | --- | --- | ---- | ---- | ------------------------------ | ------------- |
@@ -75,7 +75,7 @@ b) For stream 2,3,4 **100%** of marks are scored/given during practical exam.
 
 [Source](https://nios.ac.in/media/documents/notification/yr2024/Exam/PG_2024.pdf)
 
-Note: **Viva and activities/answering the paper come under the SA/Practical Exam. "pr." is the maximum of practical. “Seb Code” is the sebject code of the sebject. The marks for submitting file comes under FA marks. In 10th  (secondary) Passing in practical isn't required i.e. You need to get 33% of the maximum marks it doesn't matter how you score the marks. For a example in sci. and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered passed Here 'Passing marks' are given for completeness only. THIS TABLE Applies TO STREAM 1 ONLY**
+Note: **Viva and activities/answering the paper come under the SA/Practical Exam. "pr." is the maximum of practical. “Seb Code” is the sebject code of the sebject. The marks for submitting file comes under FA marks. In 10th  (secondary) Passing in practical isn't required i.e. You need to get 33% of the maximum marks it doesn't matter how you score the marks. For a example in sci. and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered passed Here 'Passing marks' are given for completeness only. THIS TABLE applies TO STREAM 1 ONLY**
 
 - What kind of questions will they ask in viva?
 
@@ -102,8 +102,8 @@ Go to the address given in the hallticket for specific time and date. The schedu
 2. Pen and other stationary
 3. ID Proof like aadhaar Card, Passport or PAN card etc
 4. [Practical hallticket](https://sdmis.nios.ac.in/search/hall-ticket)
-5. Record book
-6. pad
+5. Record Book
+6. Pad
 7. Water bottle *remember to stay hydrated and chill!*
 
 Note: All the documents should in printed form black and white works. *The hallticket is released one week before the first exam*
@@ -118,7 +118,7 @@ Wear anything __formal clothing__
 [Info on how to view SA/practical marks are given or not](https://nios-students.pages.dev/wiki/view-assessment)
 
 ----
-Got questions? [Ask here](https://www.reddit.com/r/NIOS_Students/submit)
+Any questions? [Ask here](https://www.reddit.com/r/NIOS_Students/submit)
 
 ### Research and Written by yours  truly *ping*
 
