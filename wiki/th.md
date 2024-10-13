@@ -1,6 +1,5 @@
-# Guidelines for theory exam
-
-## Important Checklist
+Guidelines for theory exam
+---------------------------# Important Checklist
 
 Documents and stuff to take in the exam 
 
@@ -12,9 +11,9 @@ Documents and stuff to take in the exam
 - Bag
 NOTE: Black and white works.
 
-### Things to know **before** the exam
+## Things to know **before** the exam
 
-Download the map of your exam centre and visit your centre beforehand. They say that phone isn't allowed in the hallticket but most centre don't mind if it's in a bag and in **outside the exam hall** just make sure that it's powered off or on silent mode. Most centres will have place to keep the bag.
+Download the map of your exam centre and visit your centre beforehand. They say that phone isn't allowed in the hallticket but most centre don't mind if it's in a bag and in **outside the exam hall** just make sure that it's powered off or on silent mode. Most centres will have place to keep the bag. For public exam students will get **15 minutes** to read the question papers use this to understand the questions.
 
 
 
