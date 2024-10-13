@@ -34,6 +34,6 @@ Because these are 3rd party chat groups, remember to follow these guidelines whi
 - For general enquiries: lsc[AT]nios.ac.in
 -  For complaints and feedback: cm[AT]nios.ac.in
 
-###### Email Address of ping
+##### Email Address of ping
 - unofficialnios[AT]gmail.com
 - nioshelpinghand[AT]gmail.com
