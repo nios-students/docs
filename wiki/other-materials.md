@@ -1,5 +1,5 @@
 *Revised at
-11-10-2024,9:48 PM IST*
+11-10-2024,9:48 PM IST
 Books,Guides And Notes
 The materials are applicable for all exams so please stop asking that.
 ----
