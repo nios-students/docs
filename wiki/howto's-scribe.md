@@ -74,4 +74,4 @@ Here's a copy of mine
 -----------
  <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/image0.jpg" alt="Letter" width="400" height="567"/>
 
-**For any questions please email at Unofficianiosv[AT]gmail.com**
+**For any questions please email at unofficianios[AT]gmail.com**
