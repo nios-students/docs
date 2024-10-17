@@ -20,7 +20,8 @@ This Course is equivalent to the Xth standard. However NIOS integrates 9th and 1
 *b*) You can add 2 __more subjects but the maximum count of subjects shouldn't go past seven i.e. no more than 7 sebjects__
 
 *c*) NIOS let's you choice any sebject however, you **MUST** chose your sebjects according to your future career/goals
-##Senior Secondary (12th Standard)
+# Senior Secondary (12th Standard)
+
 This Course is equivalent to the 12th standard. However NIOS integrates 11th and 12th into one grade. The content of 11th and 12th present in it's books. Unlike other boards you may choose your subjects from the [table](https://www.nios.ac.in/departmentsunits/academic/senior-secondary-course-equivalent-to-class-xii.aspx) 
 <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/Screenshot%202024-09-13%20190823.png" alt="Screenshot" width="400">
 
@@ -53,26 +54,26 @@ Though we suggest that you register yourself for admission from [NIO'S sdmims po
 
 [Offical Guidelines](https://drive.google.com/drive/folders/1S8z_RbST1EgllO27tPGU_uemNi7Kdpsj)
 
-### Streams Of Addmission 
+# Streams Of Addmission 
 In NIOS, there are __primarily four streams__. Unlike other boards you can choose whatever subjects. The stream word in the context of NIOS isn't Science,Commerce,Humanities and arts it’s on basis such as are you Pubic Exam or On Demand Exam many other factors
 
 [Watch this NIOS video to learn about admission streams](https://youtu.be/NpNZ-BbiLag?si=knia4e06Q5hltxif)
 
-#### Stream 1
+# Stream 1
 Open to all learners and freshers. Admissions are open throughout the year. Examinations are held in April-May for Block 1 learners and October-November for Block 2 learners (Although you may give exams in different blocks from yours and [On Demand](https://nios-students.pages.dev/wiki/Exams-Assignments#ode-on-demand-examination) **after the first exam is past you don't have appear in it**) Students in stream 1 must submit TMAs and attend PCP classes. 
 
 [More info on TMA & PCP](https://nios-students.pages.dev/wiki/Exams-Assignments)
 
 [Admission schedule stream I](https://drive.google.com/file/d/1SX61QK2dJcTm77HvQtuonwv30CEKoZ-t/view?usp=drive_link) and [registration](https://dq4kzxd7fbbni.cloudfront.net/static/dist/images/pdf/process-flow/ProcessFlowDetailed_SecSrSec_Stream1and2_June2023.pdf) [fees Structure](https://nios.ac.in/media/documents/notification/yr2024/Admission/Notification-37-2024.pdf)
 
-## Stream 2
+# Stream 2
 This stream is available for learners who have failed or passed but want to improve scores in the Secondary or Senior Secondary (10th class or 12th class) examination from a recognized board and want to update their qualification in one or up to four subjects to be able to fill eligibility critereas for their goals such as addmission into Commercial pilot course etc. These exams are available for to write during October to Novembber Public Examinations for Stream 2 enrolled students. **Examination fees are included in the addmission fees for the first time**
 
-### Stream 3 and 4
+# Stream 3 and 4
 On-Demand Examination System (ODES) at Secondary Level (10th class) and Senior Secondary level (12th class) Open for admissions throughout the year. Suitable for learners seeking to update their qualifications or clear failed subjects.  
 
 [More Info on Stream 3 and 4](https://rcguwahati.nios.ac.in/registration-for-on-demand-examination-ode-and-procedure.html)
-#### Transfer of Credit (ToC)
+# Transfer of Credit (ToC)
 ToC is one of the flagship features of NIOS. The **failed** learners can transfer the marks of **2** sebjects from the parent the board to NIOS.
 
 **Rules and Norms of ToC**
