@@ -1,5 +1,6 @@
-Guidelines for theory exam
----------------------------# Important Checklist
+Guidelines for (students) theory exam
+---------------------------
+# Important Checklist
 
 Documents and stuff to take in the exam 
 
