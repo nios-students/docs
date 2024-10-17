@@ -1,4 +1,5 @@
-# Guidelines For TMA Uploading/Downloading
+How To Make TMA?
+----------
 
 1. **First download the TMA questions paper from dashboard**  
      [NIOS Student portal](https://sdmis.nios.ac.in/)
@@ -37,13 +38,13 @@
    If you think there is any mistake in the TMA you can "re-upload" it for **free!** until 7 days from uploading it.
    
 # Terms of TMA and the date of feedback of TMA
-- TMA Submission pending:- TMA isn't upload yet*
-- Upload online:- TMA is upload on the NIOS server*
- - TMA Allocated:- When the study centre gets your TMA(s) and accepts it
-- TMA Evaluation in progress:- The teacher is checking
-- TMA Evaluated:- Your TMA is corrected*
--  "-":- You passed that sebject.  
-Note: the ones which are marked with a “*” are important.
+- TMA Submission pending: TMA isn't upload yet*
+- Upload online: TMA is upload on the NIOS server*
+ - TMA Allocated: When the study centre gets your TMA(s) and accepts it
+- TMA Evaluation in progress: The teacher is checking
+- TMA Evaluated: Your TMA is corrected*
+-  "-": You passed that sebject.  
+> Note: the ones which are marked with a “*” are important.
 The dates can differ from student to student but it takes time for april 2024 the feedback/marks was given to everyone by the  31 april 2024.
 
    
