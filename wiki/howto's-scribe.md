@@ -1,22 +1,22 @@
-NIOS Scribe Process
+How To apply for a scribe?
 ---------------------
 
-I'm writing from experience as I took the April 2024 exams with a scribe. Firstly, NIOS or the exam center will not provide a scribe/writer. You have to find one by yourself.
+> I'm writing from experience as I took the April 2024 exams with a scribe. Firstly, NIOS or the exam center will not provide a scribe/writer. You have to find one by yourself.
 
 # Documents Required
-1. Application by the Parent
-2. Medical Certificate
-3. Copy of Disability Certificate
-4. Study Certificate
-5. Student ID card of the school and Aadhaar card of the writer/scribe
-6. NIOS ID card of the learner
+1. Application by the Parent*
+2. Medical Certificate*
+3. Copy of Disability Certificate*
+4. Study Certificate*
+5. Student ID card of the school and Aadhaar card of the writer/scribe*
+6. NIOS [ID card](https://sdmis.nios.ac.in/registration/id-card) of the learner*
 
 *Xerox copies works*
 
-## How can I find and fill these documents?
+# How can I find and fill these documents?
 First, visit the NIOS website and download the Application by the Parent and Medical Certificate from the [Provisions for Learners with Disability](https://nios.ac.in/departmentsunits/evaluation/general-and-specific-relaxations-(disability-wise)-during-nios-examination.aspx). Take a printout of these documents.
 
-### How to fill out the Application by the Parent:
+# How to fill out the Application by the Parent:
 1. Name of the person filling out the form
 2. Relationship to the learner
 3. Permanent address
@@ -37,15 +37,15 @@ First, visit the NIOS website and download the Application by the Parent and Med
 18. Fill the table with the subjects you paid exam fees for
 19. Write "Yes" under "Self-arranged" for all subjects. Write "Scribe" in the right-side column.
 
-### Is a medical certificate required?
+# Is a medical certificate required?
 Yes, without the medical certificate, the form will not be accepted.
 
-#### How to fill the Medical Certificate:
+# How to fill the Medical Certificate:
 1. Who can fill it? The hospital you go to for checkups or any government hospital.
 2. Make sure that you have the signature and seal of the doctor and hospital.
 3. Write this in the last line: "E Blindness/Low-vision" and "Scribe and reader is required."
 
-#### How to fill out the Study Certificate:
+# How to fill out the Study Certificate:
 Just fill in the format given below:
 
 ```
@@ -63,7 +63,7 @@ Principal/Correspondent
 [Seal of the school]  
 ```
 
-##### Next Steps
+# Next Steps
 1. Scan all documents using [Oken Scanner](https://play.google.com/store/apps/details?id=com.cambyte.okenscan).
 2. Mail them to your RC [contact info Regional Center](https://sdmis.nios.ac.in/home/regional-center).
 3. You **must** them physically.
