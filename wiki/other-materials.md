@@ -1,5 +1,5 @@
-Last updated 🕔:16-10-2024,5.59PM IST
-Books,Guides and more!
+Last update 🕔:18-10-2024,8:01PM IST
+
 The materials are applicable for all exams (On demand and public) so,please stop asking that.
 ----
 # Books,Guides and more!
@@ -18,17 +18,17 @@ The materials are applicable for all exams (On demand and public) so,please stop
 
 # Practical Files
 Senior Secondary (12th) 
-- [Computer Science-330](https://drive.google.com/drive/folders/11q-CZ_ZrJzB3wU-klxCRyhASJv_VIoQ_)
-- [VOC-Computer Hardware Assembly and Maintenance-663](https://drive.google.com/drive/folders/11eGz1VegBsV__1TscayN7ATEHLTkF04O)
+- [Computer Science-330](https://drive.google.com/drive/folders/1B4LC8LNbWwBj6i1u6VBKf4LzDcfGD1UX)
+- [VOC-Computer Hardware Assembly and Maintenance-663](https://drive.google.com/drive/folders/1FePkpftsoo63xWzrQDX6mFYVivPkb4kL)
 - [VOC-Computer & office application-631](https://drive.google.com/file/d/165UaWHD_6GEG8igXil3k7Fgi5tymbXJT/view?usp=drivesdk)
-- [Data Entry Operations-**336**(12th)](https://drive.google.com/drive/folders/11mK_9Yh_m6UkxUXbic-We-H6SNwUCMDd)
-- [Physics-312](https://drive.google.com/file/d/1B9Yh26xWQt3eFkhQK-nzPKMMVIPkqZ5r/view?usp=drivesdk)
-- [Chemistry-313](https://drive.google.com/file/d/1B9TzkCS1fOwDLkYGRB_2pfO2ThQ9fJNP/view?usp=drivesdk)
-- [Biology-314](https://drive.google.com/file/d/1B9tbmsOODQAoU8PWchWjCT801nsQR37k/view?usp=drivesdk)
-- [Mass Communication-335](https://drive.google.com/file/d/10MQXshxbdzUpaDKg1AQ1YELTH5g0ixv1/view?usp=drivesdk)
-- [Geography-316](https://drive.google.com/file/d/1BdssxglXR_rF4UaQrsI3g_P9kazh7Ty8/view?usp=drivesdk)
-- [Painting (12th)-**332**](https://drive.google.com/file/d/1cNMc3Cs83zRhLMpjqmiwg_t-hb8QFEw1/view?usp=drivesdk)
-- [Physical Education and yoga-373](https://drive.google.com/file/d/1eIvdEYEIBClLFyMGLcggA8Zd8pbil0vw/view?usp=drivesdk)
+- [Data Entry Operations-**336 (12th)**](https://drive.google.com/drive/folders/1K5O8mtX-NXT-ezFsqh3ZsA0IdrJQ1SeU)
+- [Physics-312](https://drive.google.com/file/d/1Tch83yqj_tKsHOzExcl1dMGCxSJKvAYb/view?usp=drivesdk)
+- [Chemistry-313](https://drive.google.com/file/d/1ztU0LXRhlxP-Vztslwhh9-51Wjxn20wo/view?usp=drivesdk)
+- [Biology-314](https://drive.google.com/file/d/1ooRji1IkWJ8OwPGnSqkMkPk2jmSSuXRX/view?usp=drivesdk)
+- [Mass Communication-335](https://drive.google.com/file/d/15yFRnuislqd8L_Yy6Adln0mi6UWXmYlz/view?usp=drivesdk)
+- [Geography-316](https://drive.google.com/file/d/1siXW5NvqsjoItMmtHnW98jb6g0BAKUks/view?usp=drivesdk)
+- [Painting-**332 (12th)**](https://drive.google.com/file/d/1iTsm4f8ilwStpYmSv8-LD32YoY1erlgs/view?usp=drivesdk)
+- [Physical Education and yoga-373](https://drive.google.com/file/d/1uP8wLf8CWOa2ycGFyqpOtNuiWZMc2hdS/view?usp=drivesdk)
 
 Secondary (10th)
 - [Basic Computing-608](https://drive.google.com/file/d/1ByDCX_yhvUg-SXHroICBEaNCUzaPHwYI/view?usp=drivesdk)
