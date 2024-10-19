@@ -1,4 +1,4 @@
-Last update 🕔:18-10-2024,8:01PM IST
+Last update 🕔:19-10-2024,6:32PM IST
 
 The materials are applicable for all exams (On demand and public) so,please stop asking that.
 ----
@@ -14,7 +14,7 @@ The materials are applicable for all exams (On demand and public) so,please stop
 **Maths,Chemistry and Introduction To Laws**
 
 - [Terminal Answers](https://drive.google.com/drive/folders/13pAmRsJ2DFe5P_mV6QdmGonMpWq5Upwd) Physics,Mathematics,Chemistry and Biology. For the sebject not available in the above link [here](https://brainly.in)
-- [Brief summaries](https://www.flexiprep.com/NIOS-Notes/)
+- [Brief summaries for both Secondary and Senior Secondary **10th and 12th**](https://www.flexiprep.com/NIOS-Notes/)
 
 # Practical Files
 Senior Secondary (12th) 
@@ -27,9 +27,11 @@ Senior Secondary (12th)
 - [Biology-314](https://drive.google.com/file/d/1ooRji1IkWJ8OwPGnSqkMkPk2jmSSuXRX/view?usp=drivesdk)
 - [Mass Communication-335](https://drive.google.com/file/d/15yFRnuislqd8L_Yy6Adln0mi6UWXmYlz/view?usp=drivesdk)
 - [Geography-316](https://drive.google.com/file/d/1siXW5NvqsjoItMmtHnW98jb6g0BAKUks/view?usp=drivesdk)
-- [Painting-**332 (12th)**](https://drive.google.com/file/d/1iTsm4f8ilwStpYmSv8-LD32YoY1erlgs/view?usp=drivesdk)
-- [Physical Education and yoga-373](https://drive.google.com/file/d/1uP8wLf8CWOa2ycGFyqpOtNuiWZMc2hdS/view?usp=drivesdk)
-
+- [Painting-**332 ﻿namaste (12th)**](https://drive.google.com/file/d/1iTsm4f8ilwStpYmSv8-LD32YoY1erlgs/view?usp=drivesdk)
+- [Physical Education and Yoga-373](https://drive.google.com/file/d/1uP8wLf8CWOa2ycGFyqpOtNuiWZMc2hdS/view?usp=drivesdk)
+- [Library and Information Science-339](https://drive.google.com/drive/folders/1gmlUhPul53yaXm4eWGqQygnX_KgIJNpB)
+- [Early Childhood Care And Education-376](https://drive.google.com/drive/folders/1gmlUhPul53yaXm4eWGqQygnX_KgIJNpB)
+- [VOC-Yoga Assistant-667](https://drive.google.com/drive/folders/1ow4Bpx6-tR8tT2IXnFFX7AwAJpyj7sy2)
 Secondary (10th)
 - [Basic Computing-608](https://drive.google.com/file/d/1ByDCX_yhvUg-SXHroICBEaNCUzaPHwYI/view?usp=drivesdk)
 # TMA
@@ -51,7 +53,6 @@ Secondary (10th)
 
 _______________
 # Credits 
-
 **Special thanks!! to anyone who scan and sent there paper**
 
 Compiler of PYQ's practical files, Handwritten TMAs,voc books,writer of Introduction To Laws notes,practical files of 336,663,330 and person in charge of maintenance of this document 
@@ -82,4 +83,4 @@ _______________
 modified nor allowed to sell without the permission of web developer and content author of particular the sebject/topic/work.
 * No code, images, logos or any other assets of **The National
 Institute of Open Schooling** copy nor used in making of this website.
-* If copyright Laws have been violated. We shall remove such content upon notice from the copyright holder. Please contact us @ unofficialnios[at]gmail.com or DM (Direct Message) thought our [discord control unit](1238460105243103312)
+* If copyright Laws have been violated. We shall remove such content upon notice from the copyright holder. Please contact us @ unofficialnios[at]gmail.com or DM (Direct Message) thought our [discord control unit](123846010524310331252312333333333333332312312311515454484845631444446455555444447656896+84784549846153644646326566584888848484864848484464684645648648648842)
