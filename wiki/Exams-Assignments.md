@@ -2,19 +2,18 @@ Examination/ TMA/Practical/PCP Info
 --------------------------------
 # PE (Public Examination)
 The Public Examinations are held **twice** a year in the months of April-May and October-November on dates fixed by the NIOS for students. Eligibility criteria for writing PE all student who admitted under **stream 1 & 2** can pay the exam and appear for the exam. [How to pay exam fees fee?](https://drive.google.com/file/d/1SQAL7MZbkI2XUnyTSU0Nl0RbVB82HXKF/view?usp=drivesdk)
-> please note that **students of stream 2 don't have to pay exam fees for the first time.**
+> Please note that **students of stream 2 don't have to pay exam fees for the first time.**
 # ODE (On Demand Examination)
 ODE are held throughout the year (excluding April-May and October-November) for students who want to write their examinations when they wish to. You can give as many attempts as you wish!
-Eligibility criteria for writing ODE all student who admitted under **stream 1,3 and 4**
+Eligibility criteria for writing ODE all student who admitted under **stream 1,3 and 4.**
 # TMA (Tutor Marked Assignment)
-TMA is crucial for students as it carries **20% weightage of your theory paper.** [See sebject wise marks](https://drive.google.com/) It is uploaded online on the [portal](https://sdmis.nios.ac.in/auth) only. TMA for vocational subjects **does not exist** (e.g., Data Entry-632). TMA is just Q&a they will ask you questions, and you are supposed to write the answers, take pictures, make a PDF file, and then upload them online. [How to make TMA](https://nios-students.pages.dev/wiki/Guidelines). TMA is only applicable for learners admitted under **stream 1 of NIOS. No TMA for other streams**
+TMA is crucial for students as it carries **20% weightage of your theory paper.** [See sebject wise marks](https://drive.google.com/) It is uploaded online on the [portal](https://sdmis.nios.ac.in/auth) only. TMA for vocational subjects **does not exist** (e.g., Data Entry-632). TMA is just Q&a they will ask you questions, and you are supposed to write the answers, take pictures, make a PDF file, and then upload them online. [How to make TMA](https://nios-students.pages.dev/wiki/Guidelines). TMA is only applicable for learners admitted under **stream 1. No TMA for other streams.**
 
 **Dates of TMA:**
 - **Block-1 April:** Starts in December, due on __31st January__
 - **Block-2 October:** Starts in June, due on __31st July__
 # Practical Examination/SA
-Practical examinations are conducted at your study centre/AI (in most cases) 1 month before the public exams. For on-demand exams, please ask in exam center **the date and time on the day of theory paper.** 
-[detailed info on practicals](https://nios-students.pages.dev/wiki/pr)
+Practical examinations are conducted at your study centre/AI (in most cases) 1 month before the public exams. For on-demand exams, please ask in exam center **the date and time on the day of theory paper.** [detailed info on practicals](https://nios-students.pages.dev/wiki/pr)
 
 **Dates of Practical Exam:**
 - **Block-1 April** March
