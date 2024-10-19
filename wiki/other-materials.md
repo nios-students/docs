@@ -27,7 +27,7 @@ Senior Secondary (12th)
 - [Biology-314](https://drive.google.com/file/d/1ooRji1IkWJ8OwPGnSqkMkPk2jmSSuXRX/view?usp=drivesdk)
 - [Mass Communication-335](https://drive.google.com/file/d/15yFRnuislqd8L_Yy6Adln0mi6UWXmYlz/view?usp=drivesdk)
 - [Geography-316](https://drive.google.com/file/d/1siXW5NvqsjoItMmtHnW98jb6g0BAKUks/view?usp=drivesdk)
-- [Painting-**332 ﻿namaste (12th)**](https://drive.google.com/file/d/1iTsm4f8ilwStpYmSv8-LD32YoY1erlgs/view?usp=drivesdk)
+- [Painting-**332 (12th)**](https://drive.google.com/file/d/1iTsm4f8ilwStpYmSv8-LD32YoY1erlgs/view?usp=drivesdk)
 - [Physical Education and Yoga-373](https://drive.google.com/file/d/1uP8wLf8CWOa2ycGFyqpOtNuiWZMc2hdS/view?usp=drivesdk)
 - [Library and Information Science-339](https://drive.google.com/drive/folders/1gmlUhPul53yaXm4eWGqQygnX_KgIJNpB)
 - [Early Childhood Care And Education-376](https://drive.google.com/drive/folders/1gmlUhPul53yaXm4eWGqQygnX_KgIJNpB)
@@ -37,18 +37,12 @@ Secondary (10th)
 - [Basic Computing-608](https://drive.google.com/file/d/1ByDCX_yhvUg-SXHroICBEaNCUzaPHwYI/view?usp=drivesdk)
 # TMA
 - [Secondary 10th](https://drive.google.com/drive/folders/1jvxqUL-eb--M7UuknJfnYwwLbWdYifCB)
-
-
 - [Sr.Secondary 12th](https://drive.google.com/drive/folders/1lgKI4azmOY9-DN0Zln9z8rwQw7pZ3mGq)
-
 - [Handwritten](https://drive.google.com/drive/folders/1eFHUKAtpzh-rBjDm4k4zfn3_AZmu0Byh)
-
 > Note: You have add font/first page your information name, enrollment number etc.
 # Question Papers of Previous Year's Examination
 - [PYQs of Sr.Secondary (12th) april 2024](https://drive.google.com/drive/folders/1pPiI4xloWBmxJ05zej-b-WDO2KzyKlnr)
-
 - [PYQs of april 2024 Secondary (10th)](https://drive.google.com/drive/folders/1TeVxkTpZndUQNLPmUMGjQaekqa6-D7QC) 
-
 - [**Offical PYQs page (nios.ac.in)**](https://nios.ac.in/student-information-section/question-paper-of-previous-year-examination-academic.aspx)
 - **Syllabus bifurcation, sample question paper with marking scheme & question paper design of** [Secondary (10th)](https://nios.ac.in/online-course-material/secondary-courses.aspx) and [Senior Secondary (12th)](https://nios.ac.in/online-course-material/sr-secondary-courses.aspx) 
 
