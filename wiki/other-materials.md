@@ -69,7 +69,6 @@ English formats
 
 Editor of english formats and formated this document 
 **aqeel_ur**
-
 _______________
 
 # Copyright Statement
