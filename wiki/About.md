@@ -1,4 +1,4 @@
-About us & NIOS 
+About NIOS & us
 ---------
 # About NIOS
 
