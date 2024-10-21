@@ -1,13 +1,14 @@
-Last update 🕔:19-10-2024,6:32PM IST
+Last updated 🕔:19-10-2024,6:32PM IST
 
-The materials are applicable for all exams (On demand and public) so,please stop asking that.
+The materials are applicable for all exams (On demand and p
+ublic) so, please stop asking that.
 ----
-# Books,Guides and more!
+# Books, Guides and more!
 - [Books](https://nios.ac.in/online-course-material.aspx) and [Vocational Books (in .pdf)](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1nL-EvabkRTi)
 
 - [Guides](https://drive.google.com/drive/folders/1Y4fr5EDyuxpoapeeQHkqvkki11fdBeZV)
 **Physical Education, Physics, maths, Chemistry Science and technology (10th Sec),Home Science (10th Sec)  and English (12th Sr.Sec)**
-- [English formats of letter, e-mail memos etc... (Applicable both Secondary and Senior Secondary 10th and 12th)](https://drive.google.com/file/d/16_x7g3z3xabTg_a1eRRZBhVV8LLhFiD1/view?usp=drivesdk)
+- [English formats of letter, e-mail memos (Applicable both Secondary and Senior Secondary 10th and 12th)](https://drive.google.com/file/d/16_x7g3z3xabTg_a1eRRZBhVV8LLhFiD1/view?usp=drivesdk)
 
 - [Question Banks (**12th**)](https://drive.google.com/drive/folders/1BUGHbC5k6UpgkfrdY3FWd47MzJ0SJM8r) **Physics,Chemistry,Biology,Mathematics,Geograpy,Political Science,Home Science,Environmental science,Political Science,Early Child Care,History,Physical Education And Yoga,Painting,Introduction To Laws,Sociology,Business,Studies,Economics and English**
 - [Student made notes](https://drive.google.com/drive/folders/1vXLyIQTRAoP_jEQ0eZRUijmr0Wnux_dn)
@@ -34,7 +35,7 @@ Senior Secondary (12th)
 - [VOC-Yoga Assistant-667](https://drive.google.com/drive/folders/1ow4Bpx6-tR8tT2IXnFFX7AwAJpyj7sy2)
 
 Secondary (10th)
-- [Basic Computing-608](https://drive.google.com/file/d/1ByDCX_yhvUg-SXHroICBEaNCUzaPHwYI/view?usp=drivesdk)
+- [VOC-Basic Computing-608](https://drive.google.com/file/d/1ByDCX_yhvUg-SXHroICBEaNCUzaPHwYI/view?usp=drivesdk)
 # TMA
 - [Secondary 10th](https://drive.google.com/drive/folders/1jvxqUL-eb--M7UuknJfnYwwLbWdYifCB)
 - [Sr.Secondary 12th](https://drive.google.com/drive/folders/1lgKI4azmOY9-DN0Zln9z8rwQw7pZ3mGq)
