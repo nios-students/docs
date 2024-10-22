@@ -1,4 +1,4 @@
-Last updated 🕔:19-10-2024,6:32PM IST
+Last updated 🕔:22-10-2024,11:43PM IST
 
 The materials are applicable for all exams (On demand and p
 ublic) so, please stop asking that.
@@ -12,7 +12,7 @@ ublic) so, please stop asking that.
 
 - [Question Banks (**12th**)](https://drive.google.com/drive/folders/1BUGHbC5k6UpgkfrdY3FWd47MzJ0SJM8r) **Physics,Chemistry,Biology,Mathematics, Geography,Home Science,Environmental science,Political Science,Early Childhood Care,History,Physical Education And Yoga,Painting,Introduction To Laws,Sociology,Business,Studies,Economics and English**
 - [Student made notes](https://drive.google.com/drive/folders/1vXLyIQTRAoP_jEQ0eZRUijmr0Wnux_dn)
-**Maths,Chemistry and Introduction To Laws**
+**Maths, Chemistry, English (Sr.Sec 12th), Introduction To Laws**
 
 - [Terminal Answers](https://drive.google.com/drive/folders/13pAmRsJ2DFe5P_mV6QdmGonMpWq5Upwd) Physics,Mathematics,Chemistry and Biology. For the sebject not available in the above link [here](https://brainly.in)
 - [Brief summaries for both Secondary and Senior Secondary **10th and 12th**](https://www.flexiprep.com/NIOS-Notes/)
@@ -62,7 +62,7 @@ Web Developers
 
 Writer of terminal QnA(Physics, Chemistry, biology and Mathematics) **dahej_~~daddy~~**
 
-Writer of Chemistry and maths notes compiler and editor of guide of maths 
+Writer of student made notes Chemistry, English and maths. Compiler and editor of guide of maths 
 **Musicholic_20**
 
 English formats             
