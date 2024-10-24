@@ -1,4 +1,4 @@
-Last updated 🕔:22-10-2024,11:43PM IST
+Last updated 🕔:**22-10-2024,08:27PM IST**
 
 The materials are applicable for all exams (On demand and p
 ublic) so, please stop asking that.
@@ -43,7 +43,9 @@ Secondary (10th)
 > Note: You have add font/first page your information name, enrollment number etc.
 # Question Papers of Previous Year's Examination
 - [PYQs of Sr.Secondary (12th) april 2024](https://drive.google.com/drive/folders/1pPiI4xloWBmxJ05zej-b-WDO2KzyKlnr)
-- [PYQs of april 2024 Secondary (10th)](https://drive.google.com/drive/folders/1TeVxkTpZndUQNLPmUMGjQaekqa6-D7QC) 
+- [PYQs of april 2024 Secondary (10th)](https://drive.google.com/drive/folders/1TeVxkTpZndUQNLPmUMGjQaekqa6-D7QC)
+- [PYQs **October-November 2024**](https://drive.google.com/drive/folders/1upgHPV4moRE72l4IHVCE9FpkNMbF8Kvh)
+Legal disclaimer: This isn't paper leakage the QPs are sent by the students **after the exam is completed.**
 - [**Offical PYQs page (nios.ac.in)**](https://nios.ac.in/student-information-section/question-paper-of-previous-year-examination-academic.aspx)
 - **Syllabus bifurcation, sample question paper with marking scheme & question paper design of** [Secondary (10th)](https://nios.ac.in/online-course-material/secondary-courses.aspx) and [Senior Secondary (12th)](https://nios.ac.in/online-course-material/sr-secondary-courses.aspx) 
 
