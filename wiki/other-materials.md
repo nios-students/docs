@@ -1,8 +1,8 @@
 Last updated 🕔:**22-10-2024,08:27PM IST**
 
-The materials are applicable for all exams (On demand and p
-ublic) so, please stop asking that.
+The materials are applicable for all exams (On demand and public) so, please stop asking that.
 ----
+
 # Books, Guides and more!
 - [Books](https://nios.ac.in/online-course-material.aspx) and [Vocational Books (in .pdf)](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1nL-EvabkRTi)
 
@@ -10,7 +10,7 @@ ublic) so, please stop asking that.
 **Physical Education, Physics, maths, Chemistry Science and technology (10th Sec),Home Science (10th Sec)  and English (12th Sr.Sec)**
 - [English formats of letter, e-mail memos (Applicable both Secondary and Senior Secondary 10th and 12th)](https://drive.google.com/file/d/16_x7g3z3xabTg_a1eRRZBhVV8LLhFiD1/view?usp=drivesdk)
 
-- [Question Banks (**12th**)](https://drive.google.com/drive/folders/1BUGHbC5k6UpgkfrdY3FWd47MzJ0SJM8r) **Physics,Chemistry,Biology,Mathematics, Geography,Home Science,Environmental science,Political Science,Early Childhood Care,History,Physical Education And Yoga,Painting,Introduction To Laws,Sociology,Business,Studies,Economics and English**
+- [Question Banks (**12th**)](https://drive.google.com/drive/folders/1BUGHbC5k6UpgkfrdY3FWd47MzJ0SJM8r) **Physics,Chemistry,Biology,Mathematics, Geography,Home Science,Environmental science,Political Science,Early Childhood Care,History,Physical Education And Yoga,Painting,Introduction To Laws,Sociology,Business,Studies,Economics,English and history**
 - [Student made notes](https://drive.google.com/drive/folders/1vXLyIQTRAoP_jEQ0eZRUijmr0Wnux_dn)
 **Maths, Chemistry, English (Sr.Sec 12th), Introduction To Laws**
 
@@ -80,4 +80,4 @@ _______________
 modified nor allowed to sell without the permission of web developer and content author of particular the sebject/topic/work.
 * No code, images, logos or any other assets of **The National
 Institute of Open Schooling** copy nor used in making of this website.
-* If copyright Laws have been violated. We shall remove such content upon notice from the copyright holder. Please contact us @ unofficialnios[at]gmail.com or DM (Direct Message) thought our [discord control unit](123846010524310331252312333333333333332312312311515454484845631444446455555444447656896+84784549846153644646326566584888848484864848484464684645648648648842)
+* If copyright Laws have been violated. We shall remove such content upon notice from the copyright holder. Please contact us @ unofficialnios[at]gmail.com or DM (Direct Message) thought our [discord control unit](123846010524310331252312333333333333332312312311515454484845631444446455555444447656896+8478454984615364464632656658488884848486484848446468464564864864884ijijijuijimkjkljkjjujkiujkujhkjhjkhkjhkjlhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhuiygggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg67822265454541521544532322323262534414544454534545454545454542)
