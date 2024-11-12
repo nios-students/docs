@@ -3,18 +3,17 @@ How To Make TMA?
 
 1. **First download the TMA questions paper from dashboard**  
      [NIOS Student portal](https://sdmis.nios.ac.in/)
-2. **Click on "Download TMA"**  
-   Download the PDFs.
+2. Go TMA window **Click on Download TMA* Download the PDFs.
 3. **Prep work**  
-   Get a blue pen, ruler, pencil, and a notebook or A4 sheets, anything works.  
-   Download a document scanner of your choice:  
-   [Okenscan](https://play.google.com/store/apps/details?id=com.cambyte.okenscan)
-5. **Download the solved TMAs or start finding the answers.**  
+   Get a blue pen, ruler, pencil, and a notebook or A4 sheets, any kind paper works.
+4. Download a document scanner of your choice 
+[Okenscan](https://play.google.com/store/apps/details?id=com.cambyte.okenscan)
+5. **Download the solved TMAs or start finding the answers from the textbook**  
    - [Sr. Secondary](https://drive.google.com/drive/folders/1lgKI4azmOY9-DN0Zln9z8rwQw7pZ3mGq)
    -  [Secondary](https://drive.google.com/drive/folders/1jvxqUL-eb--M7UuknJfnYwwLbWdYifCB)  
    **Note:** These are from session 2023. We update them if NIOS changes the TMA.
 6. **Front page**  
-   Write this information on the first page.
+   Write the following information on the first page:
    - Name: 
    - Enrl no: *Check your ID card or dashboard*
    - Subject:
@@ -28,14 +27,12 @@ How To Make TMA?
    - 1 A ans.  
    > **Pro tip: At the top right corner of the page write pg-1 and so on**
 8. **Scanning of TMA**  
-   Make sure you are in a well-lighted area. Open the Oken scanner app or any other scanner app.  
-   Click pictures of the TMA ensuring that the full page is in the frame.
-9. **Uploading of TMA(s)**  
-   🔗 [TMA portal](https://sdmis.nios.ac.in/tma/index)  
-   Click the subject you wish to give your TMA of, choose your medium of study, click on upload, and find the file of that subject.  
-   **Note:** The limit is  5MB.  
-   Check if your TMA was uploaded from TMA Status via your dashboard under TMA Status.
-   If you think there is any mistake in the TMA you can "re-upload" it for **free!** until 7 days from uploading it.
+   Make sure you are in a well-lighted area. Open the Oken scanner app or any other scanner app. Click pictures of the TMA ensuring that the full page is in the frame.
+9. **Uploading of TMA(s)** Go to https://sdmis.nios.ac.in Under TMA window click on TMA upload. A list of all your TMA will appear. Click the subject you wish to upload, choose your medium of study, click on upload, and find the file of that subject.
+**Note:**
+- The limit is  **5MB**.
+- Check if your TMA was uploaded from TMA Status via your dashboard under TMA Status.
+- If you think there is any mistake in the TMA you can "re-upload" it for **free!** until 7 days from the day of uploading it.
    
 # Terms of TMA and the date of feedback of TMA
 - TMA Submission pending: TMA isn't upload yet*
