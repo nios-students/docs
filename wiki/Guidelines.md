@@ -2,8 +2,8 @@ How To Make TMA?
 ----------
 
 1. **First download the TMA questions paper from dashboard**  
-     [NIOS Student portal](https://sdmis.nios.ac.in/)
-2. Go TMA window **Click on Download TMA* Download the PDFs.
+     [NIOS Student Portal](https://sdmis.nios.ac.in)
+2. Go TMA window **Click on Download TMA** Download the PDFs.
 3. **Prep work**  
    Get a blue pen, ruler, pencil, and a notebook or A4 sheets, any kind paper works.
 4. Download a document scanner of your choice 
@@ -20,10 +20,10 @@ How To Make TMA?
    - Subject name and code:
    - Medium of study:
    - Study centre/AI:  
-     *Both name and code check your ID card, the blue section or "My Details" on your dashboard*
+     **Both name and code check your ID card, the blue section or "My Details" on your dashboard**
 7. **Answer writing**  
 
-   Every question has two options *A* and *B* Make sure that you write the question number as follows,
+   Every question has two options *A* and *B* Make sure that you write the question number as follows:
    - 1 A ans.  
    > **Pro tip: At the top right corner of the page write pg-1 and so on**
 8. **Scanning of TMA**  
@@ -32,7 +32,7 @@ How To Make TMA?
 **Note:**
 - The limit is  **5MB**.
 - Check if your TMA was uploaded from TMA Status via your dashboard under TMA Status.
-- If you think there is any mistake in the TMA you can "re-upload" it for **free!** until 7 days from the day of uploading it.
+- If you think there is any mistake in the TMA you can "Re-Upload" it for **free!** until 7 days from the day of uploading it.
    
 # Terms of TMA and the date of feedback of TMA
 - TMA Submission pending: TMA isn't upload yet*
@@ -40,9 +40,8 @@ How To Make TMA?
  - TMA Allocated: When the study centre gets your TMA(s) and accepts it
 - TMA Evaluation in progress: The teacher is checking
 - TMA Evaluated: Your TMA is corrected*
--  "-": You passed that sebject.  
-> Note: the ones which are marked with a “*” are important.
-The dates can differ from student to student but it takes time for april 2024 the feedback/marks was given to everyone by the  31 april 2024.
+-  "-": You passed that sebject.
+**Note: the ones which are marked with a “*” are important. The dates can differ from student to student but it takes time for april 2024 the feedback/marks was given to everyone by the 31 april 2024.**
 
    
 
