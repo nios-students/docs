@@ -10,7 +10,7 @@ Eligibility criteria for writing ODE all student who admitted under **stream 1,3
 TMA is crucial for students as it carries **20% weightage of your theory paper.** [See sebject wise marks](https://drive.google.com/) It is uploaded online on the [sdmis website](https://sdmis.nios.ac.in/auth) only. TMA for vocational subjects **does not exist** (e.g., Data Entry-632). TMA is just Q&a they will ask you questions and you are supposed to write the answers, take pictures, make a PDF file, and then upload them.[How to make TMA](https://nios-students.pages.dev/wiki/Guidelines). TMA is only applicable for learners admitted under **stream 1. No TMA for other streams.**
 
 **Dates of TMA:**
-- **Block-1 April:** Starts in December, due on __31st January__
+- **Block-1 April:** Starts in November, due on __31st January__
 - **Block-2 October:** Starts in June, due on __31st July__
 # Practical Examination/SA
 Practical examinations are conducted at your study centre/AI (in most cases) 1 month before the public exams. For on-demand exams, **please ask in exam center the date and time on the day of theory paper.** [Detailed info on practicals](https://nios-students.pages.dev/wiki/pr)
@@ -32,7 +32,7 @@ There are two types of PCPs:
    
   **Block-1 April**
   - PCP/Doubt Clearing **Nov-Jan**
-  - FA PCP  **Jan-Mar**
+  - FA PCP  **Feb-Mar**
     
    **Block-2 October**
   - PCP/Doubt Clearing  **June-July**
