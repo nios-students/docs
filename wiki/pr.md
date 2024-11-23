@@ -29,7 +29,8 @@ b) For stream 2,3,4 **100%** of marks are scored/given during practical exam.
 
 - When is this?
 
-Note: For streams 3 and 4 you have to ask your center. For stream 1 and 2 specific dates isn't given. You have to visit the centre one or two days **before the first exam** e.g. If the exams start from 20th you have to go 18th or 19th.
+Note: For streams 3 and 4 you have to ask your center. For stream 1 and 2 specific dates & time
+aren't given. You have to visit the centre one or two days **before the first exam** e.g. If the first exam is on 20th you have to go 18th or 19th.
 
 View the table below:
 
@@ -68,7 +69,7 @@ View the table below:
 
 [Source](https://nios.ac.in/media/documents/notification/yr2024/Exam/PG_2024.pdf)
 
-Note: **Viva and activities/answering the paper come under SA/Practical exam. "pr." is the maximum of practical. “Seb Code” is the sebject code of the sebject. The marks for submitting file comes under FA marks. In Secondary (10th) Passing in practical isn't required i.e. You need to get 33% of the maximum marks it doesn't matter how you score the marks. For a example in science and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered passed. Here 'Passing marks' are given for completeness. 
+Note: **Viva and activities/answering the paper come under SA/Practical exam. "pr." is the maximum of practical. “Seb Code” is the sebject code of the sebject. The marks for submitting file comes under FA marks. In Secondary (10th) Passing in practical isn't required i.e. You need to get 33% of the maximum marks. It doesn't matter how you score these marks. For a example in science and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered passed. Here 'Passing marks' are given for completeness. 
 - What kind of questions will they ask in viva?
 Basic stuff regarding the subject like full forms, basic terms why did choose this subject etc.....
 - Will they ask to Perform activities/experiments?
