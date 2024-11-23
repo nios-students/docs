@@ -51,7 +51,7 @@ View the table below:
 | Sr.No | Seb Code                                           | Pr. | FA | SA | File | Viva | Activities/Answering the Paper | Passing Marks |
 | ----- | -------------------------------------------------- | --- | -- | -- | ---- | ---- | ------------------------------ | ------------- |
 | 1     | 330                                                | 40  | 20 | 20 | 2¼  | 5    | 15                             | 13            |
-| 2     | 312,313,314,333,335,376 and others (with 20 marks) | 20  | 10 | 10 | 2    | 3    | 7                              | 7             |
+| 2     | 312,313,314,333,335,376 and others with 20 marks| 20  | 10 | 10 | 2    | 3    | 7                              | 7             |
 | 3     | 332 (NEW)                                          | 60  | 30 | 30 | 6    | 10   | 20                             | 19            |
 | 4     | 332 (OLD)                                          | 70  | 35 | 35 | 7    | 15   | 20                             | 23            |
 | 5     | 336                                                | 60  | 30 | 30 | 5    | 5    | 25                             | 19            |
@@ -69,7 +69,7 @@ View the table below:
 
 [Source](https://nios.ac.in/media/documents/notification/yr2024/Exam/PG_2024.pdf)
 
-Note: **Viva and activities/answering the paper come under SA/Practical exam. "pr." is the maximum of practical. “Seb Code” is the sebject code of the sebject. The marks for submitting file comes under FA marks. In Secondary (10th) Passing in practical isn't required i.e. You need to get 33% of the maximum marks. It doesn't matter how you score these marks. For a example in science and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered passed. Here 'Passing marks' are given for completeness. 
+Note: **Viva and activities/answering the paper come under SA/Practical exam. "pr." is the maximum of practical. “Seb Code” is the sebject code of the sebject. The marks for submitting file comes under FA marks. In Secondary (10th) Passing in practical isn't required i.e. You need to get 33% of the maximum marks. It doesn't matter how you score these marks. For a example in science and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered passed. Here 'Passing marks' are given for completeness.** 
 - What kind of questions will they ask in viva?
 Basic stuff regarding the subject like full forms, basic terms why did choose this subject etc.....
 - Will they ask to Perform activities/experiments?
