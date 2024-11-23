@@ -4,19 +4,22 @@ Practical Exam
 1. Submission of practical file
 2. Viva/oral
 3. Activity/Answering the Paper
-**Submission of practical file at the day of exam**
+
+Note: **Submission of practical file at the day of exam**
 - [How to make the practical file (Click to view)](https://nios-students.pages.dev/wiki/howto-rec-book)
 - What is FA?
-FA (formative assessment) also known as FA PCP carries **50% of practical marks** In these classes they'll help with making practical file and explain what to do practical exam **FA IS FOR STREAM 1 ONLY**
+FA (formative assessment) also known as FA PCP carries **50% of practical marks.** In these classes they'll help with making practical file and explain what to do practical exam 
+
+Note: **FA is only for stream 1 students.**
 
 **Exceptions**
 
-a) NO FA for stream 2,3 and 4 meaning **100%** of marks are scored/given during practical exam itself
+a) NO FA PCP for stream 2,3 and 4 meaning. **100%** of marks are scored/given during practical exam iself. 
 
-b) NO FA **marks** for vocational sebjects meaning **100%** of marks is Scored/given during Practical exam.
+b) NO FA PCP **marks** for vocational sebjects meaning **100%** of marks is Scored/given during Practical exam.
 
 - What is SA?
-SA (Summit assessment) also kown as practical exam here other **50%** of the marks are given/scored.
+SA (Summative Assessment) also kown as practical exam here other **50%** of the marks are given/scored.
 
 **Exceptions**
 
@@ -24,9 +27,9 @@ a) For vocational sebjects it's 100% cus no **FA marks**
 
 b) For stream 2,3,4 **100%** of marks are scored/given during practical exam.
 
-- When is this then?
+- When is this?
 
-Note: For streams 3 and 4 you have to ask your center. For stream 1 and 2 specific dates isn't given. You have to visit the centre one or two days **before the first exam** e.g. 20th you have to go 18th or 19th.
+Note: For streams 3 and 4 you have to ask your center. For stream 1 and 2 specific dates isn't given. You have to visit the centre one or two days **before the first exam** e.g. If the exams start from 20th you have to go 18th or 19th.
 
 View the table below:
 
@@ -65,22 +68,20 @@ View the table below:
 
 [Source](https://nios.ac.in/media/documents/notification/yr2024/Exam/PG_2024.pdf)
 
-Note: **Viva and activities/answering the paper come under the SA/Practical Exam. "pr." is the maximum of practical. “Seb Code” is the sebject code of the sebject. The marks for submitting file comes under FA marks. In 10th  (secondary) Passing in practical isn't required i.e. You need to get 33% of the maximum marks it doesn't matter how you score the marks. For a example in sci. and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered passed Here 'Passing marks' are given for completeness only. THIS TABLE applies TO STREAM 1 ONLY**
+Note: **Viva and activities/answering the paper come under SA/Practical exam. "pr." is the maximum of practical. “Seb Code” is the sebject code of the sebject. The marks for submitting file comes under FA marks. In Secondary (10th) Passing in practical isn't required i.e. You need to get 33% of the maximum marks it doesn't matter how you score the marks. For a example in science and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered passed. Here 'Passing marks' are given for completeness. 
 - What kind of questions will they ask in viva?
-Basic stuff regarding the subject like full forms,basic terms why did choose this subject etc.
+Basic stuff regarding the subject like full forms, basic terms why did choose this subject etc.....
 - Will they ask to Perform activities/experiments?
 Probably not even if they do it would basic stuff.
 - What will come in the writen paper?
-They will ask any experiments in your lab manual
-
-You have to write the whole thing mostly it's like this ***Write any two from the given four***
+They will ask any experiments in your lab manual. You have to write the whole thing. Mostly it's like this ***Write any two from the given four***
 # Instructions/Checklist
 
 **One or Two day Before the first exam**
 
 Go to the address given in the hallticket for specific time and date. The schedule should be displayed on there notice board or gate.
 
-**What to bring (On the day of the exam**
+**What to bring (On the day of the exam**)
 1. [ID card of NIOS](https://sdmis.nios.ac.in/registration/id-card) 
 2. Pen and other stationary
 3. ID Proof like aadhaar Card, Passport or PAN card etc
@@ -89,7 +90,7 @@ Go to the address given in the hallticket for specific time and date. The schedu
 6. Pad
 7. Water bottle *remember to stay hydrated and chill!*
 
-Note: All the documents should in printed form black and white works. *The hallticket is released one week before the first exam*
+Note: All the documents **should in printed form** *The hallticket is released one week before the first exam*
 # Other stuff
 The time for all Subjects is ***3hrs***
 
@@ -102,5 +103,5 @@ Wear anything __formal clothing__
 ----
 Any questions? [Ask here](https://www.reddit.com/r/NIOS_Students/submit)
 
-# Research and Written by yours  truly *pingforhelp (GOD OF TIME)*
+# Research and Written by yours  truly *pingforhelp*
 
