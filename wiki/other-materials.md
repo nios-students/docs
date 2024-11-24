@@ -7,10 +7,10 @@ The materials are applicable for all exams (On demand and public) so, please sto
 - [Books](https://nios.ac.in/online-course-material.aspx) and [Vocational Books (in .pdf)](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1nL-EvabkRTi)
 
 - [Guides](https://drive.google.com/drive/folders/1Y4fr5EDyuxpoapeeQHkqvkki11fdBeZV)
-**Physical Education, Physics, maths, Chemistry Science and technology (10th Sec),Home Science (10th Sec)  and English (12th Sr.Sec)**
+**Physical Education, Physics, Maths, Chemistry Science & technology (10th Sec),Home Science (10th Sec)  and English (12th Sr.Sec)**
 - [English formats of letter, e-mail memos (Applicable both Secondary and Senior Secondary 10th and 12th)](https://drive.google.com/file/d/16_x7g3z3xabTg_a1eRRZBhVV8LLhFiD1/view?usp=drivesdk)
 
-- [Question Banks (**12th**)](https://drive.google.com/drive/folders/1BUGHbC5k6UpgkfrdY3FWd47MzJ0SJM8r) **Physics,Chemistry,Biology,Mathematics, Geography,Home Science,Environmental science,Political Science,Early Childhood Care,History,Physical Education And Yoga,Painting,Introduction To Laws,Sociology,Business,Studies,Economics,English and history**
+- [Question Banks (**12th Sr.Sec**)](https://drive.google.com/drive/folders/1BUGHbC5k6UpgkfrdY3FWd47MzJ0SJM8r) **Physics,Chemistry,Biology,Mathematics, Geography,Home Science,Environmental science,Political Science,Early Childhood Care,History,Physical Education And Yoga,Painting,Introduction To Laws,Sociology,Business,Studies,Economics,English and history**
 - [Student made notes](https://drive.google.com/drive/folders/1vXLyIQTRAoP_jEQ0eZRUijmr0Wnux_dn)
 **Maths, Chemistry, English (Sr.Sec 12th), Introduction To Laws and Buisness Studies (Sr.Sec 12th)**
 
@@ -49,9 +49,9 @@ Computing-608](https://drive.google.com/file/d/1ByDCX_yhvUg-SXHroICBEaNCUzaPHwYI
 
 _______________
 # Credits 
-**Special thanks!! to anyone who scan and sent there paper**
+**Special thanks!! to anyone who scanned and sent there paper**
 
-Compiler of PYQ's (apr 24 & oct 24) practical files, Handwritten TMAs,voc books,writer of Introduction To Laws notes,practical files of 336,663,330 and person in charge of maintenance of this document 
+Compiler of PYQ's (apr 24 & oct 24) practical files, Handwritten TMAs, voc books,writer of Introduction To Laws notes, practical files of 336, 663, 330 and person in charge of maintenance of this document 
 **Tamim**
 
 Compiler of handwritten TMAs,Guides of physics and chemistry
@@ -76,8 +76,7 @@ _______________
 
 # Copyright Statement
 
-* All  student made notes, practical files (namely 330,663 and 336) are sebject to © nios-Students Contributors 2024. The above listed can not
+* All  student made notes, practical files are sebject to © nios-Students Contributors 2024. The above listed can not
 modified nor allowed to sell without the permission of web developer and content author of particular the sebject/topic/work.
-* No code, images, logos or any other assets of **The National
-Institute of Open Schooling** copy nor used in making of this website.
-* If copyright Laws have been violated. We shall remove such content upon notice from the copyright holder. Please contact us @ unofficialnios[at]gmail.com or DM (Direct Message) thought our [discord control unit](123846010524310331252312333333333333332312312311515454484845631444446455555444447656896+84784-564566555566545666555555544443344444454984615364464632656658488884848486484848446468464564864864884ijijijuijimkjkljkjjujkiujkujhkjhjkhkjhkjlhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhuiyggggggggg-_5643454££443££ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg67822265454541521544532322323262534414544454534545454545454542)
+* No code, images, logos or any other assets of **The National Institute of Open Schooling** copy nor used in making of this website.
+* If copyright Laws have been violated. We shall remove such content upon notice from the copyright holder. Please contact us @ unofficialnios[at]gmail.com or DM (Direct Message) thought our [discord control unit](123846010524310331252312333333333333332312312311515454484845631444446455555444447656896+84784-564566555566545666555555544443344444454984615364464632656658488884848486484848446468464564864864884ijijijuijimkjkljkjjujkiujkujhkjhjkhkjhkjlhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhuiyggggggggg-_5643454££443££ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg678222654545415215445323223232627_-*-7@&£&'£3'@@¥¥¢^|$°€€``^=§§[$¥¥¢✓$`√✓$¥^{```¢%&_£56DFFSETYFFDRTUGDRTFDDDFGRDDDWWSDDDFDAQWDGJKJCX534414544454534545454545454542)
