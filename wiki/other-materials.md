@@ -1,4 +1,4 @@
-Last updated 🕔:**15-11-2024,02:46PM IST**
+Last updated 🕔:**28-11-2024,07:23PM IST**
 
 The materials are applicable for all exams (On demand and public) so, please stop asking that.
 ----
@@ -39,7 +39,7 @@ The materials are applicable for all exams (On demand and public) so, please sto
 - [VOC-Basic
 Computing-608](https://drive.google.com/file/d/1ByDCX_yhvUg-SXHroICBEaNCUzaPHwYI/view?usp=drivesdk)
 # TMA
-- [TMA **2024-25**](https://drive.google.com/drive/folders/1eFHUKAtpzh-rBjDm4k4zfn3_AZmu0Byh)
+- [TMA **2024-25**](https://drive.google.com/drive/folders/1eFHUKAtpzh-rBjDm4k4zfn3_AZmu0Byh) Last date of Submission is **31 January.** 
 # Question Papers of Previous Year's Examination
 - PYQs of april 2024 [Sr.Secondary (12th)](https://drive.google.com/drive/folders/1pPiI4xloWBmxJ05zej-b-WDO2KzyKlnr) and [Secondary (10th)](https://drive.google.com/drive/folders/1TeVxkTpZndUQNLPmUMGjQaekqa6-D7QC)
 - [PYQs **October-November 2024**](https://drive.google.com/drive/folders/1upgHPV4moRE72l4IHVCE9FpkNMbF8Kvh)
