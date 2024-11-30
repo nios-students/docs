@@ -17,4 +17,4 @@ Ans: There must be at least a 2-year gap between passing 10th grade and passing 
 
 # I just Public Exam now i wanna register for the upcoming Public Exam but it won't let me why is that?
 
-Ans: Please wait until results of the exam you will released. NIOS will make other schedule for you. [Join our WhatsApp update channel](https://whatsapp.com/channel/0029VamKd7w3LdQV8AqlNF1h)
+Ans: Please wait until results of the exam you gave are released. NIOS will make other schedule for you. [Join our WhatsApp update channel](https://whatsapp.com/channel/0029VamKd7w3LdQV8AqlNF1h)
