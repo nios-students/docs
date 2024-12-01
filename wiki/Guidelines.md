@@ -5,7 +5,7 @@ How To Make TMA?
      [NIOS Student Portal](https://sdmis.nios.ac.in)
 2. Go TMA window **Click on Download TMA** Download the PDFs.
 3. **Prep work**  
-   Get a blue pen, ruler, pencil, and a notebook or A4 sheets, any kind paper works.
+   Get a blue pen, ruler, pencil, and a notebook or A4 sheets, any kind of paper is fine.
 4. Download a document scanner of your choice 
 [Okenscan](https://play.google.com/store/apps/details?id=com.cambyte.okenscan)
 5. **Download the solved TMAs or start finding the answers from the textbook**
@@ -21,12 +21,13 @@ How To Make TMA?
      **Both name and code check your ID card, the blue section or "My Details" on your dashboard**
 7. **Answer writing**  
 
-   Every question has two options *A* and *B* Make sure that you write the question number as follows:
+   Every question has two options *A* and *B*. Make sure that you write the question number as follows:
    - 1 A ans.  
    > **Pro tip: At the top right corner of the page write pg-1 and so on**
 8. **Scanning of TMA**  
    Make sure you are in a well-lighted area. Open the Oken scanner app or any other scanner app. Click pictures of the TMA ensuring that the full page is in the frame.
 9. **Uploading of TMA(s)** Go to https://sdmis.nios.ac.in Under TMA window click on TMA upload. A list of all your TMA will appear. Click the subject you wish to upload, choose your medium of study, click on upload, and find the file of that subject.
+
 **Note:**
 - The limit is  **5MB**.
 - Check if your TMA was uploaded from TMA Status via your dashboard under TMA Status.
@@ -39,6 +40,7 @@ How To Make TMA?
 - TMA Evaluation in progress: The teacher is checking
 - TMA Evaluated: Your TMA is corrected*
 -  "-": You passed that sebject.
+
 **Note: the ones which are marked with a “*” are important. The dates can differ from student to student but it takes time for april 2024 the feedback/marks was given to everyone by the 31 april 2024.**
 
    
