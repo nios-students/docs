@@ -19,3 +19,35 @@ Ans: There must be at least a 2-year gap between passing 10th grade and passing 
 
 Ans: Please wait until results of the exam you gave are released. NIOS will make other schedule for you. It takes two or three weeks after the results are released. 
 [Join our WhatsApp update channel](https://whatsapp.com/channel/0029VamKd7w3LdQV8AqlNF1h)
+# What are the official video resources
+
+- [Browse videos](https://sdmis.nios.ac.in/home/video-gallery)
+- [Browse lab practicals](https://sdmis.nios.ac.in/home/lab-practical]
+
+2 YT channels for recorded vids:
+- [NIOS secondary (10th)](https://youtube.com/@niossecondarycourses)
+- [NIOS Senior Secondary (12th)](https://youtube.com/@niossenios seniorniorsecondarycourse)
+
+Other
+- [NIOS Live Video](https://youtube.com/@nioslivevideo)
+Note: Archived Live Streams from 2019-2024 (August). This channel is now used for events only.
+
+Radio:
+- [NIOS Mukta Vidyavani & Radiovahini](https://youtube.com/@niosmuktavidyavaniradiovahini)
+
+Note: This is used for audio **only** streams from 11.00 PM to 3.00 PM.
+- [Live] Community programming from 11.00 PM to 12.00 PM.
+- [Live] Secondary (10th) from 12.00 PM to 12.45 PM
+-  [Per-recorded] from 12.45 PM to 2.00 PM.
+- [Live] Senior Secondary (12th) from 2.00 PM to 2.45 PM.
+- [Live] Vocational from  3.00 PM to 3.45 PM.
+[Schedule page link](https://nios.ac.in/departmentsunits/media-unittelecast/mukta-vidya-vani-and-community-radio.aspx)
+
+Live streams there are 4 channels:
+
+- [Secondary (10th)](https://youtube.com/@ddpmevidyanios17sec) from 1.00 PM to 2.00 PM
+- [Senior Secondary (12th)](https://youtube.com/@ddpmevidyanios18srsec) from 2.00 PM to 3.00 PM 
+- [OBE/ISL](https://youtube.com/@ddpmevidyanios19obeislikt) from 3.00 PM to 4.00 PM. 
+- [Vocational](https://youtube.com/@niospmevidya20vocational) from 4.00 PM to 5.00 PM
+
+Author's note: Most videos/explanations are just people reading PPTs. Live streams are cancelled sometimes but we can't do anything about it sadly.
