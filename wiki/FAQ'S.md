@@ -22,11 +22,11 @@ Ans: Please wait until results of the exam you gave are released. NIOS will make
 # What are the official video resources
 
 - [Browse videos](https://sdmis.nios.ac.in/home/video-gallery)
-- [Browse lab practicals](https://sdmis.nios.ac.in/home/lab-practical]
+- [Browse lab practicals](https://sdmis.nios.ac.in/home/lab-practical)
 
 2 YT channels for recorded vids:
 - [NIOS secondary (10th)](https://youtube.com/@niossecondarycourses)
-- [NIOS Senior Secondary (12th)](https://youtube.com/@niossenios seniorniorsecondarycourse)
+- [NIOS Senior Secondary (12th)](https://youtube.com/@niosseniosseniorniorsecondarycourse)
 
 Other
 - [NIOS Live Video](https://youtube.com/@nioslivevideo)
