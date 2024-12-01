@@ -8,10 +8,8 @@ How To Make TMA?
    Get a blue pen, ruler, pencil, and a notebook or A4 sheets, any kind paper works.
 4. Download a document scanner of your choice 
 [Okenscan](https://play.google.com/store/apps/details?id=com.cambyte.okenscan)
-5. **Download the solved TMAs or start finding the answers from the textbook**  
-   - [Sr. Secondary](https://drive.google.com/drive/folders/1lgKI4azmOY9-DN0Zln9z8rwQw7pZ3mGq)
-   -  [Secondary](https://drive.google.com/drive/folders/1jvxqUL-eb--M7UuknJfnYwwLbWdYifCB)  
-   **Note:** These are from session 2023. We update them if NIOS changes the TMA.
+5. **Download the solved TMAs or start finding the answers from the textbook**
+- [Download for FREE](https://drive.google.com/drive/folders/1eFHUKAtpzh-rBjDm4k4zfn3_AZmu0Byh)
 6. **Front page**  
    Write the following information on the first page:
    - Name: 
