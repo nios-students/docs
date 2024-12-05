@@ -38,10 +38,7 @@ How To Make TMA?
 - Upload online: TMA is upload on the NIOS server*
  - TMA Allocated: When the study centre gets your TMA(s) and accepts it
 - TMA Evaluation in progress: The teacher is checking
-- TMA Evaluated: Your TMA is corrected*
--  "-": You passed that sebject.
+- TMA Evaluated: Your TMA is corrected/check*
+-  "-": You passed in the subject
 
-**Note: the ones which are marked with a “*” are important. The dates can differ from student to student but it takes time for april 2024 the feedback/marks was given to everyone by the 31 april 2024.**
-
-   
-
+**Note: Whatever is marked with “*” are important. The dates can differ from student to student but it takes ton of time for April 2024 the feedback/marks were given to everyone by the 31 April 2024.**
