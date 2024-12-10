@@ -19,6 +19,7 @@ Ans: There must be at least a 2-year gap between passing 10th grade and passing 
 
 Ans: Please wait until results of the exam you gave are released. NIOS will make other schedule for you. It takes two or three weeks after the results are released. 
 [Join our WhatsApp update channel](https://whatsapp.com/channel/0029VamKd7w3LdQV8AqlNF1h)
+
 # What are the official video resources
 
 - [Browse videos](https://sdmis.nios.ac.in/home/video-gallery)
@@ -51,3 +52,24 @@ Live streams there are 4 channels:
 - [Vocational](https://youtube.com/@niospmevidya20vocational) from 4.00 PM to 5.00 PM
 
 Author's note: Most videos/explanations are just people reading PPTs. Live streams are cancelled sometimes but we can't do anything about it sadly.
+
+# WHY does TMA marks shown more than 20% of theory marks?
+
+Ans:
+-From Oct 2024 session, TMA evaluation pattern has been changed.
+- As we know in Theory, full marks on Question Paper and on Marksheet remain different. (TMA marks are adjusted after calculation). So, 100 becomes 80 , 80 becomes 64 etc.
+
+- Same will be followed for TMA now onwards. On Dashboard TMA status marks will show out of 20 for all Subjects. But on Marksheet, it'll be adjusted after calculating 20% of Theory marks. 
+
+- Earlier TMA marks was uploaded after calculating 20% of Theory marks. e.g. Home Science_216, on Dashboard full marks for TMA is 20 but on Marksheet it'll be calculated out of 17. If for same subject, Dashboard is showing 18 then take it as 18 out of 20 which will become on Marksheet 15 out of 17 after calculation.  
+
+Table attached showing full TMA marks of all Subjects on Marksheet (20% of Theory Marks). Now you can calculate Actual TMA marks by yourself:
+| Seb Code/Category                  | Max Marks on the QP of TMA | 20% of Marks |
+|------------------------------------|---------------------------|--------------|
+| All Theory                         | 20                        | 20           |
+| 312, 313, 314, 316, 321, 333, 339, 335, 376 | 20            | 16           |
+| 330                                | 20                        | 12           |
+| 336                                | 20                        | 08           |
+| 373                                | 20                        | 14           |
+| 332                                | 20                        | 08           |
+
