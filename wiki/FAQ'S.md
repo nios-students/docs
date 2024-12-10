@@ -1,13 +1,40 @@
-We are working on our own FAQ's
 [Official FAQs (The offical ones are outdated)](https://sdmis.nios.ac.in/home/faqs) 
 
 # Our FAQs
-Based on your questions from telegram, discord and subreddit.
+Based on your Questions from Telegram, Discord and Subreddit.
 
 # Isn't the marks for TMA 20% more than the maximum theory marks?
 
-Ans: For some who are wondering “wait, if we add this up, it would be 116 marks in total?! How so?”, well NIOS follows a bit different rule compared to other boards here. See the 16 marks assigned in TMA is added up **by deducting 20% of marks from Public Examination, i.e. theory paper** so for example if you scored 14 marks in your TMA and 60 marks in your public exam, 20% of the marks from public exams are cut
-20%  of 60 marks = 12 marks.
+Ans: For some who are wondering “wait, if we add this up, it would be 116 marks in total?! How so?”, well NIOS follows a bit different rule compared to other boards here. See the 16 marks assigned in TMA is added up **by deducting 20% of marks from Public Examination, i.e. theory paper** so for example if you scored 14 marks in your TMA and 60 marks in your public exam, 20% of the marks from public exams are cut 20%  of 60 marks = 12 marks.
+
+# Why does TMA marks shown more than 20% of theory marks?
+
+Ans: From October 2024 session, TMA evaluation pattern has been changed. As we know in Theory, full marks on Question Paper and on Marksheet remain different. (TMA marks are adjusted after calculation) So, 100 becomes 80, 80 becomes 64. Same will be followed for TMA now onwards. Earlier TMA marks was uploaded after calculating 20% of Theory marks. e.g. Home Science 216, on Dashboard full marks for TMA is 20 but on Marksheet it'll be calculated out of 17. If for same subject, Dashboard is showing 18 then take it as 18 out of 20 which will become on marksheet 15 out of 17 after calculation.  
+
+Table attached showing full TMA marks of all Subjects on Marksheet (20% of Theory Marks). Now you can calculate Actual TMA marks by yourself:
+
+> Note: **'Theory' refers to subjects without practical e.g. Social science, History**.
+
+12th (Senior Secondary)
+-----
+| Seb Code/Category                  | Max Marks on th QP  | 20% of Marks |
+|------------------------------------|---------------------------|--------------|
+| All Theory and Languages            | 80                        | 20           |
+| 312, 313, 314, 316, 321, 333, 339, 335 and 376 | 64               | 16           |
+| 330                                | 60                        | 12           |
+| 336                                | 40                        | 08           |
+| 373                                | 70                        | 14           |
+| 332                                | 40                        | 08           |
+------
+10th (Secondary)
+---
+| Seb Code/Category              | Max Marks on Th QP | 20% i.e. Max Marks of TMA |
+|---------------------------------|---------------------|---------------------------|
+| All Theory and Languages        | 80                  | 20                        |
+| 211, 212 and 216                | 68                  | 17                        |
+| 225                             | 30                  | 06                        |
+| 229, 230, 242 and 243           | 40                  | 08                        |
+---
 
 # What is the gap? (this for freshers of **12th Sr.Sec** only)
 
@@ -48,33 +75,6 @@ Live streams there are 4 channels:
 - [OBE/ISL](https://youtube.com/@ddpmevidyanios19obeislikt) from 3.00 PM to 4.00 PM. 
 - [Vocational](https://youtube.com/@niospmevidya20vocational) from 4.00 PM to 5.00 PM
 > **Author's note: Most videos/explanations are just people reading PPTs. Live streams are cancelled sometimes but we can't do anything about it sadly.**
-
-# Why does TMA marks shown more than 20% of theory marks?
-
-Ans: From October 2024 session, TMA evaluation pattern has been changed. As we know in Theory, full marks on Question Paper and on Marksheet remain different. (TMA marks are adjusted after calculation) So, 100 becomes 80, 80 becomes 64. Same will be followed for TMA now onwards. Earlier TMA marks was uploaded after calculating 20% of Theory marks. e.g. Home Science 216, on Dashboard full marks for TMA is 20 but on Marksheet it'll be calculated out of 17. If for same subject, Dashboard is showing 18 then take it as 18 out of 20 which will become on marksheet 15 out of 17 after calculation.  
-
-Table attached showing full TMA marks of all Subjects on Marksheet (20% of Theory Marks). Now you can calculate Actual TMA marks by yourself:
-
-> Note: **'Theory' refers to subjects without practical e.g. Social science, History**.
-
-12th (Senior Secondary)
-| Seb Code/Category                  | Max Marks on th QP  | 20% of Marks |
-|------------------------------------|---------------------------|--------------|
-| All Theory and Languages            | 80                        | 20           |
-| 312, 313, 314, 316, 321, 333, 339, 335 and 376 | 64               | 16           |
-| 330                                | 60                        | 12           |
-| 336                                | 40                        | 08           |
-| 373                                | 70                        | 14           |
-| 332                                | 40                        | 08           |
-------
-10th (Secondary)
-| Seb Code/Category              | Max Marks on Th QP | 20% i.e. Max Marks of TMA |
-|---------------------------------|---------------------|---------------------------|
-| All Theory and Languages        | 80                  | 20                        |
-| 211, 212 and 216                | 68                  | 17                        |
-| 225                             | 30                  | 06                        |
-| 229, 230, 242 and 243           | 40                  | 08                        |
---------
 
 # What is ABCID? Is that required?
 
