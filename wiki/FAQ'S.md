@@ -42,6 +42,7 @@ Note: This is used for audio **only** streams from 11.00 PM to 3.00 PM.
 -  [Per-recorded] from 12.45 PM to 2.00 PM.
 - [Live] Senior Secondary (12th) from 2.00 PM to 2.45 PM.
 - [Live] Vocational from  3.00 PM to 3.45 PM.
+
 [Schedule page link](https://nios.ac.in/departmentsunits/media-unittelecast/mukta-vidya-vani-and-community-radio.aspx)
 
 Live streams there are 4 channels:
@@ -53,23 +54,38 @@ Live streams there are 4 channels:
 
 Author's note: Most videos/explanations are just people reading PPTs. Live streams are cancelled sometimes but we can't do anything about it sadly.
 
-# WHY does TMA marks shown more than 20% of theory marks?
+# Why does TMA marks shown more than 20% of theory marks?
 
-Ans:
--From Oct 2024 session, TMA evaluation pattern has been changed.
-- As we know in Theory, full marks on Question Paper and on Marksheet remain different. (TMA marks are adjusted after calculation). So, 100 becomes 80 , 80 becomes 64 etc.
-
-- Same will be followed for TMA now onwards. On Dashboard TMA status marks will show out of 20 for all Subjects. But on Marksheet, it'll be adjusted after calculating 20% of Theory marks. 
-
-- Earlier TMA marks was uploaded after calculating 20% of Theory marks. e.g. Home Science_216, on Dashboard full marks for TMA is 20 but on Marksheet it'll be calculated out of 17. If for same subject, Dashboard is showing 18 then take it as 18 out of 20 which will become on Marksheet 15 out of 17 after calculation.  
+Ans: From October 2024 session, TMA evaluation pattern has been changed.
+- As we know in Theory, full marks on Question Paper and on Marksheet remain different. (TMA marks are adjusted after calculation) So, 100 becomes 80, 80 becomes 64. Same will be followed for TMA now onwards. Earlier TMA marks was uploaded after calculating 20% of Theory marks. e.g. Home Science 216, on Dashboard full marks for TMA is 20 but on Marksheet it'll be calculated out of 17. If for same subject, Dashboard is showing 18 then take it as 18 out of 20 which will become on marksheet 15 out of 17 after calculation.  
 
 Table attached showing full TMA marks of all Subjects on Marksheet (20% of Theory Marks). Now you can calculate Actual TMA marks by yourself:
-| Seb Code/Category                  | Max Marks on the QP of TMA | 20% of Marks |
+
+Note: 'Theory' refers to subjects without practical e.g. Social science or History 'Language' refters
+12th (Senior Secondary)
+| Seb Code/Category                  | Max Marks on th QP  | 20% of Marks |
 |------------------------------------|---------------------------|--------------|
-| All Theory                         | 20                        | 20           |
-| 312, 313, 314, 316, 321, 333, 339, 335, 376 | 20            | 16           |
-| 330                                | 20                        | 12           |
-| 336                                | 20                        | 08           |
-| 373                                | 20                        | 14           |
-| 332                                | 20                        | 08           |
+| All Theory and Language            | 80                        | 20           |
+| 312, 313, 314, 316, 321, 333, 339, 335, 376 | 64               | 16           |
+| 330                                | 60                        | 12           |
+| 336                                | 40                        | 08           |
+| 373                                | 70                        | 14           |
+| 332                                | 40                        | 08           |
+------
+10th (Secondary)
+| Seb Code/Category              | Max Marks on Th QP | 20% i.e. Max Marks of TMA |
+|---------------------------------|---------------------|---------------------------|
+| All Theory and Language         | 80                  | 20                        |
+| 211, 212 and 216                | 68                  | 17                        |
+| 225                             | 30                  | 06                        |
+| 229, 230, 242 and 243           | 40                  | 08                        |
+--------
+
+# What is ABCID? Is that required?
+
+Ans: ABCID is used to Keep track of  academic progress it's mostly by College going students. No it's not required however, a popup will be display every time you login.
+
+# Which PCP is important (Only for Stream 1)?
+
+Ans: FA PCP Carries **50% weightage of Practicals** [Read more...](https://nios-students.pages.dev/wiki/Exams-Assignments#pcp-personal-contact-programme) 
 
