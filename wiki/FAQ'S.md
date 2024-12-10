@@ -13,7 +13,7 @@ Ans: From October 2024 session, TMA evaluation pattern has been changed. As we k
 
 Table attached showing full TMA marks of all Subjects on Marksheet (20% of Theory Marks). Now you can calculate Actual TMA marks by yourself:
 
-> Note: **'Theory' refers to subjects without practical e.g. Social science, History**.
+> Note: **'Theory' refers to subjects without practical e.g. Social science, History**. [Sebject name with code](https://docs.google.com/document/d/1IkOCPBsEOd-owsX70-DvP0b5epAoJob3zEtI3OGJUMs/edit?usp=drive_link)
 
 12th (Senior Secondary)
 -----
