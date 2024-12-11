@@ -22,7 +22,7 @@ Table attached showing full TMA marks of all Subjects on Marksheet (20% of Theor
 | All Theory and Languages            | 80                        | 20           |
 | 312, 313, 314, 316, 321, 333, 339, 335 and 376 | 64               | 16           |
 | 330                                | 60                        | 12           |
-| 336                                | 40                        | 08           |
+| 336                                | 32                        | 08           |
 | 373                                | 70                        | 14           |
 | 332                                | 40                        | 08           |
 ------
