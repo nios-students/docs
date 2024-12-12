@@ -21,9 +21,9 @@ Table attached showing full TMA marks of all Subjects on Marksheet (20% of Theor
 |------------------------------------|---------------------------|--------------|
 | All Theory and Languages            | 80                        | 20           |
 | 312, 313, 314, 316, 321, 333, 339, 335 and 376 | 64               | 16           |
-| 330                                | 60                        | 12           |
+| 330                                | 48                        | 12           |
 | 336                                | 32                        | 08           |
-| 373                                | 70                        | 14           |
+| 373                                | 56                        | 14           |
 | 332                                | 40                        | 08           |
 ------
 10th (Secondary)
@@ -32,9 +32,13 @@ Table attached showing full TMA marks of all Subjects on Marksheet (20% of Theor
 |---------------------------------|---------------------|---------------------------|
 | All Theory and Languages        | 80                  | 20                        |
 | 211, 212 and 216                | 68                  | 17                        |
-| 225                             | 30                  | 06                        |
-| 229, 230, 242 and 243           | 40                  | 08                        |
+| 225                             | 24                  | 06                        |
+| 229, 230, 242 and 243           | 32                  | 08                        |
 ---
+
+# How checks my TMA and much effort do put in it?
+
+Ans: Processing Please Wait...
 
 # What is the gap? (this for freshers of **12th Sr.Sec** only)
 
@@ -48,8 +52,9 @@ Ans: There must be at least a 2 year gap between passing 10th grade and passing 
 Ans: Please wait until results of the exam you gave are released. NIOS will make other schedule for you. It takes two or three weeks after the results are released. 
 [Join our WhatsApp update channel](https://whatsapp.com/channel/0029VamKd7w3LdQV8AqlNF1h)
 
-# What are the official video resources 
-Related links [Browse videos](https://sdmis.nios.ac.in/home/video-gallery) and [Browse lab practicals](https://sdmis.nios.ac.in/home/lab-practical)
+# What are the official video resources
+
+Ans: Related links [Browse videos](https://sdmis.nios.ac.in/home/video-gallery) and [Browse lab practicals](https://sdmis.nios.ac.in/home/lab-practical)
 
 2 YT channels for recorded vids:
 - [NIOS secondary (10th)](https://youtube.com/@niossecondarycourses)
@@ -83,5 +88,5 @@ Ans: ABCID is used to Keep track of  academic progress it's mostly by College go
 
 # Which PCP is important? (Only for Stream 1)
 
-Ans: FA PCP Carries **50% weightage of Practicals** [Read More...](https://nios-students.pages.dev/wiki/Exams-Assignments#pcp-personal-contact-programme) 
+Ans: The first PCP in December-November doesn't carry any marks. FA PCP Carries **50% weightage of Practicals** [Read More...](https://nios-students.pages.dev/wiki/Exams-Assignments#pcp-personal-contact-programme) 
 
