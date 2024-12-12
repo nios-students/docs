@@ -38,7 +38,7 @@ Table attached showing full TMA marks of all Subjects on Marksheet (20% of Theor
 
 # How checks my TMA and much effort do put in it?
 
-Ans: Processing Please Wait...
+Ans: The teacher at your or other in your city AI (Study Centre). Low-effort as instagram.
 
 # What is the gap? (this for freshers of **12th Sr.Sec** only)
 
