@@ -38,9 +38,10 @@ Table attached showing full TMA marks of all Subjects on Marksheet (20% of Theor
 
 # What is the gap? (this for freshers of **12th Sr.Sec** only)
 
-Ans: There must be at least a 2-year gap between passing 10th grade and passing 12th.
-- If you passed 10th grade after April 2023 (e.g., October 2023, April 2024, or October 2024) and are taking 12th-grade exams in April-May 2025, you can only pay exam fees for up to 4 subjects.  
-- If you pay for more than 4 subjects and don’t meet the 2-year gap, your results won’t be declared.
+Ans: There must be at least a 2 year gap between passing 10th grade and passing 12th.
+- If you passed 10th grade
+(April 2024, or October 2024) and are taking 12th grade exams in April-May 2025, you can only pay exam fees for up to 4 subjects. (You can 4 sebjects or 1 sebject or not give any sebject)
+- If you pay for more than 4 subjects and don’t meet the 2 year gap, your results won’t be declared.
 
 # I gave Public Exam now i wanna register for the upcoming Public Exam but it won't let me why is that?
 
