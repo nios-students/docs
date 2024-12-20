@@ -79,4 +79,4 @@ _______________
 modified nor allowed to sell without the permission of web developer and content author of particular the sebject/topic/work.
 * No code, images, logos or any other assets of **The National Institute of Open Schooling** copy nor used in making of this website.
 * If copyright Laws have been violated. We shall remove such content upon notice from the copyright holder. Please contact us @ unofficialnios[at]gmail.com or DM (Direct Message) thought our [discord control unit](
-* hello@nios-students.pages.dev)
+  hello@nios-students.pages.dev)
