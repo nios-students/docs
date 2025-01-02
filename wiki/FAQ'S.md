@@ -92,3 +92,7 @@ Ans: ABCID is used to Keep track of  academic progress. It's mostly by College g
 
 Ans: The first PCP in December-November (block 1) June- July (block 2) doesn't carry any marks. FA PCP Carries **50% weightage of Practicals** [Read More...](https://nios-students.pages.dev/wiki/Exams-Assignments#pcp-personal-contact-programme) 
 
+# What do if my AI is closed or no longer affiliated NIOS?
+
+Ans: [Video](https://www.youtube.com/watch?v=71NpR2dxaPU)
+
