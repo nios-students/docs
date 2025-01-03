@@ -38,6 +38,11 @@ There are two types of PCPs:
   - PCP/Doubt Clearing  **June-July**
   - FA PCP  **Aug-Sept**
 
+Related links:
+1. PCP schedule link
+2. PCP batch hallticket 
+3. FA hallticket
+
 
 
 
