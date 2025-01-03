@@ -94,5 +94,19 @@ Ans: The first PCP in December-November (block 1) June- July (block 2) doesn't c
 
 # What do if my AI is closed or no longer affiliated NIOS?
 
-Ans: [Video](https://www.youtube.com/watch?v=71NpR2dxaPU)
+[Video](https://www.youtube.com/watch?v=71NpR2dxaPU)
+
+# How can i reduce size of a pdf file?
+
+[Video](https://youtu.be/aHFF2MYb-6I?si=andCzj9cA3OdA9ua) 
+
+Note: Ilovepdf is website so, you can do this on any device which has a web browser and storage for.pdf file.
+
+# How to open .zip file?
+
+- [Video for windows]()
+- [Video for Android]()
+- [Video for IOS]()
+- [Video for chromebooks]()
+- [Web based tools in case you don't space to download a tool]()
 
