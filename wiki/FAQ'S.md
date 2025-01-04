@@ -104,9 +104,11 @@ Note: Ilovepdf is website so, you can do this on any device which has a web brow
 
 # How to open .zip file?
 
-- [Video for windows]()
-- [Video for Android]()
-- [Video for IOS]()
-- [Video for chromebooks]()
-- [Web based tools in case you don't space to download a tool]()
+- Videos for windows:
+1. [Windows 7](https://www.youtube.com/watch?v=nXAYWwiDvc8)
+2. [Windows 10/11](https://www.youtube.com/watch?v=f1Iw9P_QQsc)
+- [Video for Android](https://www.youtube.com/watch?v=RyhkTF2jt90)
+- [Video for IOS](https://www.youtube.com/watch?v=TFcBqqDGLr4)
+- [Video for chromebooks](https://www.youtube.com/watch?v=J8Mzm01rpbc)
+- [Web based tools in case you don't space to download a tool](https://www.ezyzip.com/unzip-files-online.html)
 
