@@ -9,8 +9,7 @@ Note: **Submission of practical file at the day of exam**
 - Which subject has practical?
   Ans: Please view the table below:
   -----
-  
-  | Subject Code | Class         | Subject Name                              |
+| Subject Code | Class         | Subject Name                                |
 |--------------|---------------|---------------------------------------------|
 | 211          | Secondary     | Mathematics                                |
 | 212          | Secondary     | Science and Technology                     |
@@ -60,7 +59,7 @@ Note: **Submission of practical file at the day of exam**
 | 661          | Sr. Secondary | CRM Domestic Voice                         |
 | 663          | Sr. Secondary | Computer Hardware Assembly & Maintenance   |
 | 667          | Sr. Secondary | Yoga Assistant                             |
--------
+
 - [How to make the practical file (Click to view)](https://nios-students.pages.dev/wiki/howto-rec-book)
 - What is FA?
 FA (formative assessment) also known as FA PCP carries **50% of practical marks.** In these classes they'll help with making practical file and explain what to do practical exam 
