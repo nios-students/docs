@@ -39,7 +39,7 @@ There are two types of PCPs:
   - FA PCP  **Aug-Sept**
 
 Related links:
-1. PCP batch hallticket(https://sdmis.nios.ac.in/search/pcp-hall-ticket) 
+1. [PCP batch hallticket](https://sdmis.nios.ac.in/search/pcp-hall-ticket) 
 2. [FA PCP hallticket](https://sdmis.nios.ac.in/search/fa-hall-ticket)
 
 
