@@ -9,7 +9,8 @@ Note: **Submission of practical file at the day of exam**
 - Which subject has practical?
   Ans: Please view the table below:
   -----
-  | Subject Code | Class         | Subject Name                                |
+  
+  | Subject Code | Class         | Subject Name                              |
 |--------------|---------------|---------------------------------------------|
 | 211          | Secondary     | Mathematics                                |
 | 212          | Secondary     | Science and Technology                     |
