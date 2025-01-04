@@ -6,6 +6,60 @@ Practical Exam
 3. Activity/Answering the Paper
 
 Note: **Submission of practical file at the day of exam**
+- Which subject has practical?
+  Ans: Please view the table below:
+  -----
+  | Subject Code | Class         | Subject Name                                |
+|--------------|---------------|---------------------------------------------|
+| 211          | Secondary     | Mathematics                                |
+| 212          | Secondary     | Science and Technology                     |
+| 216          | Secondary     | Home Science                               |
+| 225          | Secondary     | Painting                                   |
+| 229          | Secondary     | Data Entry Operations                      |
+| 230          | Secondary     | Indian Sign Language                       |
+| 242          | Secondary     | Hindustani Sangeet                         |
+| 243          | Secondary     | Carnatic Sangeet                           |
+| 244          | Secondary     | Folk Art                                   |
+| 285          | Secondary     | Natyakala                                  |
+| 256          | Secondary     | Bakery and Confectionery                   |
+| 605          | Secondary     | Cutting and Tailoring                      |
+| 606          | Secondary     | Dress Making                               |
+| 608          | Secondary     | Basic Computing                            |
+| 612          | Secondary     | Beauty Culture and Hair Care               |
+| 613          | Secondary     | Desk Top Publishing                        |
+| 614          | Secondary     | Yoga                                       |
+| 628          | Secondary     | Indian Embroidery                          |
+| 640          | Secondary     | Beauty Therapy                             |
+| 641          | Secondary     | Hair Care and Styling                      |
+| 642          | Secondary     | Hand and Foot Care                         |
+| 312          | Sr. Secondary | Physics                                    |
+| 313          | Sr. Secondary | Chemistry                                  |
+| 314          | Sr. Secondary | Biology                                    |
+| 316          | Sr. Secondary | Geography                                  |
+| 321          | Sr. Secondary | Home Science                               |
+| 330          | Sr. Secondary | Computer Science                           |
+| 332          | Sr. Secondary | Painting                                   |
+| 333          | Sr. Secondary | Environmental Science                      |
+| 335          | Sr. Secondary | Mass Communication                         |
+| 336          | Sr. Secondary | Data Entry Operations                      |
+| 339          | Sr. Secondary | Library and Information Science            |
+| 373          | Sr. Secondary | Physical Education and Yog                 |
+| 376          | Sr. Secondary | Early Childhood Care & Education           |
+| 385          | Sr. Secondary | Natyakala                                  |
+| 356          | Sr. Secondary | House-Keeping                              |
+| 357          | Sr. Secondary | Catering Management                        |
+| 358          | Sr. Secondary | Food Processing                            |
+| 360          | Sr. Secondary | Hotel Front Office Operations              |
+| 363          | Sr. Secondary | Preservation of Fruits and Vegetables      |
+| 622          | Sr. Secondary | Web Designing and Development              |
+| 631          | Sr. Secondary | Computer & Office Applications             |
+| 632          | Sr. Secondary | Data Entry Operations                      |
+| 651          | Sr. Secondary | IT Essentials: PC Hardware and Software    |
+| 660          | Sr. Secondary | Web Development                            |
+| 661          | Sr. Secondary | CRM Domestic Voice                         |
+| 663          | Sr. Secondary | Computer Hardware Assembly & Maintenance   |
+| 667          | Sr. Secondary | Yoga Assistant                             |
+-------
 - [How to make the practical file (Click to view)](https://nios-students.pages.dev/wiki/howto-rec-book)
 - What is FA?
 FA (formative assessment) also known as FA PCP carries **50% of practical marks.** In these classes they'll help with making practical file and explain what to do practical exam 
