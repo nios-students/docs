@@ -1,4 +1,4 @@
-Last updated 🕔:**28-11-2024,07:23PM IST**
+Last updated 🕔:**05-01-2025,05:13PM IST**
 
 The materials are applicable for all exams (On demand and public) so, please stop asking that.
 ----
@@ -29,11 +29,12 @@ The materials are applicable for all exams (On demand and public) so, please sto
 - [Mass Communication-335](https://drive.google.com/file/d/15yFRnuislqd8L_Yy6Adln0mi6UWXmYlz/view?usp=drivesdk)
 - [Geography-316](https://drive.google.com/file/d/1siXW5NvqsjoItMmtHnW98jb6g0BAKUks/view?usp=drivesdk)
 - [Painting-**332 (12th)**](https://drive.google.com/file/d/1iTsm4f8ilwStpYmSv8-LD32YoY1erlgs/view?usp=drivesdk)
-- Home Science **Coming Soon**
+- [Home Science](https://drive.google.com/file/d/1IFmpCY7m1380q8Q6b_Fr7-aZkE1jtn9R/view?usp=drivesdk) **NEW!**
 - [Physical Education and Yoga-373](https://drive.google.com/file/d/1uP8wLf8CWOa2ycGFyqpOtNuiWZMc2hdS/view?usp=drivesdk)
 - [Library and Information Science-339](https://drive.google.com/drive/folders/1gmlUhPul53yaXm4eWGqQygnX_KgIJNpB)
 - [Early Childhood Care And Education-376](https://drive.google.com/drive/folders/1gmlUhPul53yaXm4eWGqQygnX_KgIJNpB)
 - [VOC-Yoga Assistant-667](https://drive.google.com/drive/folders/1ow4Bpx6-tR8tT2IXnFFX7AwAJpyj7sy2)
+- [Another and Hindi medium](https://drive.google.com/drive/folders/1gmlUhPul53yaXm4eWGqQygnX_KgIJNpB)
 
 **Secondary (10th)**
 - [VOC-Basic
