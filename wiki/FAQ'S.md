@@ -3,7 +3,7 @@
 # Our FAQs
 Based on your Questions from Telegram, Discord and Subreddit.
 
-# TMA questions
+# TMA FAQs
 
 # Isn't the marks for TMA 20% more than the maximum theory marks?
 
@@ -53,6 +53,12 @@ Note: I (Author) used the 1st method. Regardless of what you do it won't effect 
 
 The following info should be written Your name, Enrollment number, Subject name & sebject code, Medium of study (not required for language subjects), AI name and AI code
 
+# PCP and study centre related FAQs
+
+# Which PCP is important? (Only for Stream 1)
+
+Ans: The first PCP in December-November (block 1) June- July (block 2) doesn't carry any marks. FA PCP Carries **50% weightage of Practicals** [Read More...](https://nios-students.pages.dev/wiki/Exams-Assignments#pcp-personal-contact-programme) 
+
 # Public examination FAQS 
 
 
@@ -65,7 +71,10 @@ Ans: There must be at least a 2 year gap between passing 10th grade and passing 
 
 Note: If you finish your exams in the second year NIOS will give your result documents after you give all sebjects i.e. after the second exam results are declared.
 
+# On Demand related FAQs
 
+
+# Technical issues and other miscellaneous FAQs
 
 # What are the official video resources
 
@@ -95,15 +104,14 @@ Live streams there are 4 channels:
 - [Senior Secondary (12th)](https://youtube.com/@ddpmevidyanios18srsec) from 2.00 PM to 3.00 PM 
 - [OBE/ISL](https://youtube.com/@ddpmevidyanios19obeislikt) from 3.00 PM to 4.00 PM. 
 - [Vocational](https://youtube.com/@niospmevidya20vocational) from 4.00 PM to 5.00 PM
+Follow them on [X](x.com/Niostiw) for daily schedule of live streams.
 > **Author's note: Most videos/explanations are just people reading PPTs. Live streams are cancelled sometimes but we can't do anything about it sadly.**
 
 # What is ABCID? Is that required?
 
 Ans: ABCID is used to Keep track of  academic progress. It's mostly by College going students. No it's not required however, a popup will be display every time you login.
 
-# Which PCP is important? (Only for Stream 1)
 
-Ans: The first PCP in December-November (block 1) June- July (block 2) doesn't carry any marks. FA PCP Carries **50% weightage of Practicals** [Read More...](https://nios-students.pages.dev/wiki/Exams-Assignments#pcp-personal-contact-programme) 
 
 # What do if my AI is closed or no longer affiliated NIOS?
 
