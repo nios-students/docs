@@ -57,9 +57,14 @@ The following info should be written Your name, Enrollment number, Subject name 
 
 # Which PCP is important? (Only for Stream 1)
 
-Ans: The first PCP in December-November (block 1) June- July (block 2) doesn't carry any marks. FA PCP Carries **50% weightage of Practicals** [Read More...](https://nios-students.pages.dev/wiki/Exams-Assignments#pcp-personal-contact-programme) 
+Ans: The first PCP in December-November (block 1) June- July (block 2) doesn't carry any marks. FA PCP Carries **50% weightage of Practicals** [Read More...](https://nios-students.pages.dev/wiki/Exams-Assignments#pcp-personal-contact-programme)
 
-# Public examination FAQS 
+# What do if my AI is closed or no longer affiliated NIOS?
+
+[Video](https://www.youtube.com/watch?v=71NpR2dxaPU)
+ 
+
+# Public examination FAQs
 
 
 # What is the gap? (this for freshers of **12th Senior Secondary** only)
@@ -72,6 +77,12 @@ Ans: There must be at least a 2 year gap between passing 10th grade and passing 
 Note: If you finish your exams in the second year NIOS will give your result documents after you give all sebjects i.e. after the second exam results are declared.
 
 # On Demand related FAQs
+
+# Is bifurcation applicable for On Demand to?
+
+Ans: Yes, as per [this](https://www.reddit.com/r/NIOS_Students/s/GNH9m0GrRi) reddit post. The OP (original poster) filed for a RTE for which the answer is given below:
+Please refer to the images
+ 
 
 
 # Technical issues and other miscellaneous FAQs
@@ -89,7 +100,9 @@ Ans: Related links [Browse videos](https://sdmis.nios.ac.in/home/video-gallery) 
 
 [Radio: NIOS Mukta Vidyavani & Radiovahini](https://youtube.com/@niosmuktavidyavaniradiovahini)
 
-Note: **This is used for audio only. Streams Mon to Fri at 11.00 PM to 3.00 PM**.
+Archived audio programs [12th Sr.Secondary](https://nios.ac.in/audio_files/AG_Sr_Secondary.pdf) and [10th Secondary](https://nios.ac.in/audio_files/AG_Secondary.pdf)
+
+Note: **This channel is used for audio only. Streams Mon to Fri from 11.00 PM to 3.45 PM**.
 - [Live] Community programming from 11.00 PM to 12.00 PM.
 - [Live] Secondary (10th) from 12.00 PM to 12.45 PM
 -  [Per-recorded] from 12.45 PM to 2.00 PM.
@@ -110,12 +123,6 @@ Follow them on [X](x.com/Niostiw) for daily schedule of live streams.
 # What is ABCID? Is that required?
 
 Ans: ABCID is used to Keep track of  academic progress. It's mostly by College going students. No it's not required however, a popup will be display every time you login.
-
-
-
-# What do if my AI is closed or no longer affiliated NIOS?
-
-[Video](https://www.youtube.com/watch?v=71NpR2dxaPU)
 
 # How can i reduce size of a pdf file?
 
