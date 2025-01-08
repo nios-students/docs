@@ -11,7 +11,7 @@ The materials are applicable for all exams (On demand and public) so, please sto
 - [English formats of letter, e-mail memos (Applicable both Secondary and Senior Secondary 10th and 12th)](https://drive.google.com/file/d/16_x7g3z3xabTg_a1eRRZBhVV8LLhFiD1/view?usp=drivesdk)
 
 - [Question Banks (**12th Sr.Sec**)](https://drive.google.com/drive/folders/1BUGHbC5k6UpgkfrdY3FWd47MzJ0SJM8r) **Physics,Chemistry,Biology,Mathematics, Geography,Home Science,Environmental science,Political Science,Early Childhood Care,History,Physical Education And Yoga,Painting,Introduction To Laws,Sociology,Business,Studies,Economics,English and history**
-- [Student made notes](https://drive.google.com/drive/folders/1vXLyIQTRAoP_jEQ0eZRUijmr0Wnux_dn)
+- [Student made notes](https://drive.google.com/drive/folders/1QPWsCnWQl6BRnUZwvC41ZAzkqy_XJ7q7?usp=drive_link)
 **Maths, Chemistry, English (Sr.Sec 12th), Introduction To Laws and Buisness Studies (Sr.Sec 12th)**
 
 - [Terminal Answers](https://drive.google.com/drive/folders/13pAmRsJ2DFe5P_mV6QdmGonMpWq5Upwd) Physics,Mathematics,Chemistry and Biology. For the sebject or lessons not available in the above link [here](https://brainly.in)
@@ -40,9 +40,9 @@ The materials are applicable for all exams (On demand and public) so, please sto
 - [VOC-Basic
 Computing-608](https://drive.google.com/file/d/1ByDCX_yhvUg-SXHroICBEaNCUzaPHwYI/view?usp=drivesdk)
 # TMA
-- [TMA **2024-25**](https://drive.google.com/drive/folders/1eFHUKAtpzh-rBjDm4k4zfn3_AZmu0Byh) Last date of Submission is **31 January.** 
+- [TMA **2024-25**](https://drive.google.com/drive/folders/1QPWsCnWQl6BRnUZwvC41ZAzkqy_XJ7q7?usp=drive_link) Last date of Submission is **31 January.** 
 # Question Papers of Previous Year's Examination
-- PYQs of april 2024 [Sr.Secondary (12th)](https://drive.google.com/drive/folders/1pPiI4xloWBmxJ05zej-b-WDO2KzyKlnr) and [Secondary (10th)](https://drive.google.com/drive/folders/1TeVxkTpZndUQNLPmUMGjQaekqa6-D7QC)
+- PYQs of April-May 2024 [Sr.Secondary (12th)](https://drive.google.com/drive/folders/1pPiI4xloWBmxJ05zej-b-WDO2KzyKlnr) and [Secondary (10th)](https://drive.google.com/drive/folders/1TeVxkTpZndUQNLPmUMGjQaekqa6-D7QC)
 - [PYQs **October-November 2024**](https://drive.google.com/drive/folders/1upgHPV4moRE72l4IHVCE9FpkNMbF8Kvh)
 - [**Offical PYQs page (nios.ac.in)**](https://nios.ac.in/student-information-section/question-paper-of-previous-year-examination-academic.aspx)
 - **Syllabus bifurcation, sample question paper with marking scheme & question paper design of** [Secondary (10th)](https://nios.ac.in/online-course-material/secondary-courses.aspx) and [Senior Secondary (12th)](https://nios.ac.in/online-course-material/sr-secondary-courses.aspx) 
