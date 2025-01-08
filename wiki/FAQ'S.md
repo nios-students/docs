@@ -3,6 +3,7 @@
 # Our FAQs
 Based on your Questions from Telegram, Discord and Subreddit.
 
+# TMA questions
 # Isn't the marks for TMA 20% more than the maximum theory marks?
 
 Ans: For some who are wondering “wait, if we add this up, it would be 116 marks in total?! How so?”, well NIOS follows a bit different rule compared to other boards here. See the 16 marks assigned in TMA is added up **by deducting 20% of marks from Public Examination, i.e. theory paper** so for example if you scored 14 marks in your TMA and 60 marks in your public exam, 20% of the marks from public exams are cut 20%  of 60 marks = 12 marks.
@@ -13,7 +14,7 @@ Ans: From October 2024 session, TMA evaluation pattern has been changed. As we k
 
 Table attached showing full TMA marks of all Subjects on Marksheet (20% of Theory Marks). Now you can calculate Actual TMA marks by yourself:
 
-> Note: **'Theory' refers to subjects without practical e.g. Social science, History**. [Sebject name with code](https://docs.google.com/document/d/1IkOCPBsEOd-owsX70-DvP0b5epAoJob3zEtI3OGJUMs/edit?usp=drive_link)
+> Note: **'Theory' refers to subjects without practical e.g. Social science, History**. [Sebject names with corresponding sebject code](https://docs.google.com/document/d/1IkOCPBsEOd-owsX70-DvP0b5epAoJob3zEtI3OGJUMs/edit?usp=drive_link)
 
 12th (Senior Secondary)
 -----
@@ -38,9 +39,13 @@ Table attached showing full TMA marks of all Subjects on Marksheet (20% of Theor
 
 # Who checks my TMA and much effort do put in it?
 
-Ans: The teacher at your or other in your city AI (Study Centre). Low-effort as instagram.
+Ans: The teacher at your or other in your city AI (Study Centre). Low-effort as instagram reels.
 
-# What is the gap? (this for freshers of **12th Sr.Sec** only)
+# How to make fornt page? What Information is necessary?
+
+Ans: 
+
+# What is the gap? (this for freshers of **12th Senior Secondary** only)
 
 Ans: There must be at least a 2 year gap between passing 10th grade and passing 12th.
 - If you passed 10th grade
