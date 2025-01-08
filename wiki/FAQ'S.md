@@ -4,6 +4,7 @@
 Based on your Questions from Telegram, Discord and Subreddit.
 
 # TMA questions
+
 # Isn't the marks for TMA 20% more than the maximum theory marks?
 
 Ans: For some who are wondering “wait, if we add this up, it would be 116 marks in total?! How so?”, well NIOS follows a bit different rule compared to other boards here. See the 16 marks assigned in TMA is added up **by deducting 20% of marks from Public Examination, i.e. theory paper** so for example if you scored 14 marks in your TMA and 60 marks in your public exam, 20% of the marks from public exams are cut 20%  of 60 marks = 12 marks.
@@ -41,9 +42,19 @@ Table attached showing full TMA marks of all Subjects on Marksheet (20% of Theor
 
 Ans: The teacher at your or other in your city AI (Study Centre). Low-effort as instagram reels.
 
-# How to make fornt page? What Information is necessary?
+# How to make front page? What Info should be written on it?
 
-Ans: 
+Ans: There are 3 ways you can make it:
+1. Just write the info before the answers start.
+2. Use canva to make and fill it then use a pdf editor to place it before the answers start.
+3. Use per-made front page from the internet and take print out of it write your info on it. Remember to scan it before the answers start.
+
+Note: I (Author) used the 1st method. Regardless of what you do it won't effect on your marks.
+
+The following info should be written Your name, Enrollment number, Subject name & sebject code, Medium of study (not required for language subjects), AI name and AI code
+
+# Public examination FAQS 
+
 
 # What is the gap? (this for freshers of **12th Senior Secondary** only)
 
@@ -54,10 +65,7 @@ Ans: There must be at least a 2 year gap between passing 10th grade and passing 
 
 Note: If you finish your exams in the second year NIOS will give your result documents after you give all sebjects i.e. after the second exam results are declared.
 
-# I gave Public Exam now i wanna register for the upcoming Public Exam but it won't let me why is that?
 
-Ans: Please wait until results of the exam you gave are released. NIOS will make other schedule for you. It takes two or three weeks after the results are released. 
-[Join our WhatsApp update channel](https://whatsapp.com/channel/0029VamKd7w3LdQV8AqlNF1h)
 
 # What are the official video resources
 
@@ -107,7 +115,7 @@ Ans: The first PCP in December-November (block 1) June- July (block 2) doesn't c
 
 Note: Ilovepdf is website so, you can do this on any device which has a web browser and storage for.pdf file.
 
-# How to open .zip file?
+# How to open .zip/.rar file?
 
 - Videos for windows:
 1. [Windows 7](https://www.youtube.com/watch?v=nXAYWwiDvc8)
@@ -116,4 +124,13 @@ Note: Ilovepdf is website so, you can do this on any device which has a web brow
 - [Video for IOS](https://www.youtube.com/watch?v=TFcBqqDGLr4)
 - [Video for chromebooks](https://www.youtube.com/watch?v=J8Mzm01rpbc)
 - [Web based tools in case you don't space to download a tool](https://www.ezyzip.com/unzip-files-online.html)
+
+
+# Fees related FAQs
+
+# I gave Public Exam now i wanna register for the upcoming Public Exam but it won't let me why is that?
+
+Ans: Please wait until results of the exam you gave or paid fees for are released. NIOS will make another schedule for you. It takes two or three weeks after the results are released.
+> Note: **This is nothing new it's a norm
+[Join our WhatsApp update channel**](https://whatsapp.com/channel/0029VamKd7w3LdQV8AqlNF1h)
 
