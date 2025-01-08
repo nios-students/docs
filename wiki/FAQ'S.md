@@ -82,7 +82,8 @@ Note: If you finish your exams in the second year NIOS will give your result doc
 
 Ans: Yes, as per [this](https://www.reddit.com/r/NIOS_Students/s/GNH9m0GrRi) reddit post. The OP (original poster) filed for a RTE for which the answer is given below:
 Please refer to the images
- 
+  <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/rti-response-says-tma-chapters-are-not-asked-in-ode-exams-1.webp" alt="RIT-1" width="400" height="567"/>
+
 
 
 # Technical issues and other miscellaneous FAQs
