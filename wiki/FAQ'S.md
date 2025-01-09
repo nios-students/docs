@@ -86,9 +86,6 @@ Please refer to the images
 
    <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/rti-response-says-tma-chapters-are-not-asked-in-ode-exams-2.webp" alt="RIT-2" width="400"/>
 
-
-
-
 # Technical issues and other miscellaneous FAQs
 
 # What are the official video resources
@@ -97,7 +94,7 @@ Ans: Related links [Browse videos](https://sdmis.nios.ac.in/home/video-gallery) 
 
 2 YT channels for recorded vids:
 - [NIOS secondary (10th)](https://youtube.com/@niossecondarycourses)
-- [NIOS Senior Secondary (12th)](https://youtube.com/@niosseniosseniorniorsecondarycourse)
+- [NIOS Senior Secondary (12th)](https://youtube.com/@niosseniorsecondarycourses)
 
 [Other: NIOS Live Video](https://youtube.com/@nioslivevideo)
 > Note: **Archived Live Streams from 2019-2024 (August). This channel is now used for events only.**
