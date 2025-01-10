@@ -150,3 +150,7 @@ Ans: Please wait until results of the exam you gave or paid fees for are release
 > Note: **This is nothing new it's a norm
 [Join our WhatsApp update channel**](https://whatsapp.com/channel/0029VamKd7w3LdQV8AqlNF1h)
 
+# I paid “Addmission Fees” Why should pay exam for public exams fees? (ONLY for Stream 1) 
+
+Ans: Because the fees you paid it beginning was admission into NIOS. It covers your books and PCPs.  You **must** to exam fees in order appear in the exam. Btw exam fee includes  question paper, answer booklet, fees for teachers who will check your answers, and other miscellaneous expenses.
+
