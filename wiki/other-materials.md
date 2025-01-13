@@ -1,4 +1,4 @@
-Last updated ⏲️:**07-01-2025,06:07PM IST**
+Last updated ⏲️:**13-01-2025,07:22PM IST**
 
 The materials are applicable for all exams (On demand and public) so, please stop asking that.
 ----
@@ -12,9 +12,9 @@ The materials are applicable for all exams (On demand and public) so, please sto
 
 - [Question Banks (**12th Sr.Sec**)](https://drive.google.com/drive/folders/1BUGHbC5k6UpgkfrdY3FWd47MzJ0SJM8r) **Physics,Chemistry,Biology,Mathematics, Geography,Home Science,Environmental science,Political Science,Early Childhood Care,History,Physical Education And Yoga,Painting,Introduction To Laws,Sociology,Business,Studies,Economics,English and history**
 - [Student made notes](https://drive.google.com/drive/folders/1ttDPhDMNFK3uRudaJWie83mTeVgvmGo_?usp=drive_link)
-**Maths, Chemistry, English (Sr.Sec 12th), Introduction To Laws and Buisness Studies (Sr.Sec 12th)**
+**Maths, Chemistry, English (Sr.Sec 12th), Introduction To Laws, Data entry operations (336 12th Sr.Sec) and Buisness Studies (Sr.Sec 12th)**
 
-- [Terminal Answers](https://drive.google.com/drive/folders/13pAmRsJ2DFe5P_mV6QdmGonMpWq5Upwd) Physics,Mathematics,Chemistry and Biology. For the sebject or lessons not available in the above link [here](https://brainly.in)
+- [Terminal Answers](https://drive.google.com/drive/folders/1QxgVf9rmN91oStaDyrM_2IXtsFgZCL-K?usp=drive_link) Physics,Mathematics,Chemistry and Biology. For the sebject or lessons not available in the above link [here for Sr.Sec (12th)](https://brainly.in/textbook-solutions/book-sets/s-nios-board/c-class-12) and [here for Sec (10th)]
 - [Brief summaries for both Secondary and Senior Secondary **10th and 12th**](https://www.flexiprep.com/NIOS-Notes/)
 
 # Practical Files
