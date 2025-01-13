@@ -11,7 +11,7 @@ The materials are applicable for all exams (On demand and public) so, please sto
 - [English formats of letter, e-mail memos (Applicable both Secondary and Senior Secondary 10th and 12th)](https://drive.google.com/file/d/16_x7g3z3xabTg_a1eRRZBhVV8LLhFiD1/view?usp=drivesdk)
 
 - [Question Banks (**12th Sr.Sec**)](https://drive.google.com/drive/folders/1BUGHbC5k6UpgkfrdY3FWd47MzJ0SJM8r) **Physics,Chemistry,Biology,Mathematics, Geography,Home Science,Environmental science,Political Science,Early Childhood Care,History,Physical Education And Yoga,Painting,Introduction To Laws,Sociology,Business,Studies,Economics,English and history**
-- [Student made notes](https://drive.google.com/drive/folders/1QPWsCnWQl6BRnUZwvC41ZAzkqy_XJ7q7?usp=drive_link)
+- [Student made notes](https://drive.google.com/drive/folders/1ttDPhDMNFK3uRudaJWie83mTeVgvmGo_?usp=drive_link)
 **Maths, Chemistry, English (Sr.Sec 12th), Introduction To Laws and Buisness Studies (Sr.Sec 12th)**
 
 - [Terminal Answers](https://drive.google.com/drive/folders/13pAmRsJ2DFe5P_mV6QdmGonMpWq5Upwd) Physics,Mathematics,Chemistry and Biology. For the sebject or lessons not available in the above link [here](https://brainly.in)
