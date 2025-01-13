@@ -61,7 +61,57 @@ Ans: The first PCP in December-November (block 1) June- July (block 2) doesn't c
 
 # What do if my AI (Study Ce) is closed or no longer affiliated NIOS?
 
-Ans: >>>>>>>>>>>>>>>
+Ans: Firstly chill it's not a big deal if this happened to you. Let's confirm.
+
+1. Log on to your dashboard ⬇️ Scroll down. Click on "view PCP schedule." You will see the PCP details 2021-22 just ignore that it's a bug. There should be a table there. Btw these PCPs are non-important ones i.e. 30 classes. if can you see "No record found" That means that your study center is not affiliated with NIOS. “How to do you know?” Because I'm god yes, I'm serious. *Read the note at the end*
+
+Now there's no guarantee that the other center will be good, or they will conduct PCP classes, or they will help you in any sort of way. You can go to the center and verify it by yourself, or you can ask other people on on another just just just, tell the, you know, the the the code of the center and just, ask them. We're also planning on, introducing our rating system for city centers so that, more people can, you know, pick good centers. I mean, good as in functional centers in their city. So let's get, a bit realistic.
+
+Let's say you called, the city center. Right? Yeah. The city center. You ask them.
+
+Right? Okay. So mine is closed. And should I, should I change it to yours? They've probably said no.
+
+And they'll say, I don't know. Then it's not possible. Blah blah blah blah blah. So that's complete. Yes.
+
+They just don't want more students in the center because they're so overworked and stuff. And they might not even conduct anything. So what I need you to do is prepare practicals and all of that stuff on your own. If you don't understand anything, just go on Reddit. Or we are planning to make this, guide every session that it's not base it's not, like, return information because I think, people don't read whatever I write in the VQs anyways.
+
+So I'll just come on a voice call, and we will, talk about how to do how to do in practical, how to make files and all that stuff. So we have that planned. We'll do this, definitely. And you have to download Discord for this and join our Discord server. Okay.
+
+So let's say you make this, like, file on your own. Okay. You you you don't attend the FA PCPs classes because, your center was closed. Many people are really worried here that one of my center is closed. What should I do?
+
+You don't have to do anything. Your regional center has a record of it. Okay. And if you you might be wondering here. Okay.
+
+If they have the record of it, change link website because they're just lazy. And, there are a lot of solution as which they can't they they don't want they don't they aren't keeping track of this. Okay. So where was I? Yeah.
+
+What if my service center is closed? What can I do? I explained that, that you can apply for any service, and the other center could be bad. And you can just look to all the, ground survey. You can just go and ask them, oh, do you conduct this this this blah blah blah?
+
+And if they say no, then, don't change your city center. The this center that you visited, which is active, there your PCP classes sorry. There your practical exams will be probably conduct. Okay. And, people say, oh, if I don't go to, like, FAPCPs, well, they deduct my marks.
+
+So, many YouTubers confuse them that, oh, you have to do this blah blah blah blah blah blah blah. Pay just blah blah blah blah. No. So, in their system. Right?
+
+For example, let's just go to their website, the SDMI site that you can follow what I'm doing here. Go to examinations and results. Go to results. Oops. Okay.
+
+Click on view as inspect. You will see a little pop up here in which it'll say, some shared. Ignore it. See the bottom thing, assessment type. Formative or summative.
+
+So this form this format of thing is your FPGPs. Okay. There, you'll be explained how to do in practical and all that stuff. And this includes 50% of your practical marks. Now in most cases or what I have let me reframe my sentence.
+
+What I have observed is that in the main practical examination itself, they will fill both of these marks. Yes. In the notifications that they say that, yeah, there is a separate schedule for uploading, FA marks and SA marks that is FAPCPs and the practical exam itself. But when you, like, you know, when you go to the examination, they will probably give you a answer if you I unfortunately don't have a copy of it, like, a picture of it or anything. So yeah.
+
+I'm sorry. So they'll go in answer sheet. Right? On that answer sheet, it'll it'll have, like, a big column for, like, all of that's your information and stuff. And it'll also have a column for FA marks.
+
+Why do you why do they need to add the FA marks column on the mark sheet when they can just, like, pull it from the website itself. This proves that, they are both are entered in the time of the practical examination. Now if the if your study center does not conduct it or if your study center is closed and the other center you will read does not conduct the PCB classes, every PCB classes. In most cases, they will, give the remarks for that for free. For free, that's that that does not mean that if you don't attend the, practical examination, you will just get 50% of the your practical marks.
+
+And and if you're in 12, you'll just basically pass practical without doing nothing. No. They won't do that. You have to go to the practical examination. You have to submit the file.
+
+You have to, like, write the, examination. Yep. There is just, like, paper thing which I have to write. I'm not getting into that right now, but whatever. If you don't go to practical examination, it was you'll be failed 100%.
+
+There's no doubt in that because there is this thing that you have to parse you have to parse in both theory and practical if you have a practical related subject. Now if you don't have a practical related subject and your study center is closed, don't fucking worry about it. You will get another examination center for your tier exams. By the way, the tier exams center will be different from your study center anyways for everyone. Okay.
+
+And, you you don't have to worry about it. Just go to the theory examination center. Sorry. Just go to the theory exam. You don't have done done any PCP classes, whichever.
+
+Okay? This is this problem where my study center is closed. What should I do next is only for people who who have a practical subject. Hopefully, you guys understood, me rambling for 10 minutes straight. You can join a Discord server, join our beautiful community, contribute by sharing your notes, sharing some guides, which will up we'll upload to Google Drive and link it to our website, which, that way, any everyone can access it.
+
+So yeah. Thank you. Thanks for watching.
  
 
 # Public examination FAQs
