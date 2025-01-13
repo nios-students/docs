@@ -69,6 +69,10 @@ Ans: Firstly chill it's not a big deal if this happened to you. Let's confirm.
 
 
 
+
+
+
+
 They just don't want more students in the center because they're so overworked and stuff. And they might not even conduct anything. So what I need you to do is prepare practicals and all of that stuff on your own. If you don't understand anything, just go on Reddit. Or we are planning to make this, guide every session that it's not base it's not, like, return information because I think, people don't read whatever I write in the VQs anyways.
 
 
