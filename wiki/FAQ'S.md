@@ -59,9 +59,9 @@ The following info should be written Your name, Enrollment number, Subject name 
 
 Ans: The first PCP in December-November (block 1) June- July (block 2) doesn't carry any marks. FA PCP Carries **50% weightage of Practicals** [Read More...](https://nios-students.pages.dev/wiki/Exams-Assignments#pcp-personal-contact-programme)
 
-# What do if my AI is closed or no longer affiliated NIOS?
+# What do if my AI (Study Ce) is closed or no longer affiliated NIOS?
 
-[Video](https://www.youtube.com/watch?v=71NpR2dxaPU)
+Ans: >>>>>>>>>>>>>>>
  
 
 # Public examination FAQs
@@ -81,10 +81,12 @@ Note: If you finish your exams in the second year NIOS will give your result doc
 # Is bifurcation applicable for On Demand to?
 
 Ans: Yes, as per [this](https://www.reddit.com/r/NIOS_Students/s/GNH9m0GrRi) reddit post. The OP (original poster) filed for a RTE for which the answer is given below:
-Please refer to the images
+*Please refer to the images
+
   <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/rti-response-says-tma-chapters-are-not-asked-in-ode-exams-1.webp" alt="RIT-1" width="400"/>0
 
-   <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/rti-response-says-tma-chapters-are-not-asked-in-ode-exams-2.webp" alt="RIT-2" width="400"/>
+
+<img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/rti-response-says-tma-chapters-are-not-asked-in-ode-exams-2.webp" alt="RIT-2" width="400"/>
 
 # Technical issues and other miscellaneous FAQs
 
