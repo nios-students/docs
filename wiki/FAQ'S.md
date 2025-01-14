@@ -110,7 +110,7 @@ Ans: Yes, as per [this](https://www.reddit.com/r/NIOS_Students/s/GNH9m0GrRi) red
 
 *Please refer to the images
 
-  <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/rti-response-says-tma-chapters-are-not-asked-in-ode-exams-1.webp" alt="RIT-1" width="400"/>0
+  <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/rti-response-says-tma-chapters-are-not-asked-in-ode-exams-1.webp" alt="RIT-1" width="400"/>
 
 
 <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/rti-response-says-tma-chapters-are-not-asked-in-ode-exams-2.webp" alt="RIT-2" width="400"/>
@@ -170,7 +170,7 @@ Note: Ilovepdf is website so, you can do this on any device which has a web brow
 - [Video for Android](https://www.youtube.com/watch?v=RyhkTF2jt90)
 - [Video for IOS](https://www.youtube.com/watch?v=TFcBqqDGLr4)
 - [Video for chromebooks](https://www.youtube.com/watch?v=J8Mzm01rpbc)
-- [Web based tools in case you don't space to download a tool](https://www.ezyzip.com/unzip-files-online.html)
+- [Web based tools in case you don't space to download a tool/app](https://www.ezyzip.com/unzip-files-online.html)
 
 
 # Fees related FAQs
