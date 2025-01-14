@@ -107,6 +107,7 @@ Note: If you finish your exams in the second year NIOS will give your result doc
 # Is bifurcation applicable for On Demand to?
 
 Ans: Yes, as per [this](https://www.reddit.com/r/NIOS_Students/s/GNH9m0GrRi) reddit post. The OP (original poster) filed for a RTE for which the answer is given below:
+
 *Please refer to the images
 
   <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/rti-response-says-tma-chapters-are-not-asked-in-ode-exams-1.webp" alt="RIT-1" width="400"/>0
@@ -118,7 +119,9 @@ Ans: Yes, as per [this](https://www.reddit.com/r/NIOS_Students/s/GNH9m0GrRi) red
 
 # What are the official video resources
 
-Ans: Related links [Browse videos](https://sdmis.nios.ac.in/home/video-gallery) and [Browse lab practicals](https://sdmis.nios.ac.in/home/lab-practical)
+Related links:
+- [Browse videos](https://sdmis.nios.ac.in/home/video-gallery)
+- [Browse lab practicals](https://sdmis.nios.ac.in/home/lab-practical)
 
 2 YT channels for recorded vids:
 - [NIOS secondary (10th)](https://youtube.com/@niossecondarycourses)
@@ -131,14 +134,14 @@ Ans: Related links [Browse videos](https://sdmis.nios.ac.in/home/video-gallery) 
 
 Archived audio programs [12th Sr.Secondary](https://nios.ac.in/audio_files/AG_Sr_Secondary.pdf) and [10th Secondary](https://nios.ac.in/audio_files/AG_Secondary.pdf)
 
-Note: **This channel is used for audio only. Streams Mon to Fri from 11.00 PM to 3.45 PM**.
-- [Live] Community programming from 11.00 PM to 12.00 PM.
-- [Live] Secondary (10th) from 12.00 PM to 12.45 PM
+Note: **This channel is used for audio only. Streams Mon to Fri from 11.00 PM to 3.45 PM (IST)**.
+-  [Live] Community programming from 11.00 PM to 12.00 PM.
+-  [Live] Secondary (10th) from 12.00 PM to 12.45 PM
 -  [Per-recorded] from 12.45 PM to 2.00 PM.
-- [Live] Senior Secondary (12th) from 2.00 PM to 2.45 PM.
-- [Live] Vocational from  3.00 PM to 3.45 PM.
+-  [Live] Senior Secondary (12th) from 2.00 PM to 2.45 PM.
+-  [Live] Vocational from  3.00 PM to 3.45 PM.
 
-[Schedule page link](https://nios.ac.in/departmentsunits/media-unittelecast/mukta-vidya-vani-and-community-radio.aspx)
+[Schedule page link (nios.ac.in)](https://nios.ac.in/departmentsunits/media-unittelecast/mukta-vidya-vani-and-community-radio.aspx)
 
 Live streams there are 4 channels:
 
@@ -151,7 +154,7 @@ Follow them on [X](x.com/Niostiw) for daily schedule of live streams.
 
 # What is ABCID? Is that required?
 
-Ans: ABCID is used to Keep track of  academic progress. It's mostly by College going students. No it's not required however, a popup will be display every time you login.
+Ans: ABCID is used to keep track of  academic progress. It's mostly by college going students. No it's not required however, a popup will be display every time you login.
 
 # How can i reduce size of a pdf file?
 
