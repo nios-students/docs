@@ -1,4 +1,4 @@
-Last updated ⏲️:**13-01-2025,07:22PM IST**
+Last updated 🕟:**18-01-2025, 04:27PM IST**
 
 The materials are applicable for all exams (On demand and public) so, please stop asking that.
 ----
@@ -7,12 +7,12 @@ The materials are applicable for all exams (On demand and public) so, please sto
 - [Books](https://nios.ac.in/online-course-material.aspx) and [Vocational Books (in .pdf)](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1nL-EvabkRTi)
 
 - [Guides](https://drive.google.com/drive/folders/1Y4fr5EDyuxpoapeeQHkqvkki11fdBeZV)
-**Physical Education, Physics, Maths, Chemistry Science & technology (10th Sec),Home Science (10th Sec)  and English (12th Sr.Sec)**
+**Physical Education, Physics, Maths, Chemistry Science & technology (10th Sec), Home Science (10th Sec), and English (12th Sr.Sec)**
 - [English formats of letter, e-mail memos (Applicable both Secondary and Senior Secondary 10th and 12th)](https://drive.google.com/file/d/16_x7g3z3xabTg_a1eRRZBhVV8LLhFiD1/view?usp=drivesdk)
 
 - [Question Banks (**12th Sr.Sec**)](https://drive.google.com/drive/folders/1BUGHbC5k6UpgkfrdY3FWd47MzJ0SJM8r) **Physics,Chemistry,Biology,Mathematics, Geography,Home Science,Environmental science,Political Science,Early Childhood Care,History,Physical Education And Yoga,Painting,Introduction To Laws,Sociology,Business,Studies,Economics,English and history**
 - [Student made notes](https://drive.google.com/drive/folders/1ttDPhDMNFK3uRudaJWie83mTeVgvmGo_?usp=drive_link)
-**Maths, Chemistry, English (Sr.Sec 12th), Introduction To Laws, Data entry operations (336 12th Sr.Sec) and Buisness Studies (Sr.Sec 12th)**
+**Maths (311), Chemistry (313), English (302) (Sr.Sec 12th), Introduction To Laws (338), Data entry operations (336) (12th Sr.Sec), Buisness Studies (Sr.Sec 12th), English (202) (Sr.Sec 10th)**
 
 - [Terminal Answers](https://drive.google.com/drive/folders/1QxgVf9rmN91oStaDyrM_2IXtsFgZCL-K?usp=drive_link) Physics,Mathematics,Chemistry and Biology. For the sebject or lessons not available in the above link [here for Sr.Sec (12th)](https://brainly.in/textbook-solutions/book-sets/s-nios-board/c-class-12) and [here for Sec (10th)]
 - [Brief summaries for both Secondary and Senior Secondary **10th and 12th**](https://www.flexiprep.com/NIOS-Notes/)
@@ -79,5 +79,4 @@ _______________
 * All  student made notes, practical files are sebject to © nios-Students Contributors 2024. The above listed can not
 modified nor allowed to sell without the permission of web developer and content author of particular the sebject/topic/work.
 * No code, images, logos or any other assets of **The National Institute of Open Schooling** copy nor used in making of this website.
-* If copyright Laws have been violated. We shall remove such content upon notice from the copyright holder. Please contact us @ unofficialnios[at]gmail.com or DM (Direct Message) thought our [discord control unit](
-  hello@nios-students.pages.dev)
+* If copyright Laws have been violated. We shall remove such content upon notice from the copyright holder. Please contact us @ unofficialnios[at]gmail.com or DM (Direct Message) thought our [discord control unit](mailtohello@nios-students.pages.dev)
