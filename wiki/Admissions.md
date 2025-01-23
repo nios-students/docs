@@ -1,7 +1,7 @@
 Admissions
----------------------------
+--------------------------
 
-__Admissions are completely online from https://sdmis.nios.ac.in only__
+__Admissions are completely online from https://sdmis.nios.ac.in only__ ( For 12th, 10th, and OBE )
 
 # Secondary (10th Standard)
 
@@ -79,8 +79,7 @@ ToC is one of the flagship features of NIOS. The **failed** learners can transfe
 **Rules and Norms of ToC**
 The ₹**230 per sebject** (as per __new notification:[37/2024](https://www.nios.ac.in/media/documents/notification/yr2024/Exam/Notification-34-2024.pdf)__) Sebject you wish to Transfer **must** most in NIOS curriculum. The **original failed
 marksheet** should be present in **physical form** and you **must** to send it your Regional Center after confirmation of admission along with a copy of addmission form if you don't send it ToC won't apply.
-
-# Part or dual enrollment 
+# Part or dual enrollment 
 In case a learner has already passed the Secondary/Senior Secondary examination or any other higher course he/she may opt **for upto 4 subjects** of his/her choice,to update knowledge and educational qualifications. On passing, **only the narksheet will be issued and no other certificate will be issued** 
 
 
