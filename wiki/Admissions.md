@@ -20,7 +20,9 @@ b) You __can take upto 2 language sebject(s)__ e.g. Hindi and English ***✔*** 
 
 b) You can add 2 __more subjects but the maximum count of subjects shouldn't go past seven i.e. no more than 7 sebjects__
 
-c) NIOS let's you choice any sebject however, you **MUST** chose your sebjects according to your future career/goals
+c) You can choose one vocational sebject.
+
+d) NIOS let's you choice any sebject however, you **MUST** chose your sebjects according to your future career/goals
 
 # Senior Secondary (12th Standard)
 
@@ -42,6 +44,9 @@ b) You can add 2 __more subjects but the maximum count of subjects shouldn't go 
 c) NIOS let's you choice any sebject however, you **MUST** chose your sebjects according to your future career/goals
 
 d) Don't think that you can complete 12th in one year __IF you passed out of 10th you are required to maintain 1 year gap between passing from 10th and Completing 12th__
+
+e) You can choose one vocational sebject.
+
 
 Procedure NIOS has introduced __100% On-line__ admission in order to facilitate learners in registering themselves with it. Off-line admission quota has been dispensed with. Under this scheme learners have the options to
 - Register themselves On-line directly
