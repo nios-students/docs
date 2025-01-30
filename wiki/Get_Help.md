@@ -24,16 +24,15 @@ Because these are 3rd party chat groups, remember to follow these guidelines whi
 - [chat-2](https://www.reddit.com/r/Nios_unofficial/s/varZyi0F3R)
 
  
-# Official NIOS email address 
-- For admission related: [dirsss[AT]nios.ac.in]()
--  For books: mpdd[AT]nios.ac.in or studymaterial[AT]nios.ac.in
-- For ODE: odes[AT]nios.ac.in
-- For result: rcell[AT]nios.ac.in 
-- [For specific subject questions](https://nios.ac.in/contact-us/ask-your-teacher.aspx)
-- [Regional Centre mail address](https://web.archive.org/web/20220216190435/https://sdmis.nios.ac.in/home/regional-center)
-- For general enquiries: lsc[AT]nios.ac.in
--  For complaints and feedback: cm[AT]nios.ac.in
+# Official NIOS email address and phone numbers
+- For admission-related: [dirsss[AT]nios.ac.in](mailto:dirsss@nios.ac.in)  
+- For books: [mpdd[AT]nios.ac.in](mailto:mpdd@nios.ac.in) or [studymaterial[AT]nios.ac.in](mailto:studymaterial[AT]nios.ac.in) or call 8178547494
+- For ODE: [odes[AT]nios.ac.in](mailto:odes@nios.ac.in)  
+- For result: [rcell[AT]nios.ac.in](mailto:rcell@nios.ac.in)  
+- [For specific subject questions](https://nios.ac.in/contact-us/ask-your-teacher.aspx)  
+- [Regional Centre mail address](https://web.archive.org/web/20220216190435/https://sdmis.nios.ac.in/home/regional-center)  
+- For general inquiries: [lsc[AT]nios.ac.in](mailto:lsc@nios.ac.in) or call 1800-180-9393
+- For complaints and feedback: [cp[AT]nios.ac.in](mailto:cp@nios.ac.in)
 
-##### Email Address of ping
-- unofficialnios[AT]gmail.com
-- nioshelpinghand[AT]gmail.com
+# Email Address of administrator
+- [unofficialnios[AT]gmail.com](mailto:unofficialnios@gmail.com)
