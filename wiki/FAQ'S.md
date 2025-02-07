@@ -87,13 +87,27 @@ Ans: There must be at least a 2 year gap between passing 10th grade and passing 
 
 Note: If you finish your exams in the second year NIOS will give your result documents after you give all sebjects i.e. after the second exam results are declared.
 
+Can an exam centre be changed (PE)?
+
+Ans: Yes there is a e-service that however, it just returns " Change of exam center is now closed." YOU can't change the exam centre. 
+Where are the practical examination held?
+
+Ans: Practical examinations for Public examinations are normally held in the respective AIs, where the learner gets enrolled. If your AI/Study centre is inactive or closed another centre will be allocated to you.
+
+At Sr.Secondary level, if one fails in theory but passes in practical, do they have to appear in practical again and vica versa?
+
+If learner passes in practical but fails in the theory of a subject, his/her practical awards/marks will be retained and can appear in theory examination only. In case the learner re-appears in both theory and practical, then the best combination of marks will be retained.
+
+[How to deal with stress (www.nios.ac.in)](https://nios.ac.in/faq/handling-examination-related-stresshttps://nios.ac.in/faq/handling-examination-related-stress)
+
+
 # On Demand related FAQs
 
 # Is bifurcation applicable for On Demand to?
 
 Ans: Yes, as per [this](https://www.reddit.com/r/NIOS_Students/s/GNH9m0GrRi) reddit post. The OP (original poster) filed for a RTE for which the answer is given below:
 
-*Please refer to the images
+**Please refer to the images**
 
   <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/rti-response-says-tma-chapters-are-not-asked-in-ode-exams-1.webp" alt="RIT-1" width="400"/>
 
