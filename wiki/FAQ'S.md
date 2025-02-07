@@ -67,28 +67,13 @@ Ans: Firstly chill it's not a big deal if this happened to you. Let's confirm.
 2. Go to the Centre in person
 3. Call your regional office and ask them [**Click here to view phone number**](https://web.archive.org/web/20220216190435/https://sdmis.nios.ac.in/home/regional-center)
 
+**Why don't Conduct PCPs?**
+Ans: They're so overworked and other stuff. And they might not even conduct PCP/FA PCP. 
 
+**What can i do now?**
+what I need you to do is prepare practicals and all of that stuff on your own. If you don't understand anything, just go on [Reddit](https://www.reddit.com/r/NIOS_Students) or [read this](https.//nios-students.pages.dev/wiki/howto-rec-book) You don't have to do anything. Your regional center has a record of inactive study centres 
 
-
-
-
-
-They just don't want more students in the center because they're so overworked and stuff. And they might not even conduct anything. So what I need you to do is prepare practicals and all of that stuff on your own. If you don't understand anything, just go on Reddit. Or we are planning to make this, guide every session that it's not base it's not, like, return information because I think, people don't read whatever I write in the VQs anyways.
-
-
-You don't have to do anything. Your regional center has a record of it
-
-What I have observed is that in the main practical examination itself, they will fill both of these marks. Yes. In the notifications that they say that, yeah, there is a separate schedule for uploading, FA marks and SA marks that is FAPCPs and the practical exam itself. But when you, like, you know, when you go to the examination, they will probably give you a answer if you I unfortunately don't have a copy of it, like, a picture of it or anything. So yeah.
-
-Why do they need to add the FA marks column on the answersheet when they can just pull it (The marks FA) from the website itself. This proves that, both are entered at the practical examination. 
-
-
-Now if the if your study center does not conduct it or if your study center is closed and the other center you will read does not conduct the PCB classes, every PCB classes. In most cases, they will, give the remarks for that for free. For free, that's that that does not mean that if you don't attend the, practical examination, you will just get 50% of the your practical marks.
-
-And and if you're in 12, you'll just basically pass practical without doing nothing. No. They won't do that. You have to go to the practical examination. You have to submit the file.
-
-
-
+What I have observed is that in the main practical examination itself, they will fill both of these marks. Yes. In the notifications that they say that, yeah, there is a separate schedule for uploading, FA marks and SA marks that is FA PCPs and the practical exam itself. But when you, go to the examination, they will give you a answer sheet. In that sheet there is a table for it. Why do they need to add the FA marks column on the answersheet when they can just pull it (The marks FA) from the website itself. This proves that, both are entered/given at the practical examination. Now if your study center does not conduct FA PCP or if your study center is closed and the other center does not conduct the PCP classes as well. In most cases, they will, give the marks of FA PCP for free.
 
 # Public examination FAQs
 
