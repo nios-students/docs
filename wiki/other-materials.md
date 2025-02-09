@@ -39,6 +39,12 @@ The materials are applicable for all exams (On demand and public) so, please sto
 **Secondary (10th)**
 - [VOC-Basic
 Computing-608](https://drive.google.com/file/d/1ByDCX_yhvUg-SXHroICBEaNCUzaPHwYI/view?usp=drivesdk)
+- [Mathematics-211](https://drive.google.com/file/d/1COtvhOvihS9KGYoovy7MDEwJSQ0Mlpto/view?usp=drivesdk)
+- [Science and Technology-212](https://drive.google.com/file/d/1CQjoWeaSodtl7tWtN_zSD2AlzvR-CgMR/view?usp=drivesdk)
+- [Home Science-216](https://drive.google.com/file/d/1CSfwcKQqPBNpipuRN7RHdC0A6fTt2E2c/view?usp=drivesdk)
+- [Data Entry Operations-229](https://drive.google.com/file/d/1CFHXYQevcDmHvOZIKDH7bHF3ke3zAmFU/view?usp=drivesdk)
+- [Painting-225](https://drive.google.com/file/d/1CVP97PPwJWSzi9H4kmFV-9c1Aq7eOeAT/view?usp=drivesdk)
+- [Hindustani Music-242](https://drive.google.com/file/d/1COrk-cKspzgXb0k4NnpjIebOtrvwPutI/view?usp=drivesdk)
 # TMA
 - [TMA **2024-25**](https://drive.google.com/drive/folders/1QPWsCnWQl6BRnUZwvC41ZAzkqy_XJ7q7?usp=drive_link) Last date of Submission is **31 January.** 
 # Question Papers of Previous Year's Examination
