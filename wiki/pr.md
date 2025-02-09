@@ -77,7 +77,7 @@ View the table below
 
 ---
 
-- What are the marks for  viva,flie etc?
+- What are the marks for  viva, flie etc?
 # Table breaking down practical marks (12th Sr.Sec):
 | Sr.No | Seb Code                                         | File | Viva | Activities/Answering the Paper |
 | ----- | ------------------------------------------------ | ---- | ---- | ------------------------------ |
