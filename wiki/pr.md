@@ -8,6 +8,7 @@ Practical Exam
 Note: **Submission of practical file at the day of exam**
 - Which subject has practical?
   Ans: Please view the table below:
+  
 | S.No | Sr. Secondary (12th)                                | Secondary (10th)                         |
 |------|-----------------------------------------------------|------------------------------------------|
 | 1    | 312 – Physics                                       | 211 – Mathematics                        |
