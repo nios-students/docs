@@ -8,58 +8,40 @@ Practical Exam
 Note: **Submission of practical file at the day of exam**
 - Which subject has practical?
   Ans: Please view the table below:
-  -----
-| Subject Code | Class         | Subject Name                                |
-|--------------|---------------|---------------------------------------------|
-| 211          | Secondary     | Mathematics                                |
-| 212          | Secondary     | Science and Technology                     |
-| 216          | Secondary     | Home Science                               |
-| 225          | Secondary     | Painting                                   |
-| 229          | Secondary     | Data Entry Operations                      |
-| 230          | Secondary     | Indian Sign Language                       |
-| 242          | Secondary     | Hindustani Sangeet                         |
-| 243          | Secondary     | Carnatic Sangeet                           |
-| 244          | Secondary     | Folk Art                                   |
-| 285          | Secondary     | Natyakala                                  |
-| 256          | Secondary     | Bakery and Confectionery                   |
-| 605          | Secondary     | Cutting and Tailoring                      |
-| 606          | Secondary     | Dress Making                               |
-| 608          | Secondary     | Basic Computing                            |
-| 612          | Secondary     | Beauty Culture and Hair Care               |
-| 613          | Secondary     | Desk Top Publishing                        |
-| 614          | Secondary     | Yoga                                       |
-| 628          | Secondary     | Indian Embroidery                          |
-| 640          | Secondary     | Beauty Therapy                             |
-| 641          | Secondary     | Hair Care and Styling                      |
-| 642          | Secondary     | Hand and Foot Care                         |
-| 312          | Sr. Secondary | Physics                                    |
-| 313          | Sr. Secondary | Chemistry                                  |
-| 314          | Sr. Secondary | Biology                                    |
-| 316          | Sr. Secondary | Geography                                  |
-| 321          | Sr. Secondary | Home Science                               |
-| 330          | Sr. Secondary | Computer Science                           |
-| 332          | Sr. Secondary | Painting                                   |
-| 333          | Sr. Secondary | Environmental Science                      |
-| 335          | Sr. Secondary | Mass Communication                         |
-| 336          | Sr. Secondary | Data Entry Operations                      |
-| 339          | Sr. Secondary | Library and Information Science            |
-| 373          | Sr. Secondary | Physical Education and Yog                 |
-| 376          | Sr. Secondary | Early Childhood Care & Education           |
-| 385          | Sr. Secondary | Natyakala                                  |
-| 356          | Sr. Secondary | House-Keeping                              |
-| 357          | Sr. Secondary | Catering Management                        |
-| 358          | Sr. Secondary | Food Processing                            |
-| 360          | Sr. Secondary | Hotel Front Office Operations              |
-| 363          | Sr. Secondary | Preservation of Fruits and Vegetables      |
-| 622          | Sr. Secondary | Web Designing and Development              |
-| 631          | Sr. Secondary | Computer & Office Applications             |
-| 632          | Sr. Secondary | Data Entry Operations                      |
-| 651          | Sr. Secondary | IT Essentials: PC Hardware and Software    |
-| 660          | Sr. Secondary | Web Development                            |
-| 661          | Sr. Secondary | CRM Domestic Voice                         |
-| 663          | Sr. Secondary | Computer Hardware Assembly & Maintenance   |
-| 667          | Sr. Secondary | Yoga Assistant                             |
+Below is the table formatted as requested. Each subject is listed with its subject code before the subject name in the format “XXX – Subject Name.” The table has two columns: one for Sr. Secondary (12th) subjects and one for Secondary (10th) subjects. The subjects in each column are sorted by their subject code in ascending order.
 
+**Table:**
+
+| S.No | Sr. Secondary (12th)                                | Secondary (10th)                         |
+|------|-----------------------------------------------------|------------------------------------------|
+| 1    | 312 – Physics                                       | 211 – Mathematics                        |
+| 2    | 313 – Chemistry                                     | 212 – Science and Technology             |
+| 3    | 314 – Biology                                       | 216 – Home Science                       |
+| 4    | 316 – Geography                                     | 225 – Painting                           |
+| 5    | 321 – Home Science                                  | 229 – Data Entry Operations              |
+| 6    | 330 – Computer Science                              | 230 – Indian Sign Language               |
+| 7    | 332 – Painting                                      | 242 – Hindustani Sangeet                 |
+| 8    | 333 – Environmental Science                         | 243 – Carnatic Sangeet                   |
+| 9    | 335 – Mass Communication                            | 244 – Folk Art                           |
+| 10   | 336 – Data Entry Operations                         | 256 – Bakery and Confectionery           |
+| 11   | 339 – Library and Information Science             | 285 – Natyakala                          |
+| 12   | 356 – House-Keeping                                 | 605 – Cutting and Tailoring              |
+| 13   | 357 – Catering Management                           | 606 – Dress Making                       |
+| 14   | 358 – Food Processing                               | 608 – Basic Computing                    |
+| 15   | 360 – Hotel Front Office Operations                 | 612 – Beauty Culture and Hair Care       |
+| 16   | 363 – Preservation of Fruits and Vegetables         | 613 – Desk Top Publishing                |
+| 17   | 373 – Physical Education and Yog                    | 614 – Yoga                               |
+| 18   | 376 – Early Childhood Care & Education              | 628 – Indian Embroidery                  |
+| 19   | 385 – Natyakala                                     | 640 – Beauty Therapy                     |
+| 20   | 622 – Web Designing and Development                 | 641 – Hair Care and Styling              |
+| 21   | 631 – Computer & Office Applications                | 642 – Hand and Foot Care                 |
+| 22   | 632 – Data Entry Operations                         |            -                              |
+| 23   | 651 – IT Essentials: PC Hardware and Software       |             -                             |
+| 24   | 660 – Web Development                               |              -                            |
+| 25   | 661 – CRM Domestic Voice                            |               -                           |
+| 26   | 663 – Computer Hardware Assembly & Maintenance      |                -                          |
+| 27   | 667 – Yoga Assistant                                |                 -                         |
+-----
 - [How to make the practical file (Click to view)](https://nios-students.pages.dev/wiki/howto-rec-book)
 - What is FA?
 FA (formative assessment) also known as FA PCP carries **50% of practical marks.** In these classes they'll help with making practical file and explain what to do practical exam 
