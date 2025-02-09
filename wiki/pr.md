@@ -8,10 +8,6 @@ Practical Exam
 Note: **Submission of practical file at the day of exam**
 - Which subject has practical?
   Ans: Please view the table below:
-Below is the table formatted as requested. Each subject is listed with its subject code before the subject name in the format “XXX – Subject Name.” The table has two columns: one for Sr. Secondary (12th) subjects and one for Secondary (10th) subjects. The subjects in each column are sorted by their subject code in ascending order.
-
-**Table:**
-
 | S.No | Sr. Secondary (12th)                                | Secondary (10th)                         |
 |------|-----------------------------------------------------|------------------------------------------|
 | 1    | 312 – Physics                                       | 211 – Mathematics                        |
@@ -68,8 +64,7 @@ b) For stream 2,3,4 **100%** of marks are scored/given during practical exam.
 Note: For streams 3 and 4 you have to ask your center. For stream 1 and 2 specific dates & time
 aren't given. You have to visit the centre one or two days **before the first exam** e.g. If the first exam is on 20th you have to go 18th or 19th.
 
-View the table below:
-
+View the table below
 ---
 
 | Sr. No. | Stream | Block                                             | Month     |
@@ -106,12 +101,20 @@ View the table below:
 | 7     | 622                                                   | 70        | -  | 70 | 23            |
 | 8     | 373                                                   | 30        | 15 | 15 | 9             |
 # Table breaking down practical marks (10th Sec):
-| Sr.No | Seb Code               |Max Marks | FA  | SA  | File | Viva | Activities/Answering the Paper | Passing Marks |
-| ----- | ---------------------- | --- | --- | --- | ---- | ---- | ------------------------------ | ------------- |
-| 1     | 211,212,216 and others (with 20 marks)  | 20  | 7½ | 7½ | 1½  | 2½  | 5                              | 4             |
-| 2     | 229                    | 60  | 30  | 30  | 5    | 5    | 20                             | 19            |
-| 3     | 225                    | 70  | 35  | 35  | 7    | 10   | 25                             | 23            |
-| 4     | 608                    | 70  | -   | 70  | 10   | 10   | 50                             | 23            |
+
+| Sr.No | Subject Code                                  | Max Marks | FA  | SA  | Passing Marks |
+| ----- | --------------------------------------------- | --------- | --- | --- | ------------- |
+| 1     | 211,212,216 and others (with 20 marks)        | 20        | 7½  | 7½  | 4             |
+| 2     | 229                                           | 60        | 30  | 30  | 19            |
+| 3     | 225                                           | 70        | 35  | 35  | 23            |
+| 4     | 608                                           | 70        | -   | 70  | 23            |
+----  
+| Sr.No | Subject Code                                  | File | Viva | Activities/Answering the Paper |
+| ----- | --------------------------------------------- | ---- | ---- | ------------------------------ |
+| 1     | 211,212,216 and others (with 20 marks)        | 1½   | 2½   | 5                              |
+| 2     | 229                                           | 5    | 5    | 20                             |
+| 3     | 225                                           | 7    | 10   | 25                             |
+| 4     | 608                                           | 10   | 10   | 50                             |
 
 [Source](https://nios.ac.in/media/documents/notification/yr2024/Exam/PG_2024.pdf)
 
