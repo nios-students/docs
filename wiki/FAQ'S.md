@@ -57,13 +57,13 @@ The following info should be written Your name, Enrollment number, Subject name 
 
 # Which PCP is important? (Only for Stream 1)
 
-Ans: The first PCP in December-November (block 1) June- July (block 2) doesn't carry any marks. FA PCP Carries **50% weightage of Practicals** [Read More...](https://nios-students.pages.dev/wiki/Exams-Assignments#pcp-personal-contact-programme)
+Ans: The first PCP in December-November (block 1) June-July (block 2) doesn't carry any marks. FA PCP Carries **50% weightage of Practicals** [Read More...](https://nios-students.pages.dev/wiki/Exams-Assignments#pcp-personal-contact-programme)
 
-# What do if my AI (Study Centre) is closed or no longer affiliated NIOS?
+# What do if my AI (Study Centre) is closed or no longer with affiliated NIOS?
 
 Ans: Firstly chill it's not a big deal if this happened to you. Let's confirm.
 
-1. Log on to your dashboard ⬇️ Scroll down. Click on "`👁️` View." You will see the "PCP details 2021-22" at the top ignore that it's a bug. There should be a table below that. **Btw these PCPs are the non-important ones i.e. 30 classes. if can you see "No record found" That means that your study center is not affiliated with NIOS. “How to do you know?” Because I'm god yes, I'm serious!**. *Read the note at the end*
+1. Log on to your dashboard ⬇️ Scroll down. Click on "`👁️` View." You will see the "PCP details 2021-22" at the top ignore that it's a bug. There should be a table below that. **Btw these PCPs are the non-important ones i.e. 30 classes. if can you see "No record found" That means that your study center is not affiliated with NIOS. “How do you know?” Because I'm god yes, I'm serious!**. *Read the note at the end*
 2. Go to the Centre in person
 3. Call your regional office and ask them [**Click here to view phone number**](https://web.archive.org/web/20220216190435/https://sdmis.nios.ac.in/home/regional-center)
 
@@ -71,9 +71,7 @@ Ans: Firstly chill it's not a big deal if this happened to you. Let's confirm.
 Ans: They're so overworked and other stuff. And they might not even conduct PCP/FA PCP. 
 
 **What can i do now?**
-what I need you to do is prepare practicals and all of that stuff on your own. If you don't understand anything, just go on [Reddit](https://www.reddit.com/r/NIOS_Students) or [read this](https.//nios-students.pages.dev/wiki/howto-rec-book) You don't have to do anything. Your regional center has a record of inactive study centres 
-
-What I have observed is that in the main practical examination itself, they will fill both of these marks. Yes. In the notifications that they say that, yeah, there is a separate schedule for uploading, FA marks and SA marks that is FA PCPs and the practical exam itself. But when you, go to the examination, they will give you a answer sheet. In that sheet there is a table for it. Why do they need to add the FA marks column on the answersheet when they can just pull it (The marks FA) from the website itself. This proves that, both are entered/given at the practical examination. Now if your study center does not conduct FA PCP or if your study center is closed and the other center does not conduct the PCP classes as well. In most cases, they will, give the marks of FA PCP for free.
+what I need you to do is prepare practicals and all of that stuff on your own. If you don't understand anything, just go on [Reddit](https://www.reddit.com/r/NIOS_Students) or [read this](https.//nios-students.pages.dev/wiki/howto-rec-book) You don't have to do anything. Your regional center has a record of inactive study centres What I have observed is that in the main practical examination itself, they will fill both of these marks. Yes. In the notifications that they say that, yeah, there is a separate schedule for uploading, FA marks and SA marks that is FA PCPs and the practical exam itself. But when you, go to the examination, they will give you a answer sheet. In that sheet there is a table for it. Why do they need to add the FA marks column on the answersheet when they can just pull it (The marks FA) from the website itself. This proves that, both are entered/given at the practical examination. Now if your study center does not conduct FA PCP or if your study center is closed and the other center does not conduct the PCP classes as well. In most cases, they will, give the marks of FA PCP for free.
 
 # Public examination FAQs
 
