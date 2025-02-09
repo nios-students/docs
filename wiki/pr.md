@@ -102,7 +102,7 @@ View the table below:
 
 - What are the marks for  viva,flie etc?
 # Table breaking down practical marks (12th Sr.Sec):
-| Sr.No | Seb Code                                           | Pr. | FA | SA | File | Viva | Activities/Answering the Paper | Passing Marks |
+| Sr.No | Seb Code                                           |Max Marks | FA | SA | File | Viva | Activities/Answering the Paper | Passing Marks |
 | ----- | -------------------------------------------------- | --- | -- | -- | ---- | ---- | ------------------------------ | ------------- |
 | 1     | 330                                                | 40  | 20 | 20 | 2¼  | 5    | 15                             | 13            |
 | 2     | 312,313,314,333,335,376 and others with 20 marks| 20  | 10 | 10 | 2    | 3    | 7                              | 7             |
