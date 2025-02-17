@@ -180,6 +180,29 @@ Note: Ilovepdf is website so, you can do this on any device which has a web brow
 - [Video for chromebooks](https://www.youtube.com/watch?v=J8Mzm01rpbc)
 - [Web based tools in case you don't space to download a tool/app](https://www.ezyzip.com/unzip-files-online.html)
 
+@  VOC **[Working in progress]**
+-------
+| 10th Vocational Subjects                           | 12th Vocational Subjects                                    |
+|----------------------------------------------------|-------------------------------------------------------------|
+| 1. Data Entry Operations (229)                     | 1. Data Entry Operations (336)                              |
+| 2. Entrepreneurship (249)                          | 2. Tourism (337)                                            |
+| 3. Cutting and Tailoring (605)                     | 3. House-Keeping (356)                                      |
+| 4. Dress Making (606)                              | 4. Catering Management (357)                                |
+| 5. Basic Computing (608)                           | 5. Food Processing (358)                                    |
+| 6. Beauty Culture and Hair Care (612)              | 6. Hotel Front Office Operations (360)                      |
+| 7. Desk Top Publishing (613)                       | 7. Preservation of Fruits and Vegetables (363)              |
+| 8. Yoga (614)                                      | 8. Physical Education and Yog (373)                         |
+| 9. Indian Embroidery (628)                         | 9. Early Childhood Care and Education (376)                 |
+| 10. Beauty Therapy (640)                           | 10. Web Designing and Development (622)                     |
+| 11. Hair Care and Styling (641)                    | 11. Computer & Office Applications (631)                    |
+| 12. Hand and Foot Care (642)                       | 12. Data Entry Operations (632)                             |
+|                                                    | 13. IT Essentials: PC Hardware and Software (651)           |
+|                                                    | 14. Web Development (660)                                   |
+|                                                    | 15. CRM Domestic Voice (661)                                |
+|                                                    | 16. Computer Hardware Assembly & Maintenance (663)          |
+|                                                    | 17. Yoga Assistant (667)                                    |
+
+
 
 # Fees related FAQs
 
