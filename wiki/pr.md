@@ -119,7 +119,7 @@ View the table below
 
 [Source](https://nios.ac.in/media/documents/notification/yr2024/Exam/PG_2024.pdf)
 
-Note: **Viva and activities/answering the paper come under SA/Practical exam. "pr." is the maximum of practical. “Seb Code” is the sebject code of the sebject. The marks for submitting file comes under FA marks. In Secondary (10th) Passing in practical isn't required i.e. You need to get 33% of the maximum marks. It doesn't matter how you score these marks. For a example in science and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered passed. Here 'Passing marks' are given for completeness.** 
+Note: **“Seb Code” is the sebject code of the sebject. The marks for submitting file comes under FA marks. In Secondary (10th) Passing in practical isn't required i.e. You need to get 33% of the maximum marks. It doesn't matter how you score these marks. For a example in science and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered passed. Here 'Passing marks' are given for completeness.** 
 - What kind of questions will they ask in viva?
 Basic stuff regarding the subject like full forms, basic terms why did choose this subject etc.....
 - Will they ask to Perform activities/experiments?
@@ -137,22 +137,19 @@ Go to the address given in the hallticket for specific time and date. The schedu
 2. Pen and other stationary
 3. ID Proof like aadhaar Card, Passport or PAN card etc
 4. [Practical hallticket](https://sdmis.nios.ac.in/search/hall-ticket)
-5. Record Book
+5. Record Book/Practical file
 6. Pad
 7. Water bottle *remember to stay hydrated and chill!*
 
 Note: All the documents **should in printed form** *The hallticket is released one week before the first exam*
 # Other stuff
-The time for all Subjects is ***3hrs***
-
-Remember at fill your information correct on the answer sheet
-
-Wear anything __formal clothing__
-
-[Info on how to view SA/practical marks are given or not](https://nios-students.pages.dev/wiki/view-assessment)
+- The time for all Subjects is ***3hrs***
+- Remember at fill your information correct on the answer sheet
+- Wear anything __formal clothing__
+- [Info on how to view SA/practical marks are given or not](https://nios-students.pages.dev/wiki/view-assessment)
 
 ----
-Any questions? [Ask here](https://www.reddit.com/r/NIOS_Students/submit)
+Any questions? [Ask here](https://www.reddit.com/r/NIOS_Students/submit) or [e-mail](<unofficialnios@gmail.com>)
 
-# Research and Written by yours  truly *pingforhelp*
+Research and Written by pingforhelp
 
