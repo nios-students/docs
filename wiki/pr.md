@@ -149,7 +149,7 @@ Note: All the documents **should in printed form** *The hallticket is released o
 - [Info on how to view SA/practical marks are given or not](https://nios-students.pages.dev/wiki/view-assessment)
 
 ----
-Any questions? [Ask here](https://www.reddit.com/r/NIOS_Students/submit) or [e-mail](<unofficialnios@gmail.com>)
+Any questions? [Ask here](https://www.reddit.com/r/NIOS_Students/submit) or [e-mail](unofficialnios@gmail.com)
 
 Research and Written by pingforhelp
 
