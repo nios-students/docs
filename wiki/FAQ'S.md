@@ -183,7 +183,7 @@ Note: Ilovepdf is website so, you can do this on any device which has a web brow
 # How to open .zip/.rar file?
 
 - Videos for windows:
-1. [Windows 7](https://www.youtube.com/watch?v=nXAYWwiDvc8)
+<iframe width="1202" height="480" src="https://www.youtube.com/embed/nXAYWwiDvc8" title="Windows 7  - How to extract  a zip file." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 2. [Windows 10/11](https://www.youtube.com/watch?v=f1Iw9P_QQsc)
 - [Video for Android](https://www.youtube.com/watch?v=RyhkTF2jt90)
 - [Video for IOS](https://www.youtube.com/watch?v=TFcBqqDGLr4)
