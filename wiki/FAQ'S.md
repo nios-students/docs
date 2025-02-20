@@ -183,12 +183,17 @@ Note: Ilovepdf is website so, you can do this on any device which has a web brow
 # How to open .zip/.rar file?
 
 - Videos for windows:
+
 <iframe width="1202" height="480" src="https://www.youtube.com/embed/nXAYWwiDvc8" title="Windows 7  - How to extract  a zip file." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-2. [Windows 10/11](https://www.youtube.com/watch?v=f1Iw9P_QQsc)
-- [Video for Android](https://www.youtube.com/watch?v=RyhkTF2jt90)
-- [Video for IOS](https://www.youtube.com/watch?v=TFcBqqDGLr4)
-- [Video for chromebooks](https://www.youtube.com/watch?v=J8Mzm01rpbc)
-- [Web based tools in case you don't space to download a tool/app](https://www.ezyzip.com/unzip-files-online.html)
+
+<iframe width="1202" height="480" src="https://www.youtube.com/embed/f1Iw9P_QQsc" title="How To Extract Zip Files &amp; Folders in Windows 11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="1202" height="480" src="https://www.youtube.com/embed/RyhkTF2jt90" title="How to Extract ZIP Files on Android !" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="1202" height="480" src="https://www.youtube.com/embed/TFcBqqDGLr4" title="How to Open / Extract RAR File on iPhone or iPad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1202" height="480" src="https://www.youtube.com/embed/J8Mzm01rpbc" title="How to Zip &amp; Unzip files on Chromebook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="1202" height="480" src="https://www.youtube.com/embed/N236GiRolXU" title="How To Unzip Files Online [Simple Guide]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 @  VOC **[Working in progress]**
 -------
