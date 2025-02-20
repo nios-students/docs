@@ -107,7 +107,15 @@ At Sr.Secondary level, if one fails in theory but passes in practical, do they h
 
 If learner passes in practical but fails in the theory of a subject, his/her practical awards/marks will be retained and can appear in theory examination only. In case the learner re-appears in both theory and practical, then the best combination of marks will be retained.
 
-[How to deal with stress (www.nios.ac.in)](https://nios.ac.in/faq/handling-examination-related-stresshttps://nios.ac.in/faq/handling-examination-related-stress)
+# How to deal with stress
+- [Click here (www.nios.ac.in)](https://nios.ac.in/faq/handling-examination-related-stress)
+
+# Are calculators allowed in examination? (Applicable in every single examination.)
+
+Ans: No, calculators not allowed please refer the picture from 
+![{F44989A0-83EC-4717-94FC-AED59EA79440}](https://github.com/user-attachments/assets/584bd151-4700-40bd-8dad-9f1ee46d4938)
+
+
 
 
 # On Demand related FAQs
