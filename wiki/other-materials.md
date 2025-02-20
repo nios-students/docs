@@ -1,4 +1,4 @@
-Last updated 🕟:**18-01-2025, 04:27PM IST**
+Last updated 🕟:**20-02-2025, 05:5PM IST**
 
 The materials are applicable for all exams (On demand and public) so, please stop asking that.
 ----
@@ -14,7 +14,7 @@ The materials are applicable for all exams (On demand and public) so, please sto
 - [Student made notes](https://drive.google.com/drive/folders/1ttDPhDMNFK3uRudaJWie83mTeVgvmGo_?usp=drive_link)
 **Maths (311), Chemistry (313), English (302) (Sr.Sec 12th), Introduction To Laws (338), Data entry operations (336) (12th Sr.Sec), Buisness Studies (Sr.Sec 12th), English (202) (Sr.Sec 10th)**
 
-- [Terminal Answers](https://drive.google.com/drive/folders/1QxgVf9rmN91oStaDyrM_2IXtsFgZCL-K?usp=drive_link) Physics,Mathematics,Chemistry and Biology. For the sebject or lessons not available in the above link [here for Sr.Sec (12th)](https://brainly.in/textbook-solutions/book-sets/s-nios-board/c-class-12) and [here for Sec (10th)]
+- [Terminal Answers](https://drive.google.com/drive/folders/1QxgVf9rmN91oStaDyrM_2IXtsFgZCL-K?usp=drive_link) Physics,Mathematics,Chemistry and Biology. For the sebject or lessons not available in the above link [here for Sr.Sec (12th)](https://brainly.in/textbook-solutions/book-sets/s-nios-board/c-class-12) and [here for Sec (10th)](https://brainly.in/textbook-solutions/book-sets/s-nios-board/c-class-10)
 - [Brief summaries for both Secondary and Senior Secondary **10th and 12th**](https://www.flexiprep.com/NIOS-Notes/)
 
 # Practical Files
@@ -29,7 +29,7 @@ The materials are applicable for all exams (On demand and public) so, please sto
 - [Mass Communication-335](https://drive.google.com/file/d/15yFRnuislqd8L_Yy6Adln0mi6UWXmYlz/view?usp=drivesdk)
 - [Geography-316](https://drive.google.com/file/d/1siXW5NvqsjoItMmtHnW98jb6g0BAKUks/view?usp=drivesdk)
 - [Painting-**332 (12th)**](https://drive.google.com/file/d/1iTsm4f8ilwStpYmSv8-LD32YoY1erlgs/view?usp=drivesdk)
-- [Home Science](https://drive.google.com/file/d/1IFmpCY7m1380q8Q6b_Fr7-aZkE1jtn9R/view?usp=drivesdk)
+- [Home Science-321](https://drive.google.com/file/d/1IFmpCY7m1380q8Q6b_Fr7-aZkE1jtn9R/view?usp=drivesdk)
 - [Physical Education and Yoga-373](https://drive.google.com/file/d/1uP8wLf8CWOa2ycGFyqpOtNuiWZMc2hdS/view?usp=drivesdk)
 - [Library and Information Science-339](https://drive.google.com/drive/folders/1gmlUhPul53yaXm4eWGqQygnX_KgIJNpB)
 - [Early Childhood Care And Education-376](https://drive.google.com/drive/folders/1gmlUhPul53yaXm4eWGqQygnX_KgIJNpB)
@@ -85,4 +85,4 @@ _______________
 * All  student made notes, practical files are sebject to © nios-Students Contributors 2024. The above listed can not
 modified nor allowed to sell without the permission of web developer and content author of particular the sebject/topic/work.
 * No code, images, logos or any other assets of **The National Institute of Open Schooling** copy nor used in making of this website.
-* If copyright Laws have been violated. We shall remove such content upon notice from the copyright holder. Please contact us @ unofficialnios[at]gmail.com or DM (Direct Message) thought our [discord control unit](mailtohello@nios-students.pages.dev)
+* If copyright Laws have been violated. We shall remove such content upon notice from the copyright holder. Please contact us @ unofficialnios[at]gmail.com or DM (Direct Message) thought our [discord control unit](hello@nios-students.pages.dev)
