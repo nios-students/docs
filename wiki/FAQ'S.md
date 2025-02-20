@@ -96,27 +96,27 @@ Ans: There must be at least a 2 year gap between passing 10th grade and passing 
 
 Note: If you finish your exams in the second year NIOS will give your result documents after you give all sebjects i.e. after the second exam results are declared.
 
-Can an exam centre be changed (PE)?
+# Can an exam centre be changed (PE)?
 
 Ans: Yes there is a e-service that however, it just returns " Change of exam center is now closed." YOU can't change the exam centre. 
-Where are the practical examination held?
+
+# Where are the practical examination held?
 
 Ans: Practical examinations for Public examinations are normally held in the respective AIs, where the learner gets enrolled. If your AI/Study centre is inactive or closed another centre will be allocated to you.
 
-At Sr.Secondary level, if one fails in theory but passes in practical, do they have to appear in practical again and vica versa?
+# Will my marks be carried forward?
 
-If learner passes in practical but fails in the theory of a subject, his/her practical awards/marks will be retained and can appear in theory examination only. In case the learner re-appears in both theory and practical, then the best combination of marks will be retained.
+Ans: At Sr.Secondary level, if one fails in theory but passes in practical, do they have to appear in practical again and vica versa. If learner passes in practical but fails in the theory of a subject, his/her practical awards/marks will be retained and can appear in theory examination only. In case the learner re-appears in both theory and practical, then the best combination of marks will be retained.
 
 # How to deal with stress
 - [Click here (www.nios.ac.in)](https://nios.ac.in/faq/handling-examination-related-stress)
 
 # Are calculators allowed in examination? (Applicable in every single examination.)
 
-Ans: No, calculators not allowed please refer the picture from 
+Ans: No, calculators not allowed. Please refer the picture from *Guidelines for Centre Superintendents for Theory Examinations*
 ![{F44989A0-83EC-4717-94FC-AED59EA79440}](https://github.com/user-attachments/assets/584bd151-4700-40bd-8dad-9f1ee46d4938)
 
-
-
+Note: "owever, in the case of learners with disabilities" They're talking about computers/Typewriters here.
 
 # On Demand related FAQs
 
@@ -144,7 +144,8 @@ Related links:
 - [NIOS Senior Secondary (12th)](https://youtube.com/@niosseniorsecondarycourses)
 
 [Other: NIOS Live Video](https://youtube.com/@nioslivevideo)
-> Note: **Archived Live Streams from 2019-2024 (August). This channel is now used for events only.**
+
+Note: **Archived Live Streams from 2019-2024 (August). This channel is now used for events only.**
 
 [Radio: NIOS Mukta Vidyavani & Radiovahini](https://youtube.com/@niosmuktavidyavaniradiovahini)
 
@@ -166,7 +167,8 @@ Live streams there are 4 channels:
 - [OBE/ISL](https://youtube.com/@ddpmevidyanios19obeislikt) from 3.00 PM to 4.00 PM. 
 - [Vocational](https://youtube.com/@niospmevidya20vocational) from 4.00 PM to 5.00 PM
 Follow them on [X](x.com/Niostiw) for daily schedule of live streams.
-> **Author's note: Most videos/explanations are just people reading PPTs. Live streams are cancelled sometimes but we can't do anything about it sadly.**
+
+**Author's note: Most videos/explanations are just people reading PPTs. Live streams are cancelled sometimes but we can't do anything about it sadly.**
 
 # What is ABCID? Is that required?
 
