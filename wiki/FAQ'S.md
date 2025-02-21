@@ -116,7 +116,15 @@ Ans: At Sr.Secondary level, if one fails in theory but passes in practical, do t
 Ans: No, calculators not allowed. Please refer the picture from *Guidelines for Centre Superintendents for Theory Examinations*
 ![{F44989A0-83EC-4717-94FC-AED59EA79440}](https://github.com/user-attachments/assets/584bd151-4700-40bd-8dad-9f1ee46d4938)
 
-Note: "owever, in the case of learners with disabilities" They're talking about computers/Typewriters here.
+Note: "However, in the case of learners with disabilities" They're talking about computers/Typewriters here.
+
+# Are NIOS exam centers different from your study Centre?
+
+Ans: Yes, the exam centre for Theory examination is different from Study Centre which is for FA and SA.
+
+# Do you get your exam centre randomly?
+
+Ans: No.
 
 # On Demand related FAQs
 
