@@ -102,7 +102,7 @@ Ans: Yes there is a e-service that however, it just returns " Change of exam cen
 
 # Where are the practical examination held?
 
-Ans: Practical examinations for Public examinations are normally held in the respective AIs, where the learner gets enrolled. If your AI/Study centre is inactive or closed another centre will be allocated to you.
+Ans: Practical examinations for Public examinations are normally held in the respective AIs, where the learner gets enrolled. If your AI/Study Centre is inactive or closed another centre will be allocated to you.
 
 # Will my marks be carried forward?
 
@@ -124,7 +124,7 @@ Ans: Yes, the exam centre for Theory examination is different from Study Centre 
 
 # Do you get your exam centre randomly?
 
-Ans: No.
+Ans: No, they chose the centre based on your location.
 
 # On Demand related FAQs
 
@@ -186,7 +186,7 @@ Ans: ABCID is used to keep track of  academic progress. It's mostly by college g
 
 <iframe width="1202" height="480" src="https://www.youtube.com/embed/aHFF2MYb-6I" title="How To Compress PDF File Size Without Losing Quality - Full Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
-Note: Ilovepdf is website so, you can do this on any device which has a web browser and storage for.pdf file.
+Note: https//ilovepdf.com is website so, you can do this on any device which has a web browser and storage for.pdf file.
 
 # How to open .zip/.rar file?
 
@@ -224,8 +224,7 @@ Click on the Videos
 |                                                    | 15. CRM Domestic Voice (661)                                |
 |                                                    | 16. Computer Hardware Assembly & Maintenance (663)          |
 |                                                    | 17. Yoga Assistant (667)                                    |
-
-
+--------------------------
 
 # Fees related FAQs
 
@@ -235,7 +234,10 @@ Ans: Please wait until results of the exam you gave or paid fees for are release
 > Note: **This is nothing new it's a norm
 [Join our WhatsApp update channel**](https://whatsapp.com/channel/0029VamKd7w3LdQV8AqlNF1h)
 
-# I paid “Addmission Fees” Why should pay exam for public exams fees? (ONLY for Stream 1) 
+# I paid “Addmission Fees” Why should pay exam for public exams fees? (Only for Stream 1) 
 
 Ans: Because the fees you paid it beginning was admission into NIOS. It covers your books and PCPs.  You **must** to exam fees in order appear in the exam. Btw exam fee includes  question paper, answer booklet, fees for teachers who will check your answers, and other miscellaneous expenses.
+
+# Do authorised centres also do scams? 
+
 
