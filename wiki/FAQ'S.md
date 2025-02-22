@@ -15,14 +15,14 @@ Ans: From October 2024 session, TMA evaluation pattern has been changed. As we k
 
 Table attached showing full TMA marks of all Subjects on Marksheet (20% of Theory Marks). Now you can calculate Actual TMA marks by yourself:
 
-> Note: **'Theory' refers to subjects without practical e.g. Social science, History**. [Sebject names with corresponding sebject code](https://docs.google.com/document/d/1IkOCPBsEOd-owsX70-DvP0b5epAoJob3zEtI3OGJUMs/edit?usp=drive_link)
+> Note: **'Theory' refers to subjects without practical e.g. Social science and History**. [Sebject names with corresponding sebject code](https://docs.google.com/document/d/1IkOCPBsEOd-owsX70-DvP0b5epAoJob3zEtI3OGJUMs/edit?usp=drive_link)
 
 12th (Senior Secondary)
 -----
 | Seb Code/Category                  | Max Marks on th QP  | 20% of Marks |
 |------------------------------------|---------------------------|--------------|
-| All Theory and Languages            | 80                        | 20           |
-| 312, 313, 314, 316, 321, 333, 339, 335 and 376 | 64               | 16           |
+| All Theory and Languages            | 80                       | 20           |
+| 312, 313, 314, 316, 321, 333, 339, 335 and 376 | 64            | 16           |
 | 330                                | 48                        | 12           |
 | 336                                | 32                        | 08           |
 | 373                                | 56                        | 14           |
@@ -64,8 +64,7 @@ Ans: The first PCP in December-November (block 1) June-July (block 2) doesn't ca
 Ans: First, chill—it’s not a big deal if this has happened to you. Let’s confirm:
 
 1. **Log on to your dashboard:**  
-   Scroll down and click on the "`👁️ View`" button. At the top, you’ll see “PCP details 2021-22” (ignore that—it’s a bug). There should be a table below. By the way, these PCPs are the non-important ones (i.e., 30 classes). If you see “No record found,” that means your study centre is not affiliated with NIOS.  
-   *How do you know? Because I'm God—yes, I’m serious! Read the note at the end.*
+   Scroll down and click on the `👁️ View` button. At the top, you’ll see “PCP details 2021-22” (ignore that it’s a bug). There should be a table below. By the way, these PCPs are the non-important ones (i.e., 30 classes). If you see “No record found,” that means your study centre is not affiliated with NIOS. *How do you know? Because I'm God—yes.*
 
 2. **Visit the centre in person.**
 
@@ -203,7 +202,10 @@ Click on the Videos
 
 <iframe width="1202" height="480" src="https://www.youtube.com/embed/N236GiRolXU" title="How To Unzip Files Online [Simple Guide]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-@  VOC **[Working in progress]**
+# What is the two vocational Sebjects role?
+
+XXXX will be displayed in your result if you have TWO Vocational subjects from given below the table given:
+
 -------
 | 10th Vocational Subjects                           | 12th Vocational Subjects                                    |
 |----------------------------------------------------|-------------------------------------------------------------|
@@ -238,6 +240,7 @@ Ans: Please wait until results of the exam you gave or paid fees for are release
 
 Ans: Because the fees you paid it beginning was admission into NIOS. It covers your books and PCPs.  You **must** to exam fees in order appear in the exam. Btw exam fee includes  question paper, answer booklet, fees for teachers who will check your answers, and other miscellaneous expenses.
 
-# Do authorised centres also do scams? 
+//# Is Manish Verma legit?
 
+Ans: Short answer NO.
 
