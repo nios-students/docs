@@ -1,7 +1,7 @@
 
 Pen Name: @LAwISGO0D
 IRL Name: Tamim
-[Email](tamimtasira@gmail.com)
+[Email](mailto:tamimtasira@gmail.com)
 [Web](/wiki/other-materials)
 [Gdrive](https://drive.google.com/drive/folders/1vXSgnAmCxWTiv5fqVtAnPMOaIoNA75oa?usp=drive_link)
 
