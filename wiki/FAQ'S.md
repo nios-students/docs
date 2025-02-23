@@ -183,14 +183,15 @@ Ans: ABCID is used to keep track of  academic progress. It's mostly by college g
 
 # How can i reduce size of a pdf file?
 
+::: details Show video
 <iframe width="1202" height="480" src="https://www.youtube.com/embed/aHFF2MYb-6I" title="How To Compress PDF File Size Without Losing Quality - Full Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+:::
 
-Note: https//ilovepdf.com is website so, you can do this on any device which has a web browser and storage for.pdf file.
+> [!NOTE] https//ilovepdf.com is a website so, you can do this on any device which has a web browser and storage for.pdf file.
 
 # How to open .zip/.rar file?
 
-Click on the Videos
-
+::: details Show videos
 <iframe width="1202" height="480" src="https://www.youtube.com/embed/nXAYWwiDvc8" title="Windows 7  - How to extract  a zip file." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="1202" height="480" src="https://www.youtube.com/embed/f1Iw9P_QQsc" title="How To Extract Zip Files &amp; Folders in Windows 11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -201,7 +202,7 @@ Click on the Videos
 <iframe width="1202" height="480" src="https://www.youtube.com/embed/J8Mzm01rpbc" title="How to Zip &amp; Unzip files on Chromebook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="1202" height="480" src="https://www.youtube.com/embed/N236GiRolXU" title="How To Unzip Files Online [Simple Guide]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+:::
 # What is the two vocational Sebjects role?
 
 XXXX will be displayed in your result if you have TWO Vocational subjects from given below the table given:
