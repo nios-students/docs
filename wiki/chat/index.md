@@ -26,14 +26,14 @@ Because these are 3rd party chat groups, remember to follow these guidelines whi
  <br> community on Reddit</blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
  
 # Official NIOS email address and phone numbers
-- For admission-related: [dirsss[AT]nios.ac.in](mailto:dirsss@nios.ac.in)
-- For books: [mpdd[AT]nios.ac.in](mailto:mpdd@nios.ac.in) or [studymaterial[AT]nios.ac.in](mailto:studymaterial[AT]nios.ac.in) or call 8178547494
-- For ODE: [odes[AT]nios.ac.in](mailto:odes@nios.ac.in)
-- For result: [rcell[AT]nios.ac.in](mailto:rcell@nios.ac.in)
+- For admission-related: [dirsss at nios.ac.in](mailto:dirsss@nios.ac.in)
+- For books: [mpdd at nios.ac.in](mailto:mpdd@nios.ac.in) or [studymaterial at nios.ac.in](mailto:studymaterial at nios.ac.in) or call 8178547494
+- For ODE: [odes at nios.ac.in](mailto:odes@nios.ac.in)
+- For result: [rcell at nios.ac.in](mailto:rcell@nios.ac.in)
 - [For specific subject questions](https://nios.ac.in/contact-us/ask-your-teacher.aspx)
 - [Regional Centre mail address](https://web.archive.org/web/20220216190435/https://sdmis.nios.ac.in/home/regional-center)
-- For general inquiries: [lsc[AT]nios.ac.in](mailto:lsc@nios.ac.in) or call 1800-180-9393
-- For complaints and feedback: [cp[AT]nios.ac.in](mailto:cp@nios.ac.in)
+- For general inquiries: [lsc at nios.ac.in](mailto:lsc@nios.ac.in) or call 1800-180-9393
+- For complaints and feedback: [cp at nios.ac.in](mailto:cp@nios.ac.in)
 
 # Email Address of administrator
-- [unofficialnios[AT]gmail.com](mailto:unofficialnios@gmail.com)
+- [unofficialnios at gmail.com](mailto:unofficialnios@gmail.com)
