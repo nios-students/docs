@@ -173,7 +173,7 @@ Live streams there are 4 channels:
 - [Senior Secondary (12th)](https://youtube.com/@ddpmevidyanios18srsec) from 2.00 PM to 3.00 PM 
 - [OBE/ISL](https://youtube.com/@ddpmevidyanios19obeislikt) from 3.00 PM to 4.00 PM. 
 - [Vocational](https://youtube.com/@niospmevidya20vocational) from 4.00 PM to 5.00 PM
-Follow them on [X](x.com/Niostiw) for daily schedule of live streams.
+Follow them on [X](https://x.com/Niostiw) for daily schedule of live streams.
 
 **Author's note: Most videos/explanations are just people reading PPTs. Live streams are cancelled sometimes but we can't do anything about it sadly.**
 
