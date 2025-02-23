@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: alt
       text: Go Back
-      link: ..
+      link: ../..
 
 features:
   - title: Take Admission
