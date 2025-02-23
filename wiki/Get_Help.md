@@ -20,9 +20,10 @@ Because these are 3rd party chat groups, remember to follow these guidelines whi
 - [chat-2](https://discord.com/invite/FgWC8tGv)
 
 **Reddit**
-- [chat-1](https://www.reddit.com/r/NIOS_Students/s/pSa1tMljWR)
-- [chat-2](https://www.reddit.com/r/Nios_unofficial/s/varZyi0F3R)
+<blockquote class="reddit-embed-bq" data-embed-height="502">Posts from the <a href="https://www.reddit.com/r/NIOS_Students/">nios_students</a><br> community on Reddit</blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+<blockquote class="reddit-embed-bq" data-embed-height="501">Posts from the <a href="https://www.reddit.com/r/Nios_unofficial/">nios_unofficial</a>
 
+ <br> community on Reddit</blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
  
 # Official NIOS email address and phone numbers
 - For admission-related: [dirsss[AT]nios.ac.in](mailto:dirsss@nios.ac.in)  
