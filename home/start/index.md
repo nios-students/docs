@@ -1,3 +1,7 @@
+---
+order: 0
+title: Getting Started
+---
 # Getting started
 Information and guides:
 - [Glossary](/wiki/Glossary)

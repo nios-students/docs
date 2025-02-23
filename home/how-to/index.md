@@ -1,3 +1,8 @@
+---
+order: 0
+title: How To
+---
+
 ## How to:
 - [How to take admission](https://nios.ac.in/student-information-section/admission-procedure-videos.aspx)
 - [How to make TMA](/wiki/Guidelines)

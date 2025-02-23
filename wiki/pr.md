@@ -1,3 +1,8 @@
+---
+order: 0
+title: Practical Exams
+---
+
 Practical Exam
 -------------------
 - What happens in the practical exam?

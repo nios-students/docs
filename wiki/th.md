@@ -1,3 +1,7 @@
+---
+order: 0
+title: Theory - Guidelines
+---
 Guidelines For Theory Exam
 ---------------------------
 
