@@ -65,9 +65,9 @@ In NIOS, there are __primarily four streams__. Unlike other boards you can choos
 [Watch this NIOS video to learn about admission streams](https://youtu.be/NpNZ-BbiLag?si=knia4e06Q5hltxif)
 
 # Stream 1
-Open to all learners and freshers. Admissions are open throughout the year. Examinations are held in April-May for Block 1 learners and October-November for Block 2 learners (Although you may give exams in different blocks from yours and [On Demand](https://nios-students.pages.dev/wiki/Exams-Assignments#ode-on-demand-examination) **after the first exam is past you don't have appear in it**) Students in stream 1 must submit TMAs and attend PCP classes. 
+Open to all learners and freshers. Admissions are open throughout the year. Examinations are held in April-May for Block 1 learners and October-November for Block 2 learners (Although you may give exams in different blocks from yours and [On Demand](/wiki/Exams-Assignments#ode-on-demand-examination) **after the first exam is past you don't have appear in it**) Students in stream 1 must submit TMAs and attend PCP classes. 
 
-[More info on TMA & PCP](https://nios-students.pages.dev/wiki/Exams-Assignments)
+[More info on TMA & PCP](/wiki/Exams-Assignments)
 
 [Admission schedule stream I](https://drive.google.com/file/d/1SX61QK2dJcTm77HvQtuonwv30CEKoZ-t/view?usp=drive_link) and [registration](https://dq4kzxd7fbbni.cloudfront.net/static/dist/images/pdf/process-flow/ProcessFlowDetailed_SecSrSec_Stream1and2_June2023.pdf) [fees Structure](https://sdmis.nios.ac.in/home/fees)
 

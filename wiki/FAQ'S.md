@@ -57,7 +57,7 @@ The following info should be written Your name, Enrollment number, Subject name 
 
 # Which PCP is important? (Only for Stream 1)
 
-Ans: The first PCP in December-November (block 1) June-July (block 2) doesn't carry any marks. FA PCP Carries **50% weightage of Practicals** [Read More...](https://nios-students.pages.dev/wiki/Exams-Assignments#pcp-personal-contact-programme)
+Ans: The first PCP in December-November (block 1) June-July (block 2) doesn't carry any marks. FA PCP Carries **50% weightage of Practicals** [Read More...](/wiki/Exams-Assignments#pcp-personal-contact-programme)
 
 # What do I do if my AI (Study Centre) is closed or is no longer affiliated with NIOS?
 
@@ -81,7 +81,7 @@ They’re overworked and busy with CBSE responsibilities.
 
 **What can I do now?**
 
-You need to prepare for your practicals and record book/practical file on your own. If you don’t understand something, just visit [Reddit](https://www.reddit.com/r/NIOS_Students) or [read this](https://nios-students.pages.dev/wiki/howto-rec-book). You don’t have to do anything else—your Regional Centre has a record of inactive study centres. Now, if your study centre does not conduct FA PCP, or if your study centre is closed and the other centre does not conduct PCP classes either, in most cases they will give you the FA PCP marks.
+You need to prepare for your practicals and record book/practical file on your own. If you don’t understand something, just visit [Reddit](https://www.reddit.com/r/NIOS_Students) or [read this](/wiki/howto-rec-book). You don’t have to do anything else—your Regional Centre has a record of inactive study centres. Now, if your study centre does not conduct FA PCP, or if your study centre is closed and the other centre does not conduct PCP classes either, in most cases they will give you the FA PCP marks.
 
 # Public examination FAQs
 
