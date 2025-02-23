@@ -26,7 +26,7 @@ features:
     link: /wiki/other-materials
   - title: FAQs
     details: Frequently Asked Questions, All in One Place.
-    link: /wiki/FAQ's
+    link: /wiki/FAQ'S
   - title: Student Obligation Info
     details: Info on Exams, Assignments, Practicals, PCPs, etc
     link: /wiki/Exams-Assignments
