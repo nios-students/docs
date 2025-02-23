@@ -16,7 +16,8 @@ present in it's books. Unlike other boards you may choose your subjects from the
 b) You __can take upto 2 language sebject(s)__ e.g. Hindi and English ***✔*** ~~Hindi,English and Arabic~~ ***X***
 
 2. a) You are required to opt  __4 academic sebjects for "certification"__ (*not* including language sebjects) 
-> <span style="color:red">Author's note: The reason certification in qoutes because part dual students don't get a certificate. They just pass specific sebjects that they need for there career e.g. For taking admission into the commercial pilot course one of the requirement is that the student has to study physics and mathematics in 12th so,they take register in part admission to fulfil the requirements **IF** you just passed 8th/9th i.e a fresher. You must click **NO** for part admission when registering.
+
+> [!WARNING] The reason certification in qoutes because part dual students don't get a certificate. They just pass specific sebjects that they need for there career e.g. For taking admission into the commercial pilot course one of the requirement is that the student has to study physics and mathematics in 12th so,they take register in part admission to fulfil the requirements **IF** you just passed 8th/9th i.e a fresher. You must click **NO** for part admission when registering.
 
 b) You can add 2 __more subjects but the maximum count of subjects shouldn't go past seven i.e. no more than 7 sebjects__
 
@@ -84,7 +85,8 @@ ToC is one of the flagship features of NIOS. The **failed** learners can transfe
 **Rules and Norms of ToC**
 The ₹**230 per sebject** (as per __new notification:[37/2024](https://www.nios.ac.in/media/documents/notification/yr2024/Exam/Notification-34-2024.pdf)__) Sebject you wish to Transfer **must** most in NIOS curriculum. The **original failed
 marksheet** should be present in **physical form** and you **must** to send it your Regional Center after confirmation of admission along with a copy of addmission form if you don't send it ToC won't apply.
-# Part or dual enrollment 
+
+# Part or dual enrollment 
 In case a learner has already passed the Secondary/Senior Secondary examination or any other higher course he/she may opt **for upto 4 subjects** of his/her choice,to update knowledge and educational qualifications. On passing, **only the narksheet will be issued and no other certificate will be issued** 
 
 
