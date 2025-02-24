@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "NIOS Students"
-  text: "Simple Guides made by NIOS Students for NIOS Students - Getting Started"
+  text: "Simple Guides made by 「NIOS Unofficial」 for NIOS Students - Getting Started"
   actions:
     - theme: alt
       text: Go Back
