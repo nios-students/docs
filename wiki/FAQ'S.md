@@ -49,8 +49,8 @@ Ans: There are 3 ways you can make it:
 1. Just write the info before the answers start.
 2. Use canva to make and fill it then use a pdf editor to place it before the answers start.
 3. Use per-made front page from the internet and take print out of it write your info on it. Remember to scan it before the answers start.
-
-Note: I (Author) used the 1st method. Regardless of what you do it won't effect on your marks.
+> [!NOTE]
+> I (Author) used the 1st method. Regardless of what you do it won't effect on your marks.
 
 The following info should be written Your name, Enrollment number, Subject name & sebject code, Medium of study (not required for language subjects), AI name and AI code
 
@@ -93,8 +93,8 @@ Ans: There must be at least a 2 year gap between passing 10th grade and passing 
 - If you passed 10th grade
 (April 2024, or October 2024) and are taking 12th grade exams in April-May 2025, you can only pay exam fees for up to 4 subjects. (You can 4 sebjects or 1 sebject or not give any sebject)
 - If you pay for more than 4 subjects and don’t meet the 2 year gap, your results won’t be declared.
-
-Note: If you finish your exams in the second year NIOS will give your result documents after you give all sebjects i.e. after the second exam results are declared.
+> [!NOTE]
+> If you finish your exams in the second year NIOS will give your result documents after you give all sebjects i.e. after the second exam results are declared.
 
 # Can an exam centre be changed (PE)?
 
@@ -116,7 +116,8 @@ Ans: At Sr.Secondary level, if one fails in theory but passes in practical, do t
 Ans: No, calculators not allowed. Please refer the picture from *Guidelines for Centre Superintendents for Theory Examinations*
 ![{F44989A0-83EC-4717-94FC-AED59EA79440}](https://github.com/user-attachments/assets/584bd151-4700-40bd-8dad-9f1ee46d4938)
 
-Note: "However, in the case of learners with disabilities" They're talking about computers/Typewriters here.
+> [!NOTE]
+> "However, in the case of learners with disabilities" They're talking about computers/Typewriters here.
 
 # Are NIOS exam centers different from your study Centre?
 
@@ -153,13 +154,14 @@ Related links:
 
 [Other: NIOS Live Video](https://youtube.com/@nioslivevideo)
 
-Note: **Archived Live Streams from 2019-2024 (August). This channel is now used for events only.**
+> [!WARNING]
+> **Archived Live Streams from 2019-2024 (August). This channel is now used for events only.**
 
 [Radio: NIOS Mukta Vidyavani & Radiovahini](https://youtube.com/@niosmuktavidyavaniradiovahini)
 
 Archived audio programs [12th Sr.Secondary](https://nios.ac.in/audio_files/AG_Sr_Secondary.pdf) and [10th Secondary](https://nios.ac.in/audio_files/AG_Secondary.pdf)
 
-Note: **This channel is used for audio only. Streams Mon to Fri from 11.00 PM to 3.45 PM (IST)**.
+> [!NOTE]**This channel is used for audio only. Streams Mon to Fri from 11.00 PM to 3.45 PM (IST)**.
 -  [Live] Community programming from 11.00 PM to 12.00 PM.
 -  [Live] Secondary (10th) from 12.00 PM to 12.45 PM
 -  [Per-recorded] from 12.45 PM to 2.00 PM.
@@ -186,7 +188,8 @@ Ans: ABCID is used to keep track of  academic progress. It's mostly by college g
 
 <iframe width="1202" height="480" src="https://www.youtube.com/embed/aHFF2MYb-6I" title="How To Compress PDF File Size Without Losing Quality - Full Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
-Note: https//ilovepdf.com is website so, you can do this on any device which has a web browser and storage for.pdf file.
+> [!WARNING]
+> https//ilovepdf.com is website so, you can do this on any device which has a web browser and storage for.pdf file.
 
 # How to open .zip/.rar file?
 
@@ -234,8 +237,8 @@ XXXX will be displayed in your result if you have TWO Vocational subjects from g
 # I gave Public Exam now i wanna register for the upcoming Public Exam but it won't let me why is that?
 
 Ans: Please wait until results of the exam you gave or paid fees for are released. NIOS will make another schedule for you. It takes two or three weeks after the results are released.
-> Note: **This is nothing new it's a norm
-[Join our WhatsApp update channel**](https://whatsapp.com/channel/0029VamKd7w3LdQV8AqlNF1h)
+> [!NOTE]
+> **This is nothing new it's a norm** [Join our WhatsApp update channel**](https://whatsapp.com/channel/0029VamKd7w3LdQV8AqlNF1h)
 
 # I paid “Addmission Fees” Why should pay exam for public exams fees? (Only for Stream 1) 
 
