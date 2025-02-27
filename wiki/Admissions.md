@@ -54,7 +54,7 @@ e) You can choose one [vocational sebject](https://nios-students.pages.dev/wiki/
 
 Procedure NIOS has introduced __100% On-line__ admission in order to facilitate learners in registering themselves with it. Off-line admission quota has been dispensed with. Under this scheme learners have the options to
 - Register themselves On-line directly
-- May visit their Regional Centre for on line-registration. They aren't helpful *mostly*
+- Learners may visit their Regional Centres/Study centres for on-line registration. They aren't helpful *mostly*
 > [!TIP]
 > Though we suggest that you register yourself for admission from [NIOS SDMIMS website ](https://sdmis.nios.ac.in) it's easy!
 
