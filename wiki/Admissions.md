@@ -68,23 +68,24 @@ Open to all learners and freshers. Admissions are open throughout the year. Exam
 
 [More info on TMA & PCP](https://nios-students.pages.dev/wiki/Exams-Assignments)
 
-[Admission schedule stream I](https://drive.google.com/file/d/1SX61QK2dJcTm77HvQtuonwv30CEKoZ-t/view?usp=drive_link) and [registration](https://dq4kzxd7fbbni.cloudfront.net/static/dist/images/pdf/process-flow/ProcessFlowDetailed_SecSrSec_Stream1and2_June2023.pdf) [fees Structure](https://sdmis.nios.ac.in/home/fees)
+[Admission schedule Stream I](https://sdmis.nios.ac.in/home/fees#:~:text=Fee%20Structure%20%2D%20(With%20Late%20Fee)%20for%20Stream%201%20Block%20I) and [registration](https://dq4kzxd7fbbni.cloudfront.net/static/dist/images/pdf/process-flow/ProcessFlowDetailed_SecSrSec_Stream1and2_June2023.pdf) [fees Structure](https://sdmis.nios.ac.in/home/fees)
 
 # Stream 2
 This stream is available for learners who have failed or passed but want to improve scores in the Secondary or Senior
 Secondary (10th class or 12th class) examination from a recognized board and want to update their qualification in one or up to four subjects to be able to fill eligibility critereas for their goals such as addmission into Commercial pilot course etc. These exams are available for to write during October to Novembber Public Examinations for Stream 2 enrolled students. **Examination fees are included in the addmission fees for the first time**
 
 # Stream 3 and 4
-On-Demand Examination System (ODES) at Secondary Level (10th class) and Senior Secondary level (12th class) Open for admissions throughout the year. Suitable for learners seeking to update their qualifications or clear failed subjects.  
+On-Demand Examination System (ODES) at Secondary Level (10th class) and Senior Secondary level (12th class) Open for admissions throughout the year. Suitable for learners seeking to update their qualifications or clear failed subjects. [More Info on Stream 3 and 4](https://rcguwahati.nios.ac.in/registration-for-on-demand-examination-ode-and-procedure.html)
 
-[More Info on Stream 3 and 4](https://rcguwahati.nios.ac.in/registration-for-on-demand-examination-ode-and-procedure.html)
 # Transfer of Credit (ToC)
 ToC is one of the flagship features of NIOS. The **failed** learners can transfer the marks of **2** sebjects from the parent the board to NIOS.
 
-**Rules and Norms of ToC**
-The ₹**230 per sebject** (as per __new notification:[37/2024](https://www.nios.ac.in/media/documents/notification/yr2024/Exam/Notification-34-2024.pdf)__) Sebject you wish to Transfer **must** most in NIOS curriculum. The **original failed
-marksheet** should be present in **physical form** and you **must** to send it your Regional Center after confirmation of admission along with a copy of addmission form if you don't send it ToC won't apply.
-# Part or dual enrollment 
+**Rules and Norms of ToC:**
+The ₹**230 per sebject** (as per __new notification:[37/2024](https://www.nios.ac.in/media/documents/notification/yr2024/Exam/Notification-34-2024.pdf)__) 
+- Subject you wish to Transfer **must** be in NIOS's curriculum.
+- The **original failed marksheet** should be present in **physical form** and you **must** to send it your Regional Center after confirmation of admission along with a copy of your **addmission form** if you don't send it ToC won't apply.
+
+# Part or dual enrollment 
 In case a learner has already passed the Secondary/Senior Secondary examination or any other higher course he/she may opt **for upto 4 subjects** of his/her choice,to update knowledge and educational qualifications. On passing, **only the narksheet will be issued and no other certificate will be issued** 
 
 
