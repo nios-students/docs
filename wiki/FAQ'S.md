@@ -246,3 +246,17 @@ Ans: Because the fees you paid it beginning was admission into NIOS. It covers y
 
 Ans: Short answer NO.
 
+# DOES NTA accept NIOS MARKSHEET for NEET UG
+
+Ans: As of information bulletin 2025 (NTA) NEET currently accepts NIOS marksheets, but the eligibility is subject to the Supreme Court's decision on the pending appeals. Candidates should stay updated on the final ruling before applying.
+
+Source: https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2025/02/2025020754.pdf
+
+Page: 24/25 (code 02) 
+
+Marks requirement:
+
+ NIOS students (like regular candidates) must have passed Physics, Chemistry, Biology/Biotechnology, and English individually from class 12th or equivalent and scored at least 50% aggregate (general) and 40% aggregate (SC, st , others) in *PCB* to be eligible for NEET 2025.
+
+** You need to pass in minimum 5 subjects to get a marksheet in nios with 33% in theory and practical individually and 33% in their aggregate as well **
+
