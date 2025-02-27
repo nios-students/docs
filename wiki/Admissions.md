@@ -57,9 +57,7 @@ Procedure NIOS has introduced __100% On-line__ admission in order to facilitate 
 > [!TIP]
 > Though we suggest that you register yourself for admission from [NIOS SDMIMS website ](https://sdmis.nios.ac.in) it's easy!
 
-[Link to more detailed information on Admissions](https://youtube.com/playlist?list=PLSh652xpu_YH8C93k-3hMEH5yCnIwSAyQ&si=ii9xb-BGTGF8NkX4)
-
-[Offical Guidelines](https://drive.google.com/drive/folders/1S8z_RbST1EgllO27tPGU_uemNi7Kdpsj)
+[Link to more detailed information on Admissions](https://youtube.com/playlist?list=PLSh652xpu_YH8C93k-3hMEH5yCnIwSAyQ&si=ii9xb-BGTGF8NkX4) | [Offical Guidelines](https://drive.google.com/drive/folders/1S8z_RbST1EgllO27tPGU_uemNi7Kdpsj)
 
 # Streams Of Addmission 
 In NIOS, there are __primarily four streams__. Unlike other boards you can choose whatever subjects. The stream word in the context of NIOS isn't Science,Commerce,Humanities and arts it’s on basis such as are you Pubic Exam or On Demand Exam many other factors.
