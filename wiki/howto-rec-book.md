@@ -70,8 +70,9 @@ Step-8 Copy everything into the record book
 
 Step-9 Write your name, sebject and class on a label
 
-***note: Some subjects might require filing tables (For physics chemistry biology etc)
-acknowledgement letter and certificate isn't needed****
+> [!Note]
+> Some subjects might require filing tables (For physics, chemistry, biology etc)
+acknowledgement letter and certificate isn't needed.
 
 
 
