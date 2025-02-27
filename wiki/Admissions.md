@@ -15,7 +15,8 @@ present in it's books. Unlike other boards you may choose your subjects from the
 
 b) You __can take upto 2 language sebject(s)__ e.g. Hindi and English ***✔*** ~~Hindi,English and Arabic~~ ***X***
 
-2. a) You are required to opt  __4 academic sebjects for "certification"__ (*not* including language sebjects) 
+2. a) You are required to opt  __4 academic sebjects for "certification"__ (*not* including language sebjects)
+ 
 > [!NOTE]
 > The reason why certification in qoutes because part/dual students don't get a certificate. They just pass specific sebjects that they need for there career e.g. For taking admission into the commercial pilot course one of the requirement is that the student has to study physics and mathematics in 12th so,they take register in part admission to fulfil the requirements **IF** you just passed 8th/9th i.e a fresher. You must click **NO** for part admission when registering/ Filing the admission form
 
