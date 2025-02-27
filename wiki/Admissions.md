@@ -63,6 +63,7 @@ Procedure NIOS has introduced __100% On-line__ admission in order to facilitate 
 
 # Streams Of Addmission 
 In NIOS, there are __primarily four streams__. Unlike other boards you can choose whatever subjects. The stream word in the context of NIOS isn't Science,Commerce,Humanities and arts it’s on basis such as are you Pubic Exam or On Demand Exam many other factors.
+
 <iframe width="640" height="360" src="https://www.youtube.com/embed/NpNZ-BbiLag" title="NIOS_Types_of_Admission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Stream 1
@@ -72,7 +73,7 @@ Open to all learners and freshers. Admissions are open throughout the year. Exam
 This stream is available for learners who have failed or passed but want to improve scores in the Secondary or Senior
 Secondary (10th class or 12th class) examination from a recognized board and want to update their qualification in one or up to four subjects to be able to fill eligibility critereas for their goals such as addmission into Commercial pilot course etc. These exams are available for to write during October-Novembber Public Examinations.
 
-> [!WARRING] 
+> !WARNING]
 > for students enrolled in Stream 2 **examination fees are included in the addmission fees for the first time**
 
 # Stream 3 and 4
