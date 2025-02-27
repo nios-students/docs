@@ -73,7 +73,7 @@ Open to all learners and freshers. Admissions are open throughout the year. Exam
 This stream is available for learners who have failed or passed but want to improve scores in the Secondary or Senior
 Secondary (10th class or 12th class) examination from a recognized board and want to update their qualification in one or up to four subjects to be able to fill eligibility critereas for their goals such as addmission into Commercial pilot course etc. These exams are available for to write during October-Novembber Public Examinations.
 
-> !WARNING]
+> [!WARNING]
 > for students enrolled in Stream 2 **examination fees are included in the addmission fees for the first time**
 
 # Stream 3 and 4
