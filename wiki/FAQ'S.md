@@ -1,7 +1,7 @@
 [Official FAQs (The offical ones are outdated)](https://sdmis.nios.ac.in/home/faqs) 
 
 # Our FAQs
-Based on your Questions from Telegram, Discord and Subreddit
+Based on your Questions from Telegram, Discord and Subreddit.
 
 # TMA FAQs
 
