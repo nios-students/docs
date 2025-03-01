@@ -244,7 +244,26 @@ Ans: Please wait until results of the exam you gave or paid fees for are release
 
 Ans: Because the fees you paid it beginning was admission into NIOS. It covers your books and PCPs.  You **must** to exam fees in order appear in the exam. Btw exam fee includes  question paper, answer booklet, fees for teachers who will check your answers, and other miscellaneous expenses.
 
-//# Is Manish Verma legit?
+# Is Manish Verma legit?
 
-Ans: Short answer NO.
+Ans: Short answer NO. Long answer As per the information on their website about section "This website is not **associated with NIOS**, For official website of NIOS visit – https://www.nios.ac.in/" This could be in the context of: "Hey, we are a CSC and Study Centre. You can find information about our courses, guides, and other stuff, but our website isn't the official website of NIOS. So, is this paragraph garbage? No, but it makes you think, "Why would a CSC **and** Study Centre say this isn’t the main website instead of just giving a link to it?"
+What is a CSC/Facilitation Centre, and what are its functions?
 
+In general:
+- Common Services Centres (CSCs) are access points for delivering Government-to-Citizen (G2C) e-services within the reach of citizens by creating physical service delivery ICT infrastructure.
+
+In the context of NIOS:
+- They help learners with admission, payment of exam fees, and re-booking.
+
+But where are educational services such as TMA, Practicals, books, Question Banks, and other resources ***not*** mentioned in the above paragraph?
+
+What is a Study Centre/AI, and what are its functions?
+- Helping learners with admission and payment of exam fees.
+- Checking TMAs and uploading marks.
+- Conducting PCP, FA PCP, and practical exams.
+
+Does this centre conduct these activities?
+
+NO
+
+Why would NIOS want students ***not*** to do their work, such as TMAs and practical record books/files?
