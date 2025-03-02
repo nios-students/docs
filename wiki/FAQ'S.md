@@ -161,7 +161,8 @@ Related links:
 
 Archived audio programs [12th Sr.Secondary](https://nios.ac.in/audio_files/AG_Sr_Secondary.pdf) and [10th Secondary](https://nios.ac.in/audio_files/AG_Secondary.pdf)
 
-> [!NOTE]**This channel is used for audio only. Streams Mon to Fri from 11.00 PM to 3.45 PM (IST)**.
+> [!NOTE]
+> **This channel is used for audio only. Streams Mon to Fri from 11.00 PM to 3.45 PM (IST)**.
 -  [Live] Community programming from 11.00 PM to 12.00 PM.
 -  [Live] Secondary (10th) from 12.00 PM to 12.45 PM
 -  [Per-recorded] from 12.45 PM to 2.00 PM.
@@ -171,14 +172,12 @@ Archived audio programs [12th Sr.Secondary](https://nios.ac.in/audio_files/AG_Sr
 [Schedule page link (nios.ac.in)](https://nios.ac.in/departmentsunits/media-unittelecast/mukta-vidya-vani-and-community-radio.aspx)
 
 Live streams there are 4 channels:
-
 - [Secondary (10th)](https://youtube.com/@ddpmevidyanios17sec) from 1.00 PM to 2.00 PM
 - [Senior Secondary (12th)](https://youtube.com/@ddpmevidyanios18srsec) from 2.00 PM to 3.00 PM 
 - [OBE/ISL](https://youtube.com/@ddpmevidyanios19obeislikt) from 3.00 PM to 4.00 PM. 
 - [Vocational](https://youtube.com/@niospmevidya20vocational) from 4.00 PM to 5.00 PM
-Follow them on [X](x.com/Niostiw) for daily schedule of live streams.
-
-**Author's note: Most videos/explanations are just people reading PPTs. Live streams are cancelled sometimes but we can't do anything about it sadly.**
+> [!NOTE]
+> Follow them on [X](x.com/Niostiw) for daily schedule of live streams. Most videos/explanations are just people reading PPTs. Live streams are cancelled sometimes but we can't do anything. about it sadly.**
 
 # What is ABCID? Is that required?
 
