@@ -4,13 +4,13 @@
 # Our FAQs
 Based on your Questions from Telegram, Discord and Subreddit
 
-# TMA FAQs
+**TMA FAQs**
 
-# Isn't the marks for TMA 20% more than the maximum theory marks?
+## Isn't the marks for TMA 20% more than the maximum theory marks?
 
 Ans: For some who are wondering “wait, if we add this up, it would be 116 marks in total?! How so?”, well NIOS follows a bit different rule compared to other boards here. See the 16 marks assigned in TMA is added up **by deducting 20% of marks from Public Examination, i.e. theory paper** so for example if you scored 14 marks in your TMA and 60 marks in your public exam, 20% of the marks from public exams are cut 20%  of 60 marks = 12 marks.
 
-# Why does TMA marks shown more than 20% of theory marks?
+## Why does TMA marks shown more than 20% of theory marks?
 
 Ans: From October 2024 session, TMA evaluation pattern has been changed. As we know in Theory, full marks on Question Paper and on Marksheet remain different. (TMA marks are adjusted after calculation) So, 100 becomes 80, 80 becomes 64. Same will be followed for TMA now onwards. Earlier TMA marks was uploaded after calculating 20% of Theory marks. e.g. Home Science 216, on Dashboard full marks for TMA is 20 but on Marksheet it'll be calculated out of 17. If for same subject, Dashboard is showing 18 then take it as 18 out of 20 which will become on marksheet 15 out of 17 after calculation.  
 
@@ -40,11 +40,11 @@ Table attached showing full TMA marks of all Subjects on Marksheet (20% of Theor
 | 229, 230, 242 and 243           | 32                  | 08                        |
 ---
 
-# Who checks my TMA and much effort do put in it?
+## Who checks my TMA and much effort do put in it?
 
 Ans: The teacher at your or other in your city AI (Study Centre). Low-effort as instagram reels.
 
-# How to make front page? What Info should be written on it?
+## How to make front page? What Info should be written on it?
 
 Ans: There are 3 ways you can make it:
 1. Just write the info before the answers start.
@@ -55,13 +55,13 @@ Ans: There are 3 ways you can make it:
 
 The following info should be written Your name, Enrollment number, Subject name & sebject code, Medium of study (not required for language subjects), AI name and AI code
 
-# PCP and study centre related FAQs
+**PCP and study centre related FAQs**
 
-# Which PCP is important? (Only for Stream 1)
+## Which PCP is important? (Only for Stream 1)
 
 Ans: The first PCP in December-November (block 1) June-July (block 2) doesn't carry any marks. FA PCP Carries **50% weightage of Practicals** [Read More...](https://nios-students.pages.dev/wiki/Exams-Assignments#pcp-personal-contact-programme)
 
-# What do I do if my AI (Study Centre) is closed or is no longer affiliated with NIOS?
+## What do I do if my AI (Study Centre) is closed or is no longer affiliated with NIOS?
 
 Ans: First, chill—it’s not a big deal if this has happened to you. Let’s confirm:
 
@@ -85,10 +85,10 @@ They’re overworked and busy with CBSE responsibilities.
 
 You need to prepare for your practicals and record book/practical file on your own. If you don’t understand something, just visit [Reddit](https://www.reddit.com/r/NIOS_Students) or [read this](https://nios-students.pages.dev/wiki/howto-rec-book). You don’t have to do anything else—your Regional Centre has a record of inactive study centres. Now, if your study centre does not conduct FA PCP, or if your study centre is closed and the other centre does not conduct PCP classes either, in most cases they will give you the FA PCP marks.
 
-# Public examination FAQs
+**Public examination FAQs**
 
 
-# What is the gap? (this for freshers of **12th Senior Secondary** only)
+## What is the gap? (this for freshers of **Senior Secondary (12th)** only)
 
 Ans: There must be at least a 2 year gap between passing 10th grade and passing 12th.
 - If you passed 10th grade
@@ -97,22 +97,23 @@ Ans: There must be at least a 2 year gap between passing 10th grade and passing 
 > [!NOTE]
 > If you finish your exams in the second year NIOS will give your result documents after you give all sebjects i.e. after the second exam results are declared.
 
-# Can an exam centre be changed (PE)?
+## Can an exam centre be changed?
 
 Ans: Yes there is a e-service that however, it just returns " Change of exam center is now closed." YOU can't change the exam centre. 
 
-# Where are the practical examination held?
+## Where are the practical examination held?
 
 Ans: Practical examinations for Public examinations are normally held in the respective AIs, where the learner gets enrolled. If your AI/Study Centre is inactive or closed another centre will be allocated to you.
 
-# Will my marks be carried forward?
+## Will my marks be carried forward?
 
-Ans: At Sr.Secondary level, if one fails in theory but passes in practical, do they have to appear in practical again and vica versa. If learner passes in practical but fails in the theory of a subject, his/her practical awards/marks will be retained and can appear in theory examination only. In case the learner re-appears in both theory and practical, then the best combination of marks will be retained.
+Ans: At Sr.Secondary level (12th), if one fails in theory but passes in practical, do they have to appear in practical again and vica versa. If learner passes in practical but fails in the theory of a subject, his/her practical awards/marks will be retained and can appear in theory examination only. In case the learner re-appears in both theory and practical, then the best combination of marks will be retained.
 
-# How to deal with stress
+## How to deal with stress
+
 - [Click here (www.nios.ac.in)](https://nios.ac.in/faq/handling-examination-related-stress)
 
-# Are calculators allowed in examination? (Applicable in every single examination.)
+## Are calculators allowed in examination? (Applicable in every single examination.)
 
 Ans: No, calculators not allowed. Please refer the picture from *Guidelines for Centre Superintendents for Theory Examinations*
 ![{F44989A0-83EC-4717-94FC-AED59EA79440}](https://github.com/user-attachments/assets/584bd151-4700-40bd-8dad-9f1ee46d4938)
@@ -120,17 +121,17 @@ Ans: No, calculators not allowed. Please refer the picture from *Guidelines for 
 > [!NOTE]
 > "However, in the case of learners with disabilities" They're talking about computers/Typewriters here.
 
-# Are NIOS exam centers different from your study Centre?
+## Are NIOS exam centers different from your study Centre?
 
 Ans: Yes, the exam centre for Theory examination is different from Study Centre which is for FA and SA.
 
-# Do you get your exam centre randomly?
+## Do you get your exam centre randomly?
 
 Ans: No, they chose the centre based on your location.
 
-# On Demand related FAQs
+**On Demand exam related FAQs**
 
-# Is bifurcation applicable for On Demand to?
+## Is bifurcation applicable for On Demand to?
 
 Ans: Yes, as per [this](https://www.reddit.com/r/NIOS_Students/s/GNH9m0GrRi) reddit post. The OP (original poster) filed for a RTE for which the answer is given below:
 
@@ -141,9 +142,9 @@ Ans: Yes, as per [this](https://www.reddit.com/r/NIOS_Students/s/GNH9m0GrRi) red
 
 <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/rti-response-says-tma-chapters-are-not-asked-in-ode-exams-2.webp" alt="RIT-2" width="400"/>
 
-# Technical issues and other miscellaneous FAQs
+**Technical issues and other miscellaneous FAQs**
 
-# What are the official video resources
+## What are the official video resources
 
 Related links:
 - [Browse videos](https://sdmis.nios.ac.in/home/video-gallery)
@@ -180,18 +181,18 @@ Live streams there are 4 channels:
 > [!NOTE]
 > Follow them on [X](x.com/Niostiw) for daily schedule of live streams. Most videos/explanations are just people reading PPTs. Live streams are cancelled sometimes but we can't do anything. about it sadly.**
 
-# What is ABCID? Is that required?
+## What is ABCID? Is that required?
 
 Ans: ABCID is used to keep track of  academic progress. It's mostly by college going students. No it's not required however, a popup will be display every time you login.
 
-# How can i reduce size of a pdf file?
+## How can i reduce size of a pdf file?
 
 <iframe width="1202" height="480" src="https://www.youtube.com/embed/aHFF2MYb-6I" title="How To Compress PDF File Size Without Losing Quality - Full Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
 > [!WARNING]
 > https//ilovepdf.com is website so, you can do this on any device which has a web browser and storage for.pdf file.
 
-# How to open .zip/.rar file?
+## How to open .zip/.rar file?
 
 Click on the Videos
 
@@ -206,7 +207,7 @@ Click on the Videos
 
 <iframe width="1202" height="480" src="https://www.youtube.com/embed/N236GiRolXU" title="How To Unzip Files Online [Simple Guide]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-# What is the two vocational Sebjects role?
+## What is the two vocational Sebjects role?
 
 XXXX will be displayed in your result if you have TWO Vocational subjects from given below the table given:
 
@@ -232,19 +233,19 @@ XXXX will be displayed in your result if you have TWO Vocational subjects from g
 |                                                    | 17. Yoga Assistant (667)                                    |
 --------------------------
 
-# Fees related FAQs
+**Fees related FAQs**
 
-# I gave Public Exam now i wanna register for the upcoming Public Exam but it won't let me why is that?
+## I gave Public Exam now i wanna register for the upcoming Public Exam but it won't let me why is that?
 
 Ans: Please wait until results of the exam you gave or paid fees for are released. NIOS will make another schedule for you. It takes two or three weeks after the results are released.
 > [!NOTE]
 > **This is nothing new it's a norm** [Join our WhatsApp update channel**](https://whatsapp.com/channel/0029VamKd7w3LdQV8AqlNF1h)
 
-# I paid “Addmission Fees” Why should pay exam for public exams fees? (Only for Stream 1) 
+## I paid “Addmission Fees” Why should pay exam for public exams fees? (Only for Stream 1) 
 
 Ans: Because the fees you paid it beginning was admission into NIOS. It covers your books and PCPs.  You **must** to exam fees in order appear in the exam. Btw exam fee includes  question paper, answer booklet, fees for teachers who will check your answers, and other miscellaneous expenses.
 
-# Is Manish Verma legit?
+## Is Manish Verma legit?
 
 Ans: Short answer NO. Long answer As per the information on their website about section "This website is not **associated with NIOS**, For official website of NIOS visit – https://www.nios.ac.in/" This could be in the context of: "Hey, we are a CSC and Study Centre. You can find information about our courses, guides, and other stuff, but our website isn't the official website of NIOS. So, is this paragraph garbage? No, but it makes you think, "Why would a CSC **and** Study Centre say this isn’t the main website instead of just giving a link to it?"
 What is a CSC/Facilitation Centre, and what are its functions?
@@ -262,8 +263,6 @@ What is a Study Centre/AI, and what are its functions?
 - Checking TMAs and uploading marks.
 - Conducting PCP, FA PCP, and practical exams.
 
-Does this centre conduct these activities?
-
-NO
+Does this centre conduct these activities? NO
 
 Why would NIOS want students ***not*** to do their work, such as TMAs and practical record books/files?
