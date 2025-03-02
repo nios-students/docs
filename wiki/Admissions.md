@@ -83,7 +83,8 @@ ToC is one of the flagship features of NIOS. The **failed** learners can transfe
 - Subject you wish to Transfer **must** in NIOS curriculum. 
 - The **original failed marksheet** should be present in **PHYSICAL form** and you **must** to send it your Regional Center after confirmation of admission along with a copy of addmission form if you don't send it ToC won't apply.
 
-# Part or dual enrollment 
+# Part and ddual enrollment
+
 In case a learner has already passed the Secondary/Senior Secondary examination or any other higher course he/she may opt **for upto 4 subjects** of his/her choice,to update knowledge and educational qualifications. On passing, **only the narksheet will be issued and no other certificate will be issued** 
 
 
