@@ -187,7 +187,7 @@ Ans: ABCID is used to keep track of  academic progress. It's mostly by college g
 
 <iframe width="1202" height="480" src="https://www.youtube.com/embed/aHFF2MYb-6I" title="How To Compress PDF File Size Without Losing Quality - Full Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
-> [!WARNING]
+> [!NOTE]
 > https//ilovepdf.com is website so, you can do this on any device which has a web browser and storage for.pdf file.
 
 # How to open .zip/.rar file?
