@@ -16,22 +16,22 @@ features:
     details: Commonly Used NIOS Terms
     link: /wiki/Glossary
   - title: About
-    details: About NIOS and Us
+    details: About NIOS and Us!
     link: /wiki/About
   - title: Study Materials
-    details: Useful Study Materials for NIOS Subjects
+    details: Link to textbooks
     link: /wiki/Study-Materials
   - title: Other Materials
-    details: Other Useful NIOS Related Materials
+    details: Useful NIOS Related Materials
     link: /wiki/other-materials
   - title: FAQs
     details: Frequently Asked Questions, All in One Place.
     link: /wiki/FAQ'S
   - title: Student Obligation Info
-    details: Info on Exams, Assignments, Practicals, PCPs, etc
+    details: Info on Exams, Assignments, Practicals and PCPs
     link: /wiki/Exams-Assignments
-  - title: E-Services
-    details: A Guide on NIOS EServices
+  - title: E-services
+    details: detail info e-services
     link: /wiki/EServices
 
 ---
