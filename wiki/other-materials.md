@@ -60,13 +60,13 @@ _______________
 **Special thanks!! to anyone who scanned and sent there paper**
 
 Compiler of PYQ's (apr 24 & oct 24) practical files, Handwritten TMAs, voc books,writer of Introduction To Laws notes, practical files of 336, 663, 330 and person in charge of maintenance of this document 
-**Tamim**
+**Tamim aka @pingforhelp**
 
 Compiler of handwritten TMAs,Guides of physics and chemistry
 **Sid**
 
 Web Developers
-**PugzAreCute and Sounddrill**
+**@PugzAreCute and @sounddrill31**
 
 Writer of terminal QnA (Physics, Chemistry, biology and Mathematics) **dahej_~~daddy~~**
 
@@ -79,7 +79,7 @@ English formats
 **1pointperspective**
 
 Editor of english formats and formated this document 
-**aqeel_ur**
+**@q-Ur aka CMO**
 _______________
 
 # Copyright Statement
@@ -87,4 +87,4 @@ _______________
 * All  student made notes, practical files are sebject to © nios-Students Contributors 2024-2025. The above listed can not
 modified nor allowed to sell without the permission of web developer and content author of particular the sebject/topic/work.
 * No code, images, logos or any other assets of **The National Institute of Open Schooling (NIOS)** copy nor used in making of this website.
-* If copyright Laws have been violated. We shall remove such content upon notice from the copyright holder. Please contact us @ unofficialnios[at]gmail.com
+* If copyright Laws have been violated. We shall remove such content upon notice from the copyright holder. Please contact us @ [unofficialnios[at]gmail.com](unofficialnios@gmail.com)
