@@ -16,14 +16,14 @@ The materials are applicable for all exams (On demand and public) so, please sto
 **Maths (311), Chemistry (313), English (302) (Sr.Sec 12th), Introduction To Laws (338), Data entry operations (336) (12th Sr.Sec), Buisness Studies (Sr.Sec 12th), English (202) (Sr.Sec 10th)**
 
 - [Terminal Answers](https://drive.google.com/drive/folders/1QxgVf9rmN91oStaDyrM_2IXtsFgZCL-K?usp=drive_link) Physics,Mathematics,Chemistry and Biology. For the sebject or lessons not available in the above link [here for Sr.Sec (12th)](https://brainly.in/textbook-solutions/book-sets/s-nios-board/c-class-12) and [here for Sec (10th)](https://brainly.in/textbook-solutions/book-sets/s-nios-board/c-class-10)
-- [Brief summaries for both Secondary and Senior Secondary **10th and 12th**](https://www.flexiprep.com/NIOS-Notes/)
+- [Brief summaries for both Secondary and Senior Secondary **10th and 12th**](https://www.flexiprep.com/NIOS-Notes)
 
 # Practical Files
 **Senior Secondary (12th)**
 - [Computer Science-330](https://drive.google.com/drive/folders/1B4LC8LNbWwBj6i1u6VBKf4LzDcfGD1UX)
 - [VOC-Computer Hardware Assembly and Maintenance-663](https://drive.google.com/drive/folders/1FePkpftsoo63xWzrQDX6mFYVivPkb4kL)
 - [VOC-Computer & office application-631](https://drive.google.com/file/d/165UaWHD_6GEG8igXil3k7Fgi5tymbXJT/view?usp=drivesdk)
-- [Data Entry Operations-**336 (12th)**](https://drive.google.com/drive/folders/1K5O8mtX-NXT-ezFsqh3ZsA0IdrJQ1SeU)
+- [Data Entry Operations-**336 Sr.Sec (12th)**](https://drive.google.com/drive/folders/1K5O8mtX-NXT-ezFsqh3ZsA0IdrJQ1SeU)
 - [Physics-312](https://drive.google.com/file/d/1Tch83yqj_tKsHOzExcl1dMGCxSJKvAYb/view?usp=drivesdk)
 - [Chemistry-313](https://drive.google.com/file/d/1ztU0LXRhlxP-Vztslwhh9-51Wjxn20wo/view?usp=drivesdk)
 - [Biology-314](https://drive.google.com/file/d/1ooRji1IkWJ8OwPGnSqkMkPk2jmSSuXRX/view?usp=drivesdk)
@@ -86,5 +86,5 @@ _______________
 
 * All  student made notes, practical files are sebject to © nios-Students Contributors 2024-2025. The above listed can not
 modified nor allowed to sell without the permission of web developer and content author of particular the sebject/topic/work.
-* No code, images, logos or any other assets of **The National Institute of Open Schooling** copy nor used in making of this website.
+* No code, images, logos or any other assets of **The National Institute of Open Schooling (NIOS)** copy nor used in making of this website.
 * If copyright Laws have been violated. We shall remove such content upon notice from the copyright holder. Please contact us @ unofficialnios[at]gmail.com
