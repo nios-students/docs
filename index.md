@@ -4,7 +4,8 @@ layout: home
 
 hero:
   name: "NIOS Students"
-  text: "Simple Guides made by Students 「NIOS Unofficial」 for NIOS Students."
+  text: "Simple Guides made by Students"
+  tagline: "「NIOS Unofficial」 for NIOS Students."
 
 features:
   - title: Getting Started

@@ -4,7 +4,9 @@ layout: home
 
 hero:
   name: "NIOS Students"
-  text: "Simple Guides made by NIOS Students for NIOS Students - How To's"
+  text: "How To's"
+  tagline: "Simple Guides made by NIOS Students for NIOS Students."
+
   actions:
     - theme: alt
       text: Go Back
