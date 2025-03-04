@@ -87,4 +87,4 @@ _______________
 * All  student made notes, practical files are sebject to © nios-Students Contributors 2024-2025. The above listed can not
 modified nor allowed to sell without the permission of web developer and content author of particular the sebject/topic/work.
 * No code, images, logos or any other assets of **The National Institute of Open Schooling (NIOS)** copy nor used in making of this website.
-* If copyright Laws have been violated. We shall remove such content upon notice from the copyright holder. Please contact us @ [unofficialnios[at]gmail.com](unofficialnios@gmail.com)
+* If copyright Laws have been violated. We shall remove such content upon notice from the copyright holder. Please contact us @ [unofficialnios[at]gmail.com](mailto:unofficialnios@gmail.com)

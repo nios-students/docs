@@ -48,7 +48,7 @@ c) NIOS let's you choice any sebject however, you **MUST** chose your sebjects a
 
 d) Don't think that you can complete 12th in one year __IF you passed out of 10th you are required to maintain 1 year gap between passing from 10th and Completing 12th__
 
-e) You can choose one [vocational sebject](https://nios-students.pages.dev/wiki/FAQ'S.html#what-is-the-two-vocational-sebjects-role).
+e) You can choose one [vocational sebject](/wiki/FAQ'S.html#what-is-the-two-vocational-sebjects-role).
 
 
 Procedure NIOS has introduced __100% On-line__ admission in order to facilitate learners in registering themselves with it. Off-line admission quota has been dispensed with. Under this scheme learners have the options to
