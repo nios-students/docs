@@ -1,6 +1,7 @@
 How To apply for a scribe?
 ---------------------
 
+> [!NOTE]
 > I'm writing from experience as I took the April 2024 exams with a scribe. Firstly, NIOS or the exam center will not provide a scribe/writer. You have to find one by yourself.
 
 # Documents Required
