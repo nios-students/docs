@@ -46,16 +46,15 @@ Computing-608](https://drive.google.com/file/d/1ByDCX_yhvUg-SXHroICBEaNCUzaPHwYI
 - [Painting-225](https://drive.google.com/file/d/1CVP97PPwJWSzi9H4kmFV-9c1Aq7eOeAT/view?usp=drivesdk)
 - [Hindustani Music-242](https://drive.google.com/file/d/1COrk-cKspzgXb0k4NnpjIebOtrvwPutI/view?usp=drivesdk)
 # TMA
-- [TMA **2024-25**](https://drive.google.com/drive/folders/1QPWsCnWQl6BRnUZwvC41ZAzkqy_XJ7q7?usp=drive_link) Last date of Submission is **15 February 2025 for April 2025 ppl** 
+- [TMA **2024-25**](https://drive.google.com/drive/folders/1QPWsCnWQl6BRnUZwvC41ZAzkqy_XJ7q7?usp=drive_link) 
 # Question Papers of Previous Year's Examination
 - PYQs of April-May 2024 [Sr.Secondary (12th)](https://drive.google.com/drive/folders/1pPiI4xloWBmxJ05zej-b-WDO2KzyKlnr) and [Secondary (10th)](https://drive.google.com/drive/folders/1TeVxkTpZndUQNLPmUMGjQaekqa6-D7QC)
 - [PYQs **October-November 2024**](https://drive.google.com/drive/folders/1upgHPV4moRE72l4IHVCE9FpkNMbF8Kvh)
 - [**Offical PYQs page (nios.ac.in)**](https://nios.ac.in/student-information-section/question-paper-of-previous-year-examination-academic.aspx)
 - [ODE Folder](https://drive.google.com/drive/folders/15Ze19-paWosIyQF0LdCoBA5WQg6OxHFk?usp=drive_link)
 - **Syllabus bifurcation, sample question paper with marking scheme & question paper design of** [Secondary (10th)](https://nios.ac.in/online-course-material/secondary-courses.aspx) and [Senior Secondary (12th)](https://nios.ac.in/online-course-material/sr-secondary-courses.aspx) 
-
 _______________
-# Credits 
+Credits 
 **Special thanks!! to anyone who scanned and sent there papers**
 
 Compiler of PYQ's (apr 24 & oct 24) practical files, Handwritten TMAs, voc books,writer of Introduction To Laws notes, practical files of 336, 663, 330 and person in charge of maintenance of this document 
@@ -80,10 +79,9 @@ English formats
 Editor of english formats and formated this document 
 **aqeel_ur**
 _______________
-
-# Copyright Statement
+Copyright Statement
 
 * All  student made notes, practical files are sebject to © nios-Students Contributors 2024. The above listed can not
 modified nor allowed to sell without the permission of web developer and content author of particular the sebject/topic/work.
 * No code, images, logos or any other assets of **The National Institute of Open Schooling** copy nor used in making of this website.
-* If copyright Laws have been violated. We shall remove such content upon notice from the copyright holder. Please contact us @ unofficialnios[at]gmail.com or DM (Direct Message) thought our [discord control unit](hello@nios-students.pages.dev)
+* If copyright Laws have been violated. We shall remove such content upon notice from the copyright holder. Please contact us @ unofficialnios[at]gmail.com or DM (Direct Message) thought our [discord control unit](malito:hello@nios-students.pages.dev)
