@@ -4,7 +4,7 @@ The materials are applicable for all exams (On demand and public) so, please sto
 ----
 
 # Books, Guides and more!
-- [Books](https://nios.ac.in/online-course-material.aspx) and [Vocational Books (in .pdf)](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1nL-EvabkRTi)
+- [Textbooks](https://nios.ac.in/online-course-material.aspx) and [Vocational Books (in .pdf)](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1nL-EvabkRTi)
 
 - [Guides](https://drive.google.com/drive/folders/10IbqMO8jnsQntDMfeoQWKiWxfcpYBZqo?usp=drive_link)
 **Physical Education, Physics, Maths, Chemistry Science & technology (10th Sec), Home Science (10th Sec), and English (12th Sr.Sec)**
