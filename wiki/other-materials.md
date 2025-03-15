@@ -6,7 +6,7 @@ The materials are applicable for all exams (On demand and public) so, please sto
 # Books, Guides and more!
 - [Books](https://nios.ac.in/online-course-material.aspx) and [Vocational Books (in .pdf)](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1nL-EvabkRTi)
 
-- [Guides](https://drive.google.com/drive/folders/1Y4fr5EDyuxpoapeeQHkqvkki11fdBeZV)
+- [Guides](https://drive.google.com/drive/folders/10IbqMO8jnsQntDMfeoQWKiWxfcpYBZqo?usp=drive_link)
 **Physical Education, Physics, Maths, Chemistry Science & technology (10th Sec), Home Science (10th Sec), and English (12th Sr.Sec)**
 - [English formats of letter, e-mail memos (Applicable both Secondary and Senior Secondary 10th and 12th)](https://drive.google.com/file/d/16_x7g3z3xabTg_a1eRRZBhVV8LLhFiD1/view?usp=drivesdk)
 
@@ -18,6 +18,7 @@ The materials are applicable for all exams (On demand and public) so, please sto
 - [Brief summaries for both Secondary and Senior Secondary **10th and 12th**](https://www.flexiprep.com/NIOS-Notes/)
 
 # Practical Files
+===
 **Senior Secondary (12th)**
 - [Computer Science-330](https://drive.google.com/drive/folders/1B4LC8LNbWwBj6i1u6VBKf4LzDcfGD1UX)
 - [VOC-Computer Hardware Assembly and Maintenance-663](https://drive.google.com/drive/folders/1FePkpftsoo63xWzrQDX6mFYVivPkb4kL)
@@ -35,7 +36,7 @@ The materials are applicable for all exams (On demand and public) so, please sto
 - [Early Childhood Care And Education-376](https://drive.google.com/drive/folders/1gmlUhPul53yaXm4eWGqQygnX_KgIJNpB)
 - [VOC-Yoga Assistant-667](https://drive.google.com/drive/folders/1ow4Bpx6-tR8tT2IXnFFX7AwAJpyj7sy2)
 - [Another and Hindi medium](https://drive.google.com/drive/folders/1gmlUhPul53yaXm4eWGqQygnX_KgIJNpB)
-
+===
 **Secondary (10th)**
 - [VOC-Basic
 Computing-608](https://drive.google.com/file/d/1ByDCX_yhvUg-SXHroICBEaNCUzaPHwYI/view?usp=drivesdk)
