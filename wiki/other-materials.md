@@ -1,4 +1,4 @@
-Last updated 🕟:**20-02-2025, 05:54PM IST**
+Last updated 🕟:**18-03-2025, 03:38PM IST**
 
 The materials are applicable for all exams (On demand and public) so, please stop asking that.
 ----
@@ -35,7 +35,10 @@ The materials are applicable for all exams (On demand and public) so, please sto
 - [Library and Information Science-339](https://drive.google.com/drive/folders/1gmlUhPul53yaXm4eWGqQygnX_KgIJNpB)
 - [Early Childhood Care And Education-376](https://drive.google.com/drive/folders/1gmlUhPul53yaXm4eWGqQygnX_KgIJNpB)
 - [VOC-Yoga Assistant-667](https://drive.google.com/drive/folders/1ow4Bpx6-tR8tT2IXnFFX7AwAJpyj7sy2)
-- [Another and Hindi medium](https://drive.google.com/drive/folders/1gmlUhPul53yaXm4eWGqQygnX_KgIJNpB)
+- [VOC-Web Designing And Development-622](https://drive.google.com/file/d/1gvNC4RnVnDK6TjrnTzxLAqm0iGe4EKlS/view?usp=drive_link)
+- [VOC-Computer and Office Applications-631](https://drive.google.com/file/d/165UaWHD_6GEG8igXil3k7Fgi5tymbXJT/view?usp=drive_link)
+- [VOC-Data Entry Operations-**632**](https://drive.google.com/file/d/1E3AjBE0FYJozvBtSfsNqRL69caJf1r25/view?usp=drive_link)
+- [More.....](https://drive.google.com/drive/folders/1gmlUhPul53yaXm4eWGqQygnX_KgIJNpB)
 
 ----
 **Secondary (10th)**
@@ -48,7 +51,11 @@ Computing-608](https://drive.google.com/file/d/1ByDCX_yhvUg-SXHroICBEaNCUzaPHwYI
 - [Painting-225](https://drive.google.com/file/d/1CVP97PPwJWSzi9H4kmFV-9c1Aq7eOeAT/view?usp=drivesdk)
 - [Hindustani Music-242](https://drive.google.com/file/d/1COrk-cKspzgXb0k4NnpjIebOtrvwPutI/view?usp=drivesdk)
 # TMA
-- [TMA **2024-25**](https://drive.google.com/drive/folders/1QPWsCnWQl6BRnUZwvC41ZAzkqy_XJ7q7?usp=drive_link) 
+[TMA **2024-25**](https://drive.google.com/drive/folders/1QPWsCnWQl6BRnUZwvC41ZAzkqy_XJ7q7?usp=drive_link)
+
+> [!CAUTION]
+> TMA uploading isn't started yet for **block-2 Oct-Nov 2025** 
+
 # Question Papers of Previous Year's Examination
 - PYQs of April-May 2024 [Sr.Secondary (12th)](https://drive.google.com/drive/folders/1pPiI4xloWBmxJ05zej-b-WDO2KzyKlnr) and [Secondary (10th)](https://drive.google.com/drive/folders/1TeVxkTpZndUQNLPmUMGjQaekqa6-D7QC)
 - [PYQs **October-November 2024**](https://drive.google.com/drive/folders/1upgHPV4moRE72l4IHVCE9FpkNMbF8Kvh)
