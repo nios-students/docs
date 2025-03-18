@@ -38,8 +38,8 @@ The materials are applicable for all exams (On demand and public) so, please sto
 - [VOC-Web Designing And Development-622](https://drive.google.com/file/d/1gvNC4RnVnDK6TjrnTzxLAqm0iGe4EKlS/view?usp=drive_link)
 - [VOC-Computer and Office Applications-631](https://drive.google.com/file/d/165UaWHD_6GEG8igXil3k7Fgi5tymbXJT/view?usp=drive_link)
 - [VOC-Data Entry Operations-**632**](https://drive.google.com/file/d/1E3AjBE0FYJozvBtSfsNqRL69caJf1r25/view?usp=drive_link)
-- [More.....](https://drive.google.com/drive/folders/1gmlUhPul53yaXm4eWGqQygnX_KgIJNpB)
 
+[More.....](https://drive.google.com/drive/folders/1gmlUhPul53yaXm4eWGqQygnX_KgIJNpB)
 ----
 **Secondary (10th)**
 - [VOC-Basic
