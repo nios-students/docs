@@ -20,7 +20,6 @@ Still working on it. Any questions regarding this sebject please mail at unoffic
 12. Physical documents **July to August**
 13. Results of re-eval/re-check **August**
 
-Note;
-
-- NIOS is lazy is af so, getting marks of TMAs takes time everyone gets there marks around May.
+> [!NOTE]
+> NIOS is lazy is af so, getting marks of TMAs takes time everyone gets there marks around May.
 

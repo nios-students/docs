@@ -88,7 +88,7 @@ You need to prepare for your practicals and record book/practical file on your o
 **Public examination FAQs**
 
 
-## What is the gap? (this for freshers of **Senior Secondary (12th)** only)
+## What is the gap? (this is for freshers of **Senior Secondary (12th)** only)
 
 Ans: There must be at least a 2 year gap between passing 10th grade and passing 12th.
 - If you passed 10th grade
@@ -97,7 +97,7 @@ Ans: There must be at least a 2 year gap between passing 10th grade and passing 
 > [!NOTE]
 > If you finish your exams in the second year NIOS will give your result documents after you give all sebjects i.e. after the second exam results are declared.
 
-## Can an exam centre be changed?
+## Can an exam centre be changed (PE)?
 
 Ans: Yes there is a e-service that however, it just returns " Change of exam center is now closed." YOU can't change the exam centre. 
 
@@ -110,7 +110,6 @@ Ans: Practical examinations for Public examinations are normally held in the res
 Ans: At Sr.Secondary level (12th), if one fails in theory but passes in practical, do they have to appear in practical again and vica versa. If learner passes in practical but fails in the theory of a subject, his/her practical awards/marks will be retained and can appear in theory examination only. In case the learner re-appears in both theory and practical, then the best combination of marks will be retained.
 
 ## How to deal with stress
-
 - [Click here (www.nios.ac.in)](https://nios.ac.in/faq/handling-examination-related-stress)
 
 ## Are calculators allowed in examination? (Applicable in every single examination.)
@@ -268,6 +267,19 @@ What is a Study Centre/AI, and what are its functions?
 - Checking TMAs and uploading marks.
 - Conducting PCP, FA PCP, and practical exams.
 
-Does this centre conduct these activities? NO
+Does this centre conduct these activities?
+
+NO
+
+Why would NIOS want students ***not*** to do their work, such as TMAs and practical record books/files?
+
+## Does NTA accept NIOS Marksheet for Neet (UG):
+
+As of information bulletin **2025** (NTA): NEET currently accepts NIOS marksheets, but the eligibility is subject to the Supreme Court's decision on the pending appeals. Candidates should stay updated on the final ruling before applying.
+
+Source Page: 24/25 (code 02):https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2025/02/2025020754.pdf
+
+Marks requirement:
+NIOS students (like regular candidates) must have passed Physics, Chemistry, Biology/Biotechnology, and English individually from class 12th or equivalent and scored at least 50% aggregate (general) and 40% aggregate (SC, ST, others) in *PCB* to be eligible for NEET 2025. **You need to pass in minimum 5 subjects to get a marksheet in NIOS with 33% in theory and practical individually and 33% in their aggregate as well**
 
 Why would NIOS want students ***not*** to do their work, such as TMAs and practical record books/files?

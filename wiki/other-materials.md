@@ -1,12 +1,12 @@
-Last updated 🕟:**03-03-2025, 09:25AM IST**
+Last updated 🕟:**18-03-2025, 03:38PM IST**
 
 The materials are applicable for all exams (On demand and public) so, please stop asking that.
 ----
 
 # Books, Guides and more!
-- [Books](https://nios.ac.in/online-course-material.aspx) and [Vocational Books (in .pdf)](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1nL-EvabkRTi)
+- [Textbooks](https://nios.ac.in/online-course-material.aspx) and [Vocational Books (in .pdf)](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1nL-EvabkRTi)
 
-- [Guides](https://drive.google.com/drive/folders/1Y4fr5EDyuxpoapeeQHkqvkki11fdBeZV)
+- [Guides](https://drive.google.com/drive/folders/10IbqMO8jnsQntDMfeoQWKiWxfcpYBZqo?usp=drive_link)
 **Physical Education, Physics, Maths, Chemistry Science & technology (10th Sec), Home Science (10th Sec), and English (12th Sr.Sec)**
 - [English formats of letter, e-mail memos (Applicable both Secondary and Senior Secondary 10th and 12th)](https://drive.google.com/file/d/16_x7g3z3xabTg_a1eRRZBhVV8LLhFiD1/view?usp=drivesdk)
 
@@ -19,6 +19,7 @@ The materials are applicable for all exams (On demand and public) so, please sto
 - [Brief summaries for both Secondary and Senior Secondary **10th and 12th**](https://www.flexiprep.com/NIOS-Notes)
 
 # Practical Files
+===
 **Senior Secondary (12th)**
 - [Computer Science-330](https://drive.google.com/drive/folders/1B4LC8LNbWwBj6i1u6VBKf4LzDcfGD1UX)
 - [VOC-Computer Hardware Assembly and Maintenance-663](https://drive.google.com/drive/folders/1FePkpftsoo63xWzrQDX6mFYVivPkb4kL)
@@ -35,8 +36,12 @@ The materials are applicable for all exams (On demand and public) so, please sto
 - [Library and Information Science-339](https://drive.google.com/drive/folders/1gmlUhPul53yaXm4eWGqQygnX_KgIJNpB)
 - [Early Childhood Care And Education-376](https://drive.google.com/drive/folders/1gmlUhPul53yaXm4eWGqQygnX_KgIJNpB)
 - [VOC-Yoga Assistant-667](https://drive.google.com/drive/folders/1ow4Bpx6-tR8tT2IXnFFX7AwAJpyj7sy2)
-- [Another and Hindi medium](https://drive.google.com/drive/folders/1gmlUhPul53yaXm4eWGqQygnX_KgIJNpB)
+- [VOC-Web Designing And Development-622](https://drive.google.com/file/d/1gvNC4RnVnDK6TjrnTzxLAqm0iGe4EKlS/view?usp=drive_link)
+- [VOC-Computer and Office Applications-631](https://drive.google.com/file/d/165UaWHD_6GEG8igXil3k7Fgi5tymbXJT/view?usp=drive_link)
+- [VOC-Data Entry Operations-**632**](https://drive.google.com/file/d/1E3AjBE0FYJozvBtSfsNqRL69caJf1r25/view?usp=drive_link)
 
+[More.....](https://drive.google.com/drive/folders/1gmlUhPul53yaXm4eWGqQygnX_KgIJNpB)
+----
 **Secondary (10th)**
 - [VOC-Basic
 Computing-608](https://drive.google.com/file/d/1ByDCX_yhvUg-SXHroICBEaNCUzaPHwYI/view?usp=drivesdk)
@@ -47,17 +52,20 @@ Computing-608](https://drive.google.com/file/d/1ByDCX_yhvUg-SXHroICBEaNCUzaPHwYI
 - [Painting-225](https://drive.google.com/file/d/1CVP97PPwJWSzi9H4kmFV-9c1Aq7eOeAT/view?usp=drivesdk)
 - [Hindustani Music-242](https://drive.google.com/file/d/1COrk-cKspzgXb0k4NnpjIebOtrvwPutI/view?usp=drivesdk)
 # TMA
-- [TMA **2024-25**](https://drive.google.com/drive/folders/1QPWsCnWQl6BRnUZwvC41ZAzkqy_XJ7q7?usp=drive_link) Last date of Submission is **not started yet for Oct-Nov 2025 ppl** 
+[TMA **2024-25**](https://drive.google.com/drive/folders/1QPWsCnWQl6BRnUZwvC41ZAzkqy_XJ7q7?usp=drive_link)
+
+> [!CAUTION]
+> TMA uploading isn't started yet for **block-2 Oct-Nov 2025** 
+
 # Question Papers of Previous Year's Examination
 - PYQs of April-May 2024 [Sr.Secondary (12th)](https://drive.google.com/drive/folders/1pPiI4xloWBmxJ05zej-b-WDO2KzyKlnr) and [Secondary (10th)](https://drive.google.com/drive/folders/1TeVxkTpZndUQNLPmUMGjQaekqa6-D7QC)
 - [PYQs **October-November 2024**](https://drive.google.com/drive/folders/1upgHPV4moRE72l4IHVCE9FpkNMbF8Kvh)
 - [**Offical PYQs page (nios.ac.in)**](https://nios.ac.in/student-information-section/question-paper-of-previous-year-examination-academic.aspx)
-- [ODE Feb-Mar 2025](https://docs.google.com/document/d/1wdDp7OeL6L9xyHOmslj0HqZbV0BTJRY-0S3nI2kwT4Y/edit?usp=drive_link)
+- [ODE Folder](https://drive.google.com/drive/folders/15Ze19-paWosIyQF0LdCoBA5WQg6OxHFk?usp=drive_link)
 - **Syllabus bifurcation, sample question paper with marking scheme & question paper design of** [Secondary (10th)](https://nios.ac.in/online-course-material/secondary-courses.aspx) and [Senior Secondary (12th)](https://nios.ac.in/online-course-material/sr-secondary-courses.aspx) 
-
 _______________
-# Credits 
-**Special thanks!! to anyone who scanned and sent there paper**
+Credits 
+**Special thanks!! to anyone who scanned and sent there papers**
 
 Compiler of PYQ's (apr 24 & oct 24) practical files, Handwritten TMAs, voc books,writer of Introduction To Laws notes, practical files of 336, 663, 330 and person in charge of maintenance of this document 
 **Tamim aka @pingforhelp**
@@ -81,10 +89,10 @@ English formats
 Editor of english formats and formated this document 
 **@q-Ur aka CMO**
 _______________
-
-# Copyright Statement
+Copyright Statement
 
 * All  student made notes, practical files are sebject to © nios-Students Contributors 2024-2025. The above listed can not
 modified nor allowed to sell without the permission of web developer and content author of particular the sebject/topic/work.
+
 * No code, images, logos or any other assets of **The National Institute of Open Schooling (NIOS)** copy nor used in making of this website.
 * If copyright Laws have been violated. We shall remove such content upon notice from the copyright holder. Please contact us @ [unofficialnios[at]gmail.com](mailto:unofficialnios@gmail.com)
