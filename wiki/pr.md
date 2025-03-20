@@ -1,3 +1,8 @@
+---
+order: 0
+title: Practical Exams
+---
+
 Practical Exam
 -------------------
 - What happens in the practical exam?
@@ -39,7 +44,7 @@ Note: **Submission of practical file at the day of exam**
 | 26   | 663 – Computer Hardware Assembly & Maintenance      |                -                          |
 | 27   | 667 – Yoga Assistant                                |                 -                         |
 -----
-- [How to make the practical file (Click to view)](https://nios-students.pages.dev/wiki/howto-rec-book)
+- [How to make the practical file (Click to view)](/wiki/howto-rec-book)
 - What is FA?
 FA (formative assessment) also known as FA PCP carries **50% of practical marks.** In these classes they'll help with making practical file and explain what to do practical exam 
 
@@ -146,7 +151,7 @@ Note: All the documents **should in printed form** *The hallticket is released o
 - The time for all Subjects is ***3hrs***
 - Remember at fill your information correct on the answer sheet
 - Wear anything __formal clothing__
-- [Info on how to view SA/practical marks are given or not](https://nios-students.pages.dev/wiki/view-assessment)
+- [Info on how to view SA/practical marks are given or not](/wiki/view-assessment)
 
 ----
 Any questions? [Ask here](https://www.reddit.com/r/NIOS_Students/submit) or [e-mail](mailto:unofficialnios@gmail.com)

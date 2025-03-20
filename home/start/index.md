@@ -1,0 +1,40 @@
+---
+# https://vitepress.dev/reference/default-theme-home-page
+layout: home
+
+hero:
+  name: "NIOS Students"
+  text: "Getting Started"
+  tagline: "Simple Guides made by NIOS Students for NIOS Students."
+
+
+  actions:
+    - theme: alt
+      text: Go Back
+      link: ../..
+
+
+features:
+  - title: Glossary
+    details: Commonly Used NIOS Terms
+    link: /wiki/Glossary
+  - title: About
+    details: About NIOS and Us!
+    link: /wiki/About
+  - title: Study Materials
+    details: Link to textbooks
+    link: /wiki/Study-Materials
+  - title: Other Materials
+    details: Useful NIOS Related Materials
+    link: /wiki/other-materials
+  - title: FAQs
+    details: Frequently Asked Questions, All in One Place.
+    link: /wiki/FAQ'S
+  - title: Student Obligation Info
+    details: Info on Exams, Assignments, Practicals and PCPs
+    link: /wiki/Exams-Assignments
+  - title: E-services
+    details: detail info e-services
+    link: /wiki/EServices
+
+---

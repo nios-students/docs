@@ -1,5 +1,3 @@
----
-
 **BEFORE THE DISTRICT CONSUMER DISPUTES REDRESSAL FORUM, My city**
 
 **Consumer Dispute Case No ............/2024>**  

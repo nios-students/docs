@@ -50,7 +50,6 @@ d) Don't think that you can complete 12th in one year __IF you passed out of 10t
 
 e) You can choose one [vocational sebject](https://nios-students.pages.dev/wiki/FAQ'S#what-is-the-two-vocational-sebjects-role:~:text=12th%20Vocational%20Subjects)
 
-
 Procedure NIOS has introduced __100% On-line__ admission in order to facilitate learners in registering themselves with it. Off-line admission quota has been dispensed with. Under this scheme learners have the options to
 - Register themselves On-line directly
 - Learners may visit their Regional Centres/Study centres for on-line registration. They aren't helpful *mostly*
@@ -87,8 +86,3 @@ ToC is one of the flagship features of NIOS. The **failed** learners can transfe
 
 # Part or dual enrollment 
 In case a learner has already passed the Secondary(10th)/Senior Secondary (12th) or any other higher course (Diploma/Degree) he/she may opt **for upto 4 subjects** of his/her choice, to update knowledge and educational qualifications. On passing, **only the narksheet will be issued and NO other certificate will be issued** 
-
-
- 
-
-

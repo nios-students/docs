@@ -1,7 +1,8 @@
+
 [Official FAQs (The offical ones are outdated)](https://sdmis.nios.ac.in/home/faqs) 
 
 # Our FAQs
-Based on your Questions from Telegram, Discord and Subreddit.
+Based on your Questions from Telegram, Discord and Subreddit
 
 **TMA FAQs**
 
@@ -54,11 +55,11 @@ Ans: There are 3 ways you can make it:
 
 The following info should be written Your name, Enrollment number, Subject name & sebject code, Medium of study (not required for language subjects), AI name and AI code
 
-# PCP and study centre related FAQs
+**PCP and study centre related FAQs**
 
 ## Which PCP is important? (Only for Stream 1)
 
-Ans: The first PCP in December-November (block 1) June-July (block 2) doesn't carry any marks. FA PCP Carries **50% weightage of Practicals** [Read More...](https://nios-students.pages.dev/wiki/Exams-Assignments#pcp-personal-contact-programme)
+Ans: The first PCP in December-November (block 1) June-July (block 2) doesn't carry any marks. FA PCP Carries **50% weightage of Practicals** [Read More...](/wiki/Exams-Assignments#pcp-personal-contact-programme)
 
 ## What do I do if my AI (Study Centre) is closed or is no longer affiliated with NIOS?
 
@@ -82,12 +83,12 @@ They’re overworked and busy with CBSE responsibilities.
 
 **What can I do now?**
 
-You need to prepare for your practicals and record book/practical file on your own. If you don’t understand something, just visit [Reddit](https://www.reddit.com/r/NIOS_Students) or [read this](https://nios-students.pages.dev/wiki/howto-rec-book). You don’t have to do anything else—your Regional Centre has a record of inactive study centres. Now, if your study centre does not conduct FA PCP, or if your study centre is closed and the other centre does not conduct PCP classes either, in most cases they will give you the FA PCP marks.
+You need to prepare for your practicals and record book/practical file on your own. If you don’t understand something, just visit [Reddit](https://www.reddit.com/r/NIOS_Students) or [read this](/wiki/howto-rec-book). You don’t have to do anything else—your Regional Centre has a record of inactive study centres. Now, if your study centre does not conduct FA PCP, or if your study centre is closed and the other centre does not conduct PCP classes either, in most cases they will give you the FA PCP marks.
 
 **Public examination FAQs**
 
 
-## What is the gap? (this for freshers of **12th Senior Secondary** only)
+## What is the gap? (this is for freshers of **Senior Secondary (12th)** only)
 
 Ans: There must be at least a 2 year gap between passing 10th grade and passing 12th.
 - If you passed 10th grade
@@ -106,7 +107,7 @@ Ans: Practical examinations for Public examinations are normally held in the res
 
 ## Will my marks be carried forward?
 
-Ans: At Sr.Secondary level, if one fails in theory but passes in practical, do they have to appear in practical again and vica versa. If learner passes in practical but fails in the theory of a subject, his/her practical awards/marks will be retained and can appear in theory examination only. In case the learner re-appears in both theory and practical, then the best combination of marks will be retained.
+Ans: At Sr.Secondary level (12th), if one fails in theory but passes in practical, do they have to appear in practical again and vica versa. If learner passes in practical but fails in the theory of a subject, his/her practical awards/marks will be retained and can appear in theory examination only. In case the learner re-appears in both theory and practical, then the best combination of marks will be retained.
 
 ## How to deal with stress
 - [Click here (www.nios.ac.in)](https://nios.ac.in/faq/handling-examination-related-stress)
@@ -127,7 +128,7 @@ Ans: Yes, the exam centre for Theory examination is different from Study Centre 
 
 Ans: No, they chose the centre based on your location.
 
-**On Demand related FAQs**
+**On Demand exam related FAQs**
 
 ## Is bifurcation applicable for On Demand to?
 
@@ -177,7 +178,7 @@ Live streams there are 4 channels:
 - [OBE/ISL](https://youtube.com/@ddpmevidyanios19obeislikt) from 3.00 PM to 4.00 PM. 
 - [Vocational](https://youtube.com/@niospmevidya20vocational) from 4.00 PM to 5.00 PM
 > [!NOTE]
-> Follow them on [X](x.com/Niostiw) for daily schedule of live streams. Most videos/explanations are just people reading PPTs. Live streams are cancelled sometimes but we can't do anything. about it sadly.**
+> Follow them on [X](https://x.com/Niostiw) for daily schedule of live streams. Most videos/explanations are just people reading PPTs. Live streams are cancelled sometimes but we can't do anything. about it sadly.**
 
 ## What is ABCID? Is that required?
 
@@ -185,7 +186,9 @@ Ans: ABCID is used to keep track of  academic progress. It's mostly by college g
 
 ## How can i reduce size of a pdf file?
 
-<iframe width="1202" height="480" src="https://www.youtube.com/embed/aHFF2MYb-6I" title="How To Compress PDF File Size Without Losing Quality - Full Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+::: details Show videos
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aHFF2MYb-6I" title="How To Compress PDF File Size Without Losing Quality - Full Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+::: 
 
 > [!NOTE]
 > https//ilovepdf.com is website so, you can do this on any device which has a web browser and storage for.pdf file.
@@ -194,16 +197,19 @@ Ans: ABCID is used to keep track of  academic progress. It's mostly by college g
 
 Click on the Videos
 
-<iframe width="1202" height="480" src="https://www.youtube.com/embed/nXAYWwiDvc8" title="Windows 7  - How to extract  a zip file." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+::: details Show videos
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nXAYWwiDvc8" title="Windows 7  - How to extract  a zip file." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="1202" height="480" src="https://www.youtube.com/embed/f1Iw9P_QQsc" title="How To Extract Zip Files &amp; Folders in Windows 11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f1Iw9P_QQsc" title="How To Extract Zip Files &amp; Folders in Windows 11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="1202" height="480" src="https://www.youtube.com/embed/RyhkTF2jt90" title="How to Extract ZIP Files on Android !" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RyhkTF2jt90" title="How to Extract ZIP Files on Android !" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="1202" height="480" src="https://www.youtube.com/embed/TFcBqqDGLr4" title="How to Open / Extract RAR File on iPhone or iPad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="1202" height="480" src="https://www.youtube.com/embed/J8Mzm01rpbc" title="How to Zip &amp; Unzip files on Chromebook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TFcBqqDGLr4" title="How to Open / Extract RAR File on iPhone or iPad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="1202" height="480" src="https://www.youtube.com/embed/N236GiRolXU" title="How To Unzip Files Online [Simple Guide]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J8Mzm01rpbc" title="How to Zip &amp; Unzip files on Chromebook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N236GiRolXU" title="How To Unzip Files Online [Simple Guide]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+:::
 
 ## What is the two vocational Sebjects role?
 
@@ -276,6 +282,4 @@ Source Page: 24/25 (code 02):https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e6
 Marks requirement:
 NIOS students (like regular candidates) must have passed Physics, Chemistry, Biology/Biotechnology, and English individually from class 12th or equivalent and scored at least 50% aggregate (general) and 40% aggregate (SC, ST, others) in *PCB* to be eligible for NEET 2025. **You need to pass in minimum 5 subjects to get a marksheet in NIOS with 33% in theory and practical individually and 33% in their aggregate as well**
 
-
-
-
+Why would NIOS want students ***not*** to do their work, such as TMAs and practical record books/files?

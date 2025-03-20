@@ -6,7 +6,7 @@ How To Make TMA?
 2. Go TMA window **Click on Download TMA** Download the  questions.
 3. **Prep work**  
    Get a blue pen, ruler, pencil, and a notebook or A4 sheets, any kind of paper is fine.
-4. Download a document scanner of your choice 
+4. Download a document scanner of your choice like [OSS Document Scanner](https://apt.izzysoft.de/fdroid/index/apk/com.akylas.documentscanner) or
 [Okenscan](https://play.google.com/store/apps/details?id=com.cambyte.okenscan)
 5. **Download the solved TMAs or start finding the answers from the textbook**
 - [Download for FREE](https://drive.google.com/drive/folders/1eFHUKAtpzh-rBjDm4k4zfn3_AZmu0Byh)

@@ -1,3 +1,8 @@
+---
+order: 0
+title: Handbook
+---
+
 Still working on it. Any questions regarding this sebject please mail at unofficialnios[AT]gmail.com
 -----------
 # Important Dates
