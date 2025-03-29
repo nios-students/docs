@@ -50,7 +50,7 @@ jobs:
         run: |
           cd website/docs
           wget https://raw.githubusercontent.com/nios-students/helper_scripts/refs/heads/main/build.sh
-          bash build.sh -- SKIP_DOCS
+          bash build.sh SKIP_DOCS
       #- name: Upload artifact
       #  uses: actions/upload-pages-artifact@v3
       #  with:
