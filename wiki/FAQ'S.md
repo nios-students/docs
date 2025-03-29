@@ -1,10 +1,9 @@
-
 [Official FAQs (The offical ones are outdated)](https://sdmis.nios.ac.in/home/faqs) 
 
 # Our FAQs
 Based on your Questions from Telegram, Discord and Subreddit
 
-**TMA FAQs**
+**TMA and Admission FAQs**
 
 ## Isn't the marks for TMA 20% more than the maximum theory marks?
 
@@ -53,7 +52,12 @@ Ans: There are 3 ways you can make it:
 > [!NOTE]
 > I (Author) used the 1st method. Regardless of what you do it won't effect on your marks.
 
-The following info should be written Your name, Enrollment number, Subject name & sebject code, Medium of study (not required for language subjects), AI name and AI code
+The following info should be written Your name, Enrollment number, Subject name & sebject code, Medium of study (not required for language subjects), AI name and AI code.
+
+## What grades does NIOS have ia it different from CBSE or other boards
+
+There's no 11th in NIOS, but the syllabus of 11th & 12th are mixed for one grade and one textbook called Sr.Secondary (treated as 12th standard),
+similarly 9th and 10th are integrated. *Written by u/Sure-Woodpecker-3952*
 
 **PCP and study centre related FAQs**
 
@@ -84,6 +88,29 @@ They’re overworked and busy with CBSE responsibilities.
 **What can I do now?**
 
 You need to prepare for your practicals and record book/practical file on your own. If you don’t understand something, just visit [Reddit](https://www.reddit.com/r/NIOS_Students) or [read this](/wiki/howto-rec-book). You don’t have to do anything else—your Regional Centre has a record of inactive study centres. Now, if your study centre does not conduct FA PCP, or if your study centre is closed and the other centre does not conduct PCP classes either, in most cases they will give you the FA PCP marks.
+
+## What is the count of PCP classes? *Written by u/Sure-Woodpecker-3952* 
+
+- Orientation = 1 per Student/Learner [Source](https://www.youtube.com/watch?v=QQTmBiF6L0s&t=2625s) Time code 43:43
+- PCP = 30 per Student Source? This is the interpretation, but can't find any official sources but it's a fact.
+- FA PCP = 05 per [Practical subject](https://nios-students.pages.dev/wiki/pr.html#:~:text=Which%20subject%20has%20practical%3F%20Ans%3A%20Please%20view%20the%20table%20below%3A) source? This is the interpretation, but can't find any official sources but it's a fact.
+~~-  [missinfo](https://rcpune.nios.ac.in/personal-contact-program.html) ^(The 15 classes of PCP compulsory part is not true , PCP are not compulsory , just FA PCP is compulsory as they carry 50% marks of practical)~~
+
+## Where to find info on OBE
+
+The OBE Programme covers elementary level education and is offered at three levels: 
+
+- OBE level A: equivalent to class I-III
+- OBE level B: equivalent to class IV-V
+- OBE level C: equivalent to class VI-VIII
+
+🔸For more info - ***🔻Academic prospectus for OBE:***
+- [Obe link 1](https://www.nios.ac.in/departmentsunits/academic/open-basic-education-(obe).aspx)
+
+- [Obe link 2](https://www.nios.ac.in/media/documents/prospectus/OBE_Prospectus/OBE_Adult_Prospectus_2024-25_Final.pdf)
+- [Obe link 3](https://www.nios.ac.in/media/documents/prospectus/OBE_Prospectus/OBE_Children_Prospectus_2024-25_Final.pdf)
+- [Obe link 4](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nios.ac.in/media/documents/accr/obeguide.pdf&ved=2ahUKEwjA7932taCMAxWbRmwGHQ8eOMMQFnoECFYQAQ&usg=AOvVaw3j4MwSNfeyEGBv45XiiR0e)
+
 
 **Public examination FAQs**
 
@@ -211,9 +238,9 @@ Click on the Videos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N236GiRolXU" title="How To Unzip Files Online [Simple Guide]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 :::
 
-## What is the two vocational Sebjects role?
+## What is the two vocational Sebjects rule?
 
-XXXX will be displayed in your result if you have TWO Vocational subjects from given below the table given:
+'XXXX' will be displayed in your result if you have TWO (2) Vocational subjects from given below the table given:
 
 -------
 | 10th Vocational Subjects                           | 12th Vocational Subjects                                    |
@@ -237,18 +264,6 @@ XXXX will be displayed in your result if you have TWO Vocational subjects from g
 |                                                    | 17. Yoga Assistant (667)                                    |
 --------------------------
 
-**Fees related FAQs**
-
-## I gave Public Exam now i wanna register for the upcoming Public Exam but it won't let me why is that?
-
-Ans: Please wait until results of the exam you gave or paid fees for are released. NIOS will make another schedule for you. It takes two or three weeks after the results are released.
-> [!NOTE]
-> **This is nothing new it's a norm** [Join our WhatsApp update channel**](https://whatsapp.com/channel/0029VamKd7w3LdQV8AqlNF1h)
-
-## I paid “Addmission Fees” Why should pay exam for public exams fees? (Only for Stream 1) 
-
-Ans: Because the fees you paid it beginning was admission into NIOS. It covers your books and PCPs.  You **must** to exam fees in order appear in the exam. Btw exam fee includes  question paper, answer booklet, fees for teachers who will check your answers, and other miscellaneous expenses.
-
 ## Is Manish Verma legit?
 
 Ans: Short answer NO. Long answer As per the information on their website about section "This website is not **associated with NIOS**, For official website of NIOS visit – https://www.nios.ac.in/" This could be in the context of: "Hey, we are a CSC and Study Centre. You can find information about our courses, guides, and other stuff, but our website isn't the official website of NIOS. So, is this paragraph garbage? No, but it makes you think, "Why would a CSC **and** Study Centre say this isn’t the main website instead of just giving a link to it?"
@@ -268,18 +283,41 @@ What is a Study Centre/AI, and what are its functions?
 - Conducting PCP, FA PCP, and practical exams.
 
 Does this centre conduct these activities?
-
+Special thanks to
 NO
 
+## Where is find whatever I'm looking for 
+
+*Written by u/Sure-Woodpecker-3952*
+ 
+ 🔸 PCP (non compulsory) HALL TICKET [1](https://sdmis.nios.ac.in/search/pcp-hall-ticket)
+
+🔸 FA PCP HALL TICKET [2](https://sdmis.nios.ac.in/search/fa-hall-ticket) 
+
+🔸 PRACTICAL (SA) AND THEORY EXAM HALL TICKET [Pubic exams] [3](https://sdmis.nios.ac.in/search/hall-ticket)
+
+🔸 VIEW FA/SA MARKS AWARDED or not [4](https://exams.nios.ac.in/auth/view-student-formative-assessment)
+
+🔸 NOTIFICATIONS [5](https://www.nios.ac.in/notice-boardoffice-order/for-all-orders-office-orders.aspx) / [6](c.in/registration/home-notifications) Required to logout*
+
+🔸 RESULTS WEBSITE [7](https://results.nios.ac.in/)
+
+🔸 ODE HALL TICKET [8](https://sdmis.nios.ac.in/registration/hall-ticket) MUST book seat and loged in*
+
+🔸 X [9](https://x.com/niostwit?s=09)
+
+
+
 Why would NIOS want students ***not*** to do their work, such as TMAs and practical record books/files?
 
-## Does NTA accept NIOS Marksheet for Neet (UG):
+**Fees related FAQs**
 
-As of information bulletin **2025** (NTA): NEET currently accepts NIOS marksheets, but the eligibility is subject to the Supreme Court's decision on the pending appeals. Candidates should stay updated on the final ruling before applying.
+## I gave Public Exam now i wanna register for the upcoming Public Exam but it won't let me why is that?
 
-Source Page: 24/25 (code 02):https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2025/02/2025020754.pdf
+Ans: Please wait until results of the exam you gave or paid fees for are released. NIOS will make another schedule for you. It takes two or three weeks after the results are released.
+> [!NOTE]
+> **This is nothing new it's a norm** [Join our WhatsApp update channel**](https://whatsapp.com/channel/0029VamKd7w3LdQV8AqlNF1h)
 
-Marks requirement:
-NIOS students (like regular candidates) must have passed Physics, Chemistry, Biology/Biotechnology, and English individually from class 12th or equivalent and scored at least 50% aggregate (general) and 40% aggregate (SC, ST, others) in *PCB* to be eligible for NEET 2025. **You need to pass in minimum 5 subjects to get a marksheet in NIOS with 33% in theory and practical individually and 33% in their aggregate as well**
+## I paid “Addmission Fees” Why should pay exam for public exams fees? (Only for Stream 1) 
 
-Why would NIOS want students ***not*** to do their work, such as TMAs and practical record books/files?
+Ans: Because the fees you paid it beginning was admission into NIOS. It covers your books and PCPs.  You **must** to exam fees in order appear in the exam. Btw exam fee includes  question paper, answer booklet, fees for teachers who will check your answers, and other miscellaneous expenses.
