@@ -1,6 +1,6 @@
 # Admission
 
-__Admissions are completely online from [sdmis.nios.ac.in](https://sdmis.nios.ac.in) only__ (For 12th (Sr.Sec), 10th (Sec), and OBE)
+__Admissions are completely online from [sdmis.nios.ac.in](https://sdmis.nios.ac.in) only__ (For 12th (Sr.Sec), 10th (Sec), and obe)
 
 # Secondary (10th Standard)
 
