@@ -298,7 +298,7 @@ NO
 
 🔸 VIEW FA/SA MARKS AWARDED or not [4](https://exams.nios.ac.in/auth/view-student-formative-assessment)
 
-🔸 NOTIFICATIONS [5](https://www.nios.ac.in/notice-boardoffice-order/for-all-orders-office-orders.aspx) / [6](c.in/registration/home-notifications) Required to logout*
+🔸 NOTIFICATIONS [5](https://www.nios.ac.in/notice-boardoffice-order/for-all-orders-office-orders.aspx) / [6](https://sdmis.nios.ac.in/registration/home-notifications) Required to logout*
 
 🔸 RESULTS WEBSITE [7](https://results.nios.ac.in/)
 
