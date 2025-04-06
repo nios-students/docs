@@ -4,8 +4,7 @@ __Admissions are completely online from [sdmis.nios.ac.in](https://sdmis.nios.ac
 
 # Secondary (10th Standard)
 
-This Course is equivalent to the Xth standard. However NIOS integrates 9th and 10th into one grade. The content of 9th and 10th
-present in it's books. Unlike other boards you may choose your subjects from the [table](https://www.nios.ac.in/departmentsunits/academic/senior-secondary-course-equivalent-to-class-xii.aspx) 
+This Course is equivalent to the Xth standard. However NIOS integrates 9th and 10th into one grade. The content of 9th and 10th present in it's books. Unlike other boards you may choose your subjects from the [table](https://www.nios.ac.in/departmentsunits/academic/senior-secondary-course-equivalent-to-class-xii.aspx) 
 <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/Screenshot%202024-09-13%20190823.png" alt="Screenshot" width="400">
 
 **Exceptions** 
