@@ -1,7 +1,3 @@
----
-order: 0
-title: Practical Exams
----
 
 Practical Exam
 -------------------
