@@ -42,9 +42,11 @@ Note: **Submission of practical file at the day of exam**
 -----
 - [How to make the practical file (Click to view)](/wiki/howto-rec-book)
 - What is FA?
-FA (formative assessment) also known as FA PCP carries **50% of practical marks.** In these classes they'll help with making practical file and explain what to do practical exam 
 
-Note: **FA is only for stream 1 students.**
+FA (formative assessment) also known as FA PCP carries **50% of practical marks.** In these classes they'll help with making practical file and explain what to do practical exam.
+
+> Note
+> **FA is only for Stream 1 students.**
 
 **Exceptions**
 
@@ -120,7 +122,8 @@ View the table below
 
 [Source](https://nios.ac.in/media/documents/notification/yr2024/Exam/PG_2024.pdf)
 
-Note: **“Seb Code” is the sebject code of the sebject. The marks for submitting file comes under FA marks. In Secondary (10th) Passing in practical isn't required i.e. You need to get 33% of the maximum marks. It doesn't matter how you score these marks. For a example in science and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered passed. Here 'Passing marks' are given for completeness.** 
+> [!NOTE]
+> **“Seb Code” is the sebject code of the sebject. The marks for submitting file comes under FA marks. In Secondary (10th) Passing in practical isn't required i.e. You need to get 33% of the maximum marks. It doesn't matter how you score these marks. For a example in science and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered passed. Here 'Passing marks' are given for completeness.** 
 - What kind of questions will they ask in viva?
 Basic stuff regarding the subject like full forms, basic terms why did choose this subject etc.....
 - Will they ask to Perform activities/experiments?
@@ -136,11 +139,11 @@ Go to the address given in the hallticket for specific time and date. The schedu
 **What to bring (On the day of the exam**)
 1. [ID card of NIOS](https://sdmis.nios.ac.in/registration/id-card) 
 2. Pen and other stationary
-3. ID Proof like aadhaar Card, Passport or PAN card etc
+3. ID Proof like aadhaar Card Passport or PAN card etc
 4. [Practical hallticket](https://sdmis.nios.ac.in/search/hall-ticket)
 5. Record Book/Practical file
 6. Pad
-7. Water bottle *remember to stay hydrated and chill!*
+7. Water bottle *remember to stay hydrated and chill!* 
 
 > [Note] All the documents **should in printed form** *The hallticket is released one week before the first exam*
 > Everything about view assessment
