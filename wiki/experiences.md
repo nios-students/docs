@@ -18,7 +18,11 @@ But some of the points are debunked [here](https://www.reddit.com/r/NIOS_Student
 
 8. [Bribe](https://www.reddit.com/r/NIOS_Students/s/MAOeA7bcpA )
 
-9.[quora](https://www.quora.com/Did-you-experience-any-problems-with-NIOS/answer/Prakrith-Prakash-Nair?ch=15&oid=131541373&share=f67e372c&srid=uwmaYx&target_type=answer)
+9. [quora](https://www.quora.com/Did-you-experience-any-problems-with-NIOS/answer/Prakrith-Prakash-Nair?ch=15&oid=131541373&share=f67e372c&srid=uwmaYx&target_type=answer)
+
+
+Mega Threats
+1. [Practical Apr 2025](https://www.reddit.com/r/NIOS_Students/comments/1jd1kbs/got_your_practical_today_good_luck/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 
 
