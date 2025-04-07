@@ -1,4 +1,4 @@
-How To Make TMA?
+How to Make TMA?
 ----------
 
 1. **First download the TMA questions paper from dashboard**  
