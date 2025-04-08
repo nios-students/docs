@@ -49,17 +49,17 @@ jobs:
       - name: Build with VitePress
         run: |
           cd website/docs
-          wget https://raw.githubusercontent.com/nios-students/helper_scripts/refs/heads/main/build.sh
+          wget https://raw.githubusercontent.com/nios-students/helper_scripts/refs/heads/contents/build.sh
           bash build.sh SKIP_DOCS
       - name: Upload artifact
-        if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+        if: github.ref == 'refs/heads/contents' && github.event_name == 'push'
         uses: actions/upload-pages-artifact@v3
         with:
           path: website/docs/.vitepress/dist
 
   # Deployment job
   deploy:
-    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    if: github.ref == 'refs/heads/contents' && github.event_name == 'push'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
