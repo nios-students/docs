@@ -282,33 +282,37 @@ What is a Study Centre/AI, and what are its functions?
 - Checking TMAs and uploading marks.
 - Conducting PCP, FA PCP, and practical exams.
 
-Does this centre conduct these activities?
-Special thanks to
+> Does this centre conduct these activities?
 NO
+
+> Why would NIOS want students ***not*** to do their work, such as TMAs and practical record books/files?
+
+
+## What is Optional module? Do i need to study it?
+
+Many subjects such as English, Business Studies, Home Science, and more are divided into modules, one of which is optional. 
+- How Optional Modules Work in NIOS
+
+The syllabus is structured as follows:
+
+- Modules from so and so - This is the core module and is compulsory.
+- Optional module – This is the optional module, and students must choose between Module A and Module B. You are not supposed to do both Modules in the exam you choose either A or B. 
+> [!TIP]
+> there is no checkbox for you to tick, whenever a question is asked from Optional module you can mention which Module you have picked e.g., **3 Ans: (optional module A)**, additionally you can also write it before starting a Section e.g., **Section-I (optional module A)**.
+> [!WARNING]
+> Important! You are expected to answer questions only from one part of Module B. Do **NOT** attempt questions from both module A and module B doing so may result in marks being deducted or responses being ignored.
 
 ## Where is find whatever I'm looking for 
 
 *Written by u/Sure-Woodpecker-3952*
- 
- 🔸 PCP (non compulsory) HALL TICKET [1](https://sdmis.nios.ac.in/search/pcp-hall-ticket)
-
-🔸 FA PCP HALL TICKET [2](https://sdmis.nios.ac.in/search/fa-hall-ticket) 
-
-🔸 PRACTICAL (SA) AND THEORY EXAM HALL TICKET [Pubic exams] [3](https://sdmis.nios.ac.in/search/hall-ticket)
-
-🔸 VIEW FA/SA MARKS AWARDED or not [4](https://exams.nios.ac.in/auth/view-student-formative-assessment)
-
-🔸 NOTIFICATIONS [5](https://www.nios.ac.in/notice-boardoffice-order/for-all-orders-office-orders.aspx) / [6](https://sdmis.nios.ac.in/registration/home-notifications) Required to logout*
-
-🔸 RESULTS WEBSITE [7](https://results.nios.ac.in/)
-
-🔸 ODE HALL TICKET [8](https://sdmis.nios.ac.in/registration/hall-ticket) MUST book seat and loged in*
-
-🔸 X [9](https://x.com/niostwit?s=09)
-
-
-
-Why would NIOS want students ***not*** to do their work, such as TMAs and practical record books/files?
+- PCP (non compulsory) HALL TICKET [1](https://sdmis.nios.ac.in/search/pcp-hall-ticket)
+- FA PCP HALL TICKET [2](https://sdmis.nios.ac.in/search/fa-hall-ticket) 
+- PRACTICAL (SA) AND THEORY EXAM HALL TICKET [Pubic exams] [3](https://sdmis.nios.ac.in/search/hall-ticket)
+- VIEW FA/SA MARKS AWARDED or not [4](https://exams.nios.ac.in/auth/view-student-formative-assessment)
+- NOTIFICATIONS [5](https://www.nios.ac.in/notice-boardoffice-order/for-all-orders-office-orders.aspx) / [6](https://sdmis.nios.ac.in/registration/home-notifications) Required to logout*
+- RESULTS WEBSITE [7](https://results.nios.ac.in/)
+- ODE HALL TICKET [8](https://sdmis.nios.ac.in/registration/hall-ticket) MUST book seat and loged in*
+- X [9](https://x.com/niostwit?s=09)
 
 **Fees related FAQs**
 
