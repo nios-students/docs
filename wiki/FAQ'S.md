@@ -301,9 +301,9 @@ The syllabus is structured as follows:
 > there is no checkbox for you to tick, whenever a question is asked from Optional module you can mention which Module you have picked e.g., **3 Ans: (optional module A)**, additionally you can also write it before starting a Section e.g., **Section-I (optional module A)**.
 
 > [!WARNING]
-> Important! You are expected to answer questions only from one part of Module B. Do **NOT** attempt questions from both module A and module B doing so may result in marks being deducted or responses being ignored.
+> Important! You are expected to answer questions only from one Module A or B. Do **NOT** attempt questions from both module A and module B doing so could result in marks being deducted or responses being ignored.
 
-## Where is find whatever I'm looking for 
+## Where is find whatever I'm looking for? 
 
 *Written by u/Sure-Woodpecker-3952*
 - PCP (non compulsory) HALL TICKET [1](https://sdmis.nios.ac.in/search/pcp-hall-ticket)
