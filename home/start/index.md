@@ -21,8 +21,12 @@ features:
   - title: About
     details: About NIOS and Us!
     link: /wiki/About
+  - title: Admissions
+    details: A brief explanation of NIOS's Streams 
+    link: wiki/Admissions
+     
   - title: Study Materials
-    details: Link to textbooks
+    details: Link to textbooks and resources of NIOS
     link: /wiki/Study-Materials
   - title: Other Materials
     details: Useful NIOS Related Materials
