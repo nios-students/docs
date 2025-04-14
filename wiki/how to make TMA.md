@@ -49,5 +49,5 @@ It's on the blue section or dashboard->My Details.**
 -  "-": You passed in the subject
 
 > [!NOTE] 
-> Whatever is marked with “*” are important. The dates can differ from student to student but it takes ton of time for April 2024 the feedback/marks were given to everyone by the 31 April 2024.**
+> Whatever is marked with “*” are important. The dates can differ from student to student but it takes ton of time for April 2024 the feedback/marks were given to everyone by the 31 April 2024.
 
