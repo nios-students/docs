@@ -18,7 +18,7 @@ features:
     link: https://nios.ac.in/student-information-section/admission-procedure-videos.aspx
   - title: TMAs
     details: A Simple Guide on Creating Tutor-Marked-Assignments
-    link: /wiki/Guidelines#how-to-make-tma
+    link: wiki/how to make TMA
   - title: Apply For a Scribe
     details: A simple guide on Applying for a Scribe
     link: /wiki/howto's-scribe
