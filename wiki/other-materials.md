@@ -17,6 +17,9 @@ The materials are applicable for all exams (On demand and public) so, please sto
 
 - [Terminal Answers](https://drive.google.com/drive/folders/1QxgVf9rmN91oStaDyrM_2IXtsFgZCL-K?usp=drive_link) Physics,Mathematics,Chemistry and Biology. For the sebject or lessons not available in the above link [here for Sr.Sec (12th)](https://brainly.in/textbook-solutions/book-sets/s-nios-board/c-class-12) and [here for Sec (10th)](https://brainly.in/textbook-solutions/book-sets/s-nios-board/c-class-10)
 - [Brief summaries for both Secondary and Senior Secondary **10th and 12th**](https://www.flexiprep.com/NIOS-Notes)
+- Free Videos [Physics](), [Chemistry](), [Mathematics](), [Biology]() and [English (302 OLD book for Apr and Oct 2025)]()
+> [!DISCLAIMER]
+> We did not make nor purchase this. We have just Provided the link for the Telegram Channel vs which hosts it. The contents of these videos might or might not be incorrect or correct viewer discretion is adviced.
 
 # Practical Files
 ===
@@ -62,6 +65,8 @@ Computing-608](https://drive.google.com/file/d/1ByDCX_yhvUg-SXHroICBEaNCUzaPHwYI
 - [PYQs **October-November 2024**](https://drive.google.com/drive/folders/1upgHPV4moRE72l4IHVCE9FpkNMbF8Kvh)
 - [**Offical PYQs page (nios.ac.in)**](https://nios.ac.in/student-information-section/question-paper-of-previous-year-examination-academic.aspx)
 - [ODE Folder](https://drive.google.com/drive/folders/15Ze19-paWosIyQF0LdCoBA5WQg6OxHFk?usp=drive_link)
+- [ApriI 2025]()
+> [!]
 - **Syllabus bifurcation, sample question paper with marking scheme & question paper design of** [Secondary (10th)](https://nios.ac.in/online-course-material/secondary-courses.aspx) and [Senior Secondary (12th)](https://nios.ac.in/online-course-material/sr-secondary-courses.aspx) 
 _______________
 Credits 
