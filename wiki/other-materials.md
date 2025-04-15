@@ -1,4 +1,4 @@
-Last updated 🕟:**18-03-2025, 03:38PM IST**
+Last updated 🕟:**15-04-2025, 09:58PM IST**
 
 The materials are applicable for all exams (On demand and public) so, please stop asking that.
 ----
@@ -15,14 +15,14 @@ The materials are applicable for all exams (On demand and public) so, please sto
 - [Student made notes](https://drive.google.com/drive/folders/1ttDPhDMNFK3uRudaJWie83mTeVgvmGo_?usp=drive_link)
 **Maths (311), Chemistry (313), English (302) (Sr.Sec 12th), Introduction To Laws (338), Data entry operations (336) (12th Sr.Sec), Buisness Studies (Sr.Sec 12th), English (202) (Sr.Sec 10th)**
 
-- [Terminal Answers](https://drive.google.com/drive/folders/1QxgVf9rmN91oStaDyrM_2IXtsFgZCL-K?usp=drive_link) Physics,Mathematics,Chemistry and Biology. For the sebject or lessons not available in the above link [here for Sr.Sec (12th)](https://brainly.in/textbook-solutions/book-sets/s-nios-board/c-class-12) and [here for Sec (10th)](https://brainly.in/textbook-solutions/book-sets/s-nios-board/c-class-10)
+- [Terminal Answers](https://drive.google.com/drive/folders/1QxgVf9rmN91oStaDyrM_2IXtsFgZCL-K?usp=drive_link) Physics,Mathematics,Chemistry and Biology. For the subject or lessons not available in the above link [here for Sr.Sec (12th)](https://brainly.in/textbook-solutions/book-sets/s-nios-board/c-class-12) and [here for Sec (10th)](https://brainly.in/textbook-solutions/book-sets/s-nios-board/c-class-10)
 - [Brief summaries for both Secondary and Senior Secondary **10th and 12th**](https://www.flexiprep.com/NIOS-Notes)
-- Free Videos [Physics](), [Chemistry](), [Mathematics](), [Biology]() and [English (302 OLD book for Apr and Oct 2025)]()
+- Videos [Physics](https://t.me/+XDO30T7l3mtiNjE1), [Chemistry](https://t.me/+6ax-UAdVSkFhNzA9), [Mathematics](https://t.me/+i2KM6wX62bsyNjBl), [Biology](https://t.me/+OjAfPj6_eP1mMWU9) and [English (302 OLD book for Apr and Oct 2025)](https://t.me/+EUpJdDpd35FhMTY1)
 > [!DISCLAIMER]
 > We did not make nor purchase this. We have just Provided the link for the Telegram Channel vs which hosts it. The contents of these videos might or might not be incorrect or correct viewer discretion is adviced.
 
-# Practical Files
-===
+Practical Files
+-------
 **Senior Secondary (12th)**
 - [Computer Science-330](https://drive.google.com/drive/folders/1B4LC8LNbWwBj6i1u6VBKf4LzDcfGD1UX)
 - [VOC-Computer Hardware Assembly and Maintenance-663](https://drive.google.com/drive/folders/1FePkpftsoo63xWzrQDX6mFYVivPkb4kL)
@@ -45,7 +45,9 @@ The materials are applicable for all exams (On demand and public) so, please sto
 
 [More.....](https://drive.google.com/drive/folders/1gmlUhPul53yaXm4eWGqQygnX_KgIJNpB)
 ----
+
 **Secondary (10th)**
+------
 - [VOC-Basic
 Computing-608](https://drive.google.com/file/d/1ByDCX_yhvUg-SXHroICBEaNCUzaPHwYI/view?usp=drivesdk)
 - [Mathematics-211](https://drive.google.com/file/d/1COtvhOvihS9KGYoovy7MDEwJSQ0Mlpto/view?usp=drivesdk)
@@ -54,6 +56,7 @@ Computing-608](https://drive.google.com/file/d/1ByDCX_yhvUg-SXHroICBEaNCUzaPHwYI
 - [Data Entry Operations-229](https://drive.google.com/file/d/1CFHXYQevcDmHvOZIKDH7bHF3ke3zAmFU/view?usp=drivesdk)
 - [Painting-225](https://drive.google.com/file/d/1CVP97PPwJWSzi9H4kmFV-9c1Aq7eOeAT/view?usp=drivesdk)
 - [Hindustani Music-242](https://drive.google.com/file/d/1COrk-cKspzgXb0k4NnpjIebOtrvwPutI/view?usp=drivesdk)
+
 # TMA
 [TMA **2024-25**](https://drive.google.com/drive/folders/1QPWsCnWQl6BRnUZwvC41ZAzkqy_XJ7q7?usp=drive_link)
 
@@ -65,8 +68,9 @@ Computing-608](https://drive.google.com/file/d/1ByDCX_yhvUg-SXHroICBEaNCUzaPHwYI
 - [PYQs **October-November 2024**](https://drive.google.com/drive/folders/1upgHPV4moRE72l4IHVCE9FpkNMbF8Kvh)
 - [**Offical PYQs page (nios.ac.in)**](https://nios.ac.in/student-information-section/question-paper-of-previous-year-examination-academic.aspx)
 - [ODE Folder](https://drive.google.com/drive/folders/15Ze19-paWosIyQF0LdCoBA5WQg6OxHFk?usp=drive_link)
-- [ApriI 2025]()
-> [!]
+- [April 2025](https://drive.google.com/drive/folders/1zoQp9Uy2mh7MhW6qEGtb6sfJnE9TSck2?usp=drive_link)
+> [!CAUTION]
+> The question papers are uploaded after a Learner writes the exan and then sents a scanned .pdf of it.
 - **Syllabus bifurcation, sample question paper with marking scheme & question paper design of** [Secondary (10th)](https://nios.ac.in/online-course-material/secondary-courses.aspx) and [Senior Secondary (12th)](https://nios.ac.in/online-course-material/sr-secondary-courses.aspx) 
 _______________
 Credits 
@@ -75,24 +79,26 @@ Credits
 Compiler of PYQ's (apr 24 & oct 24) practical files, Handwritten TMAs, voc books,writer of Introduction To Laws notes, practical files of 336, 663, 330 and person in charge of maintenance of this document 
 **Tamim aka @pingforhelp**
 
-Compiler of handwritten TMAs,Guides of physics and chemistry
+Compiler of handwritten TMAs, Guides of physics, and chemistry
 **Sid**
 
 Web Developers
-**@PugzAreCute and @sounddrill31**
+**@PugzAreCute & @sounddrill31**
 
-Writer of terminal QnA (Physics, Chemistry, biology and Mathematics) **dahej_~~daddy~~**
+Writer of terminal QnA (Physics, Chemistry, biology and Mathematics) 
+**dahej_~~daddy~~**
 
 Writer of student made notes Chemistry, English and maths. Compiler and editor of guide of maths 
 **Musicholic_20**
 
-Writer of student made notes of Buisness Studies **Priya yeturi**
+Writer of student made notes of Buisness Studies 
+**Priya yeturi**
 
 English formats             
 **1pointperspective**
 
 Editor of english formats and formated this document 
-**@q-Ur aka CMO**
+**Ur aka CMO**
 _______________
 Copyright Statement
 
