@@ -10,15 +10,14 @@ How To apply for a scribe?
 > I'm writing from experience as I took the April 2024 exams with a scribe. Firstly, NIOS or the exam center will not provide a scribe/writer. You have to find one by yourself.
 
 # Documents Required
-1. Application by the Parent*
-2. Medical Certificate*
-3. Copy of Disability Certificate*
-4.  Bonafide Certificate*
+1. [Application by the Parent*](https://nios.ac.in/media/documents/PWD/Application%20by%20Parent%20Form1.pdf)
+2. [Medical Certificate*](https://nios.ac.in/media/documents/PWD/Medical%20certificate.pdf)
+3. [Copy of Disability Certificate*](https://www.digilocker.gov.in/)
+4. Bonafide Certificate*
 5. Student ID card of the school and Aadhaar card of the writer/scribe*
-6. NIOS [ID card](https://sdmis.nios.ac.in/registration/id-card) of the learner or hallticket (if available)*
-7. Performa for information regarding Amanuensis*
+6. [NIOS ID card](https://sdmis.nios.ac.in/registration/id-card) of the learner or hallticket (if available)*
 > [!WARNING]
->*Xeroxs are fine for SNo 3, 5, and 6*
+> Xeroxs are fine for SlNo 3, 5, and 6
 # How can I find and fill these documents?
 First, visit the NIOS website and download the Application by the Parent and Medical Certificate from the [Provisions for Learners with Disability](https://nios.ac.in/departmentsunits/evaluation/general-and-specific-relaxations-(disability-wise)-during-nios-examination.aspx). Take a printout of these documents.
 # How to fill out the Application by the Parent:
@@ -84,7 +83,7 @@ Principal/Correspondent
 1. Scan all documents using [Oken Scanner](https://play.google.com/store/apps/details?id=com.cambyte.okenscan).
 2. Mail them to your RC [contact info Regional Center](https://sdmis.nios.ac.in/home/regional-center).
 > [!CAUTION] 
-> You **must** the Documents physically.
+> You **must send** the Documents physically.
 
 **Important points to remember**
 - Do not wait for the datesheet. Send the documents to the RC after you pay the exam fees.
