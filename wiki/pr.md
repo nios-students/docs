@@ -5,11 +5,11 @@ Practical Exam
 1. Submission of practical file
 2. Viva/oral
 3. Activity/Answering the Paper
+> [!NOTE]
+> **Submission of practical file at the day of exam**
 
-Note: **Submission of practical file at the day of exam**
 - Which subject has practical?
-  Ans: Please view the table below:
-  
+Please view the table below:  
 | S.No | Sr. Secondary (12th)                                | Secondary (10th)                         |
 |------|-----------------------------------------------------|------------------------------------------|
 | 1    | 312 – Physics                                       | 211 – Mathematics                        |
@@ -42,11 +42,9 @@ Note: **Submission of practical file at the day of exam**
 -----
 - [How to make the practical file (Click to view)](/wiki/howto-rec-book)
 - What is FA?
-
 FA (formative assessment) also known as FA PCP carries **50% of practical marks.** In these classes they'll help with making practical file and explain what to do practical exam.
-
-> Note
-> **FA is only for Stream 1 students.**
+> [!NOTE]
+> **FA is only for Stream 1 students only.**
 
 **Exceptions**
 
@@ -61,13 +59,12 @@ SA (Summative Assessment) also kown as practical exam here other **50%** of the 
 
 a) For vocational sebjects it's 100% cus no **FA marks**
 
-b) For stream 2,3,4 **100%** of marks are scored/given during practical exam.
+b) For stream 2, 3 and,4 **100%** of marks are scored/given during practical exam.
 
 - When is this?
-
-Note: For streams 3 and 4 you have to ask your center. For stream 1 and 2 specific dates & time
+> [!WARRING]
+> For streams 3 and 4 you have to ask your center. For stream 1 and 2 specific dates & time
 aren't given. You have to visit the centre one or two days **before the first exam** e.g. If the first exam is on 20th you have to go 18th or 19th.
-
 View the table below
 ---
 
@@ -78,10 +75,8 @@ View the table below
 | 3       | 2      | Same as "stream-1 block-2 (Oct Exam)"             |          |
 | 4       | 3      | Please ask your center on the day of theory paper |     -      |
 | 5       | 4      | Please ask your center on the day of theory paper |      -     |
-
----
-
-- What are the marks for  viva, flie etc?
+-------------------------------------------------------------------------------------
+- What are the marks for  viva, flie, etc?
 # Table breaking down practical marks (12th Sr.Sec):
 | Sr.No | Seb Code                                         | File | Viva | Activities/Answering the Paper |
 | ----- | ------------------------------------------------ | ---- | ---- | ------------------------------ |
@@ -125,16 +120,17 @@ View the table below
 > [!NOTE]
 > **“Seb Code” is the sebject code of the sebject. The marks for submitting file comes under FA marks. In Secondary (10th) Passing in practical isn't required i.e. You need to get 33% of the maximum marks. It doesn't matter how you score these marks. For a example in science and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered passed. Here 'Passing marks' are given for completeness.** 
 - What kind of questions will they ask in viva?
-Basic stuff regarding the subject like full forms, basic terms why did choose this subject etc.....
-- Will they ask to Perform activities/experiments?
+Basic stuff regarding the subject like full forms, basic terms why did choose this subject etc..
+- Will they ask to perform activities/experiments?
 Probably not even if they do it would basic stuff.
 - What will come in the writen paper?
 They will ask any experiments in your lab manual. You have to write the whole thing. Mostly it's like this ***Write any two from the given four***
+
 # Instructions/Checklist
 
 **One or Two day Before the first exam**
-
-Go to the address given in the hallticket for specific time and date. The schedule should be displayed on there notice board or gate.
+> [!TIP]
+> Go to the address given in the hallticket for specific time and date. The schedule should be displayed on there notice board or gate.
 
 **What to bring (On the day of the exam**)
 1. [ID card of NIOS](https://sdmis.nios.ac.in/registration/id-card) 
@@ -144,9 +140,13 @@ Go to the address given in the hallticket for specific time and date. The schedu
 5. Record Book/Practical file
 6. Pad
 7. Water bottle *remember to stay hydrated and chill!* 
+> [!NOTE]
+> All the documents **should in printed form** *The hallticket is released one week before the first exam*
 
-> [Note] All the documents **should in printed form** *The hallticket is released one week before the first exam*
-> Everything about view assessment
+# Other stuff
+- The time for all Subjects is ***3hrs***
+- Remember at fill your information correct on the answer sheet
+- Wear anything __formal clothing__
 
 # View Assessment
 
@@ -165,17 +165,11 @@ https://exams.nios.ac.in/auth/view-student-formative-assessment (Ignore what is 
 
 **Step-3** View it!
 
-Here's example of how it looks.
+Here's example of how it looks:
 <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/sa.jpg" alt="SA" width="400">
 
-The marks will show on the marksheet 
+The marks will show on the marksheet:
 <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/ms.jpg" alt="Marksheet" width="400">
-
-# Other stuff
-- The time for all Subjects is ***3hrs***
-- Remember at fill your information correct on the answer sheet
-- Wear anything __formal clothing__
-- [Info on how to view SA/practical marks are given or not](/wiki/view-assessment)
 
 ----
 Any questions? [Ask here](https://www.reddit.com/r/NIOS_Students/submit) or [e-mail](mailto:unofficialnios@gmail.com)
