@@ -5,6 +5,12 @@ title: Handbook
 
 Still working on it. Any questions regarding this sebject please mail at unofficialnios[AT]gmail.com
 -----------
+# Admission window
+- From 16th March to 31st July	Normal Fee
+- From 1st August to 15th August	With Late Fee of Rs. 260
+- From 16th August to 31st August	With Late Fee of Rs. 520
+- From 1st Sept. to 15th Sept.	With Late Fee of Rs. 910
+  
 # Important Dates
 1. TMA uploading **November (Last week)**
 2. Exam Fees payment **21 November to 20 December (without late fee)**
