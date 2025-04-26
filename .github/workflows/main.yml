@@ -41,7 +41,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          node-version-file: 'website/package.json'
+          # node-version-file: 'website/package.json'
           cache-dependency-path: 'website/package-lock.json'
           cache: npm # or pnpm / yarn
       - name: Install dependencies
