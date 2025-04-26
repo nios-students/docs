@@ -13,5 +13,5 @@ title: Subject Handbooks
 
 - **[Guide for Stream 1 Block 1](/wiki/HandbookforS1b1)**
 
-- **[Guide for Stream 1 Block 2](/wiki/HandbookforS1b2)**
+- **[Guide for Stream 1 Block 2](/wiki/HandbookforS1b2.md)**
   
