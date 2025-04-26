@@ -1,4 +1,4 @@
-[Official FAQs (The offical ones are outdated)](https://sdmis.nios.ac.in/home/faqs) 
+Z[Official FAQs (The offical ones are outdated)](https://sdmis.nios.ac.in/home/faqs) 
 
 # Our FAQs
 Based on your Questions from Telegram, Discord and Subreddit
@@ -20,7 +20,7 @@ Table attached showing full TMA marks of all Subjects on Marksheet (20% of Theor
 
 12th (Senior Secondary)
 -----
-| Seb Code/Category                  | Max Marks on th QP  | 20% of Marks |
+| Sub Code/Category                  | Max Marks on th QP  | 20% of Marks |
 |------------------------------------|---------------------------|--------------|
 | All Theory and Languages            | 80                       | 20           |
 | 312, 313, 314, 316, 321, 333, 339, 335 and 376 | 64            | 16           |
@@ -31,7 +31,7 @@ Table attached showing full TMA marks of all Subjects on Marksheet (20% of Theor
 ------
 10th (Secondary)
 ---
-| Seb Code/Category              | Max Marks on Th QP | 20% i.e. Max Marks of TMA |
+| Sub Code/Category              | Max Marks on Th QP | 20% i.e. Max Marks of TMA |
 |---------------------------------|---------------------|---------------------------|
 | All Theory and Languages        | 80                  | 20                        |
 | 211, 212 and 216                | 68                  | 17                        |
@@ -42,6 +42,9 @@ Table attached showing full TMA marks of all Subjects on Marksheet (20% of Theor
 ## Who checks my TMA and much effort do put in it?
 
 Ans: The teacher at your or other in your city AI (Study Centre). Low-effort as instagram reels.
+
+## Will I have to re-upload TMA if i reappear in a exam?
+Ans: No TMA is to be submitted only ones, the marks will be carried forward.
 
 ## How to make front page? What Info should be written on it?
 
@@ -71,19 +74,13 @@ Ans: First, chill—it’s not a big deal if this has happened to you. Let’s c
 
 1. **Log on to your dashboard:**  
    Scroll down and click on the `👁️ View` button. At the top, you’ll see “PCP details 2021-22” (ignore that it’s a bug). There should be a table below. By the way, these PCPs are the non-important ones (i.e., 30 classes). If you see “No record found,” that means your study centre is not affiliated with NIOS. *How do you know? Because I'm God—yes.*
-
 2. **Visit the centre in person.**
-
 3. **Call your regional office and ask them.**  
    [Click here to view the phone number](https://web.archive.org/web/20220216190435/https://sdmis.nios.ac.in/home/regional-center)
-
----
 
 **Why don’t they conduct PCP?**
 
 They’re overworked and busy with CBSE responsibilities.
-
----
 
 **What can I do now?**
 
@@ -104,12 +101,12 @@ The OBE Programme covers elementary level education and is offered at three leve
 - OBE level B: equivalent to class IV-V
 - OBE level C: equivalent to class VI-VIII
 
-🔸For more info - ***🔻Academic prospectus for OBE:***
-- [Obe link 1](https://www.nios.ac.in/departmentsunits/academic/open-basic-education-(obe).aspx)
+🔸For more info - **🔻Academic prospectus for OBE:**
+- [OBE link 1](https://www.nios.ac.in/departmentsunits/academic/open-basic-education-(obe).aspx)
 
-- [Obe link 2](https://www.nios.ac.in/media/documents/prospectus/OBE_Prospectus/OBE_Adult_Prospectus_2024-25_Final.pdf)
-- [Obe link 3](https://www.nios.ac.in/media/documents/prospectus/OBE_Prospectus/OBE_Children_Prospectus_2024-25_Final.pdf)
-- [Obe link 4](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nios.ac.in/media/documents/accr/obeguide.pdf&ved=2ahUKEwjA7932taCMAxWbRmwGHQ8eOMMQFnoECFYQAQ&usg=AOvVaw3j4MwSNfeyEGBv45XiiR0e)
+- [OBE link 2](https://www.nios.ac.in/media/documents/prospectus/OBE_Prospectus/OBE_Adult_Prospectus_2024-25_Final.pdf)
+- [OBE link 3](https://www.nios.ac.in/media/documents/prospectus/OBE_Prospectus/OBE_Children_Prospectus_2024-25_Final.pdf)
+- [OBE link 4](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nios.ac.in/media/documents/accr/obeguide.pdf&ved=2ahUKEwjA7932taCMAxWbRmwGHQ8eOMMQFnoECFYQAQ&usg=AOvVaw3j4MwSNfeyEGBv45XiiR0e)
 
 
 **Public examination FAQs**
@@ -134,10 +131,11 @@ Ans: Practical examinations for Public examinations are normally held in the res
 
 ## Will my marks be carried forward?
 
-Ans: At Sr.Secondary level (12th), if one fails in theory but passes in practical, do they have to appear in practical again and vica versa. If learner passes in practical but fails in the theory of a subject, his/her practical awards/marks will be retained and can appear in theory examination only. In case the learner re-appears in both theory and practical, then the best combination of marks will be retained.
+Ans: At Sr.Secondary level (12th), if one fails in theory but passes in practical, do they have to appear in practical again and vica versa. If learner passes in practical but fails in the theory of a subject, his/her practical awards/marks will be retained and can appear in Theory Examination only. In case the learner re-appears in both theory and practical, then the **best combination of marks** will be retained.
 
 ## How to deal with stress
-- [Click here (www.nios.ac.in)](https://nios.ac.in/faq/handling-examination-related-stress)
+
+[Click here (www.nios.ac.in)](https://nios.ac.in/faq/handling-examination-related-stress)
 
 ## Are calculators allowed in examination? (Applicable in every single examination.)
 
@@ -191,14 +189,12 @@ Archived audio programs [12th Sr.Secondary](https://nios.ac.in/audio_files/AG_Sr
 
 > [!NOTE]
 > **This channel is used for audio only. Streams Mon to Fri from 11.00 PM to 3.45 PM (IST)**.
--  [Live] Community programming from 11.00 PM to 12.00 PM.
--  [Live] Secondary (10th) from 12.00 PM to 12.45 PM
+-  [**Live**] Community programming from 11.00 PM to 12.00 PM.
+-  [**Live**] Secondary (10th) from 12.00 PM to 12.45 PM
 -  [Per-recorded] from 12.45 PM to 2.00 PM.
--  [Live] Senior Secondary (12th) from 2.00 PM to 2.45 PM.
--  [Live] Vocational from  3.00 PM to 3.45 PM.
-
-[Schedule page link (nios.ac.in)](https://nios.ac.in/departmentsunits/media-unittelecast/mukta-vidya-vani-and-community-radio.aspx)
-
+-  [**Live**] Senior Secondary (12th) from 2.00 PM to 2.45 PM.
+-  [**Live**] Vocational from  3.00 PM to 3.45 PM.
+- [Schedule page link (nios.ac.in)](https://nios.ac.in/departmentsunits/media-unittelecast/mukta-vidya-vani-and-community-radio.aspx)
 Live streams there are 4 channels:
 - [Secondary (10th)](https://youtube.com/@ddpmevidyanios17sec) from 1.00 PM to 2.00 PM
 - [Senior Secondary (12th)](https://youtube.com/@ddpmevidyanios18srsec) from 2.00 PM to 3.00 PM 
@@ -218,11 +214,11 @@ Ans: ABCID is used to keep track of  academic progress. It's mostly by college g
 ::: 
 
 > [!NOTE]
-> https//ilovepdf.com is website so, you can do this on any device which has a web browser and storage for.pdf file.
+> `https//ilovepdf.com` is website so, you can do this on any device which has a web browser and storage for.pdf file.
 
 ## How to open .zip/.rar file?
 
-Click on the Videos
+Click on the videos
 
 ::: details Show videos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nXAYWwiDvc8" title="Windows 7  - How to extract  a zip file." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -321,7 +317,7 @@ The syllabus is structured as follows:
 
 Ans: Please wait until results of the exam you gave or paid fees for are released. NIOS will make another schedule for you. It takes two or three weeks after the results are released.
 > [!NOTE]
-> **This is nothing new it's a norm** [Join our WhatsApp update channel**](https://whatsapp.com/channel/0029VamKd7w3LdQV8AqlNF1h)
+> **This is nothing new it's a norm** [**Join our WhatsApp update channel**](https://whatsapp.com/channel/0029VamKd7w3LdQV8AqlNF1h)
 
 ## I paid "Addmission Fees" Why should pay exam for public exams fees? (Only for Stream 1) 
 
