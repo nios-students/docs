@@ -19,5 +19,4 @@ The helpline is available from **9:00 AM to 5:30 PM** on working days. ~~Please 
 
 ## About Us
 We are a community of NIOS students from various platforms, dedicated to creating helpful wikis, guides, and how-tos for free!  
-T_T Thank you for all the support !
-
+T_T Thank you for all the support!
