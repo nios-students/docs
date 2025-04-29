@@ -20,8 +20,8 @@ Because these are 3rd party chat groups, remember to follow these guidelines whi
 - [Chat-6 specially for students with the subjects Economics, Accountancy and Business Studies](https://t.me/commerceniosofficial)
 
 **Discord**
-- [chat-1](https://discord.gg/Yg9nsssY)
-- [chat-2](https://discord.com/invite/FgWC8tGv)
+- [chat-1](https://discord.gg/33WQYuN2wW)
+- [chat-2](https://discord.gg/gYX6Dzz3pr)
 
 **Reddit** 
 <div v-pre>
