@@ -1,4 +1,4 @@
-Z[Official FAQs (The offical ones are outdated)](https://sdmis.nios.ac.in/home/faqs) 
+[Official FAQs (The offical ones are outdated)](https://sdmis.nios.ac.in/home/faqs) 
 
 # Our FAQs
 Based on your Questions from Telegram, Discord and Subreddit
@@ -177,31 +177,27 @@ Related links:
 2 YT channels for recorded vids:
 - [NIOS secondary (10th)](https://youtube.com/@niossecondarycourses)
 - [NIOS Senior Secondary (12th)](https://youtube.com/@niosseniorsecondarycourses)
-
-[Other: NIOS Live Video](https://youtube.com/@nioslivevideo)
-
 > [!WARNING]
-> **Archived Live Streams from 2019-2024 (August). This channel is now used for events only.**
+> **Archived Live Streams from 2019-2024 (August). This channel is now used for events only. [NIOS Live Video](https://youtube.com/@nioslivevideo)**
 
 [Radio: NIOS Mukta Vidyavani & Radiovahini](https://youtube.com/@niosmuktavidyavaniradiovahini)
-
-Archived audio programs [12th Sr.Secondary](https://nios.ac.in/audio_files/AG_Sr_Secondary.pdf) and [10th Secondary](https://nios.ac.in/audio_files/AG_Secondary.pdf)
-
 > [!NOTE]
-> **This channel is used for audio only. Streams Mon to Fri from 11.00 PM to 3.45 PM (IST)**.
--  [**Live**] Community programming from 11.00 PM to 12.00 PM.
+> **This channel is used for audio only. Streams from Monday-Friday from 11.00 PM to 3.45 PM (IST)**. Archived audio programs [12th Sr.Secondary](https://nios.ac.in/audio_files/AG_Sr_Secondary.pdf) and [10th Secondary](https://nios.ac.in/audio_files/AG_Secondary.pdf) [Schedule page link (nios.ac.in)](https://nios.ac.in/departmentsunits/media-unittelecast/mukta-vidya-vani-and-community-radio.aspx)
+
+**Program schedule** 
+- [**Live**] Community programming from 11.00 PM to 12.00 PM.
 -  [**Live**] Secondary (10th) from 12.00 PM to 12.45 PM
 -  [Per-recorded] from 12.45 PM to 2.00 PM.
 -  [**Live**] Senior Secondary (12th) from 2.00 PM to 2.45 PM.
 -  [**Live**] Vocational from  3.00 PM to 3.45 PM.
-- [Schedule page link (nios.ac.in)](https://nios.ac.in/departmentsunits/media-unittelecast/mukta-vidya-vani-and-community-radio.aspx)
-Live streams there are 4 channels:
-- [Secondary (10th)](https://youtube.com/@ddpmevidyanios17sec) from 1.00 PM to 2.00 PM
-- [Senior Secondary (12th)](https://youtube.com/@ddpmevidyanios18srsec) from 2.00 PM to 3.00 PM 
-- [OBE/ISL](https://youtube.com/@ddpmevidyanios19obeislikt) from 3.00 PM to 4.00 PM. 
-- [Vocational](https://youtube.com/@niospmevidya20vocational) from 4.00 PM to 5.00 PM
+
+Video Live streams there are 4 channels:
+- [Secondary (10th)](https://youtube.com/@ddpmevidyanios17sec) **from 1.00 PM to 2.00 PM**
+- [Senior Secondary (12th)](https://youtube.com/@ddpmevidyanios18srsec) **from 2.00 PM to 3.00 PM** 
+- [OBE/ISL](https://youtube.com/@ddpmevidyanios19obeislikt) **from 3.00 PM to 4.00 PM** 
+- [Vocational](https://youtube.com/@niospmevidya20vocational) **from 4.00 PM to 5.00 PM**
 > [!NOTE]
-> Follow them on [X](https://x.com/Niostiw) for daily schedule of live streams. Most videos/explanations are just people reading PPTs. Live streams are cancelled sometimes but we can't do anything. about it sadly.**
+> Follow them on [X](https://x.com/Niostiw) for daily schedule of live streams. Most videos/explanations are just people reading PPTs. Live streams are cancelled sometimes, but we can't do anything. about it sadly.**
 
 ## What is ABCID? Is that required?
 
@@ -294,20 +290,21 @@ The syllabus is structured as follows:
 - Modules from so and so - This is the core module and is compulsory.
 - Optional module – This is the optional module, and students must choose between Module A and Module B. You are not supposed to do both Modules in the exam you choose either A or B. 
 > [!TIP]
-> there is no checkbox for you to tick, whenever a question is asked from Optional module you can mention which Module you have picked e.g., **3 Ans: (optional module A)**, additionally you can also write it before starting a Section e.g., **Section-I (optional module A)**.
+> there is no checkbox for you to tick, whenever a question is asked from Optional module you can mention which Module you have picked e.g., **3 Ans (optional module A)**, additionally you can also write it before starting a Section e.g., **Section-A (optional module A)**.
 
 > [!WARNING]
-> Important! You are expected to answer questions only from one Module A or B. Do **NOT** attempt questions from both module A and module B doing so could result in marks being deducted or responses being ignored.
+> Important You are expected to answer questions only from one Module A or B. Do **NOT** attempt questions from both module A and module B doing so could result in marks being deducted or responses being ignored.
 
 ## Where is find whatever I'm looking for? 
 
 *Written by u/Sure-Woodpecker-3952*
+
 - PCP (non compulsory) HALL TICKET [1](https://sdmis.nios.ac.in/search/pcp-hall-ticket)
 - FA PCP HALL TICKET [2](https://sdmis.nios.ac.in/search/fa-hall-ticket) 
 - PRACTICAL (SA) AND THEORY EXAM HALL TICKET [Pubic exams] [3](https://sdmis.nios.ac.in/search/hall-ticket)
 - VIEW FA/SA MARKS AWARDED or not [4](https://exams.nios.ac.in/auth/view-student-formative-assessment)
 - NOTIFICATIONS [5](https://www.nios.ac.in/notice-boardoffice-order/for-all-orders-office-orders.aspx) / [6](https://sdmis.nios.ac.in/registration/home-notifications) Required to logout*
-- RESULTS WEBSITE [7](https://results.nios.ac.in/)
+- RESULTS WEBSITE [7](https://results.nios.ac.in)
 - ODE HALL TICKET [8](https://sdmis.nios.ac.in/registration/hall-ticket) MUST book seat and loged in*
 - X [9](https://x.com/niostwit?s=09)
 
