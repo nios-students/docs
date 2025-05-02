@@ -16,7 +16,7 @@ Ans: From October 2024 session, TMA evaluation pattern has been changed. As we k
 Table attached showing full TMA marks of all Subjects on Marksheet (20% of Theory Marks). Now you can calculate Actual TMA marks by yourself:
 
 > [!NOTE]
-> **'Theory' refers to subjects without practical e.g. Social science and History**. [Sebject names with corresponding sebject code](https://docs.google.com/document/d/1IkOCPBsEOd-owsX70-DvP0b5epAoJob3zEtI3OGJUMs/edit?usp=drive_link)
+> **'Theory' refers to subjects without practical e.g. Social science and History**. [Sebject names with corresponding subject code](https://docs.google.com/document/d/1IkOCPBsEOd-owsX70-DvP0b5epAoJob3zEtI3OGJUMs/edit?usp=drive_link)
 
 12th (Senior Secondary)
 -----
@@ -70,13 +70,14 @@ Ans: The first PCP in December-November (block 1) June-July (block 2) doesn't ca
 
 ## What do I do if my AI (Study Centre) is closed or is no longer affiliated with NIOS?
 
-Ans: First, chill—it’s not a big deal if this has happened to you. Let’s confirm:
+Ans: First, chill it’s not a big deal if this has happened to you. Let’s confirm:
 
 1. **Log on to your dashboard:**  
    Scroll down and click on the `👁️ View` button. At the top, you’ll see “PCP details 2021-22” (ignore that it’s a bug). There should be a table below. By the way, these PCPs are the non-important ones (i.e., 30 classes). If you see “No record found,” that means your study centre is not affiliated with NIOS. *How do you know? Because I'm God—yes.*
 2. **Visit the centre in person.**
 3. **Call your regional office and ask them.**  
-   [Click here to view the phone number](https://web.archive.org/web/20220216190435/https://sdmis.nios.ac.in/home/regional-center)
+> [!TIP]
+> [Click here to view the phone number](https://web.archive.org/web/20220216190435/https://sdmis.nios.ac.in/home/regional-center)
 
 **Why don’t they conduct PCP?**
 
@@ -86,12 +87,13 @@ They’re overworked and busy with CBSE responsibilities.
 
 You need to prepare for your practicals and record book/practical file on your own. If you don’t understand something, just visit [Reddit](https://www.reddit.com/r/NIOS_Students) or [read this](/wiki/howto-rec-book). You don’t have to do anything else—your Regional Centre has a record of inactive study centres. Now, if your study centre does not conduct FA PCP, or if your study centre is closed and the other centre does not conduct PCP classes either, in most cases they will give you the FA PCP marks.
 
-## What is the count of PCP classes? *Written by u/Sure-Woodpecker-3952* 
+## What is the count of PCP classes?
 
-- Orientation = 1 per Student/Learner [Source](https://www.youtube.com/watch?v=QQTmBiF6L0s&t=2625s) Time code 43:43
+*Written by u/Sure-Woodpecker-3952*
+- Orientation = 1 per Student/Learner [Source](https://www.youtube.com/watch?v=QQTmBiF6L0s&t=2625s) Time code 43:43.
 - PCP = 30 per Student Source? This is the interpretation, but can't find any official sources but it's a fact.
 - FA PCP = 05 per [Practical subject](https://nios-students.pages.dev/wiki/pr.html#:~:text=Which%20subject%20has%20practical%3F%20Ans%3A%20Please%20view%20the%20table%20below%3A) source? This is the interpretation, but can't find any official sources but it's a fact.
-~~-  [missinfo](https://rcpune.nios.ac.in/personal-contact-program.html) ^(The 15 classes of PCP compulsory part is not true , PCP are not compulsory , just FA PCP is compulsory as they carry 50% marks of practical)~~
+~~-  [missinfo](https://rcpune.nios.ac.in/personal-contact-program.html) ^(The 15 classes of PCP compulsory part is not true , PCP are not compulsory , just FA PCP is compulsory as they carry 50% marks of practical).~~
 
 ## Where to find info on OBE
 
@@ -121,7 +123,7 @@ Ans: There must be at least a 2 year gap between passing 10th grade and passing 
 > [!NOTE]
 > If you finish your exams in the second year NIOS will give your result documents after you give all sebjects i.e. after the second exam results are declared.
 
-## Can an exam centre be changed (PE)?
+## Can I change exam centre be changed (PE)?
 
 Ans: Yes there is a e-service that however, it just returns " Change of exam center is now closed." YOU can't change the exam centre. 
 
@@ -197,7 +199,7 @@ Video Live streams there are 4 channels:
 - [OBE/ISL](https://youtube.com/@ddpmevidyanios19obeislikt) **from 3.00 PM to 4.00 PM** 
 - [Vocational](https://youtube.com/@niospmevidya20vocational) **from 4.00 PM to 5.00 PM**
 > [!NOTE]
-> Follow them on [X](https://x.com/Niostiw) for daily schedule of live streams. Most videos/explanations are just people reading PPTs. Live streams are cancelled sometimes, but we can't do anything. about it sadly.**
+> Follow them on [X](https://x.com/Niostiw) for daily schedule of live streams. Most videos/explanations are just people reading PPTs. Live Streams are cancelled sometimes, but we can't do anything. about it sadly.
 
 ## What is ABCID? Is that required?
 
@@ -306,7 +308,7 @@ The syllabus is structured as follows:
 - NOTIFICATIONS [5](https://www.nios.ac.in/notice-boardoffice-order/for-all-orders-office-orders.aspx) / [6](https://sdmis.nios.ac.in/registration/home-notifications) Required to logout*
 - RESULTS WEBSITE [7](https://results.nios.ac.in)
 - ODE HALL TICKET [8](https://sdmis.nios.ac.in/registration/hall-ticket) MUST book seat and loged in*
-- X [9](https://x.com/niostwit?s=09)
+- X [9](https://x.com/niostwit)
 
 **Fees related FAQs**
 
