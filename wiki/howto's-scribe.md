@@ -3,7 +3,7 @@ order: 0
 title: Scribe Info
 ---
 
-How To apply for a scribe?
+How To Apply for a Scribe?
 ---------------------
 
 > [!NOTE]
@@ -15,52 +15,55 @@ How To apply for a scribe?
 3. [Copy of Disability Certificate*](https://www.digilocker.gov.in/)
 4. Bonafide Certificate*
 5. Student ID card of the school and Aadhaar card of the writer/scribe*
-6. [NIOS ID card](https://sdmis.nios.ac.in/registration/id-card) of the learner or hallticket (if available)*
+6. [NIOS ID card](https://sdmis.nios.ac.in/registration/id-card) of the learner or hall ticket (if available)*
 > [!WARNING]
-> Xeroxs are fine for SlNo 3, 5, and 6
-# How can I find and fill these documents?
+> Xerox copies are fine for Sl. No. 3, 5, and 6.
+
+# How Can I Find and Fill These Documents?
 First, visit the NIOS website and download the Application by the Parent and Medical Certificate from the [Provisions for Learners with Disability](https://nios.ac.in/departmentsunits/evaluation/general-and-specific-relaxations-(disability-wise)-during-nios-examination.aspx). Take a printout of these documents.
-# How to fill out the Application by the Parent:
-1. Name of the person filling out the form
-2. Relationship to the learner
-3. Permanent address
-4. Phone number
-5. Email address
-6. Today's date
-7. The name of your RC (see your ID card right side and write the name of the city)
-8. Tick one option (use a black pen)
-9. Start and end date of the exam (if the datesheet isn't released yet, write the first and last date of the months. For example, "April exam '1st of April year' to '1st of May year'")
-10. Tick the correct option
-11. Name of the learner
-12. Enrollment number of the learner
-13. Tick the course enrolled in
-14. Write the nature of the disability (e.g., if you have low vision, write "Blindness")
-15. Get your disability certificate and write the hospital's name there
-16. Sl. No should be at the top right corner write that in “Sl. No”
-17. Write the date given on the disability certificate
-18. Fill the table with the subjects you paid exam fees for
+
+# How to Fill Out the Application by the Parent:
+1. Name of the person filling out the form.
+2. Relationship to the learner.
+3. Permanent address.
+4. Phone number.
+5. Email address.
+6. Today's date.
+7. The name of your RC (see your ID card on the right side and write the name of the city).
+8. Tick one option (use a black pen).
+9. Start and end date of the exam (if the datesheet isn't released yet, write the first and last date of the months. For example, "April exam '1st of April year' to '1st of May year'").
+10. Tick the correct option.
+11. Name of the learner.
+12. Enrollment number of the learner.
+13. Tick the course enrolled in.
+14. Write the nature of the disability (e.g., if you have low vision, write "Blindness").
+15. Get your disability certificate and write the hospital's name there.
+16. Sl. No. should be at the top right corner; write that in “Sl. No.”
+17. Write the date given on the disability certificate.
+18. Fill the table with the subjects you paid exam fees for.
 19. Write "Yes" under "Self-arranged" for all subjects. Write "Scribe" in the right-side column.
 
-# Performa for information regarding Amanuensis
-1. Photo
-2. Name of the Scribe
-3. Name of the Father/Mother/Guardian
-4. Details of Educational Qualification: 
-5. Tick the correct option
-6. Write Information of the candidate/learner
-7. Write Subject name and date of exam
-8. Date, Signature, and stamp
+# Performa for Information Regarding Amanuensis
+1. Photo.
+2. Name of the Scribe.
+3. Name of the Father/Mother/Guardian.
+4. Details of Educational Qualification.
+5. Tick the correct option.
+6. Write information of the candidate/learner.
+7. Write subject name and date of exam.
+8. Date, signature, and stamp.
 
-# Nedical Certificate
+# Medical Certificate
 
 **Is a medical certificate required?**
 Yes, *without* the medical certificate, the form will not be accepted.
 
-**How to fill the Medical Certificate:**
+**How to Fill the Medical Certificate:**
 1. Who can fill it? The hospital you go to for checkups or any government hospital.
 2. Make sure that you have the signature and seal of the doctor and hospital.
 3. Write this in the last line: "e) Blindness/Low-vision" and "Scribe and reader is required."
-# How to fill out Bonafide Certificate:
+
+# How to Fill Out Bonafide Certificate:
 > [!TIP]
 > Just fill in the format given below:
 ```
@@ -83,17 +86,17 @@ Principal/Correspondent
 1. Scan all documents using [Oken Scanner](https://play.google.com/store/apps/details?id=com.cambyte.okenscan).
 2. Mail them to your RC [contact info Regional Center](https://sdmis.nios.ac.in/home/regional-center).
 > [!CAUTION] 
-> You **must send** the Documents physically.
+> You **must send** the documents physically.
 
-**Important points to remember**
+**Important Points to Remember**
 - Do not wait for the datesheet. Send the documents to the RC after you pay the exam fees.
 - The RC will mail you a letter. Take a printout of that letter and use it.
 
-Here's a copy of mine
+Here's a copy of mine:
 -----------
- <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/image0.jpg" alt="Letter" width="400" height="567"/>
+<img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/image0.jpg" alt="Letter" width="400" height="567"/>
 
-**research and Written by pingforhelp**
+**Research and Written by pingforhelp**
 
 > [!TIP] 
-> For any questions please e-mail @ [unofficianios[AT]gmail(dot)com](mailto:unofficianios@gmail.com)
+> For any questions, please e-mail @ [unofficianios[AT]gmail(dot)com](mailto:unofficianios@gmail.com)
