@@ -39,11 +39,11 @@ There are two types of PCPs:
   - FA PCP: **Feb-Mar**
     
    **Block-2 October**
-  - PCP/Doubt Clearing: **June-July**
+  - PCP/Doubt Clearing: **May-June**
   - FA PCP: **Aug-Sept**
 
 Related links:
-1. [PCP batch hall ticket](https://sdmis.nios.ac.in/search/pcp-hall-ticket) 
+1. [PCP hall ticket](https://sdmis.nios.ac.in/search/pcp-hall-ticket) 
 2. [FA PCP hall ticket](https://sdmis.nios.ac.in/search/fa-hall-ticket)
 
 
