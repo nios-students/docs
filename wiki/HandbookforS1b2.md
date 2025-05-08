@@ -12,7 +12,7 @@ Still working on it. Any questions regarding this subject, please mail to unoffi
 8. Theory exam/PE **October-November**
 9. View assessment of SA **3 weeks from the practical exam**
 10. Results **December/January***
-11. Re-evaluation/re-check **20 days after results are released**
+11. ARe-evaluation/re-check **20 days after results are released**
 12. Physical documents **April**
 13. Results of re-evaluation/re-check **May**
 
