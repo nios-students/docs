@@ -59,8 +59,67 @@ The following info should be written Your name, Enrollment number, Subject name 
 
 ## What grades does NIOS have ia it different from CBSE or other boards
 
-There's no 11th in NIOS, but the syllabus of 11th & 12th are mixed for one grade and one textbook called Sr.Secondary (treated as 12th standard),
-similarly 9th and 10th are integrated. *Written by u/Sure-Woodpecker-3952*
+There's no 11th in NIOS, but the syllabus of 11th & 12th are mixed for one grade and one textbook called Sr.Secondary (treated as 12th standard), similarly 9th and 10th are integrated.
+
+## How does the marking system and Passing Marks in NIOS?
+
+First Max marks for all subjects is **100**.
+- For Sec (10th) you need 33% in both Theory **or** Practical e.g., let's say in Maths (211) you get 25 in  Theory and 8 in Practical total 33 = you passed.
+- For Sr.Sec (12th) you need 33% of max marks in both Theory **and** Practical
+All conditions:
+1. Let's say in Physics you get 25 in Theory and 6 in Practical = failed in Theory.
+2. Let's say in Physics you get 26 in Theory and 4 in Practical = failed in Practical.
+3. Let's say in Physics you get 26 in Theory and 6 in Practical = failed in  Passed in the subject.
+4. let's say in Physics you get 25 in Theory and 4 in Practical = failed in the subject.
+> [!NOTE]
+> Please don't include TMA in your Calculations.
+
+---
+⚙️ NIOS follows a unique marking scheme where Tutor Marked Assignments (TMAs) contribute 20% of theory marks and the final theory marks are adjusted accordingly.
+
+⚙️**Marking Scheme for Practical Subjects (e.g., Physics, Chemistry, Biology, Library and info sci)** :
+| COMPONENT | WEIGHTAGE | DISTRIBUTION   |
+| :-------- | :-------- | :--------      |
+ PRACTICAL  | 20 | 10 (FA) + 10 (SA)     |
+| THEORY | 80 | 16 (TMA) + 64 ( EXAM)    |
+
+**Adjustment of marks**:
+- 📐 80/80 in the theory exam --- gets adjusted to 64/64 in the marksheet.
+- 📐 16/20 in TMA --- gets adjusted to 13/16 in the marksheet.
+> [!WARRING]
+> Practical marks remains unchanged 
+
+Therefore Final Marks: TMA (16) + Theory (64) + Practical (20) = 100/100
+
+⚙️ **Marking Scheme for Non-Practical Subjects (e.g., Maths, English, History)**:
+| COMPONENT | WEIGHTAGE | DISTRIBUTION              |
+| :-------- | :-------- | :-------------------------|                 
+PRACTICAL  | - | -   |   -                          |
+| THEORY | 100 | 20 (TMAs) + 80 (Theory/final exam) |
+🧰 **Adjustment of marks**: 
+- 📐100/100 in theory -> gets adjusted to 80/80 in the marksheet
+- 📐18/20 in TMA -> remains 18/20 in the marksheet (doesn't change)
+
+Therefore Final Marks: TMA (20) + Theory (80) = 100/100
+
+⚙️ **Specific Case: Subjects with Different Practical Weightage**:
+
+🧰 Some subjects have higher practical marks, which changes the theory and TMA weightage. For Example Painting (332)🎨:
+| COMPONENT | WEIGHTAGE | DISTRIBUTION  |
+| :-------- | :-------- | :--------     |
+ PRACTICAL  | 60 | 30 (FA) + 30(SA)     |
+| THEORY    | 40 | 8 (TMA) + 32 ( EXAM) |
+
+🧰 **Adjustment of marks for 🎨Painting** (332):
+- 📐40/40 in the theory exam -> gets adjusted to 32/32 in the marksheet.
+- 📐10/20 in TMAs -> gets adjusted to 4/8 in the marksheet.
+> [!WARNING]
+> Practical marks remain unchanged 
+
+Therefore final Marks: TMA (8) + Theory (32) + Practical (60) = 100/100
+
+> [!NOTE]
+> **Since STREAM 2, 3, and 4 students don't have TMAs, these adjustments aren't for them, their theory and practical marks ---are same as given during exam/on the paper**
 
 **PCP and study centre related FAQs**
 
