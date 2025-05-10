@@ -11,28 +11,28 @@ Practical Exam
 - Which subject has practical?
 Please view the table below:  
 | S.No | Sr. Secondary (12th)                                | Secondary (10th)                         |
-|------|-----------------------------------------------------|------------------------------------------|
-| 1    | 312 – Physics                                       | 211 – Mathematics                        |
-| 2    | 313 – Chemistry                                     | 212 – Science and Technology             |
-| 3    | 314 – Biology                                       | 216 – Home Science                       |
-| 4    | 316 – Geography                                     | 225 – Painting                           |
-| 5    | 321 – Home Science                                  | 229 – Data Entry Operations              |
-| 6    | 330 – Computer Science                              | 230 – Indian Sign Language               |
-| 7    | 332 – Painting                                      | 242 – Hindustani Sangeet                 |
-| 8    | 333 – Environmental Science                         | 243 – Carnatic Sangeet                   |
-| 9    | 335 – Mass Communication                            | 244 – Folk Art                           |
-| 10   | 336 – Data Entry Operations                         | 256 – Bakery and Confectionery           |
-| 11   | 339 – Library and Information Science             | 285 – Natyakala                          |
-| 12   | 356 – House-Keeping                                 | 605 – Cutting and Tailoring              |
-| 13   | 357 – Catering Management                           | 606 – Dress Making                       |
-| 14   | 358 – Food Processing                               | 608 – Basic Computing                    |
-| 15   | 360 – Hotel Front Office Operations                 | 612 – Beauty Culture and Hair Care       |
-| 16   | 363 – Preservation of Fruits and Vegetables         | 613 – Desk Top Publishing                |
-| 17   | 373 – Physical Education and Yog                    | 614 – Yoga                               |
-| 18   | 376 – Early Childhood Care & Education              | 628 – Indian Embroidery                  |
-| 19   | 385 – Natyakala                                     | 640 – Beauty Therapy                     |
-| 20   | 622 – Web Designing and Development                 | 641 – Hair Care and Styling              |
-| 21   | 631 – Computer & Office Applications                | 642 – Hand and Foot Care                 |
+|------|-----------------------------------------------------|------------------------------------------ |
+| 1    | 312 – Physics                                       | 211 – Mathematics                         |
+| 2    | 313 – Chemistry                                     | 212 – Science and Technology              |
+| 3    | 314 – Biology                                       | 216 – Home Science                        |
+| 4    | 316 – Geography                                     | 225 – Painting                            |
+| 5    | 321 – Home Science                                  | 229 – Data Entry Operations               |
+| 6    | 330 – Computer Science                              | 230 – Indian Sign Language                |
+| 7    | 332 – Painting                                      | 242 – Hindustani Sangeet                  |
+| 8    | 333 – Environmental Science                         | 243 – Carnatic Sangeet                    |
+| 9    | 335 – Mass Communication                            | 244 – Folk Art                            |
+| 10   | 336 – Data Entry Operations                         | 256 – Bakery and Confectionery            |
+| 11   | 339 – Library and Information Science               | 285 – Natyakala                           |
+| 12   | 356 – House-Keeping                                 | 605 – Cutting and Tailoring               |
+| 13   | 357 – Catering Management                           | 606 – Dress Making                        |
+| 14   | 358 – Food Processing                               | 608 – Basic Computing                     |
+| 15   | 360 – Hotel Front Office Operations                 | 612 – Beauty Culture and Hair Care        |
+| 16   | 363 – Preservation of Fruits and Vegetables         | 613 – Desk Top Publishing                 |
+| 17   | 373 – Physical Education and Yog                    | 614 – Yoga                                |
+| 18   | 376 – Early Childhood Care & Education              | 628 – Indian Embroidery                   |
+| 19   | 385 – Natyakala                                     | 640 – Beauty Therapy                      |
+| 20   | 622 – Web Designing and Development                 | 641 – Hair Care and Styling               |
+| 21   | 631 – Computer & Office Applications                | 642 – Hand and Foot Care                  |
 | 22   | 632 – Data Entry Operations                         |            -                              |
 | 23   | 651 – IT Essentials: PC Hardware and Software       |             -                             |
 | 24   | 660 – Web Development                               |              -                            |
@@ -63,36 +63,35 @@ b) For stream 2, 3 and,4 **100%** of marks are scored/given during practical exa
 
 - When is this?
 > [!WARRING]
-> For streams 3 and 4 you have to ask your center. For stream 1 and 2 specific dates & time
-aren't given. You have to visit the centre one or two days **before the first exam** e.g. If the first exam is on 20th you have to go 18th or 19th.
+> For streams 3 and 4 you have to ask your center. For stream 1 and 2 specific dates & time aren't given. You have to visit the centre one or two days **before the first exam** e.g. If the first exam is on 20th you have to go 18th or 19th.
+
 View the table below
 ---
-
 | Sr. No. | Stream | Block                                             | Month     |
 | ------- | ------ | ------------------------------------------------- | --------- |
 | 1       | 1      | 1 (Apr Exam)                                      | March     |
 | 2       | 1      | 2 (Oct Exam)                                      | September |
-| 3       | 2      | Same as "stream-1 block-2 (Oct Exam)"             |          |
-| 4       | 3      | Please ask your center on the day of theory paper |     -      |
-| 5       | 4      | Please ask your center on the day of theory paper |      -     |
--------------------------------------------------------------------------------------
+| 3       | 2      | Same as "stream-1 block-2 (Oct Exam)"             |           |
+| 4       | 3      | Please ask your center on the day of theory paper |     -     |
+| 5       | 4      | Please ask your center on the day of theory paper |      -    |
+------------------------------------------------------------------------------------
 - What are the marks for  viva, flie, etc?
 # Table breaking down practical marks (12th Sr.Sec):
-| Sr.No | Seb Code                                         | File | Viva | Activities/Answering the Paper |
-| ----- | ------------------------------------------------ | ---- | ---- | ------------------------------ |
-| 1     | 330                                              | 2¼   | 5    | 15                             |
+| Sr.No | sub code                                         | File | Viva | Activities/Answering the Paper  |
+| ----- | ------------------------------------------------ | ---- | ---- | ------------------------------- |
+| 1     | 330                                              | 2¼   | 5    | 15                              |
 | 2     | 312,313,314,333,335,376 and others with 20 marks  | 2    | 3    | 7                              |
-| 3     | 332 (NEW)                                        | 6    | 10   | 20                             |
-| 4     | 336                                              | 5    | 5    | 25                             |
-| 5     | 663                                              | 10   | 10   | 50                             |
-| 6     | 660                                              | 10   | 10   | 10                             |
-| 7     | 622                                              | 5    | 5    | 5                              |
-| 8     | 373                                              | 3    | 5    | 10                             |
-----
-| Sr.No | Subject Code                                          | Max Marks | FA | SA | Passing Marks |
+| 3     | 332 (NEW)                                        | 6    | 10   | 20                              |
+| 4     | 336                                              | 5    | 5    | 25                              |
+| 5     | 663                                              | 10   | 10   | 50                              |
+| 6     | 660                                              | 10   | 10   | 10                              |
+| 7     | 622                                              | 5    | 5    | 5                               |
+| 8     | 373                                              | 3    | 5    | 10                              |
+-----------------------------------------------------------------------------------------------------------
+| Sr.No | Sub code                                              | Max Marks | FA | SA | Passing Marks |
 | ----- | ----------------------------------------------------- | --------- | -- | -- | ------------- |
 | 1     | 330                                                   | 40        | 20 | 20 | 13            |
-| 2     | 312,313,314,333,335,376 and others with 20 marks       | 20        | 10 | 10 | 7             |
+| 2     | 312,313,314,333,335,376 and others with 20 marks      | 20        | 10 | 10 | 7             |
 | 3     | 332 (NEW)                                             | 60        | 30 | 30 | 19            |
 | 4     | 336                                                   | 60        | 30 | 30 | 19            |
 | 5     | 663                                                   | 70        | -  | 70 | 23            |
@@ -101,26 +100,26 @@ View the table below
 | 8     | 373                                                   | 30        | 15 | 15 | 9             |
 # Table breaking down practical marks (10th Sec):
 
-| Sr.No | Subject Code                                  | Max Marks | FA  | SA  | Passing Marks |
+| Sr.No | Sub Code                                      | Max Marks | FA  | SA  | Passing Marks |
 | ----- | --------------------------------------------- | --------- | --- | --- | ------------- |
 | 1     | 211,212,216 and others (with 20 marks)        | 20        | 7½  | 7½  | 4             |
 | 2     | 229                                           | 60        | 30  | 30  | 19            |
 | 3     | 225                                           | 70        | 35  | 35  | 23            |
 | 4     | 608                                           | 70        | -   | 70  | 23            |
 ----  
-| Sr.No | Subject Code                                  | File | Viva | Activities/Answering the Paper |
+| Sr.No | Sub Code                                      | File | Viva | Activities/Answering the Paper |
 | ----- | --------------------------------------------- | ---- | ---- | ------------------------------ |
 | 1     | 211,212,216 and others (with 20 marks)        | 1½   | 2½   | 5                              |
 | 2     | 229                                           | 5    | 5    | 20                             |
 | 3     | 225                                           | 7    | 10   | 25                             |
 | 4     | 608                                           | 10   | 10   | 50                             |
 
-[Source](https://nios.ac.in/media/documents/notification/yr2024/Exam/PG_2024.pdf)
-
 > [!NOTE]
-> **“Seb Code” is the sebject code of the sebject. The marks for submitting file comes under FA marks. In Secondary (10th) Passing in practical isn't required i.e. You need to get 33% of the maximum marks. It doesn't matter how you score these marks. For a example in science and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered passed. Here 'Passing marks' are given for completeness.** 
+> **“Seb Code” is the sebject code of the sebject. The marks for submitting file comes under FA marks. In Secondary (10th) Passing in practical isn't required i.e. You need to get 33% of the maximum marks. It doesn't matter how you score these marks. For a example in science and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered passed. Here 'Passing marks' are given for completeness. [Source](https://nios.ac.in/media/documents/notification/yr2024/Exam/PG_2024.pdf)**
+ 
 - What kind of questions will they ask in viva?
-Basic stuff regarding the subject like full forms, basic terms why did choose this subject etc..
+Basic stuff regarding the subject like full forms, basic terms why did choose this subject etc...
+
 - Will they ask to perform activities/experiments?
 Probably not even if they do it would basic stuff.
 - What will come in the writen paper?
@@ -128,10 +127,8 @@ They will ask any experiments in your lab manual. You have to write the whole th
 
 # Instructions/Checklist
 
-**One or Two day Before the first exam**
-> [!TIP]
-> Go to the address given in the hallticket for specific time and date. The schedule should be displayed on there notice board or gate.
-
+[!NOTE]
+> Go to the address given in the hallticket for specific time and date. The schedule should be displayed on there notice board or gate. **One or Two day Before the first exam**
 **What to bring (On the day of the exam**)
 1. [ID card of NIOS](https://sdmis.nios.ac.in/registration/id-card) 
 2. Pen and other stationary
@@ -172,7 +169,4 @@ The marks will show on the marksheet:
 <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/ms.jpg" alt="Marksheet" width="400">
 
 ----
-Any questions? [Ask here](https://www.reddit.com/r/NIOS_Students/submit) or [e-mail](mailto:unofficialnios@gmail.com)
-
-Research and Written by pingforhelp
-
+Any questions? [Ask here](https://www.reddit.com/r/NIOS_Students/submit) or [e-mail](mailto:unofficialnios@gmail.com) | Research and Written by pingforhelp
