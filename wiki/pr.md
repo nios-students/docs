@@ -49,9 +49,9 @@ FA (formative assessment) also known as FA PCP carries **50% of practical marks.
 
 **Exceptions**
 
-a) NO FA PCP for stream 2,3 and 4 meaning. **100%** of marks are scored/given during practical exam iself. 
+a) NO FA PCP for stream 2, 3, and 4 meaning **100%** of marks are scored/given during practical exam itelf. 
 
-b) NO FA PCP **marks** for vocational sebjects meaning **100%** of marks is Scored/given during Practical exam.
+b) NO FA PCP **marks** for [Vocational subjects]() meaning **100%** of marks is Scored/given during Practical exam.
 
 - What is SA?
 SA (Summative Assessment) also kown as practical exam here other **50%** of the marks are given/scored.
@@ -63,11 +63,12 @@ a) For vocational sebjects it's 100% cus no **FA marks**
 b) For stream 2, 3 and,4 **100%** of marks are scored/given during practical exam.
 
 - When is this?
+
 > [!WARRING]
 > For streams 3 and 4 you have to ask your center. For stream 1 and 2 specific dates & time aren't given. You have to visit the centre one or two days **before the first exam** e.g. If the first exam is on 20th you have to go 18th or 19th.
 
 View the table below
----
+-----------------------------------------------------------------------------------
 | Sr. No. | Stream | Block                                             | Month     |
 | ------- | ------ | ------------------------------------------------- | --------- |
 | 1       | 1      | 1 (Apr Exam)                                      | March     |
