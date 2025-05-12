@@ -51,7 +51,7 @@ FA (formative assessment) also known as FA PCP carries **50% of practical marks.
 
 a) NO FA PCP for stream 2, 3, and 4 meaning **100%** of marks are scored/given during practical exam itelf. 
 
-b) NO FA PCP **marks** for [Vocational subjects]() meaning **100%** of marks is Scored/given during Practical exam.
+b) NO FA PCP **marks** for [Vocational subjects](https://nios-students.pages.dev/wiki/FAQ'S.html#what-is-the-two-vocational-sebjects-rule) meaning **100%** of marks is Scored/given during Practical exam.
 
 - What is SA?
 SA (Summative Assessment) also kown as practical exam here other **50%** of the marks are given/scored.
