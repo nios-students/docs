@@ -26,13 +26,13 @@ When participating in third-party chat groups, please adhere to the following gu
 
 ### Reddit
 <div v-pre>
-  <blockquote class="reddit-embed-bq" data-embed-height="502">
+  <blockquote class="reddit-embed-bq" data-embed-height="502" data-embed-theme="dark">
     Posts from the <a href="https://www.reddit.com/r/NIOS_Students/">NIOS_Students</a><br>
     community on Reddit
   </blockquote>
   <script async src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
-
-  <blockquote class="reddit-embed-bq" data-embed-height="501">
+<br>
+  <blockquote class="reddit-embed-bq" data-embed-height="501" data-embed-theme="dark">
     Posts from the <a href="https://www.reddit.com/r/Nios_unofficial/">Nios_unofficial</a><br>
     community on Reddit
   </blockquote>
