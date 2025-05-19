@@ -1,7 +1,7 @@
 [Official FAQs (The offical ones are outdated)](https://sdmis.nios.ac.in/home/faqs) 
 
 # Our FAQs
-Based on your Questions from Telegram, Discord and Subreddit
+Based on your Questions from Telegram, Discord, and Subreddit
 
 **TMA and Admission FAQs**
 
@@ -34,12 +34,12 @@ Table attached showing full TMA marks of all Subjects on Marksheet (20% of Theor
 | Sub Code/Category              | Max Marks on Th QP | 20% i.e. Max Marks of TMA |
 |---------------------------------|---------------------|---------------------------|
 | All Theory and Languages        | 80                  | 20                        |
-| 211, 212 and 216                | 68                  | 17                        |
+|  212 and 216                | 68                  | 17                        |
 | 225                             | 24                  | 06                        |
 | 229, 230, 242 and 243           | 32                  | 08                        |
 ---
 
-## Who checks my TMA and much effort do put in it?
+## Who checks my TMA and how much effort do put in it?
 
 Ans: The teacher at your or other in your city AI (Study Centre). Low-effort as instagram reels.
 
@@ -61,16 +61,17 @@ The following info should be written Your name, Enrollment number, Subject name 
 
 There's no 11th in NIOS, but the syllabus of 11th & 12th are mixed for one grade and one textbook called Sr.Secondary (treated as 12th standard), similarly 9th and 10th are integrated.
 
-## How does the marking system and Passing Marks in NIOS?
+## How does the marking system and Passing Marks work in NIOS?
 
 First Max marks for all subjects is **100**.
 - For Sec (10th) you need 33% in both Theory **or** Practical e.g., let's say in Maths (211) you get 25 in  Theory and 8 in Practical total 33 = you passed.
-- For Sr.Sec (12th) you need 33% of max marks in both Theory **and** Practical
+- For Sr.Sec (12th) you need 33% of max marks in both Theory **and** Practical (if the subject doesn't have Practical then it's just 33% of Theroy)
 All conditions:
-1. Let's say in Physics you get 25 in Theory and 6 in Practical = failed in Theory.
-2. Let's say in Physics you get 26 in Theory and 4 in Practical = failed in Practical.
-3. Let's say in Physics you get 26 in Theory and 6 in Practical = failed in  Passed in the subject.
-4. let's say in Physics you get 25 in Theory and 4 in Practical = failed in the subject.
+1. Let's say in Physics you get 25 in Theory and 6 in Practical = failed in Theory (SYT)
+2. Let's say in Physics you get 26 in Theory and 4 in Practical = failed in Practical (SYP)
+3. Let's say in Physics you get 26 in Theory and 6 in Practical = Passed in the subject (P)
+4. let's say in Physics you get 25 in Theory and 4 in Practical = failed in the subject (SYC)
+5. 
 > [!NOTE]
 > Please don't include TMA in your Calculations.
 
@@ -291,9 +292,9 @@ Click on the videos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N236GiRolXU" title="How To Unzip Files Online [Simple Guide]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 :::
 
-## What is the two vocational Sebjects rule?
+## What is the two vocational Subjects rule?
 
-'XXXX' will be displayed in your result if you have TWO (2) Vocational subjects from given below the table given:
+`XXXX` will be displayed in your result if you have TWO (2) Vocational subjects from given below the table given:
 
 -------
 | 10th Vocational Subjects                           | 12th Vocational Subjects                                    |
@@ -319,7 +320,7 @@ Click on the videos
 
 ## Is Manish Verma legit?
 
-Ans: Short answer NO. Long answer As per the information on their website about section "This website is not **associated with NIOS**, For official website of NIOS visit – https://www.nios.ac.in/" This could be in the context of: "Hey, we are a CSC and Study Centre. You can find information about our courses, guides, and other stuff, but our website isn't the official website of NIOS. So, is this paragraph garbage? No, but it makes you think, "Why would a CSC **and** Study Centre say this isn’t the main website instead of just giving a link to it?"
+Short answer NO. Long answer As per the information on their website about section "This website is not **associated with NIOS**, For official website of NIOS visit – https://www.nios.ac.in/" This could be in the context of: "Hey, we are a CSC and Study Centre. You can find information about our courses, guides, and other stuff, but our website isn't the official website of NIOS. So, is this paragraph garbage? No, but it makes you think, "Why would a CSC **and** Study Centre say this isn’t the main website instead of just giving a link to it?"
 What is a CSC/Facilitation Centre, and what are its functions?
 
 In general:
@@ -359,7 +360,6 @@ The syllabus is structured as follows:
 ## Where is find whatever I'm looking for? 
 
 *Written by u/Sure-Woodpecker-3952*
-
 - PCP (non compulsory) HALL TICKET [1](https://sdmis.nios.ac.in/search/pcp-hall-ticket)
 - FA PCP HALL TICKET [2](https://sdmis.nios.ac.in/search/fa-hall-ticket) 
 - PRACTICAL (SA) AND THEORY EXAM HALL TICKET [Pubic exams] [3](https://sdmis.nios.ac.in/search/hall-ticket)
@@ -379,4 +379,4 @@ Ans: Please wait until results of the exam you gave or paid fees for are release
 
 ## I paid "Addmission Fees" Why should pay exam for public exams fees? (Only for Stream 1) 
 
-Ans: Because the fees you paid it beginning was admission into NIOS. It covers your books and PCPs.  You **must** to exam fees in order appear in the exam. Btw exam fee includes  question paper, answer booklet, fees for teachers who will check your answers, and other miscellaneous expenses.
+Because the fees you paid it beginning was admission into NIOS. It covers your books and PCPs.  You **must** to exam fees in order appear in the exam. Btw exam fee includes  question paper, answer booklet, fees for teachers who will check your answers, and other miscellaneous expenses.
