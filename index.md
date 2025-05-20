@@ -18,13 +18,3 @@ features:
     details: Chat groups to network and find like-minded peers
     link: /wiki/chat/
 ---
-
-## ☕ Support This Overall Community that we made!
-
-If this guide, our community or our mods helped you or saved your time, please consider buying us a cup of chai! 💛 This would mean alot to us
-
-(Note- Terms & Condition applied)
-
-<a href="https://buymeachai.ankushminda.com/NiosUnofficialStudentsCommunity" target="_blank" rel="noopener noreferrer">
-  <img src="https://buymeachai.ankushminda.com/assets/images/buymeachai-button.png" alt="Buy Me A Chai" width="200">
-</a>
