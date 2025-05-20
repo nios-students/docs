@@ -87,4 +87,47 @@ ToC is one of the flagship features of NIOS. **Failed** learners can transfer th
 - The **original failed marksheet** should be present in **physical form**, and you **must** send it to your Regional Center after confirmation of admission along with a copy of your **admission form**. If you don't send it, ToC won't apply.
 
 # Part or Dual Enrollment
-In case a learner has already passed the Secondary (10th)/Senior Secondary (12th) or any other higher course (Diploma/Degree), he/she may opt for **up to 4 subjects** of his/her choice to update knowledge and educational qualifications. On passing, **only the marksheet will be issued, and NO other certificate will be issued.**
+The National Institute of Open Schooling (NIOS) offers a Dual Enrollment or Part Admission scheme designed for students who have already passed their 10th or 12th grade from a recognized board but wish to improve their marks in specific subjects or meet eligibility criteria for certain professional courses. It may also be chosen by students who wish to pursue a subject not available in their schools
+
+**What is NIOS Dual Enrollment?**
+
+Under this scheme, students can reappear for up to four subjects of their choice through NIOS's On-Demand Examination (ODE) system. This allows learners to schedule exams at their convenience throughout the year, providing an opportunity to add to their academic records without enrolling in a full-time course. 
+
+**Eligibility Criteria**
+Students eligible for Dual Enrollment or Part Admission include:
+Those currently studying in a regular school.
+
+
+Individuals who have already passed the Secondary (10th) or Senior Secondary (12th) examination or any higher course from a recognized Board or University.
+
+
+**Certification Details**
+Upon successfully passing the selected subjects, NIOS issues a marksheet reflecting the improved scores. However, no additional certificates such as a migration certificate, transfer certificate, or provisional certificate are provided under this scheme, as it is not a complete high school diploma.
+
+
+**Who Should Consider This?**
+The Dual Enrollment option is particularly beneficial for:
+Students aiming to improve their scores in specific subjects to meet the eligibility criteria for competitive exams or entry requirements.
+Learners seeking to fulfill subject requirements for professional courses, such as obtaining Math and Physics credits necessary for aviation programs.
+Learners wishing to pursue subject that are not available in their schools
+
+
+**NOTE:**
+Some universities, like Delhi University, do not accept subjects done via dual enrollment. For example, if a student has studied humanities through CBSE and done Mathematics through NIOS, they cannot apply to DU’s Economics program, as all the required subjects need to be in the main high school diploma. So please check your university’s requirements before choosing this path.
+
+
+**Admission Process**
+To apply for Dual Enrollment or Part Admission, students should:
+
+Visit the NIOS official website.
+
+Complete the online admission form, selecting the option for Dual Enrollment or Part Admission.
+
+Stream 3 should be chosen if you are a 10th Grader and Stream 4 if you are in Grade 12, these streams will allow you to take the exams year round (except for April-May and Oct-Nov), as an On-Demand Student.
+
+Stream 2 will allow you take the exam in the Oct-Nov Exam series only
+
+Upload the required documents, including previous marksheets and identification proofs.
+
+Pay the applicable admission fees online.(NIOS)
+
