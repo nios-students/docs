@@ -88,7 +88,7 @@ ToC is one of the flagship features of NIOS. **Failed** learners can transfer th
 
 # Dual Enrollment or Part Admission
 
-The National Institute of Open Schooling (NIOS) offers a Dual Enrollment or Part Admission scheme designed for students who have already passed their 10th or 12th grade from a recognized board but wish to improve their marks in specific subjects or meet eligibility criteria for certain professional courses. It may also be chosen by students who wish to pursue subjects not available in their schools.
+The NIOS offers a Dual Enrollment or Part Admission scheme designed for students who have already passed their 10th or 12th grade from a recognized board but wish to improve their marks in specific subjects or meet eligibility criteria for certain professional courses. It may also be chosen by students who wish to pursue subjects not available in their schools.
 
 **What is NIOS Dual Enrollment?**  
 Under this scheme, students can reappear for up to four subjects of their choice through NIOS's On-Demand Examination (ODE) system. This allows learners to schedule exams at their convenience throughout the year, providing them with an opportunity to add to their academic records without enrolling in a full-time course.
