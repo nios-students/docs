@@ -68,9 +68,6 @@ The materials are applicable for all exams (On-demand and public), so please sto
 # TMA
 [TMA **2024-25**](https://drive.google.com/drive/folders/1QPWsCnWQl6BRnUZwvC41ZAzkqy_XJ7q7?usp=drive_link)
 
-> [!CAUTION]  
-> TMA uploading hasn't started yet for **block-2 Oct-Nov 2025**.
-
 ---
 
 # Question Papers of Previous Year's Examination
