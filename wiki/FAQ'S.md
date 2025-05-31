@@ -31,13 +31,13 @@ Table attached showing full TMA marks of all Subjects on Marksheet (20% of Theor
 ------
 10th (Secondary)
 ---
-| Sub Code/Category              | Max Marks on Th QP | 20% i.e. Max Marks of TMA |
+| Sub Code/Category              | Max Marks on Th QP | 20% i.e. Max Marks of TMA   |
 |---------------------------------|---------------------|---------------------------|
 | All Theory and Languages        | 80                  | 20                        |
-|  212 and 216                | 68                  | 17                        |
+|  212 and 216                    | 68                  | 17                        |
 | 225                             | 24                  | 06                        |
 | 229, 230, 242 and 243           | 32                  | 08                        |
----
+-------------------------------------------------------------------------------------
 
 ## Who checks my TMA and how much effort do put in it?
 
@@ -88,7 +88,7 @@ All conditions:
 - 📐 80/80 in the theory exam --- gets adjusted to 64/64 in the marksheet.
 - 📐 16/20 in TMA --- gets adjusted to 13/16 in the marksheet.
 > [!WARRING]
-> Practical marks remains unchanged 
+> Practical marks remains unchanged, 
 
 Therefore Final Marks: TMA (16) + Theory (64) + Practical (20) = 100/100
 
@@ -103,7 +103,7 @@ PRACTICAL  | - | -   |   -                          |
 
 Therefore Final Marks: TMA (20) + Theory (80) = 100/100
 
-⚙️ **Specific Case: Subjects with Different Practical Weightage**:
+⚙️**Specific Case: Subjects with Different Practical Weightage**:
 
 🧰 Some subjects have higher practical marks, which changes the theory and TMA weightage. For Example Painting (332)🎨:
 | COMPONENT | WEIGHTAGE | DISTRIBUTION  |
@@ -115,7 +115,7 @@ Therefore Final Marks: TMA (20) + Theory (80) = 100/100
 - 📐40/40 in the theory exam -> gets adjusted to 32/32 in the marksheet.
 - 📐10/20 in TMAs -> gets adjusted to 4/8 in the marksheet.
 > [!WARNING]
-> Practical marks remain unchanged 
+> Practical marks remain unchanged. 
 
 Therefore final Marks: TMA (8) + Theory (32) + Practical (60) = 100/100
 
@@ -311,12 +311,12 @@ Click on the videos
 | 10. Beauty Therapy (640)                           | 10. Web Designing and Development (622)                     |
 | 11. Hair Care and Styling (641)                    | 11. Computer & Office Applications (631)                    |
 | 12. Hand and Foot Care (642)                       | 12. Data Entry Operations (632)                             |
-|                                                    | 13. IT Essentials: PC Hardware and Software (651)           |
+|                     -                              | 13. IT Essentials: PC Hardware and Software (651)           |
 |                                                    | 14. Web Development (660)                                   |
 |                                                    | 15. CRM Domestic Voice (661)                                |
 |                                                    | 16. Computer Hardware Assembly & Maintenance (663)          |
 |                                                    | 17. Yoga Assistant (667)                                    |
---------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 ## Is Manish Verma legit?
 
@@ -357,9 +357,8 @@ The syllabus is structured as follows:
 > [!WARNING]
 > Important You are expected to answer questions only from one Module A or B. Do **NOT** attempt questions from both module A and module B doing so could result in marks being deducted or responses being ignored.
 
-## Where is find whatever I'm looking for? 
+## Where is find whatever I'm looking for?
 
-*Written by u/Sure-Woodpecker-3952*
 - PCP (non compulsory) HALL TICKET [1](https://sdmis.nios.ac.in/search/pcp-hall-ticket)
 - FA PCP HALL TICKET [2](https://sdmis.nios.ac.in/search/fa-hall-ticket) 
 - PRACTICAL (SA) AND THEORY EXAM HALL TICKET [Pubic exams] [3](https://sdmis.nios.ac.in/search/hall-ticket)
