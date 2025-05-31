@@ -40,7 +40,7 @@ Please view the table below:
 | 25   | 661 – CRM Domestic Voice                            |               -                           |
 | 26   | 663 – Computer Hardware Assembly & Maintenance      |                -                          |
 | 27   | 667 – Yoga Assistant                                |                 -                         |
------
+----------------------------------------------------------------------------------------------------------
 - [How to make the practical file (Click to view)](/wiki/howto-rec-book)
 - What is FA?
 FA (formative assessment) also known as FA PCP carries **50% of practical marks.** In these classes they'll help with making practical file and explain what to do practical exam.
@@ -49,7 +49,7 @@ FA (formative assessment) also known as FA PCP carries **50% of practical marks.
 
 **Exceptions**
 
-a) NO FA PCP for stream 2, 3, and 4 meaning **100%** of marks are scored/given during practical exam itelf. 
+a) NO FA PCP for stream 2, 3, and 4 meaning **100%** of marks are scored/given during Practical exam itself. 
 
 b) NO FA PCP **marks** for [Vocational subjects](https://nios-students.pages.dev/wiki/FAQ'S.html#what-is-the-two-vocational-sebjects-rule) meaning **100%** of marks is Scored/given during Practical exam.
 
@@ -58,9 +58,9 @@ SA (Summative Assessment) also kown as practical exam here other **50%** of the 
 
 **Exceptions**
 
-a) For vocational sebjects it's 100% cus no **FA marks**
+a) For vocational subjects it's 100% cus no **FA marks**
 
-b) For stream 2, 3 and,4 **100%** of marks are scored/given during practical exam.
+b) For stream 2, 3, and 4 **100%** of marks are scored/given during Practical exam.
 
 - When is this?
 
@@ -82,8 +82,8 @@ View the table below
 | Sr.No | sub code                                         | File | Viva | Activities/Answering the Paper  |
 | ----- | ------------------------------------------------ | ---- | ---- | ------------------------------- |
 | 1     | 330                                              | 2¼   | 5    | 15                              |
-| 2     | 312,313,314,333,335,376 and others with 20 marks  | 2    | 3    | 7                              |
-| 3     | 332 (NEW)                                        | 6    | 10   | 20                              |
+| 2     | 312,313,314,333,335,376 and others with 20 marks | 2    | 3    | 7                               |
+| 3     | 332                                              | 6    | 10   | 20                              |
 | 4     | 336                                              | 5    | 5    | 25                              |
 | 5     | 663                                              | 10   | 10   | 50                              |
 | 6     | 660                                              | 10   | 10   | 10                              |
@@ -104,10 +104,11 @@ View the table below
 
 | Sr.No | Sub Code                                      | Max Marks | FA  | SA  | Passing Marks |
 | ----- | --------------------------------------------- | --------- | --- | --- | ------------- |
-| 1     | 211,212,216 and others (with 20 marks)        | 20        | 7½  | 7½  | 4             |
+| 1     | 211,212,216 and others (with 15 marks)        | 15        | 7½  | 7½  | 4             |
 | 2     | 229                                           | 60        | 30  | 30  | 19            |
 | 3     | 225                                           | 70        | 35  | 35  | 23            |
 | 4     | 608                                           | 70        | -   | 70  | 23            |
+| 5     | 
 ----  
 | Sr.No | Sub Code                                      | File | Viva | Activities/Answering the Paper |
 | ----- | --------------------------------------------- | ---- | ---- | ------------------------------ |
@@ -115,9 +116,8 @@ View the table below
 | 2     | 229                                           | 5    | 5    | 20                             |
 | 3     | 225                                           | 7    | 10   | 25                             |
 | 4     | 608                                           | 10   | 10   | 50                             |
-
 > [!NOTE]
-> **“Seb Code” is the sebject code of the sebject. The marks for submitting file comes under FA marks. In Secondary (10th) Passing in practical isn't required i.e. You need to get 33% of the maximum marks. It doesn't matter how you score these marks. For a example in science and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered passed. Here 'Passing marks' are given for completeness. [Source](https://nios.ac.in/media/documents/notification/yr2024/Exam/PG_2024.pdf)**
+> **“Sub Code” is the subject code of the subject. The marks for submitting file comes under FA marks. In Secondary (10th) Passing in practical isn't required i.e. You need to get 33% of the maximum marks. It doesn't matter how you score these marks. For a example in science and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered passed. Here 'Passing marks' are given for completeness. [Source](https://nios.ac.in/media/documents/notification/yr2024/Exam/PG_2024.pdf)**
  
 - What kind of questions will they ask in viva?
 Basic stuff regarding the subject like full forms, basic terms why did choose this subject etc...
@@ -157,12 +157,12 @@ Firstly this **ONLY FOR [PE](/wiki/Exams-Assignments) students.** You can whethe
 
 # How to check it?
 
-**Step-1** Go to
+**Step 1** Go to
 https://exams.nios.ac.in/auth/view-student-formative-assessment (Ignore what is written on the URL)
 
-**Step-2** Enter your enrollment number and DOB and chose “**summative assessment**”
+**Step 2** Enter your enrollment number and DOB and chose “**summative assessment**”
 
-**Step-3** View it!
+**Step 3** View it!
 
 Here's example of how it looks:
 <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/sa.jpg" alt="SA" width="400">
@@ -171,4 +171,4 @@ The marks will show on the marksheet:
 <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/ms.jpg" alt="Marksheet" width="400">
 
 ----
-Any questions? [Ask here](https://www.reddit.com/r/NIOS_Students/submit) or [e-mail](mailto:unofficialnios@gmail.com) | Research and Written by pingforhelp
+Any questions? [Ask here](https://www.reddit.com/r/Nios_unofficial/) or [e-mail](mailto:unofficialnios@gmail.com) | Research and Written by pingforhelp
