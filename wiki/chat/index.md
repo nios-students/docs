@@ -22,7 +22,6 @@ When participating in third-party chat groups, please adhere to the following gu
 
 ### Discord
 - **[Chat 1](https://discord.gg/33WQYuN2wW)**: General discussion group.
-- **[Chat 2](https://discord.gg/gYX6Dzz3pr)**: Additional support community.
 
 ### Reddit
   <blockquote class="reddit-embed-bq" data-embed-height="501" data-embed-theme="dark">
@@ -42,11 +41,12 @@ When participating in third-party chat groups, please adhere to the following gu
 - **Subject-Specific Questions**: [Ask Your Teacher](https://nios.ac.in/contact-us/ask-your-teacher.aspx)
 - **General Inquiries**: [lsc@nios.ac.in](mailto:lsc@nios.ac.in)
 - **Complaints and Feedback**: [cp@nios.ac.in](mailto:cp@nios.ac.in)
-- **Regional Centre Contacts**: [Regional Centre Archive](https://web.archive.org/web/20220216190435/https://sdmis.nios.ac.in/home/regional-center)
+- Email : [vigilance@nios.ac.in](mailto:vigilance@nios.ac.in)
+- **Regional Centre Contacts**: [Regional Centre](https://web.archive.org/web/20220216190435/https://sdmis.nios.ac.in/home/regional-center)
 
 ### Phone Numbers
 - **Books and Study Materials**: 8178547494
-- **General Inquiries**: 1800-180-9393 (Toll-Free)
+- **General Inquiries**: 1800-180-9393 (**Toll-Free**)
 
 ## Administrator Contact
 - **Email**: [unofficialnios@gmail.com](mailto:unofficialnios@gmail.com)
