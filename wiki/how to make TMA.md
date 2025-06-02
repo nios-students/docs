@@ -14,6 +14,15 @@ How to Make TMA?
 Note: These are computzied not handwritten. So, you have copy on paper.
 6. **Front page**  
    Write the following information on the first page.
+>
+> 
+   Here, download the [first page of TMA](https://drive.google.com/drive/folders/1HkdeYW96xwUerhMIhphY3Rj-XkPeszLZ?usp=sharing)
+
+   (Keep in mind you will have to make this first page for all subjects that you have )
+
+   Write the following information on the first page.
+
+Academic Year : 
 
 Name:
  
