@@ -66,16 +66,15 @@ There's no 11th in NIOS, but the syllabus of 11th & 12th are mixed for one grade
 First Max marks for all subjects is **100**.
 - For Sec (10th) you need 33% in both Theory **or** Practical e.g., let's say in Maths (211) you get 25 in  Theory and 8 in Practical total 33 = you passed.
 - For Sr.Sec (12th) you need 33% of max marks in both Theory **and** Practical (if the subject doesn't have Practical then it's just 33% of Theroy)
+  
 All conditions:
 1. Let's say in Physics you get 25 in Theory and 6 in Practical = failed in Theory (SYT)
 2. Let's say in Physics you get 26 in Theory and 4 in Practical = failed in Practical (SYP)
 3. Let's say in Physics you get 26 in Theory and 6 in Practical = Passed in the subject (P)
-4. let's say in Physics you get 25 in Theory and 4 in Practical = failed in the subject (SYC)
-5. 
+4. let's say in Physics you get 25 in Theory and 4 in Practical = failed in the subject (SYC) 
 > [!NOTE]
 > Please don't include TMA in your Calculations.
 
----
 ⚙️ NIOS follows a unique marking scheme where Tutor Marked Assignments (TMAs) contribute 20% of theory marks and the final theory marks are adjusted accordingly.
 
 ⚙️**Marking Scheme for Practical Subjects (e.g., Physics, Chemistry, Biology, Library and info sci)** :
@@ -122,13 +121,20 @@ Therefore final Marks: TMA (8) + Theory (32) + Practical (60) = 100/100
 > [!NOTE]
 > **Since STREAM 2, 3, and 4 students don't have TMAs, these adjustments aren't for them, their theory and practical marks ---are same as given during exam/on the paper**
 
-EATTT! 
+Sec (10th) 
 | Sub Code                             | Th (Max) | Pr (Max) | TMA (Max) | Tol (Max) | Pass Marks (Th+Pr) | Pass Marks (Tol) |
 |--------------------------------------|----------|----------|-----------|-----------|---------------------|------------------|
 | All Theory Subjects                  |   80     |    -     |    20     |   100     |         26          |        26        |
 | 211, 212, 216                        |   68     |   15     |    17     |   100     |         27          |        27        |
 | 229, 230, 242, 243                   |   40     |   60     |    08     |   100     |         30          |        30        |
 
+Sr.Sec (12th)
+| Sub Code    | Th (Max) | Pr (Max) | TMA (Max) | Tol (Max) | Th (Pass) | Pr (Pass) |
+|-------------|----------|----------|-----------|-----------|-----------|-----------|
+| All Theory  |    80    |    -     |    20     |    100    |    26     |     -     |
+| 330         |    48    |   40     |    12     |    100    |    16     |    13     |
+| 336         |    32    |   60     |    08     |    100    |    11     |    20     |
+------------
 
 **PCP and study centre related FAQs**
 
