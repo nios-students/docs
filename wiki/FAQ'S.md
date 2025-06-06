@@ -88,7 +88,7 @@ All conditions:
 - 📐 80/80 in the theory exam --- gets adjusted to 64/64 in the marksheet.
 - 📐 16/20 in TMA --- gets adjusted to 13/16 in the marksheet.
 > [!WARRING]
-> Practical marks remains unchanged, 
+> Practical marks remains unchanged. 
 
 Therefore Final Marks: TMA (16) + Theory (64) + Practical (20) = 100/100
 
@@ -121,6 +121,14 @@ Therefore final Marks: TMA (8) + Theory (32) + Practical (60) = 100/100
 
 > [!NOTE]
 > **Since STREAM 2, 3, and 4 students don't have TMAs, these adjustments aren't for them, their theory and practical marks ---are same as given during exam/on the paper**
+
+EATTT! 
+| Sub Code                             | Th (Max) | Pr (Max) | TMA (Max) | Tol (Max) | Pass Marks (Th+Pr) | Pass Marks (Tol) |
+|--------------------------------------|----------|----------|-----------|-----------|---------------------|------------------|
+| All Theory Subjects                  |   80     |    -     |    20     |   100     |         26          |        26        |
+| 211, 212, 216                        |   68     |   15     |    17     |   100     |         27          |        27        |
+| 229, 230, 242, 243                   |   40     |   60     |    08     |   100     |         30          |        30        |
+
 
 **PCP and study centre related FAQs**
 
