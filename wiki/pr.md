@@ -1,4 +1,6 @@
-
+---
+title: Practical Exam
+---
 Practical Exam
 -------------------
 - What happens in the practical exam?
