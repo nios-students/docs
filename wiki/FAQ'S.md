@@ -163,7 +163,6 @@ You need to prepare for your practicals and record book/practical file on your o
 
 ## What is the count of PCP classes?
 
-*Written by u/Sure-Woodpecker-3952*
 - Orientation = 1 per Student/Learner [Source](https://www.youtube.com/watch?v=QQTmBiF6L0s&t=2625s) Time code 43:43.
 - PCP = 30 per Student Source? This is the interpretation, but can't find any official sources but it's a fact.
 - FA PCP = 05 per [Practical subject](https://nios-students.pages.dev/wiki/pr.html#:~:text=Which%20subject%20has%20practical%3F%20Ans%3A%20Please%20view%20the%20table%20below%3A) source? This is the interpretation, but can't find any official sources but it's a fact.
@@ -172,7 +171,6 @@ You need to prepare for your practicals and record book/practical file on your o
 ## Where to find info on OBE
 
 The OBE Programme covers elementary level education and is offered at three levels: 
-
 - OBE level A: equivalent to class I-III
 - OBE level B: equivalent to class IV-V
 - OBE level C: equivalent to class VI-VIII
@@ -231,16 +229,82 @@ Ans: No, they chose the centre based on your location.
 
 **On Demand exam related FAQs**
 
-## Is bifurcation applicable for On Demand to?
+## Are Questions asked from bifurcation or the full book in ODE?
 
-Ans: Yes, as per [this](https://www.reddit.com/r/NIOS_Students/s/GNH9m0GrRi) reddit post. The OP (original poster) filed for a RTE for which the answer is given below:
-
-**Please refer to the images**
-
-  <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/rti-response-says-tma-chapters-are-not-asked-in-ode-exams-1.webp" alt="RIT-1" width="400"/>
+Ans: Only public Exam chapters, no TMA chapters! Only public exam chapters, since NIOS is lazy asf so sometimes they mistakenly add 2 to 3 questions from TMA chapters! [this](https://www.reddit.com/r/NIOS_Students/s/GNH9m0GrRi) reddit post. The [OP](https://www.reddit.com/r/NoStupidQuestions/comments/15tmb2s/what_does_aita_and_op_mean_on_reddit/) filed for a RTI 
 
 
+**for which the answer is given below:**
+
+<img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/rti-response-says-tma-chapters-are-not-asked-in-ode-exams-1.webp" alt="RTI-1" width="400"/>
 <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/rti-response-says-tma-chapters-are-not-asked-in-ode-exams-2.webp" alt="RIT-2" width="400"/>
+
+## What is ToC (Transfer of Credit)?
+
+It allows you to transfer marks from up to 2 previously passed CBSE subjects into your NIOS marksheet. Only available to boardsstudents who failed CBSE and are redoing 3 subjects via ODE.
+
+## Can I get a combined marksheet of my old board and NIOS if I passed overall but to increase my percentage?
+
+Only failed students using the ToC option can get a combined NIOS marksheet (with 2 ToC subjects + 3  ODE subjects).
+
+> [!WARNING]
+>  CBSE-passed students who registered under Dual/Part Enrollment will get a separate mark sheet for the passed subjects.
+
+## Are there practicals in ODE?
+
+Yes, But if the subject has practicals, you must complete both theory and practical exams.
+(Subjects that has practical Check out this page – Click me!
+
+## Can I choose any exam center?
+
+Yes, there are limited options to pick, but centres get booked quickly. Select your exam centre as soon as registration opens.
+
+## When Will I Get My Result?
+
+You can expect results within 40–50 days after the exam.
+
+## Subject availability for ODE?
+
+12th (Sr.Sec)
+------------------------------------
+ | Subject Name and Code            |
+| --------------------------------- |
+| Physics (312)                     |
+| English (302)                     |
+| Business Studies (319)            |
+| Economics (318)                   |
+| Political Science (317)           |
+| Sanskrit (309)                    |
+| Mathematics (311)                 |
+| History (315)                     |
+| Biology (314)                     |
+| Geography (316)                   |
+| Psychology (328)                  |
+| Painting (332)                    |
+| Environmental Science (333)       |
+| Data Entry Operations (336)       |
+| Chemistry (313)
+
+10th (Sec)
+---------------------------------------
+| Subject Name and Code               |
+| ---------------------------------- |
+| Hindi (201)                        |
+| Mathematics (211)                  |
+| Painting (225)                     |
+| Sanskrit (209)                     |
+| English (202)                      |
+| Science & Technology (212)        |
+| Data Entry Operations (229)       |
+| Social Science (213)              |
+| Economics (214)                   |
+| Business Studies (215)            |
+| Home Science (216)                |
+| Psychology (222)                  |
+| Indian Culture & Heritage (223)   |
+| Accountancy (224)                 |
+| Bharatiya Darshan (247)           |
+| Sanskrit Sahitya (248)            |
 
 **Technical issues and other miscellaneous FAQs**
 
