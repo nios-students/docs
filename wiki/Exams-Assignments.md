@@ -5,8 +5,37 @@ The Public Examinations are held **twice** a year in the months of April-May and
 > Please note that **students of stream 2 don't have to pay exam fees for the first time.**
 
 # ODE (On-Demand Examination)
-ODEs are held throughout the year (excluding April-May and October-November) for students who want to write their examinations when they wish to. You can give as many attempts as you wish!  
-Eligibility criteria for writing ODE: all students admitted under **stream 1, 3, and 4.**
+What is NIOS ODE?
+ODE (On-Demand Examination) is a flexible examination system offered by NIOS. It allows students to choose their exam centres based on their convenience. It operates under two main student categories and is available for both Class 10 (Sec) (Stream 3) and Class 12 (Sr.Sec) (Stream 4) levels. 
+
+It runs under two main categories of students:
+1. Students who have failed or got compartment from any recognised board (CBSE, ICSE or State board)
+- Failed/Compartment Students from Other Boards (CBSE, ICSE, State Boards)  This includes students who have failed in one or more subjects in their previous board exams.
+
+
+NIOS ODE allows them to reappear in those subjects—or even change the subject (to an easier elective or one of their choice).
+
+
+📝 Important
+ Even if you failed in just one subject (e.g., Physics), you must choose at least 3 subjects to appear for under ODE.
+ These can be:
+
+- Failed subjects
+- New subjects (check below that what are some subjects that you can choose in ODE.)
+- Previously passed subjects (to improve score or make up the required marks)
+
+
+🧾 ToC (Transfer of Credit)
+ 1. You can transfer up to two passed subjects' marks from your original marksheet (e.g., CBSE) to NIOS. Final result A combined NIOS marksheet showing 5 subjects (2 from CBSE, 3 from ODE).
+
+2. CBSE Passed Students (Dual/Part Admission)
+These are students who have already cleared Class 10 or 12 but want to add new subjects for:
+- College eligibility
+- Course requirements
+-Personal improvement
+🧾 Key Points:
+- You can take 1-4 subjects under ODE.
+- ToC is not allowed in this category. You’ll receive a separate NIOS marksheet for these subjects (no combined result with your CBSE/State board marksheet)
 
 # TMA (Tutor Marked Assignment)
 TMA is crucial for students as it carries **20% weightage of your theory paper.** [See subject-wise marks](https://drive.google.com/). It is uploaded online on the [SDMIS website](https://sdmis.nios.ac.in/auth) only. TMA for vocational subjects **does not exist** (e.g., Data Entry-632). TMA is just Q&A: they will ask you questions, and you are supposed to write the answers, take pictures, make a PDF file, and then upload them. TMA is only applicable for learners admitted under **stream 1. No TMA for other streams.**
@@ -19,7 +48,7 @@ TMA is crucial for students as it carries **20% weightage of your theory paper.*
 Practical examinations are conducted at your study centre/AI (in most cases) 1 month before the public exams. For on-demand exams, **please ask at the exam center for the date and time on the day of the theory paper.** [Detailed info on practicals](/wiki/pr)
 
 **Dates of Practical Exam:**
-- **Block-1 April:** March
+- **Block-1 April:**   March
 - **Block-2 October:** September
 
 # PCP (Personal Contact Programme)
