@@ -20,7 +20,7 @@ To get started with NIOS Docs:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd nios-docs
+   cd nios-docs 
    ```
 3. Explore the documentation files located in the `wiki` and `home` directories.
 
