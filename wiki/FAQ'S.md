@@ -446,6 +446,24 @@ The syllabus is structured as follows:
 - ODE HALL TICKET [8](https://sdmis.nios.ac.in/registration/hall-ticket) MUST book seat and loged in*
 - X [9](https://x.com/niostwit)
 
+## How to Get a Character Certificate from NIOS?
+
+If you're a [NIOS](https://nios-students.pages.dev/wiki/Glossary.html#:~:text=NIOS%3A%20National%20Institute%20of%20Open%20Schooling.%20Link%20to%20section) student and applying to a college or government institution that’s asking for a **Character certificate**, you’ve probably run into a wall. Here's the truth — and how to deal with it:
+
+> [!WARNING]
+> NIOS does not issue character certificates. Neither does CBSE — because it's not the board’s job. In traditional schools, these certificates are issued by the school Principal based on your conduct, attendance, and overall behavior.
+
+NIOS is an open board, so there's usually no regular school or daily interaction. That’s why your study centre won’t give you one and frankly, it doesn’t make sense for them to.
+
+**If a college or university asks?**
+
+If you're applying to a State or Central govt. Clg/uni, and they ask for a Character Certificate, just tell them you studied under an open board (NIOS). Most institutions will understand this once you clarify. But — if they still insist on a certificate, here are your options:
+- Ask your study centre If they’re cooperative and you had some level of interaction (e.g., attending PCP classes), they might issue a certificate.
+- Visit your local police station Many students get a character certificate issued by the police after a basic background check. It’s official and widely accepted.
+- Create a character affidavit through a notary If the above don’t work out, go to a lawyer or notary and get an affidavit declaring your good character. This is a legal workaround and often accepted when no official certificate is available.
+> [!TIP] 
+> Always be honest about studying from NIOS. It’s a recognized and valid board under the MoE, Most institutions just need clarity and once you explain, they’ll often accept alternative documentation. Special thanks go [Aeryk](https://www.reddit.com/user/a3ryk) for allowing us to use this. 
+
 **Fees related FAQs**
 
 ## I gave Public Exam now i wanna register for the upcoming Public Exam but it won't let me why is that?
