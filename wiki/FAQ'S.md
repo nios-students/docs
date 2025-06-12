@@ -437,14 +437,19 @@ The syllabus is structured as follows:
 
 ## Where is find whatever I'm looking for?
 
-- PCP (non compulsory) HALL TICKET [1](https://sdmis.nios.ac.in/search/pcp-hall-ticket)
-- FA PCP HALL TICKET [2](https://sdmis.nios.ac.in/search/fa-hall-ticket) 
-- PRACTICAL (SA) AND THEORY EXAM HALL TICKET [Pubic exams] [3](https://sdmis.nios.ac.in/search/hall-ticket)
-- VIEW FA/SA MARKS AWARDED or not [4](https://exams.nios.ac.in/auth/view-student-formative-assessment)
-- NOTIFICATIONS [5](https://www.nios.ac.in/notice-boardoffice-order/for-all-orders-office-orders.aspx) / [6](https://sdmis.nios.ac.in/registration/home-notifications) Required to logout*
-- RESULTS WEBSITE [7](https://results.nios.ac.in)
-- ODE HALL TICKET [8](https://sdmis.nios.ac.in/registration/hall-ticket) MUST book seat and loged in*
-- X [9](https://x.com/niostwit)
+- PCP (non compulsory) Hall Ticket [1](https://sdmis.nios.ac.in/search/pcp-hall-ticket)
+- FA PCP Hall Ticket [2](https://sdmis.nios.ac.in/search/fa-hall-ticket) 
+- Practical (SA) and Theory Exam Hall Ticket **Pubic exams only** [3](https://sdmis.nios.ac.in/search/hall-ticket)
+- View FA/SA Marks Awarded or not [4](https://exams.nios.ac.in/auth/view-student-formative-assessment)
+- Notifications [5](https://www.nios.ac.in/notice-boardoffice-order/for-all-orders-office-orders.aspx) / [6](https://sdmis.nios.ac.in/registration/home-notifications) Required to logout*
+- Results Website [7](https://results.nios.ac.in)
+- ODE HALL TICKET [8](https://sdmis.nios.ac.in/registration/hall-ticket) You **Must** re-book a seat and log in*
+- X NIOS HQ [9](https://x.com/niostwit)
+- Stream 1 Admission  [10](https://sdmis.nios.ac.in/registration/index?stream_code=1&block_code=11)
+- Stream 2 Admission [11](https://sdmis.nios.ac.in/registration/index?stream_code=2&block_code=21)
+- OBE (CLASS 1 TO 8) REGISTRATION [12](https://sdmis.nios.ac.in/modules/obe-registration/index?stream_code=5&block_code=51)
+- ADMISSION STATUS [6•••](https://sdmis.nios.ac.in/registration/check-admission-status)
+- STUDENT DASHBOARD [7•••](https://sdmis.nios.ac.in/home/dashboard)
 
 ## How to Get a Character Certificate from NIOS?
 
