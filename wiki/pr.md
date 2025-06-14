@@ -173,4 +173,4 @@ The marks will show on the marksheet:
 <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/ms.jpg" alt="Marksheet" width="400">
 
 ----
-Any questions? [Ask here](https://www.reddit.com/r/Nios_unofficial/) or [e-mail](mailto:unofficialnios@gmail.com) | Research and Written by pingforhelp
+Any questions? [Past XP](https://www.reddit.com/r/Nios_unofficial/comments/1jk4nm2/comment/mx5ljcg/?context=3) or [Ask here](https://www.reddit.com/r/Nios_unofficial/) or [e-mail](mailto:unofficialnios@gmail.com) | **Research and Written by pingforhelp**
