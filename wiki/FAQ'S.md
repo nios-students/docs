@@ -371,9 +371,8 @@ Click on the videos
 :::
 
 ## Why is the year wrong?
-
-<img here> 
-It’s a well known bug. NIOS HQ are lazy or busy building a AI.
+![WhatsApp Image 2025-06-14 at 23 11 46_e8012d93](https://github.com/user-attachments/assets/2f483933-f27c-45ec-beaa-aaec22df0662)
+It’s a well known bug. NIOS HQ are lazy or busy with building a AI.
  
 ## What is the two vocational Subjects rule?
 
@@ -448,7 +447,7 @@ The syllabus is structured as follows:
 - View FA/SA Marks Awarded or not [4](https://exams.nios.ac.in/auth/view-student-formative-assessment)
 - Notifications [5](https://www.nios.ac.in/notice-boardoffice-order/for-all-orders-office-orders.aspx) / [6](https://sdmis.nios.ac.in/registration/home-notifications) Required to logout*
 - Results Website [7](https://results.nios.ac.in)
-- ODE hall Ticket [8](https://sdmis.nios.ac.in/registration/hall-ticket) You **Must** re-book a seat and log in*
+- ODE Hall Ticket [8](https://sdmis.nios.ac.in/registration/hall-ticket) You **Must** re-book a seat and log in*
 - X NIOS HQ [9](https://x.com/niostwit)
 - Stream 1 Admission  [10](https://sdmis.nios.ac.in/registration/index?stream_code=1&block_code=11)
 - Stream 2 Admission [11](https://sdmis.nios.ac.in/registration/index?stream_code=2&block_code=21)
