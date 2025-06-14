@@ -370,6 +370,11 @@ Click on the videos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N236GiRolXU" title="How To Unzip Files Online [Simple Guide]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 :::
 
+## Why is the year wrong?
+
+<img here> 
+It’s a well known bug. NIOS HQ are lazy or busy building a AI.
+ 
 ## What is the two vocational Subjects rule?
 
 `XXXX` will be displayed in your result if you have TWO (2) Vocational subjects from given below the table given:
@@ -443,13 +448,13 @@ The syllabus is structured as follows:
 - View FA/SA Marks Awarded or not [4](https://exams.nios.ac.in/auth/view-student-formative-assessment)
 - Notifications [5](https://www.nios.ac.in/notice-boardoffice-order/for-all-orders-office-orders.aspx) / [6](https://sdmis.nios.ac.in/registration/home-notifications) Required to logout*
 - Results Website [7](https://results.nios.ac.in)
-- ODE HALL TICKET [8](https://sdmis.nios.ac.in/registration/hall-ticket) You **Must** re-book a seat and log in*
+- ODE hall Ticket [8](https://sdmis.nios.ac.in/registration/hall-ticket) You **Must** re-book a seat and log in*
 - X NIOS HQ [9](https://x.com/niostwit)
 - Stream 1 Admission  [10](https://sdmis.nios.ac.in/registration/index?stream_code=1&block_code=11)
 - Stream 2 Admission [11](https://sdmis.nios.ac.in/registration/index?stream_code=2&block_code=21)
-- OBE (CLASS 1 TO 8) REGISTRATION [12](https://sdmis.nios.ac.in/modules/obe-registration/index?stream_code=5&block_code=51)
-- ADMISSION STATUS [6•••](https://sdmis.nios.ac.in/registration/check-admission-status)
-- STUDENT DASHBOARD [7•••](https://sdmis.nios.ac.in/home/dashboard)
+- OBE (CLASS 1 TO 8) Registration [12](https://sdmis.nios.ac.in/modules/obe-registration/index?stream_code=5&block_code=51)
+- Admission Status [13](https://sdmis.nios.ac.in/registration/check-admission-status)
+- Student Dashboard [14](https://sdmis.nios.ac.in/home/dashboard)
 
 ## How to Get a Character Certificate from NIOS?
 
