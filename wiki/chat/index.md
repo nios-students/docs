@@ -15,14 +15,19 @@ When participating in third-party chat groups, please adhere to the following gu
 
 ## Chat Groups
 
+
+### Discord
+- **[Chat 1](https://discord.gg/T5K2Wffug8)**: General discussion group.
+- **[Chat 2](https://discord.gg/gYX6Dzz3pr)**: Additional support community.
+
+
+### WhatsApp
+- **[whatsapp channel](https://whatsapp.com/channel/0029VamKd7w3LdQV8AqlNF1h)**: for nios updates.
+
 ### Telegram
 - **[NIOS Students](https://t.me/NIOSUnofficial)**: General discussion group.
 - **[NEET Students](https://t.me/NEETNIOS)**: For students preparing for NEET.
 - **[IT/Computer Subjects](https://t.me/nios_freehelp_cs)**: For students studying IT-related or computer subjects.
-
-### Discord
-- **[Chat 1](https://discord.gg/33WQYuN2wW)**: General discussion group.
-- **[Chat 2](https://discord.gg/gYX6Dzz3pr)**: Additional support community.
 
 ### Reddit
 You can find posts from the NIOS community on Reddit here:  

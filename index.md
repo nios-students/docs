@@ -17,4 +17,7 @@ features:
   - title: Come Hang
     details: Chat groups to network and find like-minded peers
     link: /wiki/chat/
+  - title: Notifications
+    details: Stay updated with important dates and announcements for students
+    link: /wiki/notifications/
 ---
