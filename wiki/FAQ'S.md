@@ -97,23 +97,26 @@
 }
 </style>
 
-  <script>
-function waitForElement() {
-  const popup = document.getElementById('faq-popup');
-  if (popup) {
-    console.log('FAQ popup script loaded');
-    if (localStorage.getItem('faqPopupDismissed')) {
-      popup.style.display = 'none';
+ <script>
+// Only run in the browser environment
+if (typeof window !== 'undefined') {
+  function waitForElement() {
+    const popup = document.getElementById('faq-popup');
+    if (popup) {
+      console.log('FAQ popup script loaded');
+      if (localStorage.getItem('faqPopupDismissed')) {
+        popup.style.display = 'none';
+      }
+    } else {
+      // Retry after a short delay if the element isn't found
+      setTimeout(waitForElement, 100);
     }
-  } else {
-    // If the element isn't found, try again on the next frame
-    requestAnimationFrame(waitForElement);
   }
-}
 
-// Start waiting for the element
-requestAnimationFrame(waitForElement);
-</script>  
+  // Start waiting for the element
+  waitForElement();
+}
+</script>
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 [Official FAQs (The offical ones are outdated)](https://sdmis.nios.ac.in/home/faqs) 
