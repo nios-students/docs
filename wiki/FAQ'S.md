@@ -9,7 +9,7 @@
  -->
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 
-<div id="faq-popup" class="popup-overlay">
+<!--<div id="faq-popup" class="popup-overlay">
   <div class="popup-content">
     <h2>Welcome to the Wiki Web</h2>
     <p>If you've discovered this page from elsewhere, we warmly invite you to explore our community at <a href="https://www.reddit.com/r/Nios_unofficial/" target="_blank" rel="noopener noreferrer">r/nios_unofficial !</a></p>
@@ -117,6 +117,7 @@ if (typeof window !== 'undefined') {
   waitForElement();
 }
 </script>
+-->
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 [Official FAQs (The offical ones are outdated)](https://sdmis.nios.ac.in/home/faqs) 
