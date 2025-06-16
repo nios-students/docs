@@ -313,6 +313,7 @@ You can expect results within 40–50 days after the exam.
 Related links:
 - [Browse videos](https://sdmis.nios.ac.in/home/video-gallery)
 - [Browse lab practicals](https://sdmis.nios.ac.in/home/lab-practical)
+- [Sub](https://www.reddit.com/r/Nios_unofficial)
 
 2 YT channels for recorded vids:
 - [NIOS secondary (10th)](https://youtube.com/@niossecondarycourses)
@@ -325,19 +326,19 @@ Related links:
 > **This channel is used for audio only. Streams from Monday-Friday from 11.00 PM to 3.45 PM (IST)**. Archived audio programs [12th Sr.Secondary](https://nios.ac.in/audio_files/AG_Sr_Secondary.pdf) and [10th Secondary](https://nios.ac.in/audio_files/AG_Secondary.pdf) [Schedule page link (nios.ac.in)](https://nios.ac.in/departmentsunits/media-unittelecast/mukta-vidya-vani-and-community-radio.aspx)
 
 **Program schedule** 
-- [**Live**] Community programming from 11.00 PM to 12.00 PM.
--  [**Live**] Secondary (10th) from 12.00 PM to 12.45 PM
+- [🔴 **Live**] Community programming from 11.00 PM to 12.00 PM.
+-  [🔴 **Live**] Secondary (10th) from 12.00 PM to 12.45 PM
 -  [Per-recorded] from 12.45 PM to 2.00 PM.
--  [**Live**] Senior Secondary (12th) from 2.00 PM to 2.45 PM.
--  [**Live**] Vocational from  3.00 PM to 3.45 PM.
+-  [🔴 **Live**] Senior Secondary (12th) from 2.00 PM to 2.45 PM.
+-  [🔴 **Live**] Vocational from  3.00 PM to 3.45 PM.
 
 Video Live streams there are 4 channels:
-- [Secondary (10th)](https://youtube.com/@ddpmevidyanios17sec) **from 1.00 PM to 2.00 PM**
-- [Senior Secondary (12th)](https://youtube.com/@ddpmevidyanios18srsec) **from 2.00 PM to 3.00 PM** 
-- [OBE/ISL](https://youtube.com/@ddpmevidyanios19obeislikt) **from 3.00 PM to 4.00 PM** 
-- [Vocational](https://youtube.com/@niospmevidya20vocational) **from 4.00 PM to 5.00 PM**
+- [Secondary (10th)](https://youtube.com/@ddpmevidyanios17sec) **🔴 from 1.00 PM to 2.00 PM (IST)**
+- [Senior Secondary (12th)](https://youtube.com/@ddpmevidyanios18srsec) **🔴 from 2.00 PM to 3.00 PM (IST)** 
+- [OBE/ISL](https://youtube.com/@ddpmevidyanios19obeislikt) **🔴 from 3.00 PM to 4.00 PM (IST)** 
+- [Vocational](https://youtube.com/@niospmevidya20vocational) **🔴 from 4.00 PM to 5.00 PM (IST)**
 > [!NOTE]
-> Follow them on [X](https://x.com/Niostiw) for daily schedule of live streams. Most videos/explanations are just people reading PPTs. Live Streams are cancelled sometimes, but we can't do anything. about it sadly.
+> Follow them on [X](https://x.com/Niostiw) or [here](https://discord.gg/9QYJ5RtH) for daily schedule of live streams. Most videos/explanations are just people reading PPTs. Live Streams are cancelled sometimes, but we can't do anything. about it sadly.
 
 ## What is ABCID? Is that required?
 
