@@ -1,3 +1,124 @@
+<!-- 
+ +++++++++++++++++++++++++++++++++++++this for future Maintainer/contributor+++++++++++++++++++++++++++++++++++++++++++++
+
+ this is on the spot popup script for the FAQ page, it will show up when the user visits the page for the first time.
+ this is shortcut for popup script, this should be done properly using a proper vue component. i didn't to do it because i don't have time to do it properly.and i don't know vue well enough. so i just did it this way.
+ so please make this in proper vue component and remove this script in future. i'll update it when i fullly learn vue ;(
+ if you are shounddrill, gaale mat dena..
+
+ -->
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+<div id="faq-popup" class="popup-overlay">
+  <div class="popup-content">
+    <h2>Welcome to the Wiki Web</h2>
+    <p>If you've discovered this page from elsewhere, we warmly invite you to explore our community at <a href="https://www.reddit.com/r/Nios_unofficial/" target="_blank" rel="noopener noreferrer">r/nios_unofficial !</a></p>
+    <div class="popup-buttons">
+      <button onclick="localStorage.setItem('faqPopupDismissed', 'true'); document.getElementById('faq-popup').style.display = 'none'; window.open('https://nios-students.pages.dev/links/', '_blank');">Community</button>
+      <button onclick="localStorage.setItem('faqPopupDismissed', 'true'); document.getElementById('faq-popup').style.display = 'none';">Close</button>
+    </div>
+  </div>
+ 
+</div>
+
+
+<style>
+
+.popup-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7); /* Darker background for better visibility */
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; /* Align to the top */
+  padding-top: 20px; /* Add some spacing from the top */
+  z-index: 1000; /* Ensure it appears above other elements */
+}
+
+.popup-content {
+  background: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  max-width: 400px;
+  width: 90%;
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+.popup-content h2 {
+  font-size: 24px;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.popup-content p {
+  font-size: 16px;
+  margin-bottom: 20px;
+  color: #555;
+}
+
+.popup-buttons button {
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s;
+}
+
+.popup-buttons button:hover {
+  background-color: #0056b3;
+}
+
+.popup-buttons button:nth-child(2) {
+  background-color: #28a745;
+}
+
+.popup-buttons button:nth-child(2):hover {
+  background-color: #1e7e34;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+</style>
+
+ <script>
+// Only run in the browser environment
+if (typeof window !== 'undefined') {
+  function waitForElement() {
+    const popup = document.getElementById('faq-popup');
+    if (popup) {
+      console.log('FAQ popup script loaded');
+      if (localStorage.getItem('faqPopupDismissed')) {
+        popup.style.display = 'none';
+      }
+    } else {
+      // Retry after a short delay if the element isn't found
+      setTimeout(waitForElement, 100);
+    }
+  }
+
+  // Start waiting for the element
+  waitForElement();
+}
+</script>
+
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 [Official FAQs (The offical ones are outdated)](https://sdmis.nios.ac.in/home/faqs) 
 
 # Our FAQs
