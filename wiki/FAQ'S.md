@@ -8,116 +8,115 @@
 
  -->
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-
-<!--<div id="faq-popup" class="popup-overlay">
-  <div class="popup-content">
-    <h2>Welcome to the Wiki Web</h2>
-    <p>If you've discovered this page from elsewhere, we warmly invite you to explore our community at <a href="https://www.reddit.com/r/Nios_unofficial/" target="_blank" rel="noopener noreferrer">r/nios_unofficial !</a></p>
-    <div class="popup-buttons">
-      <button onclick="localStorage.setItem('faqPopupDismissed', 'true'); document.getElementById('faq-popup').style.display = 'none'; window.open('https://nios-students.pages.dev/links/', '_blank');">Community</button>
-      <button onclick="localStorage.setItem('faqPopupDismissed', 'true'); document.getElementById('faq-popup').style.display = 'none';">Close</button>
-    </div>
-  </div>
- 
-</div>
-
-
-<style>
-
-.popup-overlay {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(0, 0, 0, 0.7); /* Darker background for better visibility */
-  display: flex;
-  justify-content: center;
-  align-items: flex-start; /* Align to the top */
-  padding-top: 20px; /* Add some spacing from the top */
-  z-index: 1000; /* Ensure it appears above other elements */
-}
-
-.popup-content {
-  background: #fff;
-  padding: 30px;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  text-align: center;
-  max-width: 400px;
-  width: 90%;
-  animation: fadeIn 0.3s ease-in-out;
-}
-
-.popup-content h2 {
-  font-size: 24px;
-  margin-bottom: 15px;
-  color: #333;
-}
-
-.popup-content p {
-  font-size: 16px;
-  margin-bottom: 20px;
-  color: #555;
-}
-
-.popup-buttons button {
-  background-color: #007BFF;
-  color: white;
-  border: none;
-  padding: 10px 20px;
-  margin: 5px;
-  border-radius: 5px;
-  cursor: pointer;
-  font-size: 14px;
-  transition: background-color 0.3s;
-}
-
-.popup-buttons button:hover {
-  background-color: #0056b3;
-}
-
-.popup-buttons button:nth-child(2) {
-  background-color: #28a745;
-}
-
-.popup-buttons button:nth-child(2):hover {
-  background-color: #1e7e34;
-}
-
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-    transform: scale(0.9);
-  }
-  to {
-    opacity: 1;
-    transform: scale(1);
-  }
-}
-</style>
-
- <script>
+<script>
 // Only run in the browser environment
 if (typeof window !== 'undefined') {
-  function waitForElement() {
-    const popup = document.getElementById('faq-popup');
-    if (popup) {
-      console.log('FAQ popup script loaded');
-      if (localStorage.getItem('faqPopupDismissed')) {
-        popup.style.display = 'none';
-      }
-    } else {
-      // Retry after a short delay if the element isn't found
-      setTimeout(waitForElement, 100);
-    }
-  }
+  // Check if the pop-up has already been dismissed
+  if (!localStorage.getItem('faqPopupDismissed')) {
+    // Create and show the pop-up on first visit
+    (function showPopup() {
+      // Create the pop-up container
+      const popup = document.createElement('div');
+      Object.assign(popup.style, {
+        color: 'white',
+        backgroundColor: 'rgba(255, 255, 255, 0)',
+        position: 'fixed',
+        top: '0',
+        left: '0',
+        width: '100%',
+        height: '100%',
+        display: 'flex',
+        justifyContent: 'center',
+        // alignItems: 'center',
+        zIndex: '1000'
+      });
 
-  // Start waiting for the element
-  waitForElement();
+      // Create the content container
+      const content = document.createElement('div');
+      Object.assign(content.style, {
+        height: 'fit-content',
+        backgroundColor: '#222831',
+        padding: '20px',
+        borderRadius: '8px',
+        maxWidth: '500px',
+        textAlign: 'center',
+        boxShadow: '0 2px 10px rgba(0, 0, 0, 0.1)'
+      });
+
+      // Create the heading
+      const h1 = document.createElement('h1');
+      h1.textContent = 'Welcome to FAQ';
+      content.appendChild(h1);
+
+      // Create the paragraph
+      // **************************************************************************************************************
+        const p = document.createElement('p');
+          const textBeforeLink = document.createTextNode('If you have discovered this page from elsewhere, we warmly invite you to explore our community at ');
+          const link = document.createElement('a');
+          link.href = 'https://www.reddit.com/r/Nios_unofficial/';
+          link.target = '_blank';
+          link.textContent = 'r/Nios_unofficial';
+          const textAfterLink = document.createTextNode('.');
+          link.style.color = 'blue';
+          link.style.textDecoration = 'underline';
+
+          p.appendChild(textBeforeLink);
+          p.appendChild(link);
+          p.appendChild(textAfterLink);
+          content.appendChild(p);
+      // **************************************************************************************************************
+      // Create the buttons container
+      const buttons = document.createElement('div');
+      Object.assign(buttons.style, {
+        display: 'flex',
+        justifyContent: 'center',
+        gap: '10px',
+        marginTop: '10px'
+      });
+
+      // Create the "Open Community" button
+      const openButton = document.createElement('button');
+      openButton.textContent = 'Community';
+      openButton.onclick = function() {
+        localStorage.setItem('faqPopupDismissed', 'true');
+        document.body.removeChild(popup);
+        window.open('https://nios-students.pages.dev/links/', '_blank');
+      };
+      Object.assign(openButton.style, {
+        padding: '8px 16px',
+        border: 'none',
+        borderRadius: '4px',
+        cursor: 'pointer',
+        backgroundColor: '#28a745',
+        color: 'white'
+      });
+      buttons.appendChild(openButton);
+
+      // Create the "Close" button
+      const closeButton = document.createElement('button');
+      closeButton.textContent = 'Close';
+      closeButton.onclick = function() {
+        localStorage.setItem('faqPopupDismissed', 'true');
+        document.body.removeChild(popup);
+      };
+      Object.assign(closeButton.style, {
+        padding: '8px 16px',
+        border: 'none',
+        borderRadius: '4px',
+        cursor: 'pointer',
+        backgroundColor: '#dc3545',
+        color: 'white'
+      });
+      buttons.appendChild(closeButton);
+
+      // Append buttons to content, content to popup, and popup to body
+      content.appendChild(buttons);
+      popup.appendChild(content);
+      document.body.appendChild(popup);
+    })();
+  }
 }
 </script>
--->
 
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 [Official FAQs (The offical ones are outdated)](https://sdmis.nios.ac.in/home/faqs) 
