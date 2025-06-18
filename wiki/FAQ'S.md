@@ -45,7 +45,7 @@ if (typeof window !== 'undefined') {
 
       // Create the heading
       const h1 = document.createElement('h1');
-      h1.textContent = 'Welcome to FAQ';
+      h1.textContent = 'Welcome to FAQ page';
       content.appendChild(h1);
 
       // Create the paragraph
@@ -606,3 +606,25 @@ Ans: Please wait until results of the exam you gave or paid fees for are release
 ## I paid "Addmission Fees" Why should pay exam for public exams fees? (Only for Stream 1) 
 
 Because the fees you paid it beginning was admission into NIOS. It covers your books and PCPs.  You **must** to exam fees in order appear in the exam. Btw exam fee includes  question paper, answer booklet, fees for teachers who will check your answers, and other miscellaneous expenses.
+
+## What is fee for Exam and other fees?
+
+| SN | Description                                                 | Revised Rates                 |
+|----|-------------------------------------------------------------|-------------------------------|
+| a  | Examination fee per subject                                 | Rs. 300/- per subject         |
+| b  | Additional fee for subjects having practical components     | Rs. 150/- per practical subject |
+| c  | Late fee (for First 10 days)                                | Rs. 150/- per subject         |
+| d  | Consolidated late fee for next 10 days after late fee       | Rs. 1600/- consolidated       |
+| e  | Re-checking of answer books                                 | Rs. 400/- per subject         |
+| f  | Re-evaluation of answer books                               | Rs. 1000/- per subject        |
+-----
+
+| SN | Description                                                 | Revised Rates                 |
+|----|-------------------------------------------------------------|-------------------------------|
+| a  | Examination fee per subject                                 | Rs. 600/- per subject         |
+| b  | Additional fee for subjects having practical components     | Rs. 250/- per practical subject |
+| c  | Re-evaluation of answer books                               | Rs. 1200/- per subject        |
+-----------
+
+> [!NOTE]
+> Exta ₹70 will be added for Online fee processing.
