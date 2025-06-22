@@ -3,12 +3,12 @@ order: 0
 title: Handbook
 ---
 
-Still working on it. Any questions regarding this sebject please mail at unofficialnios[AT]gmail.com
+Still working on it. Any questions regarding this stream/ subject, please email us at unofficialnios[AT] gmail.com
 -----------
 # Admission window
 - From 16th March to 31st July	Normal Fee
-- From 1st August to 15th August	With Late Fee of Rs. 260
-- From 16th August to 31st August	With Late Fee of Rs. 520
+- From 1st August to 15th August	, With  Late Fee of Rs. 260
+- From 16th August to 31st August	, With Late Fee of Rs. 520
 - From 1st Sept. to 15th Sept.	With Late Fee of Rs. 910
   
 # Important Dates
@@ -27,5 +27,5 @@ Still working on it. Any questions regarding this sebject please mail at unoffic
 13. Results of re-eval/re-check **August**
 
 > [!NOTE]
-> NIOS is lazy is af so, getting marks of TMAs takes time everyone gets there marks around May.
+> NIOS is lazy is af so, getting marks of TMAs takes time; everyone gets their marks around May.
 
