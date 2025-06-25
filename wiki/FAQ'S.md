@@ -3,7 +3,7 @@
 # Our FAQs
 Based on your Questions from Telegram, Discord, and Subreddit
 
-**TMA and Admission FAQs**
+**TMA, Admission, PCP, and Study centre FAQs**
 
 ## Isn't the marks for TMA 20% more than the maximum theory marks?
 
@@ -136,11 +136,9 @@ Sr.Sec (12th)
 | 336         |    32    |   60     |    08     |    100    |    11     |    20     |
 ------------
 
-**PCP and study centre related FAQs**
-
 ## Which PCP is important? (Only for Stream 1)
 
-Ans: The first PCP in December-November (block 1) June-July (block 2) doesn't carry any marks. FA PCP Carries **50% weightage of Practicals** [Read More...](/wiki/Exams-Assignments#pcp-personal-contact-programme)
+Ans: The first PCP in December-November (block 1) June-July (block 2) doesn't carry any marks. FA PCP Carries **50% weightage of Practicals** [Read more...](/wiki/Exams-Assignments#pcp-personal-contact-programme)
 
 ## What do I do if my AI (Study Centre) is closed or is no longer affiliated with NIOS?
 
@@ -154,22 +152,19 @@ Ans: First, chill it’s not a big deal if this has happened to you. Let’s con
 > [Click here to view the phone number](https://web.archive.org/web/20220216190435/https://sdmis.nios.ac.in/home/regional-center)
 
 **Why don’t they conduct PCP?**
-
 They’re overworked and busy with CBSE responsibilities.
 
 **What can I do now?**
 
-You need to prepare for your practicals and record book/practical file on your own. If you don’t understand something, just visit [Reddit](https://www.reddit.com/r/NIOS_Students) or [read this](/wiki/howto-rec-book). You don’t have to do anything else—your Regional Centre has a record of inactive study centres. Now, if your study centre does not conduct FA PCP, or if your study centre is closed and the other centre does not conduct PCP classes either, in most cases they will give you the FA PCP marks.
+You need to prepare for your practicals and record book/practical file on your own. If you don’t understand something, just visit [Reddit](https://www.reddit.com/r/Nios_unofficial) or [read this](/wiki/howto-rec-book). You don’t have to do anything else—your Regional Centre has a record of inactive study centres. Now, if your study centre does not conduct FA PCP, or if your study centre is closed and the other centre does not conduct PCP classes either, in most cases they will give you the FA PCP marks.
 
 ## What is the count of PCP classes?
-
 - Orientation = 1 per Student/Learner [Source](https://www.youtube.com/watch?v=QQTmBiF6L0s&t=2625s) Time code 43:43.
 - PCP = 30 per Student Source? This is the interpretation, but can't find any official sources but it's a fact.
 - FA PCP = 05 per [Practical subject](https://nios-students.pages.dev/wiki/pr.html#:~:text=Which%20subject%20has%20practical%3F%20Ans%3A%20Please%20view%20the%20table%20below%3A) source? This is the interpretation, but can't find any official sources but it's a fact.
 ~~-  [missinfo](https://rcpune.nios.ac.in/personal-contact-program.html) ^(The 15 classes of PCP compulsory part is not true , PCP are not compulsory , just FA PCP is compulsory as they carry 50% marks of practical).~~
 
 ## Where to find info on OBE
-
 The OBE Programme covers elementary level education and is offered at three levels: 
 - OBE level A: equivalent to class I-III
 - OBE level B: equivalent to class IV-V
@@ -177,14 +172,12 @@ The OBE Programme covers elementary level education and is offered at three leve
 
 🔸For more info - **🔻Academic prospectus for OBE:**
 - [OBE link 1](https://www.nios.ac.in/departmentsunits/academic/open-basic-education-(obe).aspx)
-
 - [OBE link 2](https://www.nios.ac.in/media/documents/prospectus/OBE_Prospectus/OBE_Adult_Prospectus_2024-25_Final.pdf)
 - [OBE link 3](https://www.nios.ac.in/media/documents/prospectus/OBE_Prospectus/OBE_Children_Prospectus_2024-25_Final.pdf)
 - [OBE link 4](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nios.ac.in/media/documents/accr/obeguide.pdf&ved=2ahUKEwjA7932taCMAxWbRmwGHQ8eOMMQFnoECFYQAQ&usg=AOvVaw3j4MwSNfeyEGBv45XiiR0e)
 
 
 **Public examination FAQs**
-
 
 ## What is the gap? (this is for freshers of **Senior Secondary (12th)** only)
 
@@ -193,11 +186,11 @@ Ans: There must be at least a 2 year gap between passing 10th grade and passing 
 (April 2024, or October 2024) and are taking 12th grade exams in April-May 2025, you can only pay exam fees for up to 4 subjects. (You can 4 sebjects or 1 sebject or not give any sebject)
 - If you pay for more than 4 subjects and don’t meet the 2 year gap, your results won’t be declared.
 > [!NOTE]
-> If you finish your exams in the second year NIOS will give your result documents after you give all sebjects i.e. after the second exam results are declared.
+> If you finish your exams in the second year NIOS will give your result documents after you give all subjects i.e. after the second exam results are declared.
 
-## Can I change exam centre be changed (PE)?
+## Can I change exam centre be changed ([PE](https://nios-students.pages.dev/wiki/Exams-Assignments.html#pe-public-examination))?
 
-Ans: Yes there is a e-service that however, it just returns " Change of exam center is now closed." YOU can't change the exam centre. 
+Yes there is a e-service that however, it just returns "Change of exam center is now closed." YOU can't change the exam centre. 
 
 ## Where are the practical examination held?
 
@@ -208,12 +201,11 @@ Ans: Practical examinations for Public examinations are normally held in the res
 Ans: At Sr.Secondary level (12th), if one fails in theory but passes in practical, do they have to appear in practical again and vica versa. If learner passes in practical but fails in the theory of a subject, his/her practical awards/marks will be retained and can appear in Theory Examination only. In case the learner re-appears in both theory and practical, then the **best combination of marks** will be retained.
 
 ## How to deal with stress
-
-[Click here (www.nios.ac.in)](https://nios.ac.in/faq/handling-examination-related-stress)
+- [Click here (www.nios.ac.in)](https://nios.ac.in/faq/handling-examination-related-stress)
 
 ## Are calculators allowed in examination? (Applicable in every single examination.)
 
-Ans: No, calculators not allowed. Please refer the picture from *Guidelines for Centre Superintendents for Theory Examinations*
+No, calculators not allowed. Please refer the picture from *Guidelines for Centre Superintendents for Theory Examinations*
 ![{F44989A0-83EC-4717-94FC-AED59EA79440}](https://github.com/user-attachments/assets/584bd151-4700-40bd-8dad-9f1ee46d4938)
 
 > [!NOTE]
@@ -221,21 +213,18 @@ Ans: No, calculators not allowed. Please refer the picture from *Guidelines for 
 
 ## Are NIOS exam centers different from your study Centre?
 
-Ans: Yes, the exam centre for Theory examination is different from Study Centre which is for FA and SA.
+Yes, the exam centre for Theory examination is different from Study Centre which is for FA and SA.
 
 ## Do you get your exam centre randomly?
 
-Ans: No, they chose the centre based on your location.
+No, they chose the centre based on your location.
 
 **On Demand exam related FAQs**
 
 ## Are Questions asked from bifurcation or the full book in ODE?
 
-Ans: Only public Exam chapters, no TMA chapters! Only public exam chapters, since NIOS is lazy asf so sometimes they mistakenly add 2 to 3 questions from TMA chapters! [this](https://www.reddit.com/r/NIOS_Students/s/GNH9m0GrRi) reddit post. The [OP](https://www.reddit.com/r/NoStupidQuestions/comments/15tmb2s/what_does_aita_and_op_mean_on_reddit/) filed for a RTI 
-
-
+Only public Exam chapters, no TMA chapters! Only public exam chapters, since NIOS is lazy asf so sometimes they mistakenly add 2 to 3 questions from TMA chapters! [this](https://www.reddit.com/r/NIOS_Students/s/GNH9m0GrRi) reddit post. The [OP](https://www.reddit.com/r/NoStupidQuestions/comments/15tmb2s/what_does_aita_and_op_mean_on_reddit/) filed for a RTI 
 **for which the answer is given below:**
-
 <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/rti-response-says-tma-chapters-are-not-asked-in-ode-exams-1.webp" alt="RTI-1" width="400"/>
 <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/rti-response-says-tma-chapters-are-not-asked-in-ode-exams-2.webp" alt="RIT-2" width="400"/>
 
@@ -263,7 +252,7 @@ Yes, there are limited options to pick, but centres get booked quickly. Select y
 
 You can expect results within 40–50 days after the exam.
 
-## Subject availability for ODE?
+## What the Subject availability for ODE?
 
 12th (Sr.Sec)
 ------------------------------------
@@ -342,7 +331,7 @@ Video Live streams there are 4 channels:
 
 ## What is ABCID? Is that required?
 
-Ans: ABCID is used to keep track of  academic progress. It's mostly by college going students. No it's not required however, a popup will be display every time you login.
+ABCID is used to keep track of  academic progress. It's mostly by college going students. No it's not required however, a popup will be display every time you login.
 
 ## How can i reduce size of a pdf file?
 
@@ -351,12 +340,11 @@ Ans: ABCID is used to keep track of  academic progress. It's mostly by college g
 ::: 
 
 > [!NOTE]
-> `https//ilovepdf.com` is website so, you can do this on any device which has a web browser and storage for.pdf file.
+> [https//ilovepdf.com] (https//ilovepdf.com) is website so, you can do this on any device which has a web browser and storage for .pdf file.
 
 ## How to open .zip/.rar file?
 
 Click on the videos
-
 ::: details Show videos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nXAYWwiDvc8" title="Windows 7  - How to extract  a zip file." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -378,7 +366,6 @@ It’s a well known bug. NIOS HQ are lazy or busy with building a AI.
 ## What is the two vocational Subjects rule?
 
 `XXXX` will be displayed in your result if you have TWO (2) Vocational subjects from given below the table given:
-
 -------
 | 10th Vocational Subjects                           | 12th Vocational Subjects                                    |
 |----------------------------------------------------|-------------------------------------------------------------|
@@ -429,14 +416,11 @@ NO
 
 Many subjects such as English, Business Studies, Home Science, and more are divided into modules, one of which is optional. 
 - How Optional Modules Work in NIOS
-
 The syllabus is structured as follows:
-
 - Modules from so and so - This is the core module and is compulsory.
 - Optional module – This is the optional module, and students must choose between Module A and Module B. You are not supposed to do both Modules in the exam you choose either A or B. 
 > [!TIP]
 > there is no checkbox for you to tick, whenever a question is asked from Optional module you can mention which Module you have picked e.g., **3 Ans (optional module A)**, additionally you can also write it before starting a Section e.g., **Section-A (optional module A)**.
-
 > [!WARNING]
 > Important You are expected to answer questions only from one Module A or B. Do **NOT** attempt questions from both module A and module B doing so could result in marks being deducted or responses being ignored.
 
@@ -459,7 +443,6 @@ The syllabus is structured as follows:
 ## How to Get a Character Certificate from NIOS?
 
 If you're a [NIOS](https://nios-students.pages.dev/wiki/Glossary.html#:~:text=NIOS%3A%20National%20Institute%20of%20Open%20Schooling.%20Link%20to%20section) student and applying to a college or government institution that’s asking for a **Character certificate**, you’ve probably run into a wall. Here's the truth — and how to deal with it:
-
 > [!WARNING]
 > NIOS does not issue character certificates. Neither does CBSE — because it's not the board’s job. In traditional schools, these certificates are issued by the school Principal based on your conduct, attendance, and overall behavior.
 
@@ -472,13 +455,13 @@ If you're applying to a State or Central govt. Clg/uni, and they ask for a Chara
 - Visit your local police station Many students get a character certificate issued by the police after a basic background check. It’s official and widely accepted.
 - Create a character affidavit through a notary If the above don’t work out, go to a lawyer or notary and get an affidavit declaring your good character. This is a legal workaround and often accepted when no official certificate is available.
 > [!TIP] 
-> Always be honest about studying from NIOS. It’s a recognized and valid board under the MoE, Most institutions just need clarity and once you explain, they’ll often accept alternative documentation. Special thanks go [Aeryk](https://www.reddit.com/user/a3ryk) for allowing us to use this. 
+> Always be honest about studying from NIOS. It’s a recognized and valid board under the MoE, Most institutions just need clarity and once you explain, they’ll often accept alternative documentation. Special thanks to [Aeryk](https://www.reddit.com/user/a3ryk) for allowing us to use this. 
 
 **Fees related FAQs**
 
 ## I gave Public Exam now i wanna register for the upcoming Public Exam but it won't let me why is that?
 
-Ans: Please wait until results of the exam you gave or paid fees for are released. NIOS will make another schedule for you. It takes two or three weeks after the results are released.
+Please wait until results of the exam you gave or paid fees for are released. NIOS will make another schedule for you. It takes two or three weeks after the results are released.
 > [!NOTE]
 > **This is nothing new it's a norm** [**Join our WhatsApp update channel**](https://whatsapp.com/channel/0029VamKd7w3LdQV8AqlNF1h)
 
@@ -487,23 +470,23 @@ Ans: Please wait until results of the exam you gave or paid fees for are release
 Because the fees you paid it beginning was admission into NIOS. It covers your books and PCPs.  You **must** to exam fees in order appear in the exam. Btw exam fee includes  question paper, answer booklet, fees for teachers who will check your answers, and other miscellaneous expenses.
 
 ## What is fee for Exam and other fees?
-
-| SN | Description                                                 | Revised Rates                 |
+Public examination 
+---------
+| S.No | Description                                                 | Revised Rates                 |
 |----|-------------------------------------------------------------|-------------------------------|
-| a  | Examination fee per subject                                 | Rs. 300/- per subject         |
-| b  | Additional fee for subjects having practical components     | Rs. 150/- per practical subject |
-| c  | Late fee (for First 10 days)                                | Rs. 150/- per subject         |
-| d  | Consolidated late fee for next 10 days after late fee       | Rs. 1600/- consolidated       |
-| e  | Re-checking of answer books                                 | Rs. 400/- per subject         |
-| f  | Re-evaluation of answer books                               | Rs. 1000/- per subject        |
------
+| a  | Examination fee per subject                                 | ₹300/- per subject         |
+| b  | Additional fee for subjects having practical components     | ₹150/- per practical subject |
+| c  | Late fee (for First 10 days)                                | ₹150/- per subject         |
+| d  | Consolidated late fee for next 10 days after late fee       | ₹1600/- consolidated       |
+| e  | Re-checking of answer books                                 | ₹400/- per subject         |
+| f  | Re-evaluation of answer books                               | ₹1000/- per subject        |
 
-| SN | Description                                                 | Revised Rates                 |
+ODE examination
+------
+| S.No | Description                                                 | Revised Rates                 |
 |----|-------------------------------------------------------------|-------------------------------|
-| a  | Examination fee per subject                                 | Rs. 600/- per subject         |
-| b  | Additional fee for subjects having practical components     | Rs. 250/- per practical subject |
-| c  | Re-evaluation of answer books                               | Rs. 1200/- per subject        |
------------
-
+| a  | Examination fee per subject                                 | ₹600/- per subject         |
+| b  | Additional fee for subjects having practical components     | ₹250/- per practical subject |
+| c  | Re-evaluation of answer books                               | ₹1200/- per subject        |
 > [!NOTE]
-> Exta ₹70 will be added for Online fee processing.
+> Exta **₹70** will be added for Online fee processing.
