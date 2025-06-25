@@ -314,7 +314,7 @@ Related links:
 > [!NOTE]
 > **This channel is used for audio only. Streams from Monday-Friday from 11.00 PM to 3.45 PM (IST)**. Archived audio programs [12th Sr.Secondary](https://nios.ac.in/audio_files/AG_Sr_Secondary.pdf) and [10th Secondary](https://nios.ac.in/audio_files/AG_Secondary.pdf) [Schedule page link (nios.ac.in)](https://nios.ac.in/departmentsunits/media-unittelecast/mukta-vidya-vani-and-community-radio.aspx)
 
-**Program schedule** 
+**Program schedule:** 
 - [🔴 **Live**] Community programming from 11.00 PM to 12.00 PM.
 -  [🔴 **Live**] Secondary (10th) from 12.00 PM to 12.45 PM
 -  [Per-recorded] from 12.45 PM to 2.00 PM.
@@ -490,3 +490,6 @@ ODE examination
 | c  | Re-evaluation of answer books                               | ₹1200/- per subject        |
 > [!NOTE]
 > Exta **₹70** will be added for Online fee processing.
+
+## What Admission fees?
+- [Click here](https://sdmis.nios.ac.in/home/fees)
