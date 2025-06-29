@@ -91,6 +91,11 @@ Register as soon as the window opens.
 
 # Common ODE FAQs
 
+**I Missed my all 5 subjects exam in public exam can I give ODE Exam??**
+
+- No you can't!
+- You can only give 4 subjects total exam in ode, but if you missed all 5 subjects exam then no it's not for you, you will have to enroll in next public exam, you will just pay exam fees and give exam in next public exam!
+
 **When Will I Get My Result?**
 - You can expect results within 40–50 days after the exam.
 - (but keep in mind that nios is lazy asf so......)
