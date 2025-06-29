@@ -1,6 +1,14 @@
 Still working on it. Any questions regarding this subject, please mail to unofficialnios[AT]gmail.com  
 -----------
 
+# Admission Period Window Fee Details
+
+
+- From 16th Sept. to 31st January	Normal Fee
+- From 1st January to 15th February	With Late Fee of ₹260
+- From 16th February to 28th February	With Late Fee of ₹520
+- From 1st March to 15th March	With Late Fee of ₹910
+
 # Important Dates
 1. TMA uploading **June**
 2. Exam fees payment **June**
@@ -15,6 +23,10 @@ Still working on it. Any questions regarding this subject, please mail to unoffi
 11. ARe-evaluation/re-check **20 days after results are released**
 12. Physical documents **April**
 13. Results of re-evaluation/re-check **May**
+
+**What is TMA? How to make it? What is PCP? What Practical? How to Study? What to do? What not to do?**
+- Don't worry pookies, Our community got you coverd for all this
+- Just [Click here](./Glossary.md) 
 
 > [!NOTE]  
 > NIOS is lazy, so getting marks for TMAs takes time. Everyone gets their marks around November.

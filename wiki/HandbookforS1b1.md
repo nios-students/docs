@@ -26,6 +26,11 @@ Still working on it. Any questions regarding this stream/ subject, please email 
 12. Physical documents **July to August**
 13. Results of re-eval/re-check **August**
 
+**What is TMA? How to make it? What is PCP? What Practical? How to Study? What to do? What not to do?**
+- Don't worry pookies, Our community got you coverd for all this
+- Just [Click here](./Glossary.md) 
+
+
 > [!NOTE]
 > NIOS is lazy is af so, getting marks of TMAs takes time; everyone gets their marks around May.
 
