@@ -104,8 +104,9 @@ Register as soon as the window opens.
  - Only public Exam chapters, no TMA chapters! Only public exam chapters, since NIOS is lazy asf so sometimes they mistakenly add 2 to 3 questions from TMA chapters! Check out the RTI That WE filed
 
 
-   >. [!bonus - How to study? Study material? What to skip? what to focus on?]
-   >. [click on me](/wiki/other-materials.md)
+   >[!bonus - How to study? Study material? What to skip? what to focus on?]
+   
+   >[click on me](/wiki/other-materials.md)
 
 
 
@@ -133,7 +134,16 @@ Register as soon as the window opens.
 (Subjects that has practical Check out this page – [Click me!](/wiki/pr.html#practical-exam)
 
 
+**Are there TMA chapters in ode? I have heard TMA chapters are included in ODE Exam??**
 
+- No You only have to study for Public Exam Chapters for all exams in nios!
+- Here is the RTI that we Filled to NIOS asking the same!
+   <img src="/wiki/assets/rti-response-says-tma-chapters-are-not-asked-in-ode-exams-1.webp">
+   <img src="/wiki/assets/rti-response-says-tma-chapters-are-not-asked-in-ode-exams-2.webp">
+
+
+
+ >[!But keep in mind that NIOS is lazy asf, so sometimes they do add 3 to 4 or some questions from TMA chapters]
 
 
 
