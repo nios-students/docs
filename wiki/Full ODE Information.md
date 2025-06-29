@@ -120,7 +120,7 @@ Register as soon as the window opens.
 
 **Are there practicals under ODE?**
 - Yes. But if the subject has practicals, you must complete both theory and practical exams.
-(Subjects that has practical Check out this page – [Click me!](https://nios-students.pages.dev/wiki/pr.html#practical-exam)
+(Subjects that has practical Check out this page – [Click me!](/wiki/pr.html#practical-exam)
 
 
 **Can I choose any center?**
