@@ -111,16 +111,16 @@ Register as soon as the window opens.
 
 
 **What is ToC (Transfer of Credit)?**
-    It allows you to transfer marks from up to 2 previously passed CBSE subjects into your NIOS marksheet.
+- It allows you to transfer marks from up to 2 previously passed CBSE subjects into your NIOS marksheet.
 
 
-    Only available to boards students who failed and are redoing 3 subjects via ODE.
+Only available to boards students who failed and are redoing 3 subjects via ODE.
 
-    Can I get a combined marksheet of my old board and NIOS?
-    Only failed students using the ToC option can get a combined NIOS marksheet (with 2 ToC subjects + 3  ODE subjects).
+Can I get a combined marksheet of my old board and NIOS?
+Only failed students using the ToC option can get a combined NIOS marksheet (with 2 ToC subjects + 3  ODE subjects).
 
 
-    CBSE-passed students who registered under Dual/Part Enrollment will get a separate mark sheet for the passed subjects.
+CBSE-passed students who registered under Dual/Part Enrollment will get a separate mark sheet for the passed subjects.
 
 
 
