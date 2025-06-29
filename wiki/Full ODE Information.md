@@ -104,8 +104,8 @@ Register as soon as the window opens.
  - Only public Exam chapters, no TMA chapters! Only public exam chapters, since NIOS is lazy asf so sometimes they mistakenly add 2 to 3 questions from TMA chapters! Check out the RTI That WE filed
 
 
-   >[!bonus - How to study? Study material? What to skip? what to focus on?]
-   
+   >!bonus - How to study? Study material? What to skip? what to focus on?
+
    >[click on me](/wiki/other-materials.md)
 
 
@@ -143,7 +143,7 @@ Register as soon as the window opens.
 
 
 
- >[!But keep in mind that NIOS is lazy asf, so sometimes they do add 3 to 4 or some questions from TMA chapters]
+ >!But keep in mind that NIOS is lazy asf, so sometimes they do add 3 to 4 or some questions from TMA chapters
 
 
 
