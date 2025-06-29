@@ -98,11 +98,14 @@ Register as soon as the window opens.
 
 
 
+
+
 **Syllabus for ODE Exams: Subjects?**
  - Only public Exam chapters, no TMA chapters! Only public exam chapters, since NIOS is lazy asf so sometimes they mistakenly add 2 to 3 questions from TMA chapters! Check out the RTI That WE filed
 
 
-
+   >. [!bonus - How to study? Study material? What to skip? what to focus on?]
+   >. [click on me](/wiki/other-materials.md)
 
 
 
@@ -147,7 +150,7 @@ Register as soon as the window opens.
 - (Refer to the official NIOS fee chart or the image shared separately for exact amounts)
 
 
-
+  <img src="./assets/ode-fees.jpg">
 
 
 
@@ -167,3 +170,8 @@ Register as soon as the window opens.
 
 
 
+**How does the registration happens?**
+
+- IF you are already a nios student and either failed in some subjects or wants to give improvement exam by ODE, so then ODE portal opens after all the resutls of nios 12th & 10th of are declared, you won't have to take admissiona gain, you can register for ode, you will see the option on your dashboard. You will get updates in both our subreddit or our discord server 
+
+- IF you are from other board (like CBSE, ICSE, OR State Board) then you will enroll in stream 4 directly, so then ODE portal opens after all the resutls of nios 12th & 10th of are declared, you won't have to take admissiona gain, you can register for ode, you will see the option on your dashboard. You will get updates in both our subreddit or our discord server.
