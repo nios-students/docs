@@ -96,6 +96,10 @@ Register as soon as the window opens.
 - No you can't!
 - You can only give 4 subjects total exam in ode, but if you missed all 5 subjects exam then no it's not for you, you will have to enroll in next public exam, you will just pay exam fees and give exam in next public exam!
 
+
+
+
+
 **When Will I Get My Result?**
 - You can expect results within 40–50 days after the exam.
 - (but keep in mind that nios is lazy asf so......)
@@ -112,6 +116,9 @@ Register as soon as the window opens.
    >!bonus - How to study? Study material? What to skip? what to focus on?
 
    >[click on me](/wiki/other-materials.md)
+
+
+
 
 
 
@@ -139,6 +146,10 @@ CBSE-passed students who registered under Dual/Part Enrollment will get a separa
 (Subjects that has practical Check out this page – [Click me!](/wiki/pr.html#practical-exam)
 
 
+
+
+
+
 **Are there TMA chapters in ode? I have heard TMA chapters are included in ODE Exam??**
 
 - No You only have to study for Public Exam Chapters for all exams in nios!
@@ -149,6 +160,9 @@ CBSE-passed students who registered under Dual/Part Enrollment will get a separa
 
 
  >!But keep in mind that NIOS is lazy asf, so sometimes they do add 3 to 4 or some questions from TMA chapters
+
+
+
 
 
 
@@ -185,11 +199,14 @@ CBSE-passed students who registered under Dual/Part Enrollment will get a separa
 
 
 
+
 **How does the registration happens?**
 
 - IF you are already a nios student and either failed in some subjects or wants to give improvement exam by ODE, so then ODE portal opens after all the resutls of nios 12th & 10th of are declared, you won't have to take admissiona gain, you can register for ode, you will see the option on your dashboard. You will get updates in both our subreddit or our discord server 
 
 - IF you are from other board (like CBSE, ICSE, OR State Board) then you will enroll in stream 4 directly, so then ODE portal opens after all the resutls of nios 12th & 10th of are declared, you won't have to take admissiona gain, you can register for ode, you will see the option on your dashboard. You will get updates in both our subreddit or our discord server.
+
+
 
 
 **Credit for writting this page**
