@@ -34,8 +34,6 @@ The materials are applicable for all exams (On-demand and public), so please sto
 # Practical Files
 **Senior Secondary (12th)**  
 - [Computer Science-330](https://drive.google.com/drive/folders/1B4LC8LNbWwBj6i1u6VBKf4LzDcfGD1UX)
-- [VOC-Computer Hardware Assembly and Maintenance-663](https://drive.google.com/drive/folders/1FePkpftsoo63xWzrQDX6mFYVivPkb4kL)
-- [VOC-Computer & Office Application-631](https://drive.google.com/file/d/165UaWHD_6GEG8igXil3k7Fgi5tymbXJT/view?usp=drivesdk)
 - [Data Entry Operations-**336 Sr. Sec (12th)**](https://drive.google.com/drive/folders/1K5O8mtX-NXT-ezFsqh3ZsA0IdrJQ1SeU)
 - [Physics-312](https://drive.google.com/file/d/1Tch83yqj_tKsHOzExcl1dMGCxSJKvAYb/view?usp=drivesdk)
 - [Chemistry-313](https://drive.google.com/file/d/1ztU0LXRhlxP-Vztslwhh9-51Wjxn20wo/view?usp=drivesdk)
@@ -47,6 +45,8 @@ The materials are applicable for all exams (On-demand and public), so please sto
 - [Physical Education and Yoga-373](https://drive.google.com/file/d/1uP8wLf8CWOa2ycGFyqpOtNuiWZMc2hdS/view?usp=drivesdk)
 - [Library and Information Science-339](https://drive.google.com/drive/folders/1gmlUhPul53yaXm4eWGqQygnX_KgIJNpB)
 - [Early Childhood Care And Education-376](https://drive.google.com/drive/folders/1gmlUhPul53yaXm4eWGqQygnX_KgIJNpB)
+- [VOC-Computer Hardware Assembly and Maintenance-663](https://drive.google.com/drive/folders/1FePkpftsoo63xWzrQDX6mFYVivPkb4kL)
+- [VOC-Computer & Office Application-631](https://drive.google.com/file/d/165UaWHD_6GEG8igXil3k7Fgi5tymbXJT/view?usp=drivesdk)
 - [VOC-Yoga Assistant-667](https://drive.google.com/drive/folders/1ow4Bpx6-tR8tT2IXnFFX7AwAJpyj7sy2)
 - [VOC-Web Designing And Development-622](https://drive.google.com/file/d/1gvNC4RnVnDK6TjrnTzxLAqm0iGe4EKlS/view?usp=drive_link)
 

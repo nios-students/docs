@@ -1,6 +1,6 @@
 ---
 order: 0
-title: Theory - Guidelines
+title: Theory Exam- Guidelines
 ---
 Guidelines for Theory Exam
 ---------------------------
