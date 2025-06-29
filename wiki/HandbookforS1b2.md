@@ -1,6 +1,9 @@
 Still working on it. Any questions regarding this subject, please mail to unofficialnios[AT]gmail.com  
 -----------
 
+# Admission fees
+<img src="./assets/admission-fee .png">
+
 # Admission Period Window Fee Details
 
 

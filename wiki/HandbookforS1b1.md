@@ -5,6 +5,10 @@ title: Handbook
 
 Still working on it. Any questions regarding this stream/ subject, please email us at [Unofficialnios@gmail.com](mailto:unofficialnios@gmail.com)
 -----------
+
+# Admission fees
+<img src="./assets/admission-fee .png">
+
 # Admission window
 - From 16th March to 31st July	Normal Fee
 - From 1st August to 15th August	, With  Late Fee of ₹260
