@@ -96,8 +96,12 @@ Register as soon as the window opens.
 - (but keep in mind that nios is lazy asf so......)
 
 
+
+
 **Syllabus for ODE Exams: Subjects?**
  - Only public Exam chapters, no TMA chapters! Only public exam chapters, since NIOS is lazy asf so sometimes they mistakenly add 2 to 3 questions from TMA chapters! Check out the RTI That WE filed
+
+
 
 
 
@@ -118,13 +122,25 @@ Register as soon as the window opens.
 
 
 
+
+
+
 **Are there practicals under ODE?**
 - Yes. But if the subject has practicals, you must complete both theory and practical exams.
 (Subjects that has practical Check out this page – [Click me!](/wiki/pr.html#practical-exam)
 
 
+
+
+
+
 **Can I choose any center?**
 - Yes there are limited options to pick, but centres get booked quickly. Select your exam centre as soon as registration opens.
+
+
+
+
+
 
 
 **Fees & Documents?**
