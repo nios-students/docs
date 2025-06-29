@@ -54,11 +54,11 @@ These are students who have already cleared Class 10 or 12 but want to add new s
 # HERE IS HOW THE DATE SHEET OF ODE JAN TO MARCH WINDOW & ODE JUNE TO SEPTEMBER WINDOW LOOKS LIKE:
 
  - **(FEB TO MARCH 2025)**
-    <img src="wiki/assets/ode-date-sheet-feb-to-march.png">
+    <img src="./assets/ode-date-sheet-feb-to-march.png">
 
 
   - **(JUNE TO SEPTEMBER)**
-    <img src="wiki/assets/ode-datesheet- july-to-sept.png">
+    <img src="./assets/ode-datesheet-july-to-sept.png">
 
 
 # 🧾 Registration & Attempts
