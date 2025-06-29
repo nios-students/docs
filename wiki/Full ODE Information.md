@@ -11,8 +11,8 @@ It runs under two main categories of students:
 NIOS ODE allows them to reappear in those subjects—or even change the subject (to an easier elective or one of their choice).
 
 
-📝 Important
- Even if you failed in just one subject (e.g., Physics), you must choose at least 3 subjects to appear for under ODE.
+**📝 Important** (IF you are going for TOC)
+ Even if you failed in just one subject (e.g., Physics), you must choose at least 3 subjects to appear for under ODE if you do TOC.
  These can be:
 
 - Failed subjects
@@ -35,21 +35,119 @@ These are students who have already cleared Class 10 or 12 but want to add new s
 
 # How Does the ODE Cycle Work?
 
-ODE is available year-round except during April-May and October-November, when public board exams are held.
+- ODE is available year-round except during April-May and October-November, when public board exams are held.
 
 
-For 2024–25, it's anticipated that the next cycle begins around 20th–25th June (post NIOS April -May public exam results).
+- For 2024–25, it's anticipated that the next cycle begins around 20th–25th June (post NIOS April -May public exam results).
 
 
-Registration opens after public exam results are out, 10 to 15 days before the ODE exam cycle begins.
+- Registration opens after public exam results are out, 10 to 15 days before the ODE exam cycle begins.
 
 
-Exam slots fill fast—you must select your centre quickly, or you might have to travel far (not fearmongering—just practical advice).
+- Exam slots fill fast—you must select your centre quickly, or you might have to travel far (not fearmongering—just practical advice).
 
 
-Only one subject exam is allowed per week (yeah that kinda sucks, but that’s a rule).
+- Only one subject exam is allowed per week (yeah that kinda sucks, but that’s a rule).
 
-You will get your results within 40 to 50 days after giving your last exam.
+- You will get your results within 40 to 50 days after giving your last exam.
 
-HERE IS HOW THE DATE SHEET OF ODE JAN TO MARCH WINDOW & ODE JUNE TO SEPTEMBER WINDOW LOOKS LIKE:
- (FEB TO MARCH 2025)
+# HERE IS HOW THE DATE SHEET OF ODE JAN TO MARCH WINDOW & ODE JUNE TO SEPTEMBER WINDOW LOOKS LIKE:
+
+ - **(FEB TO MARCH 2025)**
+    <img src="/workspaces/docs/wiki/assets/ode date sheet feb to march .png">
+
+
+  - **(JUNE TO SEPTEMBER)**
+    <img src="/workspaces/docs/wiki/assets/ode datesheet july to sept.png">
+
+
+# 🧾 Registration & Attempts
+
+- Once you register, you’ll get a schedule with exam slots per subject.
+
+
+- Each subject allows multiple attempts (as you can see in the datesheet), but not within the same month only next month. 
+
+
+- If you feel your first attempt went poorly, you can register for a second attempt after the first exam. 
+When Will I Get My Result?
+You can expect results within 40–50 days after the exam.
+
+
+# Ways to Approach ODE for Failed Students
+
+- There are two ways to approach these exams as a failed student, depending on your readiness, and other requirements like counselling, deadlines ,etc.
+Type 1: "I want my result quickly" (for counselling, university deadlines, etc.)
+Register as soon as the window opens.
+
+
+- Pick the earliest slots.
+
+
+- Be prepared to take exams back-to-back.
+
+
+
+
+# Common ODE FAQs
+
+**When Will I Get My Result?**
+- You can expect results within 40–50 days after the exam.
+- (but keep in mind that nios is lazy asf so......)
+
+
+**Syllabus for ODE Exams: Subjects?**
+ - Only public Exam chapters, no TMA chapters! Only public exam chapters, since NIOS is lazy asf so sometimes they mistakenly add 2 to 3 questions from TMA chapters! Check out the RTI That WE filed
+
+
+
+
+**What is ToC (Transfer of Credit)?**
+    It allows you to transfer marks from up to 2 previously passed CBSE subjects into your NIOS marksheet.
+
+
+    Only available to boards students who failed and are redoing 3 subjects via ODE.
+
+    Can I get a combined marksheet of my old board and NIOS?
+    Only failed students using the ToC option can get a combined NIOS marksheet (with 2 ToC subjects + 3  ODE subjects).
+
+
+    CBSE-passed students who registered under Dual/Part Enrollment will get a separate mark sheet for the passed subjects.
+
+
+
+
+
+**Are there practicals under ODE?**
+- Yes. But if the subject has practicals, you must complete both theory and practical exams.
+(Subjects that has practical Check out this page – [Click me!](https://nios-students.pages.dev/wiki/pr.html#practical-exam)
+
+
+**Can I choose any center?**
+- Yes there are limited options to pick, but centres get booked quickly. Select your exam centre as soon as registration opens.
+
+
+**Fees & Documents?**
+- (Refer to the official NIOS fee chart or the image shared separately for exact amounts)
+
+
+
+
+
+
+
+
+- Fee varies per subject.
+
+
+- Extra charges apply for practicals.
+
+
+-  TOC has an additional fee.
+
+
+- You’ll need your Aadhaar, Previous mark sheets, passport size photograph and fullname signature on white paper     //during registration.
+
+
+
+

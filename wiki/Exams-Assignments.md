@@ -16,7 +16,8 @@ TMA is crucial for students as it carries **20% weightage of your theory paper.*
 
 
 # PCP Classes, Practical PCP (FA), Practical Exam (SA)
-[Just read image properly all doubts and confusion will be clear](/workspaces/docs/wiki/assets/pcp.jpg)
+**Just read image properly all doubts and confusion will be clear**
+  <img src="/workspaces/docs/wiki/assets/pcp.jpg">
 
 
 # Practical Examination/SA
