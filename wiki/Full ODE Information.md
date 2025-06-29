@@ -185,3 +185,11 @@ Register as soon as the window opens.
 - IF you are already a nios student and either failed in some subjects or wants to give improvement exam by ODE, so then ODE portal opens after all the resutls of nios 12th & 10th of are declared, you won't have to take admissiona gain, you can register for ode, you will see the option on your dashboard. You will get updates in both our subreddit or our discord server 
 
 - IF you are from other board (like CBSE, ICSE, OR State Board) then you will enroll in stream 4 directly, so then ODE portal opens after all the resutls of nios 12th & 10th of are declared, you won't have to take admissiona gain, you can register for ode, you will see the option on your dashboard. You will get updates in both our subreddit or our discord server.
+
+
+**Credit for writting this page**
+ VIDMAHI - bis_its_vid
+
+ Hrithik - hrithk
+
+ Tamim - kotaro
