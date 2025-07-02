@@ -7,9 +7,9 @@
 
 - NIOS: National Institute of Open Schooling. [Link to section](/wiki/About#about-nios)
 - TMA: Tutor Marked Assignments. [Link to section](/wiki/Exams-Assignments#practical-exams)
-- PCP: Personal Contact Program. [Link to section](/wiki/Exams-Assignments#pcp-personal-contact-programme)
-- FA: Formative assessment   [Link to section](/wiki/Exams-Assignments.md#pcp-classes-practical-pcp-fa-practical-exam-sa)
-- SA: Submitative assessment [Link to section](/wiki/Exams-Assignments.md#pcp-classes-practical-pcp-fa-practical-exam-sa) 
+- PCP: Personal Contact Program. [Link to section](/wiki/Exams-Assignments#pcp-classes-practical-pcp-fa-practical-exam-sa)
+- FA: Formative assessment   [Link to section](/wiki/Exams-Assignments#pcp-classes-practical-pcp-fa-practical-exam-sa)
+- SA: Submitative assessment [Link to section](/wiki/Exams-Assignments#pcp-classes-practical-pcp-fa-practical-exam-sa) 
 - Sub: Subject
 - ODE: On Demand Exams. [Link to section](/wiki/Full%20ODE%20Information.html)
 - OBE: Open Basic Education
