@@ -16,13 +16,13 @@ Still working on it. Any questions regarding this stream/ subject, please email 
 - From 1st Sept. to 15th Sept.	With Late Fee of ₹910
   
 # Important Dates
-1. TMA uploading **November (Last week)** (All Online)
-2. Exam Fees payment **21 November to 20 December (without late fee)** (All Online)
-3. PCP (30 classes) **December** (Optional Classes At Your Study Center)
+1. TMA uploading (All Online) **November (Last week)** 
+2. Exam Fees payment (All Online) **21 November to 20 December (without late fee)** 
+3. PCP (30 classes) (Optional Classes At Your Study Center) **December** 
 4. Last date for TMA **31 January**
 5. FA PCP (05 classes) **February** (Practical PCP Clases, Mendetory. At Your Study Center)
 6. Results of TMA*
-7. Practical exam/SA **March (second week)** (At Your Study Center)
+7. Practical exam/SA (At Your Study Center) **March (second week)** 
 8. Theory exam/PE **April-May** (At Exam Center)
 9. View assessment of SA **2 weeks from the practical exam to May**
 10. Results **June***

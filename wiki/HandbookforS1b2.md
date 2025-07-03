@@ -13,13 +13,13 @@ Still working on it. Any questions regarding this subject, please mail to unoffi
 - From 1st March to 15th March	With Late Fee of ₹910
 
 # Important Dates
-1. TMA uploading **June** (All Online)
-2. Exam fees payment **June** (All Online)
-3. PCP (30 classes) **May** (Optional Classes At Your Study Center)
+1. TMA uploading (All Online) **June** 
+2. Exam fees payment (All Online) **June** 
+3. PCP (30 classes) (Optional Classes At Your Study Center) **May** 
 4. Last date for TMA submission **15 August**
-5. FA PCP (05 classes) **August** (Practical PCP Clases, Mendetory. At Your Study Center)
-6. Results of TMA*
-7. Practical exam/SA **September (second week)** (At Your Study Center)
+5. FA PCP (05 classes) (Practical PCP Clases, Mendetory. At Your Study Center) **August** 
+6. Results of TMA* 
+7. Practical exam/SA (At Your Study Center) **September (second week)** 
 8. Theory exam/PE **October-November**
 9. View assessment of SA **3 weeks from the practical exam**
 10. Results **December/January***
