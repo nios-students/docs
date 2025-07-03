@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: NIOS Student Experiences & Reviews
+title: NIOS Student Experiences
 ---
 
 # NIOS Student Experiences & Reviews
@@ -77,3 +77,9 @@ title: NIOS Student Experiences & Reviews
 *Have an experience to share? Join our community and contribute your story!* <br>
 *[share your experience ️](https://www.reddit.com/r/Nios_unofficial/)*
 
+
+<div align="center" style="margin-top:2em;">
+  <em>Heartfelt thanks to everyone who shared their NIOS story.<br>
+  Your experiences, tips, and honesty inspire and support other students.<br>
+  <strong>Together, we make this community better!</strong></em>
+</div>
