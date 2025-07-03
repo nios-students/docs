@@ -21,7 +21,7 @@ Still working on it. Any questions regarding this stream/ subject, please email 
 3. PCP (30 classes) (Optional Classes At Your Study Center) **December** 
 4. Last date for TMA                                        **31 January**
 5. FA PCP (05 classes)                                      **February** 
-6. Results of TMA*
+6. Results of TMA                                           **Generally After Two Months**
 7. Practical exam/SA (At Your Study Center)                 **March (second week)** 
 8. Theory exam/PE                                           **April-May** 
 9. View assessment of SA                                    **2 weeks from the practical exam to May**
