@@ -9,7 +9,7 @@
 
 - NIOS: National Institute of Open Schooling.     [Link to section](/wiki/About#about-nios)
 - Subjects Available In Nios That You Can Choose: [Link to section]()
-- Subjects That has Practicals In NIOS:           [Link to section](/wiki/Practical-Exam.md)
+- Subjects That has Practicals In NIOS:           [Link to section](/wiki/pr.md)
 - TMA: Tutor Marked Assignments.                  [Link to section](/wiki/Exams-Assignments#practical-exams)
 - PCP: Personal Contact Program.                  [Link to section](/wiki/Exams-Assignments#pcp-classes-practical-pcp-fa-practical-exam-sa)
 - Practical PCP classes aka FA: Formative assessment   [Link to section](/wiki/Exams-Assignments#pcp-classes-practical-pcp-fa-practical-exam-sa)
@@ -56,7 +56,6 @@
 
 - AI/SC: Accredited Institutes/Study Centre (Where You go For PCP, Practicals and Marksheet)
 - RC: Regional Centre (Small NIOS HQ In Each State)
-
 - VOC: Vocational Courses or Subjects
 - OBE: Open Basic Education 
 - ODL: Open and Distance Learning
