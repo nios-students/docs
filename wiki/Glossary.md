@@ -18,18 +18,20 @@
 - ODE: On Demand Exams.                                [Link to section](/wiki/Full%20ODE%20Information.html)
 
 
+
 # Bouns
 
-- Important Dates Of Stream 1 Block 1 April To May session : [Link To Section](/wiki/HandbookforS1b1.md)
-- Important Dates Of Stream 1 Block 2 OCt To Nov session :   [Link To Section](/wiki/HandbookforS1b2.md)
+- Important Dates Of Stream 1 Block 1 April To May session : [Link To Section](/wiki/HandbookforS1b1.md#important-dates)
+- Important Dates Of Stream 1 Block 2 OCt To Nov session :   [Link To Section](/wiki/HandbookforS1b2.md#important-dates)
 - How To Make TMA:                                           [Link To Section](/wiki/how%20to%20make%20TMA.md)
 - What happens in Pracitcal PCP Class (FA PCP):              [Link To Section](/wiki/Exams-Assignments.md#pcp-classes-practical-pcp-fa-practical-exam-sa)
 - How To Make Practical Files for Practical Exam (SA PCP):   [Link To Section](/wiki/how%20to%20make%20TMA.md)
 
 
+
 ---------------------------------
 
-# All The NIOS Result realted acronyms:-
+# All The NIOS Results Related Acronyms:-
 
 - Pass: Means Pass in all subjects 
 - XXXX: Took Some Subjects In NIOS And Passed,Sometimes Also Written If Students Failed
@@ -49,6 +51,8 @@
 - Send an email to **rcell@nios.ac.in** with all the necessary supporting documents.
 
 - And Also Visit the NIOS Regional Center in your area (not your study center, but the official Regional Center).
+
+
 
 ----------------------------------
 
