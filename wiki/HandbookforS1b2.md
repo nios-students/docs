@@ -15,11 +15,11 @@ Still working on it. Any questions regarding this subject, please mail to unoffi
 # Important Dates
 1. TMA uploading (All Online) **June** 
 2. Exam fees payment (All Online) **June** 
-3. PCP (30 classes) (Optional Classes At Your Study Center) **May** 
+3. PCP (30 classes) (Optional Classes At Your Study Centre) **May** 
 4. Last date for TMA submission **15 August**
-5. FA PCP (05 classes) (Practical PCP Clases, Mendetory. At Your Study Center) **August** 
-6. Results of TMA* 
-7. Practical exam/SA (At Your Study Center) **September (second week)** 
+5. FA PCP (05 classes) (Practical PCP Classes, Mandatory. At Your Study Centre) **August** 
+6. Results of TMA*  **Generally After Two Months**
+7. Practical exam/SA (At Your Study Centre) **September (second week)** 
 8. Theory exam/PE **October-November**
 9. View assessment of SA **3 weeks from the practical exam**
 10. Results **December/January***
@@ -28,7 +28,7 @@ Still working on it. Any questions regarding this subject, please mail to unoffi
 13. Results of re-evaluation/re-check **May**
 
 **What is TMA? How to make it? What is PCP? What Practical? How to Study? What to do? What not to do?**
-- Don't worry pookies, Our community got you coverd for all this
+- Don't worry, pookies, our community got you covered for all this
 - Just [Click here](./Glossary.md) 
 
 > [!NOTE]  
