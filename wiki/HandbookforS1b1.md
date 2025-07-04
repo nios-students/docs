@@ -26,7 +26,7 @@ Still working on it. Any questions regarding this stream/ subject, please email 
 8. Theory exam/PE                                           **April-May** 
 9. View assessment of SA                                    **2 weeks from the practical exam to May**
 10. Results                                                 **June***
-11. Digital Docs (Marksheet, Transfer cum migration, Passing and provisional Certs.. ) - **After 2 weeks in digi locker**
+11. Digital Docs (Marksheet, Transfer cum migration, Passing and provisional Certs.. ) - **In Digi locker After 2 weeks of results** 
 12. Re-eval/re-check                                        **20 days after results are released**
 13. Physical documents                                      **September to August**
 14. Results of re-eval/re-check                             **August**
