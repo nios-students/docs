@@ -27,7 +27,7 @@ Still working on it. Any questions regarding this stream/ subject, please email 
 9. View assessment of SA                                    **2 weeks from the practical exam to May**
 10. Results                                                 **June***
 11. Re-eval/re-check                                        **20 days after results are released**
-12. Physical documents                                      **July to August**
+12. Physical documents                                      **September to August**
 13. Results of re-eval/re-check                             **August**
 
 **What is TMA? How to make it? What is PCP? What Practical? How to Study? What to do? What not to do?**
