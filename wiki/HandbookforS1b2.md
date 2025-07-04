@@ -23,7 +23,7 @@ Still working on it. Any questions regarding this subject, please mail to unoffi
 8. Theory exam/PE **October-November**
 9. View assessment of SA **3 weeks from the practical exam**
 10. Results **December/January***
-11. Digital Docs (Marksheet, Transfer cum migration, Passing and provisional Certs.. ) - **After 2 weeks in digi locker** 
+11. Digital Docs (Marksheet, Transfer cum migration, Passing and provisional Certs.. ) - **In Digi locker After 2 weeks of results** 
 12. Re-evaluation/re-check **20 days after results are released**
 13. Physical documents **April**
 14. Results of re-evaluation/re-check **May**
