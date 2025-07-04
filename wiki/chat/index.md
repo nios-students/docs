@@ -18,7 +18,6 @@ When participating in third-party chat groups, please adhere to the following gu
 
 ### Discord
 - **[Chat 1](https://discord.gg/T5K2Wffug8)**: General discussion group.
-- **[Chat 2](https://discord.gg/gYX6Dzz3pr)**: Additional support community.
 
 
 ### WhatsApp
