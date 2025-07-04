@@ -23,9 +23,10 @@ Still working on it. Any questions regarding this subject, please mail to unoffi
 8. Theory exam/PE **October-November**
 9. View assessment of SA **3 weeks from the practical exam**
 10. Results **December/January***
-11. ARe-evaluation/re-check **20 days after results are released**
-12. Physical documents **April**
-13. Results of re-evaluation/re-check **May**
+11. Digital Docs (Marksheet, Transfer cum migration, Passing and provisional Certs.. ) - **After 2 weeks in digi locker** 
+12. Re-evaluation/re-check **20 days after results are released**
+13. Physical documents **April**
+14. Results of re-evaluation/re-check **May**
 
 **What is TMA? How to make it? What is PCP? What Practical? How to Study? What to do? What not to do?**
 - Don't worry, pookies, our community got you covered for all this
