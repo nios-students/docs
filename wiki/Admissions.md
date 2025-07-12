@@ -110,7 +110,7 @@ The Dual Enrollment option is particularly beneficial for:
 > [!NOTE]  
 > Some universities, like Delhi University, do not accept subjects completed via dual enrollment. For example, if a student has studied humanities through CBSE and completed Mathematics through NIOS, they cannot apply to DU’s Economics program, as all the required subjects need to be in the main high school diploma. So please check your university’s requirements before choosing this path.
 
-**Admission Process**  
+### Admission Process
 To apply for Dual Enrollment or Part Admission, students should:
 1. Visit the NIOS official website.
 2. Complete the online admission form, selecting the option for Dual Enrollment or Part Admission.
@@ -119,3 +119,19 @@ To apply for Dual Enrollment or Part Admission, students should:
 5. Upload the required documents, including previous marksheets and identification proofs.
 6. Pay the applicable admission fees online.
 
+<div align="center">
+  <!-- <a href="./assets/Registration_Process_for_Secondary_and_Senior_Secondary_courses_(Stream 1 and 2).png" target="_blank"> -->
+    <img src="./assets/Registration_Process_for_Secondary_and_Senior_Secondary_courses_(Stream 1 and 2).png" alt="Registration Process Flowchart" />
+  <!-- </a> -->
+  <br>
+  <em>Figure: Registration process flow chart (click to enlarge)</em>
+</div>
+<br>
+
+<div align="center">
+  for step-by-step guide on how to register, please refer to the <a href="https://dq4kzxd7fbbni.cloudfront.net/static/dist/images/pdf/process-flow/ProcessFlowDetailed_SecSrSec_Stream1and2_June2023.pdf" target="_blank" rel="noopener noreferrer"><b>Registration Process (PDF)</b></a>.
+  <br>
+  <sub><sup>Sometimes the link may show an error like "<i>You are not allowed to perform this action.</i>" If this happens, simply open the link in a private/incognito window.</sup></sub>
+</div>
+
+---

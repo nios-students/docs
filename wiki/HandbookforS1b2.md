@@ -4,6 +4,13 @@ Still working on it. Any questions regarding this subject, please mail to unoffi
 # Admission fees
 <img src="./assets/admission-fee .png">
 
+<br>
+
+<span style="font-size: 1rem;">For more details on fees, please refer to the official NIOS fee chart <a href="https://sdmis.nios.ac.in/home/fees" target="_blank" rel="noopener noreferrer">here</a>.</span>
+
+>note: <sub><sup>Sometimes the link may show an error like "<i>You are not allowed to perform this action.</i>" If this happens, simply open the link in a private/incognito window.</sup></sub>
+
+
 # Admission Period Window Fee Details
 
 
@@ -13,23 +20,22 @@ Still working on it. Any questions regarding this subject, please mail to unoffi
 - From 1st March to 15th March	With Late Fee of ₹910
 
 # Important Dates
-1. TMA uploading (All Online) **June** 
-2. Exam fees payment (All Online) **June** 
-3. PCP (30 classes) (Optional Classes At Your Study Centre) **May** 
+1. TMA uploading **June**
+2. Exam fees payment **June**
+3. PCP (30 classes) **May**
 4. Last date for TMA submission **15 August**
-5. FA PCP (05 classes) (Practical PCP Classes, Mandatory. At Your Study Centre) **August** 
-6. Results of TMA*  **Generally After Two Months**
-7. Practical exam/SA (At Your Study Centre) **September (second week)** 
+5. FA PCP (05 classes) **August**
+6. Results of TMA*
+7. Practical exam/SA **September (second week)** 
 8. Theory exam/PE **October-November**
 9. View assessment of SA **3 weeks from the practical exam**
 10. Results **December/January***
-11. Digital Docs (Marksheet, Transfer cum migration, Passing and provisional Certs.. ) - **In Digi locker After 2 weeks of results** 
-12. Re-evaluation/re-check **20 days after results are released**
-13. Physical documents **April**
-14. Results of re-evaluation/re-check **May**
+11. ARe-evaluation/re-check **20 days after results are released**
+12. Physical documents **April**
+13. Results of re-evaluation/re-check **May**
 
 **What is TMA? How to make it? What is PCP? What Practical? How to Study? What to do? What not to do?**
-- Don't worry, pookies, our community got you covered for all this
+- Don't worry pookies, Our community got you coverd for all this
 - Just [Click here](./Glossary.md) 
 
 > [!NOTE]  
