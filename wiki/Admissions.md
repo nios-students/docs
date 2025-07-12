@@ -124,7 +124,7 @@ To apply for Dual Enrollment or Part Admission, students should:
     <img src="./assets/Registration_Process_for_Secondary_and_Senior_Secondary_courses_(Stream 1 and 2).png" alt="Registration Process Flowchart" />
   <!-- </a> -->
   <br>
-  <em>Figure: Registration process flow chart (click to enlarge)</em>
+  <em>Figure: Registration process flow chart</em>
 </div>
 <br>
 

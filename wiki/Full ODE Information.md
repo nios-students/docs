@@ -157,7 +157,7 @@ You can check the availability of seats for ODE at any center here: <a href="htt
     <img src="./assets/Registration_Process_for_On-Demand Exams.png" alt="Registration Process Flowchart" />
   <!-- </a> -->
   <br>
-  <em>Figure: Registration process flow chart for ODE (click to enlarge)</em>
+  <em>Figure: Registration process flow chart for ODE</em>
 </div>
 <br>
 
