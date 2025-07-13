@@ -20,7 +20,7 @@
 
 
 
-# Bouns
+# Bonus
 
 - Important Dates Of Stream 1 Block 1 April To May session : [Link To Section](/wiki/HandbookforS1b1.md#important-dates)
 - Important Dates Of Stream 1 Block 2 OCt To Nov session :   [Link To Section](/wiki/HandbookforS1b2.md#important-dates)
