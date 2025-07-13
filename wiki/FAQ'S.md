@@ -1,4 +1,4 @@
-[Official FAQs (The offical ones are outdated)](https://sdmis.nios.ac.in/home/faqs) 
+++++++[Official FAQs (The offical ones are outdated)](https://sdmis.nios.ac.in/home/faqs) 
 
 # Our FAQs
 Based on your Questions from Telegram, Discord, and Subreddit
@@ -52,10 +52,10 @@ Ans: There are 3 ways you can make it:
 1. Just write the info before the answers start.
 2. Use canva to make and fill it then use a pdf editor to place it before the answers start.
 3. Use per-made front page from the internet and take print out of it write your info on it. Remember to scan it before the answers start.
-> [!NOTE]
+> [!NOTE]  
 > I (Author) used the 1st method. Regardless of what you do it won't effect on your marks.
 
-The following info should be written Your name, Enrollment number, Subject name & sebject code, Medium of study (not required for language subjects), AI name and AI code.
+The following info should be written Your name, Enrollment number, Subject name & subject code, Medium of study (not required for language subjects), AI name and AI code.
 
 ## What grades does NIOS have ia it different from CBSE or other boards
 
@@ -175,6 +175,18 @@ The OBE Programme covers elementary level education and is offered at three leve
 - [OBE link 2](https://www.nios.ac.in/media/documents/prospectus/OBE_Prospectus/OBE_Adult_Prospectus_2024-25_Final.pdf)
 - [OBE link 3](https://www.nios.ac.in/media/documents/prospectus/OBE_Prospectus/OBE_Children_Prospectus_2024-25_Final.pdf)
 - [OBE link 4](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nios.ac.in/media/documents/accr/obeguide.pdf&ved=2ahUKEwjA7932taCMAxWbRmwGHQ8eOMMQFnoECFYQAQ&usg=AOvVaw3j4MwSNfeyEGBv45XiiR0e)
+
+## How to take admission?
+
+Go to [sdmis.nios.ac.in](https://sdmis.nios.ac.in) (for Sr.Sec and Sec) → click admission → click on Academic (for stream 1/2) → fill the details and upload the documents → pay → wait for confirmation. For ODE (Streams 3 and 4) click on On Demand then follow the above. For OBE click on OBE then follow the above.
+Related links:
+- [Stream 1 block 1](https://sdmis.nios.ac.in/registration/index?stream_code=1&block_code=11)
+- [Stream 1 Block 2](https://sdmis.nios.ac.in/registration/index?stream_code=1&block_code=11)
+- [Stream 2](https://sdmis.nios.ac.in/registration/index?stream_code=2&block_code=11)
+- [Stream 3](https://sdmis.nios.ac.in/registration/index?stream_code=3&block_code=31)
+- [Stream 4](https://sdmis.nios.ac.in/registration/index?stream_code=4&block_code=41)
+- [Seat re-booking](https://sdmis.nios.ac.in/registration/exam-center-seats)
+- [Stream 5](https://sdmis.nios.ac.in/modules/obe-registration/index?stream_code=5&block_code=51) 
 
 
 **Public examination FAQs**
