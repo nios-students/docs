@@ -5,7 +5,7 @@
 
   The Following Are Some Commonly Used Acronyms.
 
-# All The Terminologies/Acronyms That Freshers (Stream 1 Students) Need To Know:-
+# All The Terminologies/Acronyms That Freshers (Stream 1 Students) Need To Know:
 
 - NIOS: National Institute of Open Schooling.     [Link to section](/wiki/About#about-nios)
 - Subjects Available In Nios That You Can Choose: [Link to section]
@@ -49,15 +49,15 @@
 
 **If you feel there is or was any error in your NIOS result, you should:**
 
-- Send an email to **rcell@nios.ac.in** with all the necessary supporting documents.
+- Send an email to [**rcell@nios.ac.in**](mailto:rcell@nios.ac.in) with all the necessary supporting documents.
 
-- And Also Visit the NIOS Regional Center in your area (not your study center, but the official Regional Center).
+- And Also Visit or Call the NIOS [Regional Center](https://sdmis.nios.ac.in/home/regional-center) in your area (not your study center, but the official Regional Center).
 
 
 
 ----------------------------------
 
-# All The Other Information:-
+# All The Other Information:
 
 - AI/SC: Accredited Institutes/Study Centre (Where You go For PCP, Practicals and Marksheet)
 - RC: Regional Centre (Small NIOS HQ In Each State)
