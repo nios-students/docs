@@ -89,6 +89,15 @@ There are two ways to approach these exams as a failed student, depending on you
   >!Bonus - How to study? Study material? What to skip? What to focus on?
   >[Click here](/wiki/other-materials.md)
 
+## Are there TMA chapters in ODE?
+- No, you only have to study for public exam chapters for all exams in NIOS!
+- Here is the RTI we filed to NIOS asking the same:
+  <img src="/wiki/assets/rti-response-says-tma-chapters-are-not-asked-in-ode-exams-1.webp">
+  <img src="/wiki/assets/rti-response-says-tma-chapters-are-not-asked-in-ode-exams-2.webp">
+  >!But sometimes NIOS does add a few questions from TMA chapters.
+  
+
+  
 **What is ToC (Transfer of Credit)?**
 - It allows you to transfer marks from up to 2 previously passed CBSE subjects into your NIOS marksheet.
 - Only available to board students who failed and are redoing 3 subjects via ODE.
@@ -101,12 +110,6 @@ There are two ways to approach these exams as a failed student, depending on you
 - Yes. If the subject has practicals, you must complete both theory and practical exams.
 - (See [this page](/wiki/pr.html#practical-exam) for subjects with practicals.)
 
-**Are there TMA chapters in ODE?**
-- No, you only have to study for public exam chapters for all exams in NIOS!
-- Here is the RTI we filed to NIOS asking the same:
-  <img src="/wiki/assets/rti-response-says-tma-chapters-are-not-asked-in-ode-exams-1.webp">
-  <img src="/wiki/assets/rti-response-says-tma-chapters-are-not-asked-in-ode-exams-2.webp">
-  >!But sometimes NIOS does add a few questions from TMA chapters.
 
 **Can I choose any center?**
 
