@@ -53,5 +53,6 @@ Still working on it. Any questions regarding this stream/subject, please email u
 Don't worry, our community has you covered for all this!
 - [Click here for answers & guides](./Glossary.md)
 
-> **Note:** NIOS is often slow with TMA marks; most students get their marks around May.
+> [!NOTE] 
+> NIOS is often slow with TMA marks; most students get their marks around May.
 
