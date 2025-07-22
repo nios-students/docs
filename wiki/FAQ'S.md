@@ -1,4 +1,4 @@
-[Official FAQs (The offical ones are outdated)](https://sdmis.nios.ac.in/home/faqs) 
+[Official FAQs (The offical ones are outdated. They are from 2014.)](https://sdmis.nios.ac.in/home/faqs) 
 
 # Our FAQs
 Based on your Questions from Telegram, Discord, and Subreddit
@@ -38,6 +38,9 @@ Table attached showing full TMA marks of all Subjects on Marksheet (20% of Theor
 | 225                             | 24                  | 06                        |
 | 229, 230, 242 and 243           | 32                  | 08                        |
 -------------------------------------------------------------------------------------
+> [!TIP]
+> NIOS confirms this as a message in "TMA BBB". Refer to the Image:
+![alt text]({93CB60C7-4303-42D5-890E-FB1B4B87A57B}.png)
 
 ## Who checks my TMA and how much effort do put in it?
 
