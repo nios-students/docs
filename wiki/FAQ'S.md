@@ -1,4 +1,4 @@
-[Official FAQs (The offical ones are outdated. They are from 2014.)](https://sdmis.nios.ac.in/home/faqs) 
+[Official FAQs (Theoffical ones are outdated. They are from 2014.)](https://sdmis.nios.ac.in/home/faqs) 
 
 # Our FAQs
 Based on your Questions from Telegram, Discord, and Subreddit
@@ -11,10 +11,9 @@ Ans: For some who are wondering “wait, if we add this up, it would be 116 mark
 
 ## Why does TMA marks shown more than 20% of theory marks?
 
-Ans: From October 2024 session, TMA evaluation pattern has been changed. As we know in Theory, full marks on Question Paper and on Marksheet remain different. (TMA marks are adjusted after calculation) So, 100 becomes 80, 80 becomes 64. Same will be followed for TMA now onwards. Earlier TMA marks was uploaded after calculating 20% of Theory marks. e.g. Home Science 216, on Dashboard full marks for TMA is 20 but on Marksheet it'll be calculated out of 17. If for same subject, Dashboard is showing 18 then take it as 18 out of 20 which will become on marksheet 15 out of 17 after calculation.  
+Ans: From October 2024 session, TMA evaluation pattern has been changed. As we know in Theory, full marks on Question Paper and on Marksheet remain different. (TMA marks are adjusted after calculation) So, 100 becomes 80, 80 becomes 64. Same will be followed for TMA now onwards. Earlier TMA marks was uploaded after calculating 20**%** of Theory marks. e.g. Home Science 216, on Dashboard full marks for TMA is 20 but on Marksheet it'll be calculated out of 17. If for same subject, Dashboard is showing 18 then take it as 18 out of 20 which will become on marksheet 15 out of 17 after calculation.  
 
 Table attached showing full TMA marks of all Subjects on Marksheet (20% of Theory Marks). Now you can calculate Actual TMA marks by yourself:
-
 > [!NOTE]
 > **'Theory' refers to subjects without practical e.g. Social science and History**. [Sebject names with corresponding subject code](https://docs.google.com/document/d/1IkOCPBsEOd-owsX70-DvP0b5epAoJob3zEtI3OGJUMs/edit?usp=drive_link)
 
@@ -36,7 +35,7 @@ Table attached showing full TMA marks of all Subjects on Marksheet (20% of Theor
 | All Theory and Languages        | 80                  | 20                        |
 |  212 and 216                    | 68                  | 17                        |
 | 225                             | 24                  | 06                        |
-| 229, 230, 242 and 243           | 32                  | 08                        |
+| 229, 230, 242, and 243           | 32                  | 08                        |
 -------------------------------------------------------------------------------------
 > [!TIP]
 > NIOS confirms this as a message in "TMA Status". Refer to the Image:
