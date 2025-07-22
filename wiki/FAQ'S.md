@@ -40,7 +40,7 @@ Table attached showing full TMA marks of all Subjects on Marksheet (20% of Theor
 -------------------------------------------------------------------------------------
 > [!TIP]
 > NIOS confirms this as a message in "TMA BBB". Refer to the Image:
-![alt text]({93CB60C7-4303-42D5-890E-FB1B4B87A57B}.png)
+![REMARK: TMA carries 20% weightage of Maximum Theory marks for each Academic subject. TMA marks are proportionately reflected in the the marksheet based on the formula (20% weightage of Maximum Theory marks). Kindly see the prospectus for details.]({93CB60C7-4303-42D5-890E-FB1B4B87A57B}.png)
 
 ## Who checks my TMA and how much effort do put in it?
 
