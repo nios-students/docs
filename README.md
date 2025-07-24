@@ -49,7 +49,7 @@ If you find any mistakes or inaccuracies in the documentation, please report the
   - **SoundDrill31** *(Creator)*
   - **WeridGuyIdk** *(Main Maintainer)*
   - **PugzAreCute** *(Contributor)*
-  - **Sabya Sachi (*not the designer one*)** *(Contributor)*
+  - **HRITHIK (*not the Roshan one*)** *(Contributor)*
   - **Ur** *(Contributor)*
   - **111-vk** *(Contributor)*
 - **Special Thanks**: To all community members and students who provided valuable feedback and resources.
