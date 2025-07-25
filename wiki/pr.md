@@ -66,7 +66,7 @@ b) For stream 2, 3, and 4 (ODE) **100%** of marks are scored/given during Practi
 
 - When is this?
 
-> [!WARRING]
+> [!NOTE]
 > For streams 3 and 4 you have to ask your center on the day of exam. For stream 1 and 2 specific dates & time aren't given. You have to visit the study centre one or two days **before the first exam** e.g., If the first exam is on 20th you have to go 17th or 19th.
 
 View the table below
