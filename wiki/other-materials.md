@@ -24,11 +24,6 @@ The materials are applicable for all exams (On-demand and public), so please sto
 
 - [Brief summaries for both Secondary and Senior Secondary **10th and 12th**](https://www.flexiprep.com/NIOS-Notes)
 
-- Videos: [Physics](https://t.me/+XDO30T7l3mtiNjE1), [Chemistry](https://t.me/+6ax-UAdVSkFhNzA9), [Mathematics](https://t.me/+i2KM6wX62bsyNjBl), [Biology](https://t.me/+OjAfPj6_eP1mMWU9), and [English (302 OLD book for Apr and Oct 2025)](https://t.me/+EUpJdDpd35FhMTY1)
-
-> [!CAUTION]  
-> We did not create or purchase this. We have just provided the link for the Telegram Channel(s) hosting it. The contents of these videos might or might not be accurate. Viewer discretion is advised.
-
 ---
 
 # Practical Files
