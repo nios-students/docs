@@ -1,4 +1,4 @@
-Last updated 🕟:**15-04-2025, 09:58 PM IST**
+Last updated 🕟:**28-07-2025, 10:58 AM IST**
 
 The materials are applicable for all exams (On-demand and public), so please stop asking that.
 ----
@@ -17,7 +17,7 @@ The materials are applicable for all exams (On-demand and public), so please sto
 - [Imp Q&A Sr. Sec (12th) (By DOON WINNER)](https://drive.google.com/drive/folders/1FwWxlIHr12S0br7IsxjNkSf2idZf-Ktu?usp=drive_link)
 
 - [Student-made notes](https://drive.google.com/drive/folders/1ttDPhDMNFK3uRudaJWie83mTeVgvmGo_?usp=drive_link)  
-  **Maths (311), Chemistry (313), English (302) (Sr. Sec 12th), Introduction to Laws (338), Data Entry Operations (336) (12th Sr. Sec), Business Studies (Sr. Sec 12th), English (202) (Sec 10th)**
+  **Maths (311), Chemistry (313), English (302) (Sr. Sec 12th), Introduction to Laws (338), Data Entry Operations (336) (12th Sr. Sec), Business Studies (Sr. Sec 12th), English (202) (Sec 10th) and Psychology (12th Sr.Sec)**
 
 - [Terminal Answers](https://drive.google.com/drive/folders/1QxgVf9rmN91oStaDyrM_2IXtsFgZCL-K?usp=drive_link)  
   Physics, Mathematics, Chemistry, and Biology. For subjects or lessons not available in the above link, check [here for Sr. Sec (12th)](https://brainly.in/textbook-solutions/book-sets/s-nios-board/c-class-12) and [here for Sec (10th)](https://brainly.in/textbook-solutions/book-sets/s-nios-board/c-class-10)
@@ -77,22 +77,19 @@ The materials are applicable for all exams (On-demand and public), so please sto
 - [ODE Folder](https://drive.google.com/drive/folders/15Ze19-paWosIyQF0LdCoBA5WQg6OxHFk?usp=drive_link)
 - [April 2025](https://drive.google.com/drive/folders/1zoQp9Uy2mh7MhW6qEGtb6sfJnE9TSck2?usp=drive_link)
 
-> [!CAUTION]  
-> The question papers are uploaded after a learner writes the exam and sends a scanned .pdf of it.
-
 ---
 
 # Credits
 **Special thanks!! to anyone who scanned and sent their papers**
 
 Compiler of PYQs (Apr 24 & Oct 24), practical files, handwritten TMAs, VOC books, writer of Introduction to Laws notes, practical files of 336, 663, 330, and person in charge of maintaining this document:  
-**Tamim aka @pingforhelp**
+**Kotaro @pingforhelp**
 
-Compiler of handwritten TMAs, guides for Physics and Chemistry:  
+Compiler guides for Physics and Chemistry:  
 **Sid**
 
 Web Developers:  
-**@PugzAreCute & @sounddrill31**
+**@PugzAreCute & @sounddrill31** 
 
 Writer of terminal Q&A (Physics, Chemistry, Biology, and Mathematics):  
 **dahej_~~daddy~~**
@@ -107,11 +104,14 @@ English formats:
 **1pointperspective**
 
 Editor of English formats and formatter of this document:  
-**Ur aka CMO**
+**@q-Ur aka CMO**
+
+Writer of student-made notes of Psychology:
+**u/Sure-Woodpecker-3952**
 
 ---
 
 # Copyright Statement
 - All student-made notes and practical files are subject to © NIOS-Students Contributors 2024-2025. The above-listed content cannot be modified or sold without the permission of the web developer and content author of the particular subject/topic/work.
 - No code, images, logos, or any other assets of **The National Institute of Open Schooling (NIOS)** were copied or used in the making of this website.
-- If copyright laws have been violated, we shall remove such content upon notice from the copyright holder. Please contact us at [unofficialnios[at]gmail.com](mailto:unofficialnios@gmail.com).
+- If copyright laws have been violated, we shall remove such content upon notice from the copyright holder. Please contact us at [unofficialnios@gmail.com](mailto:unofficialnios@gmail.com).
