@@ -12,8 +12,8 @@ How to Make TMA?
 4. Download a document scanner of your choice like [OSS Document Scanner](https://apt.izzysoft.de/fdroid/index/apk/com.akylas.documentscanner) or
 [Okenscan](https://play.google.com/store/apps/details?id=com.cambyte.okenscan)
 5. **Download the solved TMAs or start finding the answers from the textbook.**
-> [!NOTE]
-> [Download for FREE](https://drive.google.com/drive/folders/1eFHUKAtpzh-rBjDm4k4zfn3_AZmu0Byh)
+#> [!NOTE]
+#> [Download TMA FORFREE](https://drive.google.com/drive/folders/1eFHUKAtpzh-rBjDm4k4zfn3_AZmu0Byh)
 Note: These are computzied not handwritten. So, you have copy on paper.
 6. **Front page**  
    Write the following information on the first page.
