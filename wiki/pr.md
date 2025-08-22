@@ -1,17 +1,25 @@
 ---
 title: Practical Exam
 ---
-Practical Exam
--------------------
-- What happens in the practical exam?
+
+<h1 align="center">Practical Exam</h1>
+
+---
+
+## What happens in the practical exam?
+
 1. Submission of practical file
 2. Viva/oral
 3. Activity/Answering the Paper
+
 > [!NOTE]
 > **Submission of practical file at the day of exam**
 
-- Which subject has practical?
+
+## Which subject has practical?
+
 Please view the table below:
+
 ----------------------------------------------------------------------------------------------------
 | S.No | Sr. Secondary (12th)                                | Secondary (10th)                          |
 |------|-----------------------------------------------------|------------------------------------------ |
@@ -43,9 +51,14 @@ Please view the table below:
 | 26   | 663 – Computer Hardware Assembly & Maintenance      |                -                          |
 | 27   | 667 – Yoga Assistant                                |                 -                         |
 ----------------------------------------------------------------------------------------------------------
+
 - [How to make the practical file (Click to view)](/wiki/howto-rec-book)
-- What is FA?
+
+
+## What is FA?
+
 FA (formative assessment) also known as FA PCP carries **50% of practical marks.** In these classes they'll help with making practical file and explain what to do practical exam.
+
 > [!NOTE]
 > **FA is only for Stream 1 students only.**
 
@@ -55,7 +68,9 @@ a) NO FA PCP for stream 2, 3, and 4 (ODE) meaning **100%** of marks are scored/g
 
 b) NO FA PCP **marks** for [Vocational subjects](https://nios-students.pages.dev/wiki/FAQ'S.html#what-is-the-two-vocational-sebjects-rule) meaning **100%** of marks is Scored/given during Practical exam.
 
-- What is SA?
+
+## What is SA?
+
 SA (Summative Assessment) also kown as practical exam here other **50%** of the marks are given/scored.
 
 **Exceptions**
@@ -64,7 +79,8 @@ a) For Vocational subjects it's 100% cus no **FA PCP**
 
 b) For stream 2, 3, and 4 (ODE) **100%** of marks are scored/given during Practical exam.
 
-- When is this?
+
+## When is this?
 
 > [!NOTE]
 > For streams 3 and 4 you have to ask your center on the day of exam. For stream 1 and 2 specific dates & time aren't given. You have to visit the study centre one or two days **before the first exam** e.g., If the first exam is on 20th you have to go 17th or 19th.
@@ -79,7 +95,10 @@ View the table below
 | 3      | Please ask your center on the day of theory paper |     -     |
 | 4      | Please ask your center on the day of theory paper |      -    |
 --------------------------------------------------------------------------
-- What are the marks for  viva, flie, etc?
+
+
+## What are the marks for  viva, flie, etc?
+
 # Table breaking down practical marks12th (Sr.Sec):
 | Sr.No | sub code                                         | File | Viva | Activities/Answering the Paper  |
 | ----- | ------------------------------------------------ | ---- | ---- | ------------------------------- |
@@ -102,6 +121,7 @@ View the table below
 | 6     | 660                                                   | 70        | -  | 70 | 23            |
 | 7     | 622                                                   | 70        | -  | 70 | 23            |
 | 8     | 373                                                   | 30        | 15 | 15 | 9             |
+
 # Table breaking down practical marks 10th (Sec):
 | Sr.No | Sub Code                                      | Max Marks | FA  | SA  | Passing Marks |
 | ----- | --------------------------------------------- | --------- | --- | --- | ------------- |
@@ -116,6 +136,7 @@ View the table below
 | 2     | 229                                           | 5    | 5    | 20                             |
 | 3     | 225                                           | 7    | 10   | 25                             |
 | 4     | 608 and 613                                   | 10   | 10   | 50                             |
+
 > [!NOTE]
 > **“Sub Code” is the subject code of the subject. The marks for submitting file comes under FA marks. In Secondary (10th) Passing in practical isn't required i.e. You need to get 33% of the maximum marks. It doesn't matter how you score these marks. For a example in science and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered passed. Here 'Passing marks' are given for completeness. [Source](https://nios.ac.in/media/documents/notification/yr2024/Exam/PG_2024.pdf)**
  
@@ -152,7 +173,7 @@ They will ask any experiments in your lab manual. You have to write the whole th
 What is this?
 -----
 Firstly this **ONLY FOR [PE](/wiki/Exams-Assignments) students.** You can whether your [AI (Study Center)](/wiki/Glossary#:~:text=AI/SC%3A%20Accredited%20Institutes/Study%20Centre) has entered the practical 
- marks or not. "Marks Awarded", "Marks not awarded". If the system can't find any details or wrong details are entered it will return a blank screen. **NOT ANY NUMBERS.** It takes 1-2 weeks to update. 
+marks or not. "Marks Awarded", "Marks not awarded". If the system can't find any details or wrong details are entered it will return a blank screen. **NOT ANY NUMBERS.** It takes 1-2 weeks to update. 
 ~~I know it's kinda pointless.~~
 
 # How to check it?
@@ -171,4 +192,12 @@ The marks will show on the marksheet:
 <img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/ms.jpg" alt="Marksheet" width="400">
 
 ----
-Any questions? [Past XP](https://www.reddit.com/r/Nios_unofficial/comments/1jk4nm2/comment/mx5ljcg/?context=3) or [Ask here](https://www.reddit.com/r/Nios_unofficial/) or [e-mail](mailto:unofficialnios@gmail.com) | **Research and Written by pingforhelp**
+Any questions or want to share your experience, use one of the options below:
+
+- Past experience: [Past XP](https://www.reddit.com/r/Nios_unofficial/comments/1jk4nm2/comment/mx5ljcg/?context=3)
+- Ask on the community: [Ask here](https://www.reddit.com/r/Nios_unofficial/)
+- Email: [unofficialnios@gmail.com](mailto:unofficialnios@gmail.com)
+
+---
+
+*Written by pingforhelp*
