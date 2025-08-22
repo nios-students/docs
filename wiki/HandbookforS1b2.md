@@ -1,6 +1,8 @@
 Still working on it. Any questions regarding this subject, please mail to unofficialnios[AT]gmail.com  
 -----------
 
+## Stream 1 Block 2 (October)
+
 # Admission fees
 <img src="./assets/admission-fee .png">
 
@@ -8,7 +10,8 @@ Still working on it. Any questions regarding this subject, please mail to unoffi
 
 <span style="font-size: 1rem;">For more details on fees, please refer to the official NIOS fee chart <a href="https://sdmis.nios.ac.in/home/fees" target="_blank" rel="noopener noreferrer">here</a>.</span>
 
->note: <sub><sup>Sometimes the link may show an error like "<i>You are not allowed to perform this action.</i>" If this happens, simply open the link in a private/incognito window.</sup></sub>
+> [!NOTE]
+> <sub><sup>Sometimes the link may show an error like "<i>You are not allowed to perform this action.</i>" If this happens, simply open the link in a private/incognito window.</sup></sub>
 
 
 # Admission Period Window Fee Details
