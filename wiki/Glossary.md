@@ -26,7 +26,7 @@
 - Important Dates Of Stream 1 Block 2 OCt To Nov session :   [Link To Section](/wiki/HandbookforS1b2.md#important-dates)
 - How To Make TMA:                                           [Link To Section](/wiki/how%20to%20make%20TMA.md)
 - What happens in Pracitcal PCP Class (FA PCP):              [Link To Section](/wiki/Exams-Assignments.md#pcp-classes-practical-pcp-fa-practical-exam-sa)
-- How To Make Practical Files for Practical Exam (SA PCP):   [Link To Section](/wiki/how%20to%20make%20TMA.md)
+- How To Make Practical Files for Practical Exam (SA PCP):   [Link To Section](/wiki/howto-rec-book.html)
 
 
 
