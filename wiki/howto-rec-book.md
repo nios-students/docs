@@ -6,7 +6,7 @@ title: Record Book
 # Guidelines for making the practical file/Record book.
 
 ## FAQ'S
-- In what I should make the file?
+- In what should I make the file?
 
 Ans: Just go to your nearest stationery store and ask for a
 **record book** 
@@ -41,24 +41,29 @@ Ans: Offline at the practical examination as follows:
 | 5       |  4         | Please ask your center on the day of theory paper | |  -
 --------------------------------
 
+
 # How to make the practical file?
 **Prep work I**
  
 **Stuff to buy**
 
 1. Record book 
-One side lines and other side write i.e. Without lines.
-2. Pen any colour works (I used bule) and other stationery.
+One side lines and the other side writes i.e. without lines.
+2. Pen any colour works (I used blue) and other stationery.
+3. White cover for all practical files, write your name, subject with code, and roll number on the front!
 
 **Prep work II**
 
+> [!Note]
+> There are spelling errors in the pdf, so make sure to write the correct ones!
+
 Step-1 Download your Lab Manual from [nios.ac.in](https://nios.ac.in/online-course-material.aspx#maincontent). Course material → Grade → Subject → scroll down and download Sub name (777) Lab manual.pdf 
 
-Step-2 Pick where practicals will you write or copy paste from our stuff [__***IT'S FREE!!!!***__](/wiki/other-materials#practical-files)
+Step-2 Pick where you will write or copy paste from our stuff [__***IT'S FREE!!!!***__](/wiki/other-materials#practical-files)
 
 Step-3 Start by finding pictures or conducting experiments (relevant for computer-related subjects)
 
-Step-4 Copy and pasta the aim, objectives, prerequisites, materials required, and precautions. In some subjects, the aim may involve writing/copying the line just below the practical number (no need to match the book's number)
+Step-4: Copy and paste the aim, objectives, prerequisites, materials required, and precautions. In some subjects, the aim may involve writing/copying the line just below the practical number (no need to match the book's number)
 
 Step-5 Write the procedure (If not provided)
 
@@ -72,7 +77,7 @@ Step-9 Write your name, subject, and grade on a label (Optical)
 
 > [!NOTE]
 > Some subjects might require filing tables (For physics, chemistry, biology etc)
-acknowledgement letter and certificate isn't needed.
+An acknowledgement letter and certificate aren't needed.
 
 
 
