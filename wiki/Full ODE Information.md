@@ -21,6 +21,7 @@ ODE runs under two main categories of students:
 #### 🧾 ToC (Transfer of Credit)
 - You can transfer up to two passed subjects' marks from your original marksheet (e.g., CBSE) to NIOS.
 - Final result: A combined NIOS marksheet showing 5 subjects (2 from CBSE, 3 from ODE).
+   **TOC option is only for = failed students**
 
 ### 2. CBSE Passed Students (Dual/Part Admission)
 - For students who have already cleared Class 10 or 12 but want to add new subjects for:
@@ -45,10 +46,10 @@ ODE runs under two main categories of students:
 - Exam slots fill fast—select your centre quickly, or you might have to travel far.
 
 - You give one subject exam a day, not 2!
-- 
+  
 - You can give a reexam for the same subject too, but only once a month (means one in aug, then in sept) !
 
-- - If you give more exams for the same subject more than once, then only the best score out of all will be counted!
+- If you give more exams for the same subject more than once, then only the best score out of all will be counted!
 
 - You will get your results within 45 to 55 days after giving your last exam.
 
@@ -68,11 +69,11 @@ ODE runs under two main categories of students:
 ## 🧾 Registration & Attempts
 
 - Once you register, you’ll get a schedule with exam slots per subject.
-- 
+  
 - Each subject allows multiple attempts (as you can see in the datesheet), but not within the same month—only next month.
-- 
+  
 - If you feel your first attempt went poorly, you can register for a second attempt after the first exam.
-- 
+  
 - You can expect results within 45–55 days after the exam.
 
 ---
@@ -91,7 +92,7 @@ There are two ways to approach these exams as a failed student, depending on you
 ## Common ODE FAQs
 
 **I missed all 5 subjects in the public exam. Can I give ODE Exam?**
-- Yes Now you can! If you missed all your public exams, only then, not before real exams! 
+- Yes, Now you can! If you missed all your public exams, only then, not before real exams! 
 
 **When will I get my result?**
 - You can expect results within 45–55 days after your last exam.
@@ -119,8 +120,8 @@ There are two ways to approach these exams as a failed student, depending on you
 
 **Can I get a combined marksheet of my old board and NIOS?**
 - Only failed students using the ToC option can get a combined NIOS marksheet (with 2 ToC subjects + 3 ODE subjects).
-- TOC is only for = failed students
-- 
+- **TOC is only for = failed students**
+  
 - CBSE-passed students who registered under Dual/Part Enrollment will get a separate mark sheet for the passed subjects.
 
 **Are there practicals under ODE?**
