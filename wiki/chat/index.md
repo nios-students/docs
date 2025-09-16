@@ -16,7 +16,13 @@ When participating in third-party chat groups, please adhere to the following gu
 ## Chat Groups
 
 
+### Reddit
+NIOS subreddit for students by students here:  
+**[Visit r/Nios_unofficial](https://www.reddit.com/r/Nios_unofficial/)**
+
+
 ### Discord
+NIOS discord server for students by students here:  
 - **[Chat 1](https://discord.gg/T5K2Wffug8)**: General discussion group.
 
 
@@ -28,12 +34,8 @@ When participating in third-party chat groups, please adhere to the following gu
 - **[NEET Students](https://t.me/NEETNIOS)**: For students preparing for NEET.
 - **[IT/Computer Subjects](https://t.me/nios_freehelp_cs)**: For students studying IT-related or computer subjects.
 
-### Reddit
-You can find posts from the NIOS community on Reddit here:  
-**[Visit r/Nios_unofficial](https://www.reddit.com/r/Nios_unofficial/)**
 
 ## Official NIOS Contact Information
-
 ### Email Addresses
 - **Admission-Related**: [dirsss@nios.ac.in](mailto:dirsss@nios.ac.in)
 - **Books and Study Materials**: [mpdd@nios.ac.in](mailto:mpdd@nios.ac.in) or [studymaterial@nios.ac.in](mailto:studymaterial@nios.ac.in)
@@ -48,5 +50,5 @@ You can find posts from the NIOS community on Reddit here:
 - **Books and Study Materials**: 8178547494
 - **General Inquiries**: 1800-180-9393 (Toll-Free)
 
-## Administrator Contact
+## our, the NIOS unofficial community email 
 - **Email**: [unofficialnios@gmail.com](mailto:unofficialnios@gmail.com)
