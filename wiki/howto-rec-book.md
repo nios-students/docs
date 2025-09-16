@@ -28,7 +28,9 @@ PS: On your hallticket also specific dates aren't given.
 
 Ans: You **won't** get a Practical hallticket as your centre is same for both Practical and Theory exams. You **NEED** ask them. "When is my Practical Exam". **They will give date and time**.
 
-- Where should I submit the practical file??
+
+
+# Where should I submit the practical file??
 
 Ans: Offline at the practical examination as follows:
 -----------------------------
