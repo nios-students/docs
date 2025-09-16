@@ -52,15 +52,15 @@ Please view the table below:
 | 27   | 667 – Yoga Assistant                                |                 -                         |
 ----------------------------------------------------------------------------------------------------------
 
-- [How to make the practical file (Click to view)](/wiki/howto-rec-book)
+
+
+**[How to make the practical file (Click to view)](/wiki/howto-rec-book)**
 
 
 ## What is FA?
 
-FA (formative assessment) also known as FA PCP carries **50% of practical marks.** In these classes they'll help with making practical file and explain what to do practical exam.
+FA (formative assessment), also known as FA PCP, carries **50% of practical marks.** In these classes, they'll help with making a practical file and explain what to do for the practical exam.
 
-> [!NOTE]
-> **FA is only for Stream 1 students only.**
 
 **Exceptions**
 
@@ -71,19 +71,19 @@ b) NO FA PCP **marks** for [Vocational subjects](https://nios-students.pages.dev
 
 ## What is SA?
 
-SA (Summative Assessment) also kown as practical exam here other **50%** of the marks are given/scored.
+SA (Summative Assessment) is also known as a practical exam where the other **50%** of the marks are given/scored.
 
 **Exceptions**
 
 a) For Vocational subjects it's 100% cus no **FA PCP**
 
-b) For stream 2, 3, and 4 (ODE) **100%** of marks are scored/given during Practical exam.
+b) For streams 2, 3, and 4 (ODE) **100%** of marks are scored/given during the Practical exam.
 
 
 ## When is this?
 
 > [!NOTE]
-> For streams 3 and 4 you have to ask your center on the day of exam. For stream 1 and 2 specific dates & time aren't given. You have to visit the study centre one or two days **before the first exam** e.g., If the first exam is on 20th you have to go 17th or 19th.
+> For streams 3 and 4 you have to ask your centre on the day of the exam. For streams 1 and ,2, specific dates & times aren't given. Nios only gives the general date and hall ticket. You have to visit the study centre one or two days, cuz it's upto them to give the particular date and time, Visit **before the first practical exam** e.g., If the first exam is on 20th you have to go 17th or 19th.
 
 View the table below
 --------------------------------------------------------------------------
@@ -140,22 +140,25 @@ View the table below
 > [!NOTE]
 > **“Sub Code” is the subject code of the subject. The marks for submitting file comes under FA marks. In Secondary (10th) Passing in practical isn't required i.e. You need to get 33% of the maximum marks. It doesn't matter how you score these marks. For a example in science and tech you got 0 in TMA and practical but you got 33 or above in theory then you'll be considered passed. Here 'Passing marks' are given for completeness. [Source](https://nios.ac.in/media/documents/notification/yr2024/Exam/PG_2024.pdf)**
  
-- What kind of questions will they ask in viva?
-Basic stuff regarding the subject like full forms, basic terms why did choose this subject etc...
 
-- Will they ask to perform activities/experiments?
-Probably not even if they do it would basic stuff.
+ **What kind of questions will they ask in viva?**
+Basic stuff regarding the subject like full forms, basic terms, why did chose this subject etc...
+
+ **Will they ask to perform activities/experiments?**
+Probably not, even if they do it would basic stuff.
+
 - What will come in the writen paper?
 They will ask any experiments in your lab manual. You have to write the whole thing. Mostly it's like this ***Write any two from the given four***
 
 # Instructions/Checklist
 
 > [!TIP]
-> Go to the address given in the hallticket for specific time and date. The schedule should be displayed on there notice board or gate. **One or Two day Before the first exam**
+> Go to the address given in the hall ticket for a specific time and date. The schedule should be displayed on their notice board or gate. **One or Two day Before the first exam**
+
 **What to bring (On the day of the exam:**
 1. [ID card of NIOS](https://sdmis.nios.ac.in/registration/id-card) Login* 
-2. Pen and other stationary
-3. ID Proof like aadhaar Card Passport or PAN card etc.
+2. Pen and other stationery
+3. ID Proof like Aadhaar Card Passport or PAN card etc.
 4. [Practical hallticket](https://sdmis.nios.ac.in/search/hall-ticket)
 5. Record Book/Practical file
 6. Pad
@@ -164,8 +167,8 @@ They will ask any experiments in your lab manual. You have to write the whole th
 > All the documents **should in printed form** *The hallticket is released one week before the first exam*
 
 # Other stuff
-- The time for all Subjects is 3hrs
-- Remember at fill your information correct on the answer sheet
+- The time for all Subjects is 1.5hrs
+- Remember to fill in your information correctly on the answer sheet
 - Wear anything __formal clothing__
 
 # View Assessment
