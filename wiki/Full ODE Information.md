@@ -44,11 +44,15 @@ ODE runs under two main categories of students:
 
 - Exam slots fill fast—select your centre quickly, or you might have to travel far.
 
-- Only one a day!
+- You give one subject exam a day, not 2!
 - 
-- You can give a reexam for the same subject too, but only once a month!
+- You can give a reexam for the same subject too, but only once a month (means one in aug, then in sept) !
+
+- - If you give more exams for the same subject more than once, then only the best score out of all will be counted!
 
 - You will get your results within 45 to 55 days after giving your last exam.
+
+
 
 ---
 
