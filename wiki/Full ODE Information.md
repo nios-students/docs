@@ -37,11 +37,18 @@ ODE runs under two main categories of students:
 ## How Does the ODE Cycle Work?
 
 - ODE is available year-round except during April-May and October-November, when public board exams are held.
-- For 2024–25, it's anticipated that the next cycle begins around 20th–25th June (post NIOS April-May public exam results).
+
+- Registration for July To Sept ODE starts from the End of June or early July, and Registration for February to March ODE starts from the end of Jan
+
 - Registration opens after public exam results are out, 10 to 15 days before the ODE exam cycle begins.
+
 - Exam slots fill fast—select your centre quickly, or you might have to travel far.
-- Only one subject exam is allowed per week.
-- You will get your results within 40 to 50 days after giving your last exam.
+
+- Only one a day!
+- 
+- You can give a reexam for the same subject too, but only once a month!
+
+- You will get your results within 45 to 55 days after giving your last exam.
 
 ---
 
@@ -57,9 +64,12 @@ ODE runs under two main categories of students:
 ## 🧾 Registration & Attempts
 
 - Once you register, you’ll get a schedule with exam slots per subject.
+- 
 - Each subject allows multiple attempts (as you can see in the datesheet), but not within the same month—only next month.
+- 
 - If you feel your first attempt went poorly, you can register for a second attempt after the first exam.
-- You can expect results within 40–50 days after the exam.
+- 
+- You can expect results within 45–55 days after the exam.
 
 ---
 
@@ -77,10 +87,10 @@ There are two ways to approach these exams as a failed student, depending on you
 ## Common ODE FAQs
 
 **I missed all 5 subjects in the public exam. Can I give ODE Exam?**
-- No, you can't! You can only give a total of 4 subjects in ODE. If you missed all 5 subjects, you will have to enroll in the next public exam.
+- Yes Now you can! If you missed all your public exams, only then, not before real exams! 
 
 **When will I get my result?**
-- You can expect results within 40–50 days after the exam.
+- You can expect results within 45–55 days after your last exam.
 - (But keep in mind that NIOS can be slow.)
 
 **Syllabus for ODE Exams: Subjects?**
@@ -101,17 +111,22 @@ There are two ways to approach these exams as a failed student, depending on you
 **What is ToC (Transfer of Credit)?**
 - It allows you to transfer marks from up to 2 previously passed CBSE subjects into your NIOS marksheet.
 - Only available to board students who failed and are redoing 3 subjects via ODE.
+- **- TOC is only for = Faild students, not passed**
 
 **Can I get a combined marksheet of my old board and NIOS?**
 - Only failed students using the ToC option can get a combined NIOS marksheet (with 2 ToC subjects + 3 ODE subjects).
+- TOC is only for = failed students
+- 
 - CBSE-passed students who registered under Dual/Part Enrollment will get a separate mark sheet for the passed subjects.
 
 **Are there practicals under ODE?**
 - Yes. If the subject has practicals, you must complete both theory and practical exams.
 - (See [this page](/wiki/pr.html#practical-exam) for subjects with practicals.)
 
+**When will the practical exam happen??**
+ - On the day of the theory exam, you will have to ask your exam centre! When do you come for the practical exam?
 
-**Can I choose any center?**
+**Can I choose any centre in any state?**
 
 Yes, but centres get booked quickly. Select your exam centre as soon as registration opens.
 You can check the availability of seats for ODE at any center here: <a href="https://sdmis.nios.ac.in/registration/exam-center-seats" target="_blank" rel="noopener noreferrer"><b>Check ODE Exam Centre Seat Availability</b></a>.
@@ -138,7 +153,7 @@ You can check the availability of seats for ODE at any center here: <a href="htt
 
 **Fees & Documents?**
 - (Refer to the official NIOS fee chart or the image shared separately for exact amounts)
-  <img src="./assets/ode-fees.jpg">
+  <img src="./assets/ode-fees.jpg"> (this is old fees, the new ones are in NIOS prospect)
 - Fee varies per subject.
 - Extra charges apply for practicals.
 - TOC has an additional fee.
@@ -153,7 +168,7 @@ You can check the availability of seats for ODE at any center here: <a href="htt
 > If you are already a NIOS student and either failed in some subjects or want to give an improvement exam by ODE, the ODE portal opens after all the results of NIOS 12th & 10th are declared. You won't have to take admission again; you can register for ODE from your dashboard. You will get updates in both our subreddit and our Discord server.
 
 **For Other Board Students (CBSE, ICSE, State Board):**
-> You will enroll in stream 4 directly. The ODE portal opens after all the results of NIOS 12th & 10th are declared. You won't have to take admission again; you can register for ODE from your dashboard. You will get updates in both our subreddit and our Discord server.
+> You will enrol in stream 4 directly. The ODE portal opens after all the results of NIOS 12th & 10th are declared. You won't have to take admission again; you can register for ODE from your dashboard. You will get updates in both our subreddit and our Discord server.
 <br>
 <div align="center">
   <!-- <a href="./assets/Registration_Process_for_On-Demand Exams.png" target="_blank"> -->
