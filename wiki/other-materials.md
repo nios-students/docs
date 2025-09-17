@@ -4,9 +4,9 @@ The materials are applicable for all exams (On-demand and public), so please sto
 ----
 
 # Books, Guides, and More!
-- [Textbooks](https://nios.ac.in/online-course-material.aspx) and [Vocational Books (in .pdf)](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1nL-EvabkRTi)
+- [NIOS Textbooks PDF ](https://nios.ac.in/online-course-material.aspx) and [Vocational Books (in .pdf)](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1nL-EvabkRTi)
 
-- [Guides](https://drive.google.com/drive/folders/10IbqMO8jnsQntDMfeoQWKiWxfcpYBZqo?usp=drive_link)  
+- [Guides books and stuff](https://drive.google.com/drive/folders/10IbqMO8jnsQntDMfeoQWKiWxfcpYBZqo?usp=drive_link)  
   **Physical Education, Physics, Maths, Chemistry, Science & Technology (10th Sec), Home Science (10th Sec), and English (12th Sr. Sec)**
 
 - [English formats of letters, e-mails, and memos (Applicable for both Secondary and Senior Secondary 10th and 12th)](https://drive.google.com/file/d/16_x7g3z3xabTg_a1eRRZBhVV8LLhFiD1/view?usp=drivesdk)
@@ -16,13 +16,13 @@ The materials are applicable for all exams (On-demand and public), so please sto
 
 - [Imp Q&A Sr. Sec (12th) (By DOON WINNER)](https://drive.google.com/drive/folders/1FwWxlIHr12S0br7IsxjNkSf2idZf-Ktu?usp=drive_link)
 
-- [Student-made notes](https://drive.google.com/drive/folders/1ttDPhDMNFK3uRudaJWie83mTeVgvmGo_?usp=drive_link)  
-  **Maths (311), Chemistry (313), English (302) (Sr. Sec 12th), Introduction to Laws (338), Data Entry Operations (336) (12th Sr. Sec), Business Studies (Sr. Sec 12th), English (202) (Sec 10th) and Psychology (12th Sr.Sec)**
+- [**Student-made notes**](https://drive.google.com/drive/folders/1ttDPhDMNFK3uRudaJWie83mTeVgvmGo_?usp=drive_link)  
+  **Maths (311), Chemistry (313), English (302) (Sr. Sec 12th), Introduction to Laws (338), Data Entry Operations (336) (12th Sr. Sec), Business Studies and Psychology (12th Sr.Sec), English (202) (Sec 10th)**
 
 - [Terminal Answers](https://drive.google.com/drive/folders/1QxgVf9rmN91oStaDyrM_2IXtsFgZCL-K?usp=drive_link)  
   Physics, Mathematics, Chemistry, and Biology. For subjects or lessons not available in the above link, check [here for Sr. Sec (12th)](https://brainly.in/textbook-solutions/book-sets/s-nios-board/c-class-12) and [here for Sec (10th)](https://brainly.in/textbook-solutions/book-sets/s-nios-board/c-class-10)
-
-- [Brief summaries for both Secondary and Senior Secondary **10th and 12th**](https://www.flexiprep.com/NIOS-Notes)
+ 
+- [Brief summaries / kinda notes for both Secondary and Senior Secondary **10th and 12th**](https://www.flexiprep.com/NIOS-Notes)
 
 ---
 
@@ -60,17 +60,24 @@ The materials are applicable for all exams (On-demand and public), so please sto
 
 ---
 
-# TMA
-[TMA **2024-25**](https://drive.google.com/drive/folders/1QPWsCnWQl6BRnUZwvC41ZAzkqy_XJ7q7?usp=drive_link)
+# Solved TMAs
+[TMA **2025**](https://drive.google.com/drive/folders/1QPWsCnWQl6BRnUZwvC41ZAzkqy_XJ7q7?usp=drive_link)
 
 ---
 
 # Question Papers of Previous Year's Examination
-- PYQs of April-May 2024 [Sr. Secondary (12th)](https://drive.google.com/drive/folders/1pPiI4xloWBmxJ05zej-b-WDO2KzyKlnr) and [Secondary (10th)](https://drive.google.com/drive/folders/1TeVxkTpZndUQNLPmUMGjQaekqa6-D7QC)
-- [PYQs **October-November 2024**](https://drive.google.com/drive/folders/1upgHPV4moRE72l4IHVCE9FpkNMbF8Kvh)
+**NIOS Website Provides all PYQS, Just Not the current year and ODE ones, for that our student community got you covered**
+
 - [**Official PYQs page (nios.ac.in)**](https://nios.ac.in/student-information-section/question-paper-of-previous-year-examination-academic.aspx)
-- [ODE Folder](https://drive.google.com/drive/folders/15Ze19-paWosIyQF0LdCoBA5WQg6OxHFk?usp=drive_link)
+  
 - [April 2025](https://drive.google.com/drive/folders/1zoQp9Uy2mh7MhW6qEGtb6sfJnE9TSck2?usp=drive_link)
+  
+- [PYQs **October-November 2024**](https://drive.google.com/drive/folders/1upgHPV4moRE72l4IHVCE9FpkNMbF8Kvh)
+  
+- PYQs of April-May 2024 [Sr. Secondary (12th)](https://drive.google.com/drive/folders/1pPiI4xloWBmxJ05zej-b-WDO2KzyKlnr) and [Secondary (10th)](https://drive.google.com/drive/folders/1TeVxkTpZndUQNLPmUMGjQaekqa6-D7QC)
+  
+- **[ODE PYQS Folder for Practice](https://drive.google.com/drive/folders/15Ze19-paWosIyQF0LdCoBA5WQg6OxHFk?usp=drive_link)**
+
 
 ---
 
