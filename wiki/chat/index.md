@@ -23,7 +23,7 @@ NIOS subreddit for students by students here:
 
 ### Discord
 NIOS discord server for students by students here:  
-- **[Chat 1](https://discord.gg/T5K2Wffug8)**: General discussion group.
+- **[NIOS UNOFFICIAL DISCORD SERVER](https://discord.gg/T5K2Wffug8)**: General discussion group.
 
 
 ### WhatsApp
