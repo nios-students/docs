@@ -15,7 +15,7 @@ features:
     details: Useful How-To Guides for helping you through your NIOS Journey!
     link: /home/how-to/
   - title: Come Hang
-    details: Chat groups to network and find like-minded peers
+    details: NIOS STUDENTS Chat groups to network and find like-minded peers
     link: /wiki/chat/
   - title: Notifications
     details: Stay updated with important dates and announcements for students
