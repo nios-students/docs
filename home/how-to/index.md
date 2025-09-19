@@ -26,7 +26,7 @@ features:
     details: A simple Student-written guide on what to do during Practical Exams
     link: /wiki/pr
   - title: Theory Exam
-    Details: A simple Student-written guide on what to do during Theory Exams
+    details: A simple Student-written guide on what to do during Theory Exams
     link: /wiki/th
   - title: Subject-Wise Handbooks
     details: Easy-to-use handbooks for various NIOS subjects/Streams
