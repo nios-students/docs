@@ -1,10 +1,11 @@
-Last updated 🕟:**28-07-2025, 10:58 AM IST**
+Last updated
+🕟:**19-09-2025, 11:15 AM (IST)**
 
 The materials are applicable for all exams (On-demand and public), so please stop asking that.
 ----
 
 # Books, Guides, and More!
-- [NIOS Textbooks PDF ](https://nios.ac.in/online-course-material.aspx) and [Vocational Books (in .pdf)](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1nL-EvabkRTi)
+- [NIOS Textbooks .PDF](https://nios.ac.in/online-course-material.aspx) and [Vocational Books (in .PDF)](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1nL-EvabkRTi)
 
 - [Guides books and stuff](https://drive.google.com/drive/folders/10IbqMO8jnsQntDMfeoQWKiWxfcpYBZqo?usp=drive_link)  
   **Physical Education, Physics, Maths, Chemistry, Science & Technology (10th Sec), Home Science (10th Sec), and English (12th Sr. Sec)**
@@ -17,7 +18,7 @@ The materials are applicable for all exams (On-demand and public), so please sto
 - [Imp Q&A Sr. Sec (12th) (By DOON WINNER)](https://drive.google.com/drive/folders/1FwWxlIHr12S0br7IsxjNkSf2idZf-Ktu?usp=drive_link)
 
 - [**Student-made notes**](https://drive.google.com/drive/folders/1ttDPhDMNFK3uRudaJWie83mTeVgvmGo_?usp=drive_link)  
-  **Maths (311), Chemistry (313), English (302) (Sr. Sec 12th), Introduction to Laws (338), Data Entry Operations (336) (12th Sr. Sec), Business Studies and Psychology (12th Sr.Sec), English (202) (Sec 10th)**
+  **Maths (311) (12th Sr.Sec), Chemistry (313), English (302) (Sr. Sec 12th), Introduction to Laws (338), Data Entry Operations (336) (12th Sr. Sec), Business studies, Psychology (12th Sr.Sec), English (302) (Sr.Sec 12th), Pol Sci., and  Sociology (Sr.Sec 12th),**
 
 - [Terminal Answers](https://drive.google.com/drive/folders/1QxgVf9rmN91oStaDyrM_2IXtsFgZCL-K?usp=drive_link)  
   Physics, Mathematics, Chemistry, and Biology. For subjects or lessons not available in the above link, check [here for Sr. Sec (12th)](https://brainly.in/textbook-solutions/book-sets/s-nios-board/c-class-12) and [here for Sec (10th)](https://brainly.in/textbook-solutions/book-sets/s-nios-board/c-class-10)
@@ -34,13 +35,13 @@ The materials are applicable for all exams (On-demand and public), so please sto
 - [Chemistry-313](https://drive.google.com/file/d/1ztU0LXRhlxP-Vztslwhh9-51Wjxn20wo/view?usp=drivesdk)
 - [Biology-314](https://drive.google.com/file/d/1ooRji1IkWJ8OwPGnSqkMkPk2jmSSuXRX/view?usp=drivesdk)
 - [Mass Communication-335](https://drive.google.com/file/d/15yFRnuislqd8L_Yy6Adln0mi6UWXmYlz/view?usp=drivesdk)
-- [Geography-316](https://drive.google.com/file/d/1siXW5NvqsjoItMmtHnW98jb6g0BAKUks/view?usp=drivesdk)
-- [Painting-**332 (12th)**](https://drive.google.com/file/d/1iTsm4f8ilwStpYmSv8-LD32YoY1erlgs/view?usp=drivesdk)
-- [Home Science-321](https://drive.google.com/file/d/1IFmpCY7m1380q8Q6b_Fr7-aZkE1jtn9R/view?usp=drivesdk)
+- [Geography-316 (Sr.Sec 12th)](https://drive.google.com/file/d/1siXW5NvqsjoItMmtHnW98jb6g0BAKUks/view?usp=drivesdk)
+- [Painting-**332 ( Sr.Sec 12th)**](https://drive.google.com/file/d/1iTsm4f8ilwStpYmSv8-LD32YoY1erlgs/view?usp=drivesdk)
+- [Home Science-321 (Sr.Sec 12th)](https://drive.google.com/file/d/1IFmpCY7m1380q8Q6b_Fr7-aZkE1jtn9R/view?usp=drivesdk)
 - [Physical Education and Yoga-373](https://drive.google.com/file/d/1uP8wLf8CWOa2ycGFyqpOtNuiWZMc2hdS/view?usp=drivesdk)
 - [Library and Information Science-339](https://drive.google.com/drive/folders/1gmlUhPul53yaXm4eWGqQygnX_KgIJNpB)
 - [Early Childhood Care And Education-376](https://drive.google.com/drive/folders/1gmlUhPul53yaXm4eWGqQygnX_KgIJNpB)
-- [VOC-Computer Hardware Assembly and Maintenance-663](https://drive.google.com/drive/folders/1FePkpftsoo63xWzrQDX6mFYVivPkb4kL)
+- [VOC-Computer Hardware Assembly and Maintenance-663](https://drive.google.com/drive/folders/1FePkpftsoo63xWzrQDX6mFYVivPkb4kL)[*](https://nios.ac.in/media/documents/notification/yr2025/Vocational/Notification-10-2025.pdf)
 - [VOC-Computer & Office Application-631](https://drive.google.com/file/d/165UaWHD_6GEG8igXil3k7Fgi5tymbXJT/view?usp=drivesdk)
 - [VOC-Yoga Assistant-667](https://drive.google.com/drive/folders/1ow4Bpx6-tR8tT2IXnFFX7AwAJpyj7sy2)
 - [VOC-Web Designing And Development-622](https://drive.google.com/file/d/1gvNC4RnVnDK6TjrnTzxLAqm0iGe4EKlS/view?usp=drive_link)
@@ -61,7 +62,7 @@ The materials are applicable for all exams (On-demand and public), so please sto
 ---
 
 # Solved TMAs
-[TMA **2025**](https://drive.google.com/drive/folders/1QPWsCnWQl6BRnUZwvC41ZAzkqy_XJ7q7?usp=drive_link)
+[TMA **2024-25**](https://drive.google.com/drive/folders/1QPWsCnWQl6BRnUZwvC41ZAzkqy_XJ7q7?usp=drive_link)
 
 ---
 
@@ -76,16 +77,16 @@ The materials are applicable for all exams (On-demand and public), so please sto
   
 - PYQs of April-May 2024 [Sr. Secondary (12th)](https://drive.google.com/drive/folders/1pPiI4xloWBmxJ05zej-b-WDO2KzyKlnr) and [Secondary (10th)](https://drive.google.com/drive/folders/1TeVxkTpZndUQNLPmUMGjQaekqa6-D7QC)
   
-- **[ODE PYQS Folder for Practice](https://drive.google.com/drive/folders/15Ze19-paWosIyQF0LdCoBA5WQg6OxHFk?usp=drive_link)**
+- [**ODE PYQS Folder for Practice**](https://drive.google.com/drive/folders/15Ze19-paWosIyQF0LdCoBA5WQg6OxHFk?usp=drive_link)**
 
 
 ---
 
 # Credits
-**Special thanks!! to anyone who scanned and sent their papers**
+**Special thanks! to anyone who scanned and sent their papers/ guides**
 
 Compiler of PYQs (Apr 24 & Oct 24), practical files, handwritten TMAs, VOC books, writer of Introduction to Laws notes, practical files of 336, 663, 330, and person in charge of maintaining this document:  
-**Kotaro @pingforhelp**
+**Kotaro aka @pingforhelp**
 
 Compiler guides for Physics and Chemistry:  
 **Sid**
@@ -111,7 +112,7 @@ Editor of English formats and formatter of this document:
 Writer of student-made notes of Psychology¹:
 **u/Sure-Woodpecker-3952**
 
-Writer of student-made notes of Pol Sci., sociology, Psychology², Maths formula-sheets, and English[```*```](https://www.reddit.com/r/Nios_unofficial/s/lV3SKa2Guk) [u/advanced-novel3307](https://www.reddit.com/u/Advanced-Novel3307/s/fcBIilUn4J)
+Writer of student-made notes of Pol Sci., sociology, Psychology², Maths formula-sheets, and English[```*```](https://www.reddit.com/r/Nios_unofficial/s/lV3SKa2Guk): u/advanced-novel3307
 
 ---
 
