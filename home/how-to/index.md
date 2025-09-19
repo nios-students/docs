@@ -19,9 +19,6 @@ features:
   - title: TMAs
     details: A Simple Guide on Creating Tutor-Marked-Assignments
     link: wiki/how to make TMA
-  - title: Apply For a Scribe
-    details: A simple guide on Applying for a Scribe
-    link: /wiki/howto's-scribe
   - title: Practical File
     details: A Simple Guide on Creating Practical Files
     link: /wiki/howto-rec-book
@@ -29,10 +26,13 @@ features:
     details: A simple Student-written guide on what to do during Practical Exams
     link: /wiki/pr
   - title: Theory Exam
-    details: A simple Student-written guide on what to do during Theory Exams
+    Details: A simple Student-written guide on what to do during Theory Exams
     link: /wiki/th
   - title: Subject-Wise Handbooks
-    details: Easy to use handbooks for various NIOS subjects/Streams
+    details: Easy-to-use handbooks for various NIOS subjects/Streams
     link: /wiki/Seb_Hand_Books
+    - title: Apply For a Scribe
+    details: A simple guide on Applying for a Scribe
+    link: /wiki/howto's-scribe
 
 ---
