@@ -108,8 +108,10 @@ English formats:
 Editor of English formats and formatter of this document:  
 **@q-Ur aka CMO**
 
-Writer of student-made notes of Psychology:
+Writer of student-made notes of Psychology¹:
 **u/Sure-Woodpecker-3952**
+
+Writer of student-made notes of Pol Sci., sociology, Psychology², Maths formula-sheets, and English[```*```](https://www.reddit.com/r/Nios_unofficial/s/lV3SKa2Guk) [u/advanced-novel3307](https://www.reddit.com/u/Advanced-Novel3307/s/fcBIilUn4J)
 
 ---
 
