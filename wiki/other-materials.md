@@ -27,6 +27,22 @@ The materials are applicable for all exams (On-demand and public), so please sto
 
 ---
 
+# Question Papers of Previous Year's Examination
+**NIOS Website Provides all PYQS, Just Not the current year and ODE ones, for that our student community got you covered**
+
+- [**Official PYQs page (nios.ac.in)**](https://nios.ac.in/student-information-section/question-paper-of-previous-year-examination-academic.aspx)
+  
+- [April 2025](https://drive.google.com/drive/folders/1zoQp9Uy2mh7MhW6qEGtb6sfJnE9TSck2?usp=drive_link)
+  
+- [PYQs **October-November 2024**](https://drive.google.com/drive/folders/1upgHPV4moRE72l4IHVCE9FpkNMbF8Kvh)
+  
+- PYQs of April-May 2024 [Sr. Secondary (12th)](https://drive.google.com/drive/folders/1pPiI4xloWBmxJ05zej-b-WDO2KzyKlnr) and [Secondary (10th)](https://drive.google.com/drive/folders/1TeVxkTpZndUQNLPmUMGjQaekqa6-D7QC)
+  
+- [**ODE PYQS Folder for Practice**](https://drive.google.com/drive/folders/15Ze19-paWosIyQF0LdCoBA5WQg6OxHFk?usp=drive_link)**
+
+
+---
+
 # Practical Files
 **Senior Secondary (12th)**  
 - [Computer Science-330](https://drive.google.com/drive/folders/1B4LC8LNbWwBj6i1u6VBKf4LzDcfGD1UX)
@@ -63,21 +79,6 @@ The materials are applicable for all exams (On-demand and public), so please sto
 
 # Solved TMAs
 [TMA **2024-25**](https://drive.google.com/drive/folders/1QPWsCnWQl6BRnUZwvC41ZAzkqy_XJ7q7?usp=drive_link)
-
----
-
-# Question Papers of Previous Year's Examination
-**NIOS Website Provides all PYQS, Just Not the current year and ODE ones, for that our student community got you covered**
-
-- [**Official PYQs page (nios.ac.in)**](https://nios.ac.in/student-information-section/question-paper-of-previous-year-examination-academic.aspx)
-  
-- [April 2025](https://drive.google.com/drive/folders/1zoQp9Uy2mh7MhW6qEGtb6sfJnE9TSck2?usp=drive_link)
-  
-- [PYQs **October-November 2024**](https://drive.google.com/drive/folders/1upgHPV4moRE72l4IHVCE9FpkNMbF8Kvh)
-  
-- PYQs of April-May 2024 [Sr. Secondary (12th)](https://drive.google.com/drive/folders/1pPiI4xloWBmxJ05zej-b-WDO2KzyKlnr) and [Secondary (10th)](https://drive.google.com/drive/folders/1TeVxkTpZndUQNLPmUMGjQaekqa6-D7QC)
-  
-- [**ODE PYQS Folder for Practice**](https://drive.google.com/drive/folders/15Ze19-paWosIyQF0LdCoBA5WQg6OxHFk?usp=drive_link)**
 
 
 ---
