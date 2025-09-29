@@ -12,18 +12,20 @@ ODE runs under two main categories of students:
 - For students who have failed in one or more subjects in their previous board exams.
 - NIOS ODE allows them to reappear in those subjects—or even change the subject (to an easier elective or one of their choice).
 
+#### 🧾 ToC (Transfer of Credit)
+- You can transfer up to two passed subjects' marks from your original marksheet (e.g., CBSE) to NIOS.
+- Final result: A combined NIOS marksheet showing 5 subjects (2 from CBSE, 3 from ODE).
+   **TOC option is only for = failed students**
+
 **📝 Important (If you are going for TOC):**
 - Even if you failed in just one subject (e.g., Physics), you must choose at least 3 subjects to appear for under ODE if you do TOC. These can be:
   - Failed subjects
   - New subjects (see below for options)
   - Previously passed subjects (to improve score or make up the required marks)
 
-#### 🧾 ToC (Transfer of Credit)
-- You can transfer up to two passed subjects' marks from your original marksheet (e.g., CBSE) to NIOS.
-- Final result: A combined NIOS marksheet showing 5 subjects (2 from CBSE, 3 from ODE).
-   **TOC option is only for = failed students**
 
-### 2. CBSE Passed Students (Dual/Part Admission)
+
+### 2. Passed Students (Dual/Part Admission)
 - For students who have already cleared Class 10 or 12 but want to add new subjects for:
   - College eligibility
   - Course requirements
@@ -35,7 +37,7 @@ ODE runs under two main categories of students:
 
 ---
 
-## How Does the ODE Cycle Work?
+## How Does the ODE Exam Work?
 
 - ODE is available year-round except during April-May and October-November, when public board exams are held.
 
