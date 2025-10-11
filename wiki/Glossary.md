@@ -1,9 +1,11 @@
 
-
+**Here our WIKIs Consist Almost All the help you need for free! You won't have to ask anyone for most of the doubts!<br>
+So, Just come here, find your quarry, or just search the keyword in the search bar regarding  your problem!<br>
+Like -- "Admission", "STREAM 1", "ODE", " TMA " , "PCP",  "Practical", "pyqs"**<br>
   
 
 
-  The Following Are Some Commonly Used Acronyms.
+
 
 # All The Terminologies/Acronyms That Everyone Needs To Know:
 
@@ -74,7 +76,7 @@
 - RC: Regional Centre (Small NIOS Office In Each State, where you go for all NIOS help)
 - VOC: Vocational Courses/Subjects
 - ODE - [On-Demand Exam (NIOS improvement exam)](/wiki/Full%20ODE%20Information.html)
-- 
+  
 - OBE: Open Basic Education <br>
   (OBE Level A: Equivalent to Class I-III
   <br> OBE Level B: Equivalent to Class IV-V
@@ -84,4 +86,18 @@
 - VOS: Virtual Open Schooling
 - AVI: Accredited Vocational institutions
 - SSS: Student Support Services [Link](https://nios.ac.in/departmentsunits/student-support-services.aspx)
+
+
+---------------------
+
+
+# ❤️ If you ever felt that this  community, our resources, or our members were helpful to you in any sense in any part of your NIOS journey —
+then feel free to
+## [buy us a cup of chai too (donation)](https://nios-students.pages.dev/donation/). 
+
+It helps us keep this community running, do more cool stuff, and support even more souls out there.
+
+At the end of the day — you all are great. 🫶
+
+## 「NIOS Unofficial」
 
