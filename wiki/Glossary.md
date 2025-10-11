@@ -35,29 +35,31 @@
 
 ---------------------------------
 
- <details>
- <summary style="color: #1976d2; font-weight: bold;"> <h1  >  All The NIOS Results Related Acronyms:- </h1> </summary> 
+ <h1> 
+  <details>
+  <summary style="color: #1976d2; font-weight: bold;">  All The NIOS Results Related Acronyms:- </summary> 
+        
+      - Pass: Means Pass in all subjects
+      - P: Means you passed in **one** subject  
+      - XXXX: Took Some Subjects In NIOS and Passed them i.e., [Dual Enrollment or Part admission.](https://nios-students.pages.dev/wiki/                                       Admissions.html#dual-enrollment-or-part-admission)
+      - AB - Absent for Exam
+      - SYT: Subject Yet To Be Cleared In Theory (You Will Give Theroy Exam Again)
+      - SYP: Subject Yet to Be Cleared In Practical (You Will Give Practicals Again)
+      - SYC: Subject Yet to be Cleared (You Will give Both Theroy And Practical Again) (IF you subject has Practicals)
+      - IMPR: Pass and Appeared for Improvement
+      - ADDL: Pass and Appeared for Additional Subject
+      - RW: Result Withheld (Mostly When Student Is Caught Cheating)
+      - RL: Result Later
+      - UFM: Using Of Unfair Means 
+      - NC: Not computable as the required data for result calculation is unavailable
       
-    - Pass: Means Pass in all subjects
-    - P: Means you passed in **one** subject  
-    - XXXX: Took Some Subjects In NIOS and Passed them i.e., [Dual Enrollment or Part admission.](https://nios-students.pages.dev/wiki/                     Admissions.html#dual-enrollment-or-part-admission)
-    - AB - Absent for Exam
-    - SYT: Subject Yet To Be Cleared In Theory (You Will Give Theroy Exam Again)
-    - SYP: Subject Yet to Be Cleared In Practical (You Will Give Practicals Again)
-    - SYC: Subject Yet to be Cleared (You Will give Both Theroy And Practical Again) (IF you subject has Practicals)
-    - IMPR: Pass and Appeared for Improvement
-    - ADDL: Pass and Appeared for Additional Subject
-    - RW: Result Withheld (Mostly When Student Is Caught Cheating)
-    - RL: Result Later
-    - UFM: Using Of Unfair Means 
-    - NC: Not computable as the required data for result calculation is unavailable
-    
-    **If you feel there is or was any error in your NIOS result, you should:**
-    
-    > [!TIP]
-    > Send an email to [**rcell@nios.ac.in**](mailto:rcell@nios.ac.in) with all the necessary supporting docs and Also Visit or Call the NIOS                [Regional Center](https://web.archive.org/web/20220216190435/https://sdmis.nios.ac.in/home/regional-center) in your area. (not your study              centre, but the official Regional Centre).
-
-  </details>
+      **If you feel there is or was any error in your NIOS result, you should:**
+      
+      > [!TIP]
+      > Send an email to [**rcell@nios.ac.in**](mailto:rcell@nios.ac.in) with all the necessary supporting docs and Also Visit or Call the NIOS                                 [Regional Center](https://web.archive.org/web/20220216190435/https://sdmis.nios.ac.in/home/regional-center) in your area. (not your study              centre,           but the official Regional Centre).
+  
+   </details>
+  </h1>
 
 
 ----------------------------------
