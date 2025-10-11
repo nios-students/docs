@@ -23,23 +23,26 @@ Still working on it. Any questions regarding this subject, please mail to unoffi
 - From 1st March to 15th March	With Late Fee of ₹910
 
 # Important Dates
-1. TMA uploading **June**
-2. Exam fees payment **June**
-3. PCP (30 classes) **May**
-4. Last date for TMA submission **31 July**
-5. FA PCP (05 classes) **August**
-6. Results of TMA*
-7. Practical exam/SA **September (second week)** 
-8. Theory exam/PE **October-November**
-9. View assessment of SA **3 weeks from the practical exam**
-10. Results **December/January***
-11. ARe-evaluation/re-check **20 days after results are released**
-12. Physical documents **April**
-13. Results of re-evaluation/re-checking **May**
+|    | Event / Activity                           | Month / Time Period                      |
+|----|--------------------------------------------|------------------------------------------|
+| 1  | TMA uploading Starts                       |  Mid of June                              |
+| 2  | Exam fees payment                          | Mid of June                              |
+| 3  | PCP (30 classes)                           | May                                      |
+| 4  | Last date for TMA submission               | 31 July                                  |
+| 5  | FA PCP (05 classes)                        | August                                   |
+| 6  | Results of TMA*                            | —                                        |
+| 7  | Practical exam / SA                        | September (second week)                  |
+| 8  | Theory exam / PE                           | October – November                       |
+| 9  | View assessment of SA                      | 3 weeks from the practical exam          |
+| 10 | Results                                    | December / January*                      |
+| 11 | Re-evaluation / Re-check                   | 20 days after results are released       |
+| 12 | Physical documents                         | April                                    |
+| 13 | Results of re-evaluation / re-checking     | 60 days                                  |
+
 
 **What is TMA? How to make it? What is PCP? What Practical? How to Study? What to do? What not to do?**
 - Don't worry pookies, Our community got you coverd for all this
-- Just [Click here](./Glossary.md) 
+- Just [Click here](/wiki/Glossary.html#bonus) 
 
 > [!NOTE]  
-> NIOS is lazy, so getting marks for TMAs takes time. Everyone gets their marks around November.
+> NIOS is lazy, so getting marks for TMAs & SA PCP takes time. Everyone gets their marks around November.
