@@ -32,7 +32,7 @@
    **(Keep in mind you will have to make this first page for all subjects that you have )**
 
     <details>
-    <summary style="color: #1976d2; font-weight: bold;">Click to view the first page</summary>
+    <summary style="color: #1976d2; font-weight: bold;"> ## Click to view the first page</summary>
 
       <img src="./assets/2nd-TMA-first-Page .jpg">
     </details>
