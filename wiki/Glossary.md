@@ -36,7 +36,7 @@
 ---------------------------------
 
  <details>
-    <h1> <summary style="color: #1976d2; font-weight: bold;">  All The NIOS Results Related Acronyms:-</h1></summary>
+    <h1> <summary style="color: #1976d2; font-weight: bold;">  All The NIOS Results Related Acronyms:- </summary> </h1>
       
     - Pass: Means Pass in all subjects
     - P: Means you passed in **one** subject  
