@@ -41,11 +41,11 @@ NIOS discord server for students by students here:
 
 - **Admission-Related**: [dirsss@nios.ac.in](mailto:dirsss@nios.ac.in)
   
-- **Regional Centre Contacts**: [Regional Centre Archive](https://web.archive.org/web/20220216190435/https://sdmis.nios.ac.in/home/regional-center)
+- **Regional Centre Contacts**: [Regional Centre Archive](https://web.archive.org/web/20220216190435/https://sdmis.nios.ac.in/home/regional-center) <br>
   <small>
-    Visiting the regional center is  is most advised for any serious issue or admission issue! 
+    (Visiting the regional center is  is most advised for any serious issue or admission issue! 
    You have their email here too --- just put "rc" in email for  regional center.
-   rd is for - regional director
+   rd is for - regional director)
 </small>
   
 - **Books and Study Materials**: [mpdd@nios.ac.in](mailto:mpdd@nios.ac.in) or [studymaterial@nios.ac.in](mailto:studymaterial@nios.ac.in)
