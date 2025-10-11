@@ -37,18 +37,33 @@ NIOS discord server for students by students here:
 
 ## Official NIOS Contact Information
 ### Email Addresses
+- **General Inquiries**:NIOS Learner support center [lsc@nios.ac.in](mailto:lsc@nios.ac.in)
+
 - **Admission-Related**: [dirsss@nios.ac.in](mailto:dirsss@nios.ac.in)
-- **Books and Study Materials**: [mpdd@nios.ac.in](mailto:mpdd@nios.ac.in) or [studymaterial@nios.ac.in](mailto:studymaterial@nios.ac.in)
-- **On-Demand Examination (ODE)**: [odes@nios.ac.in](mailto:odes@nios.ac.in)
-- **Results**: [rcell@nios.ac.in](mailto:rcell@nios.ac.in)
-- **Subject-Specific Questions**: [Ask Your Teacher](https://nios.ac.in/contact-us/ask-your-teacher.aspx)
-- **General Inquiries**: [lsc@nios.ac.in](mailto:lsc@nios.ac.in)
-- **Complaints and Feedback**: [cp@nios.ac.in](mailto:cp@nios.ac.in)
+  
 - **Regional Centre Contacts**: [Regional Centre Archive](https://web.archive.org/web/20220216190435/https://sdmis.nios.ac.in/home/regional-center)
+  <small>
+    Visiting the regional center is  is most advised for any serious issue or admission issue! 
+   You have their email here too --- just put "rc" in email for  regional center.
+   rd is for - regional director
+</small>
+  
+- **Books and Study Materials**: [mpdd@nios.ac.in](mailto:mpdd@nios.ac.in) or [studymaterial@nios.ac.in](mailto:studymaterial@nios.ac.in)
+  
+- **Results**: [rcell@nios.ac.in](mailto:rcell@nios.ac.in)
+  
+- **On-Demand Examination (ODE)**: [odes@nios.ac.in](mailto:odes@nios.ac.in)
+  
+- **Subject-Specific Questions**: [Ask Your Teacher](https://nios.ac.in/contact-us/ask-your-teacher.aspx)
+  
+- **Complaints and Feedback**: [cp@nios.ac.in](mailto:cp@nios.ac.in)
+  
+- **Victim/witness of bribery** : complain on email [vigilance@nios.ac.in](mailto:vigilance@nios.ac.in)
+
 
 ### Phone Numbers
 - **Books and Study Materials**: 8178547494
-- **General Inquiries**: 1800-180-9393 (Toll-Free)
+- **General Inquiries(LSC)**: 1800-180-9393 (Toll-Free)
 
 ## our, the NIOS unofficial community email 
 - **Email**: [unofficialnios@gmail.com](mailto:unofficialnios@gmail.com)
