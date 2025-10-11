@@ -5,11 +5,25 @@
 
 ## What is TMA?
 
-- **TMA (Tutor Marked Assignment)**, also known as **Internal Assessment (IA)** in Secondary/Sr. Secondary examinations, are written assignments that carry **20% weightage** of the theory marks as part of continuous and comprehensive evaluation.
+**(Tldr - TMA is IMP, all you do in this is - Nios gives 5 questions per subject in your dashboard, you make a file,  write the questions in it with solutions, and upload them in pdf format before the deadline otherwise cry later, you get marks for these out of 20 on the dashboard)**
+
+
+- **TMA (Tutor Marked Assignment)**, also known as **Internal Assessment (IA)** in Secondary/Sr. Secondary examinations are written assignments that carry **20% weightage** of the theory marks as part of continuous and comprehensive evaluation.
 - These marks will be reflected in the **mark-sheet** alongside the **theory marks** of the external examination, which carry **80% weightage** (of theory) in each subject.
-- **Side Note**: TMA is applicable **only for Stream 1**.
+- 
+- **Side Note**: TMA is **only for Stream 1 Students**.
 - TMA marking scheme [see here](https://www.reddit.com/r/Nios_unofficial/comments/1l8jzfi/nios_marking_scheme_with_tma_adjustment_practical/).
 - you can also check this reddit post for more info [here](https://www.reddit.com/r/Nios_unofficial/comments/1ljz4b4/simple_guide_on_tma/?share_id=frFdYYb5bWT2EEag5U_7E&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1)
+
+
+
+**CHECK DEADLINE/DATES:**
+
+| BLOCK       | TMA DATES                              |
+|-------------|----------------------------------------|
+| S1 BLOCK 1  | Starts in November, due on 31st January|
+| S1 BLOCK 2  | Starts in June, due on 31st July       |
+
 
 ## How to Make TMA?
 
@@ -81,12 +95,6 @@ It's on the blue section or dashboard->My Details.
 
 📃 TMA will be provided on Stream-1 learner's NIOS dashboard. The learner is required to solve & upload the Assignment (TMA) in PDF form online through their NIOS Dashboard before the deadline.
 
-**CHECK DEADLINE/DATES:**
-
-| BLOCK       | TMA DATES                              |
-|-------------|----------------------------------------|
-| S1 BLOCK 1  | Starts in November, due on 31st January|
-| S1 BLOCK 2  | Starts in June, due on 31st July        |
 
 ---
 
