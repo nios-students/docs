@@ -28,7 +28,7 @@
 - What happens in Practical PCP Class (FA PCP):              [Link To Section](/wiki/Exams-Assignments.md#pcp-classes-practical-pcp-fa-practical-exam-sa)
 - How To Make Practical Files for Practical Exam (SA PCP):   [Link To Section](/wiki/howto-rec-book.html)
   
-- Read Real Experiences of other students:                   [Link to section](https://nios-students.pages.dev/wiki/experiences.html#nios-student-experiences-reviews)
+- Read Real Experiences of other students:                   [Link to section](https://nios-students.pages.dev/wiki/experiences.html#nios-student-experiences-reviews)  <br>
   <small>(not cherry picked! It's just not alot of people make these posts,
   If you see more posts, then tell us to add)</small>
 
@@ -36,7 +36,7 @@
 ---------------------------------
 
  <details>
-    <summary style="color: #1976d2; font-weight: bold;"> <h1  >  All The NIOS Results Related Acronyms:- </h1> </summary> 
+ <summary style="color: #1976d2; font-weight: bold;"> <h1  >  All The NIOS Results Related Acronyms:- </h1> </summary> 
       
     - Pass: Means Pass in all subjects
     - P: Means you passed in **one** subject  
