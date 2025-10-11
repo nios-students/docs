@@ -74,10 +74,10 @@
 - VOC: Vocational Courses/Subjects
 - ODE - [On-Demand Exam (NIOS improvement exam)](/wiki/Full%20ODE%20Information.html)
 - 
-- OBE: Open Basic Education 
+- OBE: Open Basic Education <br>
   (OBE Level A: Equivalent to Class I-III
-  OBE Level B: Equivalent to Class IV-V
-  OBE Level C: Equivalent to Class VI-VIII)
+  <br> OBE Level B: Equivalent to Class IV-V
+  <br> OBE Level C: Equivalent to Class VI-VIII)
   
 - ODL: Open and Distance Learning
 - VOS: Virtual Open Schooling
