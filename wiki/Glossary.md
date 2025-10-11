@@ -91,13 +91,13 @@ Like -- "Admission", "STREAM 1", "ODE", " TMA " , "PCP",  "Practical", "pyqs"**<
 ---------------------
 
 
-# ❤️ If you ever felt that this  community, our resources, or our members were helpful to you in any sense in any part of your NIOS journey —
+### ❤️ If you ever felt that this  community, our resources, or our members were helpful to you in any sense in any part of your NIOS journey —
 then feel free to
-## [buy us a cup of chai too (donation)](https://nios-students.pages.dev/donation/). 
+### [buy us a cup of chai too (donation)](https://nios-students.pages.dev/donation/). 
 
 It helps us keep this community running, do more cool stuff, and support even more souls out there.
 
 At the end of the day — you all are great. 🫶
 
-## 「NIOS Unofficial」
+### 「NIOS Unofficial」
 
