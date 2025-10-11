@@ -73,7 +73,12 @@
 - RC: Regional Centre (Small NIOS Office In Each State, where you go for all NIOS help)
 - VOC: Vocational Courses/Subjects
 - ODE - [On-Demand Exam (NIOS improvement exam)](/wiki/Full%20ODE%20Information.html)
+- 
 - OBE: Open Basic Education 
+  (OBE Level A: Equivalent to Class I-III
+  OBE Level B: Equivalent to Class IV-V
+  OBE Level C: Equivalent to Class VI-VIII)
+  
 - ODL: Open and Distance Learning
 - VOS: Virtual Open Schooling
 - AVI: Accredited Vocational institutions
