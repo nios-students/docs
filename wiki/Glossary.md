@@ -28,8 +28,9 @@
 - How To Make TMA:                                           [Link To Section](/wiki/how%20to%20make%20TMA.md)
 - What happens in Practical PCP Class (FA PCP):              [Link To Section](/wiki/Exams-Assignments.md#pcp-classes-practical-pcp-fa-practical-exam-sa)
 - How To Make Practical Files for Practical Exam (SA PCP):   [Link To Section](/wiki/howto-rec-book.html)
+- Pyqs, Question banks, IMP questions, notes, and more: [Link to Section](/wiki/other-materials.html)
   
-- Read Real Experiences of other students:                   [Link to section](https://nios-students.pages.dev/wiki/experiences.html#nios-student-experiences-reviews)  <br>
+- Read Real Experiences of other students:                   [Link to section](/wiki/experiences.html#nios-student-experiences-reviews)  <br>
   <small>(not cherry picked! It's just not alot of people make these posts,
   If you see more posts, then tell us to add)</small>
 
