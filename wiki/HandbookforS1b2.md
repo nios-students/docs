@@ -37,9 +37,10 @@ Still working on it. Any questions regarding this subject, please mail to unoffi
 | 8  | Theory exam / PE                           | October – November                       |
 | 9  | View assessment of SA                      | 3 weeks from the practical exam          |
 | 10 | Results                                    | Mid to end January*                      |
-| 11 | Re-evaluation / Re-check                   | 20 days after results are released       |
-| 12 | Physical documents                         | March to April  at your Study centre     |
-| 13 | Results of re-evaluation / re-checking     | 60 days                                  |
+| 11 | Digilocker result & certificate            | 2 weeks after result                     |
+| 12 | Re-evaluation / Re-check                   | 20 days after results are released       |
+| 13 | Physical documents                         | March to April  at your Study centre     |
+| 14 | Results of re-evaluation / re-checking     | 60 days                                  |
 
 
 **What is TMA? How to make it? What is PCP? What Practical? How to Study? What to do? What not to do?**
