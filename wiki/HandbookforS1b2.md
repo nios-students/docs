@@ -22,6 +22,8 @@ Still working on it. Any questions regarding this subject, please mail to unoffi
 - From 16th February to 28th February	With Late Fee of ₹520
 - From 1st March to 15th March	With Late Fee of ₹910
 
+
+
 # Important Dates
 |    | Event / Activity                           | Month / Time Period                      |
 |----|--------------------------------------------|------------------------------------------|
@@ -34,9 +36,9 @@ Still working on it. Any questions regarding this subject, please mail to unoffi
 | 7  | Practical exam / SA                        | September (second week)                  |
 | 8  | Theory exam / PE                           | October – November                       |
 | 9  | View assessment of SA                      | 3 weeks from the practical exam          |
-| 10 | Results                                    | December / January*                      |
+| 10 | Results                                    | Mid to end January*                      |
 | 11 | Re-evaluation / Re-check                   | 20 days after results are released       |
-| 12 | Physical documents                         | April                                    |
+| 12 | Physical documents                         | March to April  at your Study centre     |
 | 13 | Results of re-evaluation / re-checking     | 60 days                                  |
 
 
