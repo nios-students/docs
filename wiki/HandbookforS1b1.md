@@ -42,8 +42,9 @@ Still working on it. Any questions regarding this stream/subject, please email u
 | Theory exam/PE               | April-May                               |
 | View assessment of SA        | 2 weeks from practical exam to May      |
 | Results                      | June*                                   |
+| Digilocker result & certs    | 2 weeks after result                    |
 | Re-eval/re-check             | 20 days after results are released      |
-| Physical documents           | July to August                          |
+| Physical documents           | July to August at your study centre     |
 | Results of re-eval/re-check  | August                                  |
 
 ---
