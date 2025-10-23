@@ -1,4 +1,4 @@
-# NIOS Docs
+# ABOUT NIOS DOCS
 
 ## Overview
 NIOS Docs is a comprehensive documentation project aimed at providing students and educators with detailed resources related to the National Institute of Open Schooling (NIOS). This repository includes guides, study materials, FAQs, and other helpful content to assist users in navigating the NIOS system effectively. It is created and maintained by the NIOS community. This repository contains only the documentation for the site. If you need the full project, visit [NIOS Students GitHub](https://github.com/nios-students).
