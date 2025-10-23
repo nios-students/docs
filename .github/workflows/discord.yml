@@ -1,0 +1,61 @@
+name: Discord Notifications
+
+on:
+  push:
+    branches:
+      - contents  # Adjust to your default branch (e.g., 'main' or 'master')
+  pull_request:
+    types: [opened, reopened, closed, edited]
+    branches:
+      - contents
+  issues:
+    types: [opened, edited, closed]
+  issue_comment:
+    types: [created, edited, deleted]
+  release:
+    types: [published]
+
+jobs:
+  notify-discord:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Discord Notification for Push
+        if: github.event_name == 'push'  # Only run this step for push events
+        uses: Ilshidur/action-discord@0.4.0
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_URL }}  # Pass webhook via environment variable
+        with:
+          args: |
+            ** NIOS UNOFFICIAL Repository Notification**
+            **Repo Name:** ${{ github.repository }}
+            **Author Name:** ${{ github.event.head_commit.author.name || github.actor }}
+            **Author Username:** ${{ github.actor }}
+            **Author Email:** ${{ github.event.head_commit.author.email || 'N/A' }}
+            **Event:** ${{ github.event_name }}
+            **Branch:** ${{ github.ref }}
+            **Commit Message:** ${{ github.event.head_commit.message || 'N/A' }}
+            **Workflow:** ${{ github.workflow }}
+            **Commit:** `${{ github.sha }}`
+            **Run ID:** [${{ github.run_id }}](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }})
+            **Timestamp:** ${{ github.event.head_commit.timestamp || github.event.head_commit.committer.date || github.event.repository.pushed_at || github.event.pull_request.created_at || github.event.created_at || 'N/A' }}
+            **Commit URL:** ${{ github.event.head_commit.url || github.event.html_url }}
+            **Compare URL:** ${{ github.event.compare || 'N/A' }}
+            *send by github actions*
+
+      - name: Send Discord Notification for Other Events
+        if: github.event_name != 'push'  # Run for non-push events
+        uses: Ilshidur/action-discord@0.4.0
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        with:
+          args: |
+            <@&1116740147275382874>
+            **Repository Notification**
+            **Repo Name:** ${{ github.repository }}
+            **Event:** ${{ github.event_name }}
+            **Branch:** ${{ github.ref }}
+            **Author:** ${{ github.actor }}
+            **Workflow:** ${{ github.workflow }}
+            **Run ID:** [${{ github.run_id }}](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }})
+            **Timestamp:** ${{ github.event.pull_request.created_at || github.event.issue.created_at || github.event.created_at || 'N/A' }}
+            ${{ github.event.pull_request.html_url && format('**PR/Issue URL:** {0}', github.event.pull_request.html_url) || github.event.issue.html_url && format('**PR/Issue URL:** {0}', github.event.issue.html_url) || '' }}
