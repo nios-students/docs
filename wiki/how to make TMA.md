@@ -41,8 +41,8 @@
 
 5. **Download the solved TMAs or start finding the answers from the textbook.**
    > [!NOTE]
-   > [Download TMA FOR FREE](https://drive.google.com/drive/folders/1gE4y4LfosN4m7SbK6l1M23BwBjJaXgGo?usp=sharing)
-   Note: These are computerised, not handwritten. So, you have a copy on paper.
+   > [Download Solved TMA FOR FREE](https://drive.google.com/drive/folders/1gE4y4LfosN4m7SbK6l1M23BwBjJaXgGo?usp=sharing)
+  <br> Note: These are computerised, not handwritten. So, you have a copy on paper.<br>
    Note: You will only get solved TMAs on this website when TMAs are officially out in your student dashboard, so don't panic about getting them late or how???
 
 
