@@ -5,7 +5,7 @@
 
 ## What is TMA?
 
-**(Tldr - TMA is IMP, all you do in this is - Nios gives 5 questions per subject in your dashboard, you make a file,  write the questions in it with solutions, and upload them in pdf format before the deadline otherwise cry later, you get marks for these out of 20 on the dashboard)**
+**(Tldr - TMA is IMP & only one time thing, all you do in this is - Nios gives 5 questions per subject in your dashboard, you make a file,  write the questions in it with solutions, and upload them in pdf format before the deadline otherwise cry later, you get marks for these out of 20 on the dashboard)**
 
 
 - **TMA (Tutor Marked Assignment)**, also known as **Internal Assessment (IA)** in Secondary/Sr. Secondary examinations are written assignments that carry **20% weightage** of the theory marks as part of continuous and comprehensive evaluation.
@@ -27,16 +27,24 @@
 
 ## How to Make TMA?
 
-1. **First download the TMA questions paper from dashboard**  
+1. **First download the TMA questions paper from your Student dashboard**  
    [NIOS Student Portal](https://sdmis.nios.ac.in)
+
 2. Go TMA window **Click on Download TMA** Download the questions.
+
 3. **Prep work**  
    Get a blue pen, ruler, pencil, and a notebook or A4 sheets, any kind of paper is fine.
+
+
 4. Download a document scanner of your choice like [OSS Document Scanner](https://apt.izzysoft.de/fdroid/index/apk/com.akylas.documentscanner) or [Okenscan](https://play.google.com/store/apps/details?id=com.cambyte.okenscan)
+
+
 5. **Download the solved TMAs or start finding the answers from the textbook.**
    > [!NOTE]
-   > [Download TMA FOR FREE](https://drive.google.com/drive/folders/1eFHUKAtpzh-rBjDm4k4zfn3_AZmu0Byh)
-   Note: These are computzied not handwritten. So, you have copy on paper.
+   > [Download TMA FOR FREE](https://drive.google.com/drive/folders/1gE4y4LfosN4m7SbK6l1M23BwBjJaXgGo?usp=sharing)
+   Note: These are computerised, not handwritten. So, you have a copy on paper.
+   Note: You will only get solved TMAs on this website when TMAs are officially out in your student dashboard, so don't panic about getting them late or how???
+
 
 6. **Front page**  
    Write the following information on the first page.
@@ -63,6 +71,7 @@ It's on the blue section or dashboard->My Details.
 - Study centre/AI name and AI code:  
   **Both name and code check are written all over the dashboard. Here's one of many ways to check it.**
 
+
 7. **Answer writing**  
 
    Every question has two options *A* and *B*. Make sure that you write the question number as follows:  
@@ -70,8 +79,10 @@ It's on the blue section or dashboard->My Details.
    > [!TIP]  
    > At the top right corner of the page write pg-1 and so on**
 
+
 8. **Scanning of TMA**  
    Make sure you are in a well-lighted area. Open the Oken scanner app or any other scanner app. Click pictures of the TMA ensuring that the full page is in the frame.
+
 
 9. **Uploading of TMA(s)**  
    Go to https://sdmis.nios.ac.in Under TMA window click on TMA upload. A list of all your TMA will appear. Click the subject you wish to upload, **choose your medium of study**, click on upload, and find the file of that subject and wait for few seconds it'll prompt you to check it again. Click on proceed.
