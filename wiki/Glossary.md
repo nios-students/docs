@@ -31,10 +31,23 @@ Like -- "Admission", "STREAM 1", "ODE", " TMA " , "PCP",  "Practical", "pyqs"**<
 - What happens in Practical PCP Class (FA PCP):              [Link To Section](/wiki/Exams-Assignments.md#pcp-classes-practical-pcp-fa-practical-exam-sa)
 - How To Make Practical Files for Practical Exam (SA PCP):   [Link To Section](/wiki/howto-rec-book.html)
 - Pyqs, Question banks, IMP questions, notes, and more: [Link to Section](/wiki/other-materials.html)
-  
-- Read Real Experiences of other students:                   [Link to section](/wiki/experiences.html#nios-student-experiences-reviews)  <br>
+
+
+
+----------------
+
+# Experiences to learn from
+- Read Real Experiences of other passed students:                   [Link to section](/wiki/experiences.html#nios-student-experiences-reviews)  <br>
   <small>(not cherry picked! It's just not alot of people make these posts,
   If you see more posts, then tell us to add)</small>
+
+-  Read Other students' Practical Exam experience (Mega-Thread)    [Click Here](https://www.reddit.com/r/Nios_unofficial/comments/1ner92o/prmegathread_oct_2025_nios_practicals_stream_1/)
+
+-  ODE EXAM Experiences (Mega-Thread)                              [Link to section](https://www.reddit.com/r/Nios_unofficial/comments/1m07dj8/nios_ode_exam_megathread_starting_15th_july_to/?share_id=GW5quiQFrDNkEV-mqL7oz&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1)
+
+-  ODE Passed Students Result (Mega-Thread)                       [Link to section](https://www.reddit.com/r/Nios_unofficial/comments/1nfzful/ode_result_discussion_megathread/)
+
+
 
 
 ---------------------------------
