@@ -78,7 +78,7 @@ The materials are applicable for all exams (On-demand and public), so please sto
 ---
 
 # Solved TMAs
-[TMA **2026**](https://drive.google.com/drive/folders/1gE4y4LfosN4m7SbK6l1M23BwBjJaXgGo?usp=sharing)
+[Solved TMAs **2026**](https://drive.google.com/drive/folders/1gE4y4LfosN4m7SbK6l1M23BwBjJaXgGo?usp=sharing)
 
 
 ---
@@ -92,8 +92,8 @@ Compiler of PYQs (Apr 24 & Oct 24), practical files, handwritten TMAs, VOC books
 Compiler guides for Physics and Chemistry:  
 **Sid**
 
-Web Developers:  
-**@PugzAreCute & @sounddrill31** 
+Site Developers and Maintainers:  
+**@PugzAreCute & @sounddrill31, Hrithik , Vishal** 
 
 Writer of terminal Q&A (Physics, Chemistry, Biology, and Mathematics):  
 **dahej_~~daddy~~**
