@@ -193,6 +193,15 @@ You can check the availability of seats for ODE at any center here: <a href="htt
 
 </div>
 
+----------------
+
+# Experiences to learn from
+
+  -  ODE Students EXAM Experiences (Mega-Thread)                              [Link to section](https://www.reddit.com/r/Nios_unofficial/comments/1m07dj8/nios_ode_exam_megathread_starting_15th_july_to/?share_id=GW5quiQFrDNkEV-mqL7oz&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1)
+  
+  -  ODE Passed Students Result Experience (Mega-Thread)                       [Link to section](https://www.reddit.com/r/Nios_unofficial/comments/1nfzful/ode_result_discussion_megathread/)
+
+
 ---
 ## Credits for writing this page
 
