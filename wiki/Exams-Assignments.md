@@ -40,6 +40,8 @@ Practical examinations are conducted at your study centre/AI (in most cases) 1 m
 - **Block-1 April:**   March
 - **Block-2 October:** September
 
+- ## Read Other students Practical Exam experience - [Click Here](https://www.reddit.com/r/Nios_unofficial/comments/1ner92o/prmegathread_oct_2025_nios_practicals_stream_1/)
+
 ---
 
 ## PCP (Personal Contact Programme)
@@ -70,4 +72,5 @@ There are two types of PCPs:
 ### Related links:
 1. [PCP hall ticket](https://sdmis.nios.ac.in/search/pcp-hall-ticket)
 2. [FA PCP hall ticket](https://sdmis.nios.ac.in/search/fa-hall-ticket)
+
 
