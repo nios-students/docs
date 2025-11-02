@@ -78,7 +78,7 @@ The materials are applicable for all exams (On-demand and public), so please sto
 ---
 
 # Solved TMAs
-[TMA **2024-25**](https://drive.google.com/drive/folders/1QPWsCnWQl6BRnUZwvC41ZAzkqy_XJ7q7?usp=drive_link)
+[TMA **2026**](https://drive.google.com/drive/folders/1gE4y4LfosN4m7SbK6l1M23BwBjJaXgGo?usp=sharing)
 
 
 ---
