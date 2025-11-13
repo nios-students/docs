@@ -18,7 +18,7 @@ The materials are applicable for all exams (On-demand and public), so please sto
 - [Imp Q&A Sr. Sec (12th) (By DOON WINNER)](https://drive.google.com/drive/folders/1FwWxlIHr12S0br7IsxjNkSf2idZf-Ktu?usp=drive_link)
 
 - [**Student-made notes**](https://drive.google.com/drive/folders/1ttDPhDMNFK3uRudaJWie83mTeVgvmGo_?usp=drive_link)  
-  **Maths (311) (12th Sr.Sec), Chemistry (313), English (302) (Sr. Sec 12th), Introduction to Laws (338), Data Entry Operations (336) (12th Sr. Sec), Business studies, Psychology (12th Sr.Sec), English (302) (Sr.Sec 12th), Pol Sci., and  Sociology (Sr.Sec 12th),**
+  **Maths (311) (12th Sr.Sec), Chemistry (313), English (302) (Sr. Sec 12th), Introduction to Laws (338), Data Entry Operations (336) (12th Sr. Sec), Business studies, Psychology (12th Sr.Sec), English (302) (Sr.Sec 12th), Pol Sci., Sociology (Sr.Sec 12th), Home Sci. (Sr.Sec 12ths)**
 
 - [Terminal Answers](https://drive.google.com/drive/folders/1QxgVf9rmN91oStaDyrM_2IXtsFgZCL-K?usp=drive_link)  
   Physics, Mathematics, Chemistry, and Biology. For subjects or lessons not available in the above link, check [here for Sr. Sec (12th)](https://brainly.in/textbook-solutions/book-sets/s-nios-board/c-class-12) and [here for Sec (10th)](https://brainly.in/textbook-solutions/book-sets/s-nios-board/c-class-10)
@@ -114,6 +114,9 @@ Writer of student-made notes of Psychology¹:
 **u/Sure-Woodpecker-3952**
 
 Writer of student-made notes of Pol Sci., sociology, Psychology², Maths formula-sheets, and English[```*```](https://www.reddit.com/r/Nios_unofficial/s/lV3SKa2Guk): **u/advanced-novel3307**
+
+Writer for Home Sci. (Sr.Sec (12th)):
+**RC**
 
 ---
 
