@@ -79,12 +79,18 @@ This stream is available for learners who have failed or passed but want to impr
 On-Demand Examination System (ODES) at Secondary Level (10th class) and Senior Secondary Level (12th class). Open for admissions throughout the year. Suitable for learners seeking to update their qualifications or clear failed subjects. [More Info on Stream 3 & 4](https://rcguwahati.nios.ac.in/registration-for-on-demand-examination-ode-and-procedure.html)
 
 # Transfer of Credit (ToC)
+   **TOC option is only for = failed students**
 ToC is one of the flagship features of NIOS. **Failed** learners can transfer the marks of **2** subjects from the parent board to NIOS.
 
 **Rules and Norms of ToC:**
 - The ToC fee is ₹**230 per subject** (as per NEW notification: [37/2024](https://www.nios.ac.in/media/documents/notification/yr2024/Exam/Notification-34-2024.pdf)).
 - The subject you wish to transfer must be in NIOS's curriculum.
 - The **original failed marksheet** should be present in **physical form**, and you **must** send it to your Regional Center after confirmation of admission along with a copy of your **admission form**. If you don't send it, the ToC won't apply.
+  
+- You can transfer up to two passed subjects' marks from your original marksheet (e.g., CBSE) to NIOS.
+  
+- Final result: A combined NIOS marksheet showing 5 subjects (2 from CBSE, 3 from NIOS).
+
 
 # Dual Enrollment or Part Admission
 
@@ -133,5 +139,6 @@ To apply for Dual Enrollment or Part Admission, students should:
   <br>
   <sub><sup>Sometimes the link may show an error like "<i>You are not allowed to perform this action.</i>" If this happens, simply open the link in a private/incognito window.</sup></sub>
 </div>
+
 
 ---
