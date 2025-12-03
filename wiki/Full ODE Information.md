@@ -17,12 +17,12 @@ ODE runs under two main categories of students:
 - Final result: A combined NIOS marksheet showing 5 subjects (2 from CBSE, 3 from ODE).
    **TOC option is only for = failed students**
 
-**📝 Important (If you are going for TOC):**
-- Even if you failed in just one subject (e.g., Physics), you must choose at least 3 subjects to appear for under ODE if you do TOC. These can be:
+**📝 Important (If you are from a different board and going for TOC in NIOS):**
+- Even if you failed in just one subject (e.g., Physics), you must choose at least 3 subjects to appear for under ODE, so that you will get a marksheet of 5 subjects.If you do TOC. These subjects can be:
   - Failed subjects
   - New subjects (see below for options)
   - Previously passed subjects (to improve score or make up the required marks)
-
+- but it also depends upon your goal, like NEET accepts dual marksheet, but JEE (JOSSA, NTA doesn't), so you would need a single marksheet
 
 
 ### 2. Passed Students (Dual/Part Admission)
