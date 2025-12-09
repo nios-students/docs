@@ -2,9 +2,20 @@
 
 __Admissions are completely online at [sdmis.nios.ac.in](https://sdmis.nios.ac.in) only__ (for 12th (Sr. Sec), 10th (Sec), and OBE).
 
-
 <details>
-    <summary style="color: #1976d2; font-weight: bold;"> # How to Take Admission in NIOS 10th (Secondary) <br> ### Simple Guide for Freshers & Failed Students </summary>
+<summary style="
+    background:#1976d2;
+    color:white;
+    padding:12px 18px;
+    border-radius:8px;
+    font-size:18px;
+    font-weight:700;
+    cursor:pointer;
+    width:max-content;
+">
+📘 How to Take Admission in NIOS 10th (Secondary) — (for Freshers & Failed Students) Full Simple Guide
+</summary>
+
 
    ---
    
@@ -325,8 +336,10 @@ __Admissions are completely online at [sdmis.nios.ac.in](https://sdmis.nios.ac.i
       
       So pick a good study centre - Search their name on Google, see how the school looks on Google Maps, and see if they have good infrastructure!
       
-      Best study centres are - KVs, Top private schools like DPS, DAV, GD Goenka and etc, or good government schools 
-      
+      Best study centres generally are - 
+        - Kendriya Vidyalayas(KVs) or Army Schools
+        - DPS / DAV / GD Goenka / FAS
+        - Reputed private or government schools  
       
       
       ---
@@ -335,7 +348,7 @@ __Admissions are completely online at [sdmis.nios.ac.in](https://sdmis.nios.ac.i
       
       Upload in these sections:
       
-      - **Photo** → your formal photo  
+      - **Photo** → Your formal photo  
       - **Signature** → photo of your signature  
       - **Identity Proof** → digital Aadhaar  
       - **Previous Qualification Certificate** → upload **Self-Declaration**  
@@ -522,4 +535,5 @@ To apply for Dual Enrollment or Part Admission, students should:
 
 
 ---
+
 
