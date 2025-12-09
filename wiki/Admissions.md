@@ -452,7 +452,7 @@ Download the digital copy from the UIDAI website.
 <details>
 <summary>📌 Aadhaar Example (click)</summary>
 
-![Aadhaar Example](your-image-link-here)
+![Aadhaar Example]()
 
 </details>
 
@@ -463,7 +463,7 @@ Download the digital copy from the UIDAI website.
 <details>
 <summary>📌 Self-Declaration Example (click)</summary>
 
-![Self Declaration Example](your-image-link-here)
+![Self Declaration Example](
 
 </details>
 
@@ -471,7 +471,7 @@ Download the digital copy from the UIDAI website.
 
 ### 4. Step-by-Step Admission Process
 
-1. Visit: `https://sdmis.nios.ac.in`  
+1. Visit: 
 2. Admission → Stream 1 → Secondary Course (10th)  
 3. Fill details (name, DOB, parents, mobile, Aadhaar/PAN, address) — **must match docs exactly**  
 4. Select subjects (1 language + 4 other subjects)  
@@ -613,6 +613,7 @@ To apply for Dual Enrollment or Part Admission, students should:
 
 
 ---
+
 
 
 
