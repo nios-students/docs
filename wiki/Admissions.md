@@ -19,148 +19,7 @@ __Admissions are completely online at [sdmis.nios.ac.in](https://sdmis.nios.ac.i
 ## 📘 How to Take Admission in NIOS 10th (Secondary) as Fresher & for failed Student - Full guide.
 </summary>
 
-## 1. Who Can Take Admission?
 
-### **Freshers**
-Anyone who is **14 years or above**.
-
-### **Failed Students**
-Anyone who has **failed in 9th or 10th** in a regular school can also take admission directly,  
-either as a fresher or using **TOC (Transfer of Credit)**.
-
-# Extra Info for Failed Students Only (TOC)
-
-NIOS allows transferring marks of **up to 2 passed subjects** from your previous board.  
-This is called **TOC – Transfer of Credit**.
-
-### TOC Rules:
-- Only for **failed students**  
-- Maximum **2 subjects** are allowed  
-
-
-- The subject must exist in **NIOS subject list**  
-
-
-- TOC fee: **₹230 per subject** (Notification 37/2024)  
-
-
-- You must send your **original failed marksheet ** to your NIOS Regional Centre  
-+ a copy of your admission form  
-
-
-- If you don’t send it → **TOC will not be applied**
-
-
----
-
-## 2. You Can Take Admission Yourself (Avoid Middlemen)
-
-Many students go to cybercafés or agents who charge **too much** for a very simple process.  
-Most of them even **fill the form incorrectly**.
-
-**Truth:** You can complete NIOS admission yourself in **15–20 minutes**.  
-It is simple, not rocket science.
-
----
-
-## 3. Documents Needed
-
-### (a) Digital Aadhaar Card  
-Download the digital copy of your Aadhaar from the **UIDAI website**.
-
-<details>
-<summary>📌 Aadhaar Example (Click to View)</summary>
-
-![Aadhaar Example](your-image-link-here)
-
-</details>
-
----
-
-### (b) Passport-size Photo  
-A formal photo is required.  
-You can click it on your phone — just keep it clean, not like an Instagram selfie.
-
----
-
-### (c) Address Proof  
-Aadhaar works as both ID and address proof.
-
----
-
-### (d) Self-Declaration Certificate — **Most Important**
-
-NIOS needs proof that:  
-- You are **above 14 years**, and  
-- You want to take **admission in NIOS 10th**
-
-If you don’t upload a self-declaration, NIOS may ask for more school documents —  
-and **you don’t want that headache**.
-
-Even if you don’t have 8th/9th mark sheets, a **self-declaration is enough**.
-
-<details>
-<summary>📌 Self-Declaration Example (Click to View)</summary>
-
-![Self Declaration Example](your-image-link-here)
-
-</details>
-
----
-
-### (e) For Failed Students  
-Upload your **10th failed marksheet** —  
-digital copy from DigiLocker / clear phone photo / result screenshot.
-
-<details>
-<summary>📌 Failed Marksheet Example</summary>
-
-![Failed Marksheet Example](your-image-link-here)
-
-</details>
-
----
-
-## 4. Step-by-Step Admission Process
-
-### **Step 1:**  
-Search on Google → **"NIOS online admission portal"**  
-Open: **https://sdmis.nios.ac.in**
-
----
-
-### **Step 2:**  
-Go to:  
-**Admission → Stream 1 → Secondary Course (10th)**
-
----
-
-### **Step 3:** Fill Basic Details  
-Enter:  
-- Name  
-- DOB  
-- Parents’ names  
-- Mobile number  
-- Aadhaar or PAN number  
-- Address  
-
-⚠️ **Everything must match word-for-word with your documents.**
-
-No spelling mistakes, no incorrect surnames, no wrong DOB.
-
----
-
-## Important Address Details
-
-### **Permanent Address**  
-Must be **exactly as on Aadhaar**.
-
-### **Correspondence Address**  
-- If your current living address is the same as your Aadhaar address → then keep it the same  
-- # How to Take Admission in NIOS 10th (Secondary)
-### Simple Guide for Freshers & Failed Students
-
----
 
 ## 1. Who Can Take Admission?
 
@@ -214,7 +73,7 @@ Download the digital copy of your Aadhaar from the **UIDAI website**.
 <details>
 <summary>📌 Aadhaar Example (Click to View)</summary>
 
-![Aadhaar Example](your-image-link-here)
+![Aadhaar Example()
 
 </details>
 
@@ -245,7 +104,7 @@ Even if you don’t have 8th/9th mark sheets, a **self-declaration is enough**.
 <details>
 <summary>📌 Self-Declaration Example (Click to View)</summary>
 
-![Self Declaration Example](your-image-link-here)
+![Self Declaration Example()
 
 </details>
 
@@ -253,14 +112,8 @@ Even if you don’t have 8th/9th mark sheets, a **self-declaration is enough**.
 
 ### (e) For Failed Students  
 Upload your **10th failed marksheet** —  
-digital copy from DigiLocker / clear phone photo / result screenshot.
+digital copy from DigiLocker / clear phone photo / result website screenshot - any thing will work here.
 
-<details>
-<summary>📌 Failed Marksheet Example</summary>
-
-![Failed Marksheet Example](your-image-link-here)
-
-</details>
 
 ---
 
@@ -268,7 +121,7 @@ digital copy from DigiLocker / clear phone photo / result screenshot.
 
 ### **Step 1:**  
 Search on Google → **"NIOS online admission portal"**  
-Open: **https://sdmis.nios.ac.in**
+Open: **sdmis.nios.ac.in**
 
 ---
 
@@ -400,7 +253,7 @@ You’ll need them again and again.
 
 # After Admission – What Next?
 
-Here, Now you should read these guides on what happens next? What do you have to do next?  - [Link to section]
+Here, Now you should read these guides on what happens next? What do you have to do next?  - [Link to section
 
 
 </details>
@@ -533,6 +386,7 @@ To apply for Dual Enrollment or Part Admission, students should:
 
 
 ---
+
 
 
 
