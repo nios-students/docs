@@ -2,22 +2,7 @@
 
 __Admissions are completely online at [sdmis.nios.ac.in](https://sdmis.nios.ac.in) only__ (for 12th (Sr. Sec), 10th (Sec), and OBE).
 
-
-<summary style="
-    background:#1976d2;
-    color:white;
-    padding:12px 18px;
-    border-radius:8px;
-    font-size:18px;
-    font-weight:700;
-    cursor:pointer;
-    width:max-content;
-">
-📘 How to Take Admission in NIOS 10th (Secondary) — (for Freshers & Failed Students) Full Simple Guide
-</summary>
-
-
-      
+ 
 
 
 <details>
@@ -548,6 +533,7 @@ To apply for Dual Enrollment or Part Admission, students should:
 
 
 ---
+
 
 
 
