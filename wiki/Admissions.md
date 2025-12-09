@@ -256,21 +256,6 @@ Here, Now you should read these guides on what happens next? What do you have to
 
 ### Good to know things just after admission:
 
-**1. [When to contact study center](https://www.reddit.com/r/Nios_unofficial/s/qOT6UbFdn4)
-
-2. [After admission, what next?](https://www.reddit.com/r/Nios_unofficial/s/Fxi040pgjR) (Scroll to bottom)
-
-3. [How to study & prepare for nios exams, what to study and prep strategy](https://www.reddit.com/r/Nios_unofficial/s/8DzRVhpIIG)
-
-4. [How to write in exams](https://www.reddit.com/r/Nios_unofficial/s/x14h62H5RG)
-
-5. [Study center and PCP+FA guide](https://www.reddit.com/r/Nios_unofficial/s/yVY1U8w23b)
-
-6. [Stream 1 block 1 timeline](https://nios-students.pages.dev/wiki/HandbookforS1b1.html)
-
-7. [Stream 1 block 2 timeline](https://nios-students.pages.dev/wiki/HandbookforS1b2.html)
-
-
 
 </details>
 
@@ -420,7 +405,7 @@ Download from **UIDAI** website.
 <details>
 <summary>📌 Aadhaar Example (Click to Open)</summary>
 
-![Aadhaar Example](your-image-link-here)
+![Aadhaar Example](
 
 </details>
 
@@ -599,22 +584,6 @@ You now need to understand:
 
 Here, Now you should read these guides on what happens next? What do you have to do next? 
 
-### Good to know things just after admission:
-
-**1. [When to contact study center](https://www.reddit.com/r/Nios_unofficial/s/qOT6UbFdn4)
-
-2. [After admission, what next?](https://www.reddit.com/r/Nios_unofficial/s/Fxi040pgjR) (Scroll to bottom)
-
-3. [How to study & prepare for nios exams, what to study and prep strategy](https://www.reddit.com/r/Nios_unofficial/s/8DzRVhpIIG)
-
-4. [How to write in exams](https://www.reddit.com/r/Nios_unofficial/s/x14h62H5RG)
-
-5. [Study center and PCP+FA guide](https://www.reddit.com/r/Nios_unofficial/s/yVY1U8w23b)
-
-6. [Stream 1 block 1 timeline](https://nios-students.pages.dev/wiki/HandbookforS1b1.html)
-
-7. [Stream 1 block 2 timeline](https://nios-students.pages.dev/wiki/HandbookforS1b2.html)
-
 
 ---
 
@@ -706,6 +675,7 @@ To apply for Dual Enrollment or Part Admission, students should:
 
 
 ---
+
 
 
 
