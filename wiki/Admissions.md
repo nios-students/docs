@@ -10,10 +10,10 @@ __Admissions are completely online at [sdmis.nios.ac.in](https://sdmis.nios.ac.i
     color:white;
     padding:12px 18px;
     border-radius:8px;
-    font-size: clamp(18px, 5vw, 26px);
+    font-size:25px;
     font-weight:700;
     cursor:pointer;
-    display:block;
+    width:max-content;
 ">
   📘 How to Take Admission in NIOS 10th (Secondary) <br> as a Fresher & for failed Students - Full guide.
 </summary>
@@ -84,7 +84,7 @@ You can click it on your phone — just keep it clean, not like an Instagram sel
 
 ---
 
-### (c) Address Proof  
+### (c) Identity Proof  
 Aadhaar works as both ID and address proof.
 
 ---
@@ -184,7 +184,7 @@ Minimum requirement: **1 language + 4 other subjects**
 Your study centre is where:  
 - Practical exams happen  
 - TMA is submitted/received  
-- Documents/help is provided after passing  
+- You receive Documents after passing  
 
 So pick a good study centre - Search their name on Google, see how the school looks on Google Maps, and see if they have good infrastructure!
 
@@ -252,10 +252,31 @@ You’ll need them again and again.
 
 # After Admission – What Next?
 
-Here, Now you should read these guides on what happens next? What do you have to do next?  - [Link to section
+Here, Now you should read these guides on what happens next? What do you have to do next?  -
+
+### Good to know things just after admission:
+
+**1. [When to contact study center](https://www.reddit.com/r/Nios_unofficial/s/qOT6UbFdn4)
+
+2. [After admission, what next?](https://www.reddit.com/r/Nios_unofficial/s/Fxi040pgjR) (Scroll to bottom)
+
+3. [How to study & prepare for nios exams, what to study and prep strategy](https://www.reddit.com/r/Nios_unofficial/s/8DzRVhpIIG)
+
+4. [How to write in exams](https://www.reddit.com/r/Nios_unofficial/s/x14h62H5RG)
+
+5. [Study center and PCP+FA guide](https://www.reddit.com/r/Nios_unofficial/s/yVY1U8w23b)
+
+6. [Stream 1 block 1 timeline](https://nios-students.pages.dev/wiki/HandbookforS1b1.html)
+
+7. [Stream 1 block 2 timeline](https://nios-students.pages.dev/wiki/HandbookforS1b2.html)
+
 
 
 </details>
+
+
+
+
 <br>
 <br>
 
@@ -685,6 +706,7 @@ To apply for Dual Enrollment or Part Admission, students should:
 
 
 ---
+
 
 
 
