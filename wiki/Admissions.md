@@ -16,7 +16,7 @@ __Admissions are completely online at [sdmis.nios.ac.in](https://sdmis.nios.ac.i
     cursor:pointer;
     width:max-content;
 ">
-  📘 How to Take Admission in NIOS 10th (Secondary) as a Fresher & for failed Students - Full guide.
+  📘 How to Take Admission in NIOS 10th (Secondary) <br> as a Fresher & for failed Students - Full guide.
 </summary>
 
 
@@ -386,6 +386,7 @@ To apply for Dual Enrollment or Part Admission, students should:
 
 
 ---
+
 
 
 
