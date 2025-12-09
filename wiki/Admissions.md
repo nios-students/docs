@@ -2,7 +2,7 @@
 
 __Admissions are completely online at [sdmis.nios.ac.in](https://sdmis.nios.ac.in) only__ (for 12th (Sr. Sec), 10th (Sec), and OBE).
 
-<!-- <details>
+
 <summary style="
     background:#1976d2;
     color:white;
@@ -17,471 +17,406 @@ __Admissions are completely online at [sdmis.nios.ac.in](https://sdmis.nios.ac.i
 </summary>
 
 
-   ---
-   
-      ## 1. Who Can Take Admission?
       
-      ### **Freshers**
-      Anyone who is **14 years or above**.
-      
-      ### **Failed Students**
-      Anyone who has **failed in 9th or 10th** in a regular school can also take admission directly,  
-      either as a fresher or using **TOC (Transfer of Credit)**.
-      
-      # Extra Info for Failed Students Only (TOC)
-      
-      NIOS allows transferring marks of **up to 2 passed subjects** from your previous board.  
-      This is called **TOC – Transfer of Credit**.
-      
-      ### TOC Rules:
-      - Only for **failed students**  
-      - Maximum **2 subjects** are allowed  
-      
-      
-      - The subject must exist in **NIOS subject list**  
-      
-      
-      - TOC fee: **₹230 per subject** (Notification 37/2024)  
-      
-      
-      - You must send your **original failed marksheet ** to your NIOS Regional Centre  
-        + a copy of your admission form  
-      
-      
-      - If you don’t send it → **TOC will not be applied**
-      
-      
-      ---
-      
-      ## 2. You Can Take Admission Yourself (Avoid Middlemen)
-      
-      Many students go to cybercafés or agents who charge **too much** for a very simple process.  
-      Most of them even **fill the form incorrectly**.
-      
-      **Truth:** You can complete NIOS admission yourself in **15–20 minutes**.  
-      It is simple, not rocket science.
-      
-      ---
-      
-      ## 3. Documents Needed
-      
-      ### (a) Digital Aadhaar Card  
-      Download the digital copy of your Aadhaar from the **UIDAI website**.
-      
-      <details>
-      <summary>📌 Aadhaar Example (Click to View)</summary>
-      
-      ![Aadhaar Example](your-image-link-here)
-      
-      </details>
-      
-      ---
-      
-      ### (b) Passport-size Photo  
-      A formal photo is required.  
-      You can click it on your phone — just keep it clean, not like an Instagram selfie.
-      
-      ---
-      
-      ### (c) Address Proof  
-      Aadhaar works as both ID and address proof.
-      
-      ---
-      
-      ### (d) Self-Declaration Certificate — **Most Important**
-      
-      NIOS needs proof that:  
-      - You are **above 14 years**, and  
-      - You want to take **admission in NIOS 10th**
-      
-      If you don’t upload a self-declaration, NIOS may ask for more school documents —  
-      and **you don’t want that headache**.
-      
-      Even if you don’t have 8th/9th mark sheets, a **self-declaration is enough**.
-      
-      <details>
-      <summary>📌 Self-Declaration Example (Click to View)</summary>
-      
-      ![Self Declaration Example](your-image-link-here)
-      
-      </details>
-      
-      ---
-      
-      ### (e) For Failed Students  
-      Upload your **10th failed marksheet** —  
-      digital copy from DigiLocker / clear phone photo / result screenshot.
-      
-      <details>
-      <summary>📌 Failed Marksheet Example</summary>
-      
-      ![Failed Marksheet Example](your-image-link-here)
-      
-      </details>
-      
-      ---
-      
-      ## 4. Step-by-Step Admission Process
-      
-      ### **Step 1:**  
-      Search on Google → **"NIOS online admission portal"**  
-      Open: **https://sdmis.nios.ac.in**
-      
-      ---
-      
-      ### **Step 2:**  
-      Go to:  
-      **Admission → Stream 1 → Secondary Course (10th)**
-      
-      ---
-      
-      ### **Step 3:** Fill Basic Details  
-      Enter:  
-      - Name  
-      - DOB  
-      - Parents’ names  
-      - Mobile number  
-      - Aadhaar or PAN number  
-      - Address  
-      
-      ⚠️ **Everything must match word-for-word with your documents.**
-      
-      No spelling mistakes, no incorrect surnames, no wrong DOB.
-      
-      ---
-      
-      ## Important Address Details
-      
-      ### **Permanent Address**  
-      Must be **exactly as on Aadhaar**.
-      
-      ### **Correspondence Address**  
-      - If your current living address is the same as your Aadhaar address → then keep it the same  
-      - # How to Take Admission in NIOS 10th (Secondary)
-      ### Simple Guide for Freshers & Failed Students
-      
-      ---
-      
-      ## 1. Who Can Take Admission?
-      
-      ### **Freshers**
-      Anyone who is **14 years or above**.
-      
-      ### **Failed Students**
-      Anyone who has **failed in 9th or 10th** in a regular school can also take admission directly,  
-      either as a fresher or using **TOC (Transfer of Credit)**.
-      
-      # Extra Info for Failed Students Only (TOC)
-      
-      NIOS allows transferring marks of **up to 2 passed subjects** from your previous board.  
-      This is called **TOC – Transfer of Credit**.
-      
-      ### TOC Rules:
-      - Only for **failed students**  
-      - Maximum **2 subjects** are allowed  
-      
-      
-      - The subject must exist in **NIOS subject list**  
-      
-      
-      - TOC fee: **₹230 per subject** (Notification 37/2024)  
-      
-      
-      - You must send your **original failed marksheet ** to your NIOS Regional Centre  
-        + a copy of your admission form  
-      
-      
-      - If you don’t send it → **TOC will not be applied**
-      
-      
-      ---
-      
-      ## 2. You Can Take Admission Yourself (Avoid Middlemen)
-      
-      Many students go to cybercafés or agents who charge **too much** for a very simple process.  
-      Most of them even **fill the form incorrectly**.
-      
-      **Truth:** You can complete NIOS admission yourself in **15–20 minutes**.  
-      It is simple, not rocket science.
-      
-      ---
-      
-      ## 3. Documents Needed
-      
-      ### (a) Digital Aadhaar Card  
-      Download the digital copy of your Aadhaar from the **UIDAI website**.
-      
-      <details>
-      <summary>📌 Aadhaar Example (Click to View)</summary>
-      
-      ![Aadhaar Example](your-image-link-here)
-      
-      </details>
-      
-      ---
-      
-      ### (b) Passport-size Photo  
-      A formal photo is required.  
-      You can click it on your phone — just keep it clean, not like an Instagram selfie.
-      
-      ---
-      
-      ### (c) Address Proof  
-      Aadhaar works as both ID and address proof.
-      
-      ---
-      
-      ### (d) Self-Declaration Certificate — **Most Important**
-      
-      NIOS needs proof that:  
-      - You are **above 14 years**, and  
-      - You want to take **admission in NIOS 10th**
-      
-      If you don’t upload a self-declaration, NIOS may ask for more school documents —  
-      and **you don’t want that headache**.
-      
-      Even if you don’t have 8th/9th mark sheets, a **self-declaration is enough**.
-      
-      <details>
-      <summary>📌 Self-Declaration Example (Click to View)</summary>
-      
-      ![Self Declaration Example](your-image-link-here)
-      
-      </details>
-      
-      ---
-      
-      ### (e) For Failed Students  
-      Upload your **10th failed marksheet** —  
-      digital copy from DigiLocker / clear phone photo / result screenshot.
-      
-      <details>
-      <summary>📌 Failed Marksheet Example</summary>
-      
-      ![Failed Marksheet Example](your-image-link-here)
-      
-      </details>
-      
-      ---
-      
-      ## 4. Step-by-Step Admission Process
-      
-      ### **Step 1:**  
-      Search on Google → **"NIOS online admission portal"**  
-      Open: **https://sdmis.nios.ac.in**
-      
-      ---
-      
-      ### **Step 2:**  
-      Go to:  
-      **Admission → Stream 1 → Secondary Course (10th)**
-      
-      ---
-      
-      ### **Step 3:** Fill Basic Details  
-      Enter:  
-      - Name  
-      - DOB  
-      - Parents’ names  
-      - Mobile number  
-      - Aadhaar or PAN number  
-      - Address  
-      
-      ⚠️ **Everything must match word-for-word with your documents.**
-      
-      No spelling mistakes, no incorrect surnames, no wrong DOB.
-      
-      ---
-      
-      ## Important Address Details
-      
-      ### **Permanent Address**  
-      Must be **exactly as on Aadhaar**.
-      
-      ### **Correspondence Address**  
-      - If your current living address is the same as your Aadhaar address → then keep it the same  
-      - If the current living address is different, →  Then you must upload proof of that address so you will get the study centre and exam centre in that state and city  
-      
-      Accepted proofs:  (Any document in your or your parents’ name)
-      - Gas bill  
-      - Electricity bill  
-      - Water bill  
-      - Rent agreement  
-      - Bank statement  
-      
-      ---
-      
-      ## Step 4: Select Subject
-      
-      You can choose **5 to 7 subjects**.  
-      Minimum requirement: **1 language + 4 other subjects**
-      
-      1. a) You are required to take __at least 1 language subject__.
-      
-         b) You __can take up to 2 language subjects__, e.g., Hindi and English
-      
-      2. a) NIOS lets you choose any subject; however, you **MUST** choose your subjects according to your future career/goals.
-      
-         c) Don't think that you can complete 12th in one year. __If you passed out of 10th, you are required to maintain a 1-year gap between passing 10th and completing 12th.__
-      
-      (Here You can see the available subject in NIOS)
-      ---
-      
-      ## Step 5: Choose Good Nearest Study Centre
-      
-      Your study centre is where:  
-      - Practical exams happen  
-      - TMA is submitted/received  
-      - Documents/help is provided after passing  
-      
-      So pick a good study centre - Search their name on Google, see how the school looks on Google Maps, and see if they have good infrastructure!
-      
-      Best study centres generally are - 
-        - Kendriya Vidyalayas(KVs) or Army Schools
-        - DPS / DAV / GD Goenka / FAS
-        - Reputed private or government schools  
-      
-      
-      ---
-      
-      ## Step 6: Upload Your Documents
-      
-      Upload in these sections:
-      
-      - **Photo** → Your formal photo  
-      - **Signature** → photo of your signature  
-      - **Identity Proof** → digital Aadhaar  
-      - **Previous Qualification Certificate** → upload **Self-Declaration**  
-      - **Correspondence Address Proof**  
-        - Aadhaar (if same address)  
-        - If a different address than the Aadhar card, then upload other proof-- 
-            Accepted proofs:  (Can be Any document in your or your parents’ name)
-            - Gas bill  
-            - Electricity bill  
-            - Water bill  
-            - Rent agreement  
-            - Bank statement )
-      
-      ---
-      
-      ## Step 7: Pay Admission Fees  
-      
-      Payment gateways available:  
-      - **UBI**  
-      - **BOI**
-      
-      ---
-      
-      ## Step 8: Download Confirmation Copy
-      
-      Go to **Print** option and download:  
-      - Admission form  
-      - Payment receipt  
-      
-      ---
-      
-      ## Step 9: Admission Confirmation
-      
-      If you have filled everything correctly, then admission will be confirmed in **30–60 days**.  
-      This is normal — don’t panic or lose your brain.
-      
-      You will receive an **email**, and you can also check inside your NIOS login.
-      
-      ---
-      
-      ### Keep These Safe
-      - Reference number  
-      - Registered email  
-      - NIOS password  
-      
-      You’ll need them again and again.
-      
-      ---
-      
-      # After Admission – What Next?
-      
-      Here, Now you should read these guides on what happens next? What do you have to do next?  - [Link to section]
-      
-      ---
-</details>
-    
-   -->
+
 
 <details>
-<summary>
-
-## 📘 How to Take Admission in NIOS 10th (Secondary)
-
+<summary style="
+    background:#1976d2;
+    color:white;
+    padding:12px 18px;
+    border-radius:8px;
+    font-size:18px;
+    font-weight:700;
+    cursor:pointer;
+    width:max-content;
+">
+## 📘 How to Take Admission in NIOS 10th (Secondary) as Fresher & for failed Student - Full guide.
 </summary>
 
-### 1. Who Can Take Admission?
+## 1. Who Can Take Admission?
 
-#### **Freshers**
+### **Freshers**
 Anyone who is **14 years or above**.
 
-#### **Failed Students**
-Anyone who has **failed in 9th or 10th** in a regular school can take admission either as a **fresher** or with **TOC (Transfer of Credit)**.
+### **Failed Students**
+Anyone who has **failed in 9th or 10th** in a regular school can also take admission directly,  
+either as a fresher or using **TOC (Transfer of Credit)**.
 
----
+# Extra Info for Failed Students Only (TOC)
 
-### Extra Info for Failed Students (TOC)
+NIOS allows transferring marks of **up to 2 passed subjects** from your previous board.  
+This is called **TOC – Transfer of Credit**.
 
-NIOS allows transferring marks of **up to 2 passed subjects** from your previous board (TOC).
-
-**TOC Rules**
+### TOC Rules:
 - Only for **failed students**  
-- Maximum **2 subjects** allowed  
-- Subject must exist in **NIOS subject list**  
+- Maximum **2 subjects** are allowed  
+
+
+- The subject must exist in **NIOS subject list**  
+
+
 - TOC fee: **₹230 per subject** (Notification 37/2024)  
-- Send original failed marksheet + a copy of admission form to your Regional Centre
+
+
+- You must send your **original failed marksheet ** to your NIOS Regional Centre  
++ a copy of your admission form  
+
+
+- If you don’t send it → **TOC will not be applied**
+
 
 ---
 
-### 2. You Can Take Admission Yourself (Avoid Middlemen)
+## 2. You Can Take Admission Yourself (Avoid Middlemen)
 
-Many cybercafés/agents charge too much and often fill the form incorrectly.  
-You can complete NIOS admission yourself in **15–20 minutes**.
+Many students go to cybercafés or agents who charge **too much** for a very simple process.  
+Most of them even **fill the form incorrectly**.
+
+**Truth:** You can complete NIOS admission yourself in **15–20 minutes**.  
+It is simple, not rocket science.
 
 ---
 
-### 3. Documents Needed
+## 3. Documents Needed
 
-**(a) Digital Aadhaar Card**  
-Download the digital copy from the UIDAI website.
+### (a) Digital Aadhaar Card  
+Download the digital copy of your Aadhaar from the **UIDAI website**.
 
 <details>
-<summary>📌 Aadhaar Example (click)</summary>
+<summary>📌 Aadhaar Example (Click to View)</summary>
 
-![Aadhaar Example]()
+![Aadhaar Example](your-image-link-here)
 
 </details>
 
-**(b) Passport-size Photo** — formal, not an Instagram selfie.  
-**(c) Address Proof** — Aadhaar works.  
-**(d) Self-Declaration** — most important. (See example below.)
+---
+
+### (b) Passport-size Photo  
+A formal photo is required.  
+You can click it on your phone — just keep it clean, not like an Instagram selfie.
+
+---
+
+### (c) Address Proof  
+Aadhaar works as both ID and address proof.
+
+---
+
+### (d) Self-Declaration Certificate — **Most Important**
+
+NIOS needs proof that:  
+- You are **above 14 years**, and  
+- You want to take **admission in NIOS 10th**
+
+If you don’t upload a self-declaration, NIOS may ask for more school documents —  
+and **you don’t want that headache**.
+
+Even if you don’t have 8th/9th mark sheets, a **self-declaration is enough**.
 
 <details>
-<summary>📌 Self-Declaration Example (click)</summary>
+<summary>📌 Self-Declaration Example (Click to View)</summary>
 
-![Self Declaration Example](
+![Self Declaration Example](your-image-link-here)
 
 </details>
 
 ---
 
-### 4. Step-by-Step Admission Process
+### (e) For Failed Students  
+Upload your **10th failed marksheet** —  
+digital copy from DigiLocker / clear phone photo / result screenshot.
 
-1. Visit: 
-2. Admission → Stream 1 → Secondary Course (10th)  
-3. Fill details (name, DOB, parents, mobile, Aadhaar/PAN, address) — **must match docs exactly**  
-4. Select subjects (1 language + 4 other subjects)  
-5. Choose study centre  
-6. Upload documents  
-7. Pay fees  
-8. Download confirmation copy  
-9. Admission confirmed in **30–60 days**
+<details>
+<summary>📌 Failed Marksheet Example</summary>
+
+![Failed Marksheet Example](your-image-link-here)
+
+</details>
 
 ---
+
+## 4. Step-by-Step Admission Process
+
+### **Step 1:**  
+Search on Google → **"NIOS online admission portal"**  
+Open: **https://sdmis.nios.ac.in**
+
+---
+
+### **Step 2:**  
+Go to:  
+**Admission → Stream 1 → Secondary Course (10th)**
+
+---
+
+### **Step 3:** Fill Basic Details  
+Enter:  
+- Name  
+- DOB  
+- Parents’ names  
+- Mobile number  
+- Aadhaar or PAN number  
+- Address  
+
+⚠️ **Everything must match word-for-word with your documents.**
+
+No spelling mistakes, no incorrect surnames, no wrong DOB.
+
+---
+
+## Important Address Details
+
+### **Permanent Address**  
+Must be **exactly as on Aadhaar**.
+
+### **Correspondence Address**  
+- If your current living address is the same as your Aadhaar address → then keep it the same  
+- # How to Take Admission in NIOS 10th (Secondary)
+### Simple Guide for Freshers & Failed Students
+
+---
+
+## 1. Who Can Take Admission?
+
+### **Freshers**
+Anyone who is **14 years or above**.
+
+### **Failed Students**
+Anyone who has **failed in 9th or 10th** in a regular school can also take admission directly,  
+either as a fresher or using **TOC (Transfer of Credit)**.
+
+# Extra Info for Failed Students Only (TOC)
+
+NIOS allows transferring marks of **up to 2 passed subjects** from your previous board.  
+This is called **TOC – Transfer of Credit**.
+
+### TOC Rules:
+- Only for **failed students**  
+- Maximum **2 subjects** are allowed  
+
+
+- The subject must exist in **NIOS subject list**  
+
+
+- TOC fee: **₹230 per subject** (Notification 37/2024)  
+
+
+- You must send your **original failed marksheet ** to your NIOS Regional Centre  
++ a copy of your admission form  
+
+
+- If you don’t send it → **TOC will not be applied**
+
+
+---
+
+## 2. You Can Take Admission Yourself (Avoid Middlemen)
+
+Many students go to cybercafés or agents who charge **too much** for a very simple process.  
+Most of them even **fill the form incorrectly**.
+
+**Truth:** You can complete NIOS admission yourself in **15–20 minutes**.  
+It is simple, not rocket science.
+
+---
+
+## 3. Documents Needed
+
+### (a) Digital Aadhaar Card  
+Download the digital copy of your Aadhaar from the **UIDAI website**.
+
+<details>
+<summary>📌 Aadhaar Example (Click to View)</summary>
+
+![Aadhaar Example](your-image-link-here)
+
+</details>
+
+---
+
+### (b) Passport-size Photo  
+A formal photo is required.  
+You can click it on your phone — just keep it clean, not like an Instagram selfie.
+
+---
+
+### (c) Address Proof  
+Aadhaar works as both ID and address proof.
+
+---
+
+### (d) Self-Declaration Certificate — **Most Important**
+
+NIOS needs proof that:  
+- You are **above 14 years**, and  
+- You want to take **admission in NIOS 10th**
+
+If you don’t upload a self-declaration, NIOS may ask for more school documents —  
+and **you don’t want that headache**.
+
+Even if you don’t have 8th/9th mark sheets, a **self-declaration is enough**.
+
+<details>
+<summary>📌 Self-Declaration Example (Click to View)</summary>
+
+![Self Declaration Example](your-image-link-here)
+
+</details>
+
+---
+
+### (e) For Failed Students  
+Upload your **10th failed marksheet** —  
+digital copy from DigiLocker / clear phone photo / result screenshot.
+
+<details>
+<summary>📌 Failed Marksheet Example</summary>
+
+![Failed Marksheet Example](your-image-link-here)
+
+</details>
+
+---
+
+## 4. Step-by-Step Admission Process
+
+### **Step 1:**  
+Search on Google → **"NIOS online admission portal"**  
+Open: **https://sdmis.nios.ac.in**
+
+---
+
+### **Step 2:**  
+Go to:  
+**Admission → Stream 1 → Secondary Course (10th)**
+
+---
+
+### **Step 3:** Fill Basic Details  
+Enter:  
+- Name  
+- DOB  
+- Parents’ names  
+- Mobile number  
+- Aadhaar or PAN number  
+- Address  
+
+⚠️ **Everything must match word-for-word with your documents.**
+
+No spelling mistakes, no incorrect surnames, no wrong DOB.
+
+---
+
+## Important Address Details
+
+### **Permanent Address**  
+Must be **exactly as on Aadhaar**.
+
+### **Correspondence Address**  
+- If your current living address is the same as your Aadhaar address → then keep it the same  
+- If the current living address is different, →  Then you must upload proof of that address so you will get the study centre and exam centre in that state and city  
+
+Accepted proofs:  (Any document in your or your parents’ name)
+- Gas bill  
+- Electricity bill  
+- Water bill  
+- Rent agreement  
+- Bank statement  
+
+---
+
+## Step 4: Select Subject
+
+You can choose **5 to 7 subjects**.  
+Minimum requirement: **1 language + 4 other subjects**
+
+1. a) You are required to take __at least 1 language subject__.
+
+ b) You __can take up to 2 language subjects__, e.g., Hindi and English
+
+2. a) NIOS lets you choose any subject; however, you **MUST** choose your subjects according to your future career/goals.
+
+ c) Don't think that you can complete 12th in one year. __If you passed out of 10th, you are required to maintain a 1-year gap between passing 10th and completing 12th.__
+
+(Here You can see the available subject in NIOS)
+---
+
+## Step 5: Choose Good Nearest Study Centre
+
+Your study centre is where:  
+- Practical exams happen  
+- TMA is submitted/received  
+- Documents/help is provided after passing  
+
+So pick a good study centre - Search their name on Google, see how the school looks on Google Maps, and see if they have good infrastructure!
+
+Best study centres generally are - 
+- Kendriya Vidyalayas(KVs) or Army Schools
+- DPS / DAV / GD Goenka / FAS
+- Reputed private or government schools  
+
+
+---
+
+## Step 6: Upload Your Documents
+
+Upload in these sections:
+
+- **Photo** → Your formal photo  
+- **Signature** → photo of your signature  
+- **Identity Proof** → digital Aadhaar  
+- **Previous Qualification Certificate** → upload **Self-Declaration**  
+- **Correspondence Address Proof**  
+- Aadhaar (if same address)  
+- If a different address than the Aadhar card, then upload other proof-- 
+    Accepted proofs:  (Can be Any document in your or your parents’ name)
+    - Gas bill  
+    - Electricity bill  
+    - Water bill  
+    - Rent agreement  
+    - Bank statement )
+
+---
+
+## Step 7: Pay Admission Fees  
+
+Payment gateways available:  
+- **UBI**  
+- **BOI**
+
+---
+
+## Step 8: Download Confirmation Copy
+
+Go to **Print** option and download:  
+- Admission form  
+- Payment receipt  
+
+---
+
+## Step 9: Admission Confirmation
+
+If you have filled everything correctly, then admission will be confirmed in **30–60 days**.  
+This is normal — don’t panic or lose your brain.
+
+You will receive an **email**, and you can also check inside your NIOS login.
+
+---
+
+### Keep These Safe
+- Reference number  
+- Registered email  
+- NIOS password  
+
+You’ll need them again and again.
+
+---
+
+# After Admission – What Next?
+
+Here, Now you should read these guides on what happens next? What do you have to do next?  - [Link to section]
+
 
 </details>
 
@@ -613,6 +548,7 @@ To apply for Dual Enrollment or Part Admission, students should:
 
 
 ---
+
 
 
 
