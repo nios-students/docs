@@ -2,7 +2,7 @@
 
 __Admissions are completely online at [sdmis.nios.ac.in](https://sdmis.nios.ac.in) only__ (for 12th (Sr. Sec), 10th (Sec), and OBE).
 
-<details>
+<!-- <details>
 <summary style="
     background:#1976d2;
     color:white;
@@ -405,7 +405,85 @@ __Admissions are completely online at [sdmis.nios.ac.in](https://sdmis.nios.ac.i
       ---
 </details>
     
-  
+   -->
+
+<details>
+<summary>
+
+## 📘 How to Take Admission in NIOS 10th (Secondary)
+
+</summary>
+
+### 1. Who Can Take Admission?
+
+#### **Freshers**
+Anyone who is **14 years or above**.
+
+#### **Failed Students**
+Anyone who has **failed in 9th or 10th** in a regular school can take admission either as a **fresher** or with **TOC (Transfer of Credit)**.
+
+---
+
+### Extra Info for Failed Students (TOC)
+
+NIOS allows transferring marks of **up to 2 passed subjects** from your previous board (TOC).
+
+**TOC Rules**
+- Only for **failed students**  
+- Maximum **2 subjects** allowed  
+- Subject must exist in **NIOS subject list**  
+- TOC fee: **₹230 per subject** (Notification 37/2024)  
+- Send original failed marksheet + a copy of admission form to your Regional Centre
+
+---
+
+### 2. You Can Take Admission Yourself (Avoid Middlemen)
+
+Many cybercafés/agents charge too much and often fill the form incorrectly.  
+You can complete NIOS admission yourself in **15–20 minutes**.
+
+---
+
+### 3. Documents Needed
+
+**(a) Digital Aadhaar Card**  
+Download the digital copy from the UIDAI website.
+
+<details>
+<summary>📌 Aadhaar Example (click)</summary>
+
+![Aadhaar Example](your-image-link-here)
+
+</details>
+
+**(b) Passport-size Photo** — formal, not an Instagram selfie.  
+**(c) Address Proof** — Aadhaar works.  
+**(d) Self-Declaration** — most important. (See example below.)
+
+<details>
+<summary>📌 Self-Declaration Example (click)</summary>
+
+![Self Declaration Example](your-image-link-here)
+
+</details>
+
+---
+
+### 4. Step-by-Step Admission Process
+
+1. Visit: `https://sdmis.nios.ac.in`  
+2. Admission → Stream 1 → Secondary Course (10th)  
+3. Fill details (name, DOB, parents, mobile, Aadhaar/PAN, address) — **must match docs exactly**  
+4. Select subjects (1 language + 4 other subjects)  
+5. Choose study centre  
+6. Upload documents  
+7. Pay fees  
+8. Download confirmation copy  
+9. Admission confirmed in **30–60 days**
+
+---
+
+</details>
 
 
 
@@ -535,5 +613,6 @@ To apply for Dual Enrollment or Part Admission, students should:
 
 
 ---
+
 
 
