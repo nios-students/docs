@@ -7,11 +7,10 @@ __Admissions are completely online at [sdmis.nios.ac.in](https://sdmis.nios.ac.i
 
 <details>
 <summary style="
-    background:#1976d2;
     color:white;
     padding:12px 18px;
     border-radius:8px;
-    font-size:30px;
+    font-size:25px;
     font-weight:700;
     cursor:pointer;
     width:max-content;
@@ -386,6 +385,7 @@ To apply for Dual Enrollment or Part Admission, students should:
 
 
 ---
+
 
 
 
