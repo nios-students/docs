@@ -262,13 +262,6 @@ Here, Now you should read these guides on what happens next? What do you have to
 
 
 
-<br>
-<br>
-
-
-
-
-
 
 
 
@@ -591,9 +584,6 @@ Here, Now you should read these guides on what happens next? What do you have to
 
 
 
-<br>
-<br>
-
 
 ---
 
@@ -675,6 +665,7 @@ To apply for Dual Enrollment or Part Admission, students should:
 
 
 ---
+
 
 
 
