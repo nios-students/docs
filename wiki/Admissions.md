@@ -10,10 +10,10 @@ __Admissions are completely online at [sdmis.nios.ac.in](https://sdmis.nios.ac.i
     color:white;
     padding:12px 18px;
     border-radius:8px;
-    font-size:25px;
+    font-size: clamp(18px, 5vw, 26px);
     font-weight:700;
     cursor:pointer;
-    width:max-content;
+    display:block;
 ">
   📘 How to Take Admission in NIOS 10th (Secondary) <br> as a Fresher & for failed Students - Full guide.
 </summary>
@@ -256,6 +256,8 @@ Here, Now you should read these guides on what happens next? What do you have to
 
 
 </details>
+<br>
+<br>
 
 
 
@@ -264,50 +266,348 @@ Here, Now you should read these guides on what happens next? What do you have to
 
 
 
-
-
-
+<details>
+<summary style="
+    color:white;
+    padding:12px 18px;
+    border-radius:8px;
+    font-size: clamp(18px, 5vw, 26px);
+    font-weight:700;
+    cursor:pointer;
+    display:block;
+">
+  📘 How to take admission in NIOS Senior Secondary (12th Standard) as a fresher or as a 12th failed student!!
+</summary>
 
    
+### Simple Guide for Freshers, 10th-pass Students & Failed Students
 
-# Senior Secondary (12th Standard)
+---
 
-This course is equivalent to the 12th standard. However, NIOS integrates 11th and 12th into one grade. The content of 11th and 12th grades is present in its books. Unlike other boards, you may choose your subjects from the [table](https://www.nios.ac.in/departmentsunits/academic/senior-secondary-course-equivalent-to-class-xii.aspx).  
-<img src="https://cdn.jsdelivr.net/gh/nios-students/docs@master/wiki/assets/Screenshot%202024-09-13%20190823.png" alt="Screenshot" width="400">
+## 1. Who Can Take Admission?
 
-**Exceptions**
+### **Freshers / New Students**
+- Anyone who is or above: 15
+- Has passed **10th class** from any recognized board.
+
+### 🧒 NIOS 10th → 12th Gap Rule (Very Simple)
+Think of it like this 
+NIOS wants 2 years gap between:
+when you pass 10th, and
+
+
+when you finish 12th and get the final marksheet
+
+
+You cannot get the final 12th marksheet before 2 years are completed. <br>
+
+
+### 🧩 Two Ways to Do NIOS 12th
+✅ Way 1: Normal Way (Easiest)
+Pass 10th in 2024
+
+
+Take NIOS 12th admission in 2025
+
+
+Give all exams together in 2026
+
+
+Get full marksheet ✅
+
+
+Simple. No confusion. <br>
+
+### ✅ Way 2: Part-by-Part Way (NIOS Special Option)
+NIOS also allows you to give exams in parts.
+Example:
+Passed 10th in 2024
+
+
+Took NIOS 12th admission in 2024 / 2025
+
+
+Gave 2–3 subjects exam in 2025 April / oct
+
+
+Gave the remaining subjects in 2026 or later
+
+
+After 2 years complete → NIOS gives full 12th marksheet ✅ <br>
+
+
+### 🧠 Important:
+NIOS keeps your passed subjects marks safe
+
+
+You don’t lose marks
+
+
+
+<br> ### ⚠️ Very Important Things to Remember
+✅ Only exams can be given in parts
+
+
+❌ TMA (assignments) must be uploaded together
+
+
+❌ Practical classes (FA PCP) must be attended together
+
+
+❌ You can’t split TMAs or practicals class year-wise
+
+
+
+🧠 In One Line (Ultra Simple)
+👉 You can give 12th exams early, but NIOS will give the final marksheet only after 2 years from passing 10th.
+That’s it.
+
+---
+
+# Extra Info for Failed Students (TOC for 12th)
+
+NIOS allows transferring marks of **up to 2 passed subjects** from your previous board.  
+This helps you avoid re-studying subjects you already passed.
+
+### **TOC Rules for 12th**
+- Only for **failed students**  
+- You can transfer **max 2 subjects**  
+- The subject MUST exist in **NIOS 12th subject list**  
+- TOC fee: **₹230 per subject**  
+- You must send:
+  - **Original failed/compartment marksheet**
+  -  Printout of NIOS admission form  to your Regional centre or NIOS HQ under 10 days of admission confirmation
+- If you don’t send documents → **TOC is won’t be applied**
+
+---
+
+## 2. You Can Take Admission Yourself (Avoid Middlemen)
+
+Cybercafés and agents charge **high fees** for a very simple online form.  
+Many even **fill in wrong details**, causing admission rejection.
+
+**You can do it yourself in 15–20 minutes.**  
+It is extremely simple.
+
+---
+
+## 3. Documents Needed for NIOS 12th Admission
+
+### (a) Digital Aadhaar Card  
+Download from **UIDAI** website.
+
+<details>
+<summary>📌 Aadhaar Example (Click to Open)</summary>
+
+![Aadhaar Example](your-image-link-here)
+
+</details>
+
+---
+
+### (b) Passport-size Photo  
+Can be taken on your phone — must look **formal**.
+
+---
+
+### (c) 10th Pass Marksheet (IMPORTANT)
+This is mandatory for 12th admission.
+- Digi Locker version is ideal
+- Or Physical marksheet Photo
+
+
+---
+
+
+
+### (d) Identity Proof  
+Aadhaar works as both ID and address proof.
+
+---
+
+
+
+
+## 4. Step-by-Step Admission Process (12th)
+
+### **Step 1 — Visit NIOS Portal**
+Google: **“NIOS online admission portal”**  
+Open: ** sdmis.nios.ac.in**
+
+---
+
+### **Step 2 — Select Stream & Course**
+**Admission → Stream 1 → Senior Secondary (12th)**
+
+---
+
+### **Step 3 — Fill Personal Details**
+Enter:
+- Name  
+- DOB  
+- Parents’ names  
+- Mobile number  
+- Aadhaar/PAN  
+- Address  
+
+⚠️ **Everything must match your documents exactly.  
+Even one spelling mistake can delay verification.**
+
+---
+
+## Important Address Rules
+
+### Permanent Address  
+Must match word-for-word on Aadhaar copy **exactly**.
+
+### Correspondence Address  
+- If your current living address is the same as your Aadhaar address → then keep it the same  
+- If the current living address is different, →  Then you must upload proof of that address so you will get the study centre and exam centre in that state and city  
+
+Accepted proofs:  (Any document in your or your parents’ name)
+- Gas bill  
+- Electricity bill  
+- Water bill  
+- Rent agreement  
+- Bank statement  
+
+## Important - Part / dual admission 
+
+- Don’t click yes on part admission, it’s only for those who have already passed 12th and just want to give 1 or 2 subject exams for some course eligibility (for eg - Pilot exams)
+
+—
+## Step 4: Select Subject
+
+You can choose **5 to 7 subjects**.  
+Minimum requirement: **1 language + 4 other subjects**
 
 1. a) You are required to take __at least 1 language subject__.
 
-   b) You __can take up to 2 language subjects__, e.g., Hindi and English ***✔*** ~~Hindi, English, and Arabic~~ ***X***.
+ b) You __can take up to 2 language subjects__, e.g., Hindi and English
+ 
+4. Choose subjects based on your **future goals**:
+   - Want to do graduation → choose academic subjects  
+   - Want easy scoring → choose simpler subjects like Home Science, Data entry, Physical education, Computer Science, Intro to law, Mass communication, sociology, Psychology, etc.  
 
-2. a) You are required to opt for __4 academic subjects for "certification"__ (*not* including language subjects).  
-   > [!NOTE]  
-   > The reason why "certification" is in quotes is because part/dual students don't get a certificate. They just pass specific subjects that they need for their career.  
-   > e.g., For taking admission into a commercial pilot course, one of the requirements is that the student has to study Physics and Mathematics in 12th. So, they register in part admission to fulfill the requirements.  
-   > **IF** you just passed 8th/9th (i.e., a fresher), you must click **NO** for part admission when registering/filling the admission form.
 
-   b) You can add 2 __more subjects, but the maximum count of subjects shouldn't exceed seven (i.e., no more than 7 subjects)__.
+(Here You can see the available subject in NIOS)
+---
 
-   c) NIOS lets you choose any subject; however, you **MUST** choose your subjects according to your future career/goals.
+## Step 5: Choose Nearest Study Centre
 
-   d) Don't think that you can complete 12th in one year. __If you passed out of 10th, you are required to maintain a 1-year gap between passing 10th and completing 12th.__
+Your study centre handles:
+- Practical exams  
+- TMA & Practical Marks
+- You receive Documents after passing  
 
-   e) You can choose one [vocational subject](https://nios-students.pages.dev/wiki/FAQ'S#what-is-the-two-vocational-subjects-role:~:text=12th%20Vocational%20Subjects).
 
-Procedure: NIOS has introduced __100% online__ admission to facilitate learners in registering themselves. Offline admission quotas have been dispensed with. Under this scheme, learners have the options to:
-- Register themselves online directly.
-- Visit their Regional Centres/Study Centres for online registration. (*They aren't helpful mostly.*)  
-> [!TIP]  
-> We suggest that you register yourself for admission through the [NIOS SDMIS website](https://sdmis.nios.ac.in); it's easy!
+So pick a good study centre - Search their name on Google, see how the school looks on Google Maps, and see if they have good infrastructure!
 
-[Link to more detailed information on Admissions](https://youtube.com/playlist?list=PLSh652xpu_YH8C93k-3hMEH5yCnIwSAyQ&si=ii9xb-BGTGF8NkX4) | [Official Guidelines](https://drive.google.com/drive/folders/1S8z_RbST1EgllO27tPGU_uemNi7Kdpsj)
+Best study centres generally are - 
+- Kendriya Vidyalayas(KVs) or Army Schools
+-  Good private schools DPS / DAV / GD Goenka / FAS
+- Reputed private or government schools  
 
-# Streams of Admission
 
-In NIOS, there are __primarily four streams__. Unlike other boards, you can choose any subjects you like. The term "stream" in the context of NIOS isn't Science, Commerce, Humanities, and Arts; it’s based on factors such as whether you are taking Public Exams or On-Demand Exams.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/NpNZ-BbiLag" title="NIOS_Types_of_Admission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Step 6: Upload Your Documents
+
+Upload in these sections:
+
+- **Photo** → Your formal photo  
+- **Signature** → photo of your signature  
+- **Identity Proof** → digital Aadhaar  
+- **Previous Qualification Certificate** → upload **10 Result / Marksheet**  
+- **Correspondence Address Proof**  
+- Aadhaar (if same address)  
+- If a different living address than the Aadhar card, then upload other proof-- 
+    Accepted proofs:  (Can be Any document in your or your parents’ name)
+    - Gas bill  
+    - Electricity bill  
+    - Water bill  
+    - Rent agreement  
+    - Bank statement )
+
+---
+
+## Step 7: Pay Admission Fees
+
+Payment Options:
+- **UBI Gateway**  
+- **BOI Gateway**
+
+If payment fails → try again after 10 minutes.
+
+---
+
+## Step 8: Download Admission payment Copy
+
+Download from payment history tab onthe  dashboard
+- Payment receipt  
+
+
+---
+
+## Step 9: Admission Confirmation??
+
+If you have filled everything correctly, then admission will be confirmed in **30–60 days**.  
+This is normal — don’t panic or lose your brain.
+
+You will receive an **email**, and you can also check inside your NIOS login.
+
+---
+
+### Keep These Safe
+- Reference number  
+- Registered email  
+- NIOS password  
+
+You’ll need them again and again.
+
+
+
+# After Admission – What Next?
+
+You now need to understand:
+- TMA  
+- FA PCP classes  
+- Practical exams  
+- Theory Exam Hall ticket 
+- Study material  
+- Important dates and deadline of all these
+
+Here, Now you should read these guides on what happens next? What do you have to do next? 
+
+### Good to know things just after admission:
+
+**1. [When to contact study center](https://www.reddit.com/r/Nios_unofficial/s/qOT6UbFdn4)
+
+2. [After admission, what next?](https://www.reddit.com/r/Nios_unofficial/s/Fxi040pgjR) (Scroll to bottom)
+
+3. [How to study & prepare for nios exams, what to study and prep strategy](https://www.reddit.com/r/Nios_unofficial/s/8DzRVhpIIG)
+
+4. [How to write in exams](https://www.reddit.com/r/Nios_unofficial/s/x14h62H5RG)
+
+5. [Study center and PCP+FA guide](https://www.reddit.com/r/Nios_unofficial/s/yVY1U8w23b)
+
+6. [Stream 1 block 1 timeline](https://nios-students.pages.dev/wiki/HandbookforS1b1.html)
+
+7. [Stream 1 block 2 timeline](https://nios-students.pages.dev/wiki/HandbookforS1b2.html)
+
+
+---
+
+</details>
+
+
+
+<br>
+<br>
+
+
+---
+
+# NIOS Admission Streams Explained
 
 # Stream 1
 Open to all learners and freshers. Admissions are open throughout the year. Examinations are held in April-May for Block 1 learners and October-November for Block 2 learners. (*Although you may give exams in different blocks from yours and [On Demand](https://nios-students.pages.dev/wiki/Exams-Assignments#ode-on-demand-examination), after the first exam is past, you don't have to appear in it.*) Students in Stream 1 must submit TMAs and attend PCP classes. [More info on TMA & PCP](Exams-Assignments) | [Admission schedule Stream I](https://sdmis.nios.ac.in/home/fees#:~:text=Fee%20Structure%20%2D%20(With%20Late%20Fee)%20for%20Stream%201%20Block%20I) | [Registration flow chart](https://dq4kzxd7fbbni.cloudfront.net/static/dist/images/pdf/process-flow/ProcessFlowDetailed_SecSrSec_Stream1and2_June2023.pdf) | [Fee Structure](https://sdmis.nios.ac.in/home/fees#:~:text=Fee%20Structure%20%2D%20(Without%20Late%20Fee)%20for%20Stream%201%20of%20Online%20Admission)
@@ -385,6 +685,7 @@ To apply for Dual Enrollment or Part Admission, students should:
 
 
 ---
+
 
 
 
