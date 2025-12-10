@@ -161,6 +161,9 @@ br {
  only</strong> (for 12th (Sr. Sec), 10th (Sec), and OBE).
 </div>
 
+--- 
+<br>
+
 # How TO Take Admission In NIOS 10th or 12th - Full guides
 
 <details>
@@ -820,6 +823,7 @@ To apply for Dual Enrollment or Part Admission, students should:
 
 
 ---
+
 
 
 
