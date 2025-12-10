@@ -9,7 +9,7 @@ Like -- "Admission", "STREAM 1", "ODE", " TMA " , "PCP",  "Practical", "pyqs"**<
 
 # All The Terminologies/Acronyms That Everyone Needs To Know:
 
-- NIOS: National Institute of Open Schooling.           [Link to section](About.md_)
+- NIOS: National Institute of Open Schooling.           [Link to section]
 - Subjects Available In NIOS that You Can Choose:       [Subjects in 10th link](./assets/NIOS-10th-subjects-list.png) <br> 
                                                         [Subjects in NIOS 12th ](./assets/NIOS-12th-subjects-list.png) 
 - Subjects That Have Practicals In NIOS:                [Link to section](/wiki/pr.md)
