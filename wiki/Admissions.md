@@ -157,7 +157,7 @@ br {
 <h1>Admission</h1>
 
 <div class="intro">
-<strong>Admissions are completely online at <a href="https://sdmis.nios.ac.in" target="_blank">sdmis.nios.ac.in</a> only</strong> (for 12th (Sr. Sec), 10th (Sec), and OBE).
+<strong>Admissions are completely online at <a href=sdmis.nios.ac.in target="_blank">sdmis.nios.ac.in</a> only</strong> (for 12th (Sr. Sec), 10th (Sec), and OBE).
 </div>
 
 <details>
@@ -813,6 +813,7 @@ To apply for Dual Enrollment or Part Admission, students should:
 
 
 ---
+
 
 
 
