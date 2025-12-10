@@ -12,8 +12,8 @@ Like -- "Admission", "STREAM 1", "ODE", " TMA " , "PCP",  "Practical", "pyqs"**<
 - NIOS: National Institute of Open Schooling.           [Link to section]
 - Subjects Available In NIOS that You Can Choose:       [Subjects in 10th link](wiki/assets/NIOS-10th-subjects-list.png) <br> 
                                                         [Subjects in NIOS 12th ](wiki/assets/NIOS-12th-subjects-list.png)
-- TOC: Transfer of Credit                               [Link to section](/wiki/Admissions.html#transfer-of-credit-toc)
 - Subjects That Have Practicals In NIOS:                [Link to section](/wiki/pr.md)
+- TOC: Transfer of Credit                               [Link to section](/wiki/Admissions.html#transfer-of-credit-toc)
 - TMA: Tutor Marked Assignments.                        [Link to section](/wiki/Exams-Assignments#practical-exams)
 - PCP: Personal Contact Program.                        [Link to section](/wiki/Exams-Assignments#pcp-classes-practical-pcp-fa-practical-exam-sa)
 - Practical PCP classes, aka FA: Formative assessment   [Link to section](/wiki/Exams-Assignments#pcp-classes-practical-pcp-fa-practical-exam-sa)
