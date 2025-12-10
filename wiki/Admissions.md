@@ -325,7 +325,10 @@ Minimum requirement: <strong>1 language + 4 other subjects</strong></p>
 
 <p>c) Don't think that you can complete 12th in one year. <strong>If you passed out of 10th, you are required to maintain a 1-year gap between passing 10th and completing 12th.</strong></p>
 
-<p>(Here You can see the available subject in NIOS)</p>
+<details>
+<summary>📌 See Subjects Available in NIOS for 12th (Click to Open)</summary>
+  <img src="./assets/NIOS-10th-subjects-list.png />
+</details>
 
 <hr>
 
@@ -632,7 +635,11 @@ Minimum requirement: <strong>1 language + 4 other subjects</strong></p>
 <li>Want easy scoring → choose simpler subjects like Home Science, Data entry, Physical education, Computer Science, Intro to law, Mass communication, sociology, Psychology, etc.</li>
 </ul>
 
-<p>(Here You can see the available subject in NIOS)</p>
+<details>
+<summary>📌 See Subjects Available in NIOS for 12th (Click to Open)</summary>
+  <img src="./assets/NIOS-12th-subjects-list.png />
+</details>
+
 
 <hr>
 
