@@ -355,7 +355,7 @@ Minimum requirement: <strong>1 language + 4 other subjects</strong></p>
 <li><strong>Previous Qualification Certificate</strong> → upload <strong>Self-Declaration</strong></li>
 <li><strong>Correspondence Address Proof</strong></li>
 <li>Aadhaar (if same address)</li>
-<li>If a different address than the Aadhar card, then upload other proof--
+<li>If your living address is not same as the Aadhar card, then upload other proof of living address--
 <ul>
 <li>Accepted proofs: (Can be Any document in your or your parents' name)</li>
 <li>Gas bill</li>
@@ -631,7 +631,7 @@ Minimum requirement: <strong>1 language + 4 other subjects</strong></p>
 
 <hr>
 
-<h2>Step 5: Choose Nearest Study Centre</h2>
+<h2>Step 5: Choose Good Nearest Study Centre</h2>
 
 <p>Your study centre handles:</p>
 <ul>
@@ -660,7 +660,7 @@ Minimum requirement: <strong>1 language + 4 other subjects</strong></p>
 <li><strong>Previous Qualification Certificate</strong> → upload <strong>10 Result / Marksheet</strong></li>
 <li><strong>Correspondence Address Proof</strong></li>
 <li>Aadhaar (if same address)</li>
-<li>If a different living address than the Aadhar card, then upload other proof--
+<li>If your living address is not same as the Aadhar card, then upload other proof of living address--
 <ul>
 <li>Accepted proofs: (Can be Any document in your or your parents' name)</li>
 <li>Gas bill</li>
