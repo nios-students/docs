@@ -208,7 +208,8 @@ It is simple, not rocket science.</p>
 
 <details>
 <summary>📌 Aadhaar Example (Click to View)</summary>
-<p>![Aadhaar Example()</p>
+  <img src="./assets/aadhar.png">
+
 </details>
 
 <hr>
@@ -239,7 +240,8 @@ and <strong>you don't want that headache</strong>.</p>
 
 <details>
 <summary>📌 Self-Declaration Example (Click to View)</summary>
-<p>![Self Declaration Example()</p>
+    <img src="./assets/self-decl.jpg">
+
 </details>
 
 <hr>
@@ -325,7 +327,7 @@ Minimum requirement: <strong>1 language + 4 other subjects</strong></p>
 <p>Your study centre is where:</p>
 <ul>
 <li>Practical exams happen</li>
-<li>TMA is submitted/received</li>
+<li>You Get TMA Marks from here /li>
 <li>You receive Documents after passing</li>
 </ul>
 
@@ -527,7 +529,7 @@ It is extremely simple.</p>
 
 <details>
 <summary>📌 Aadhaar Example (Click to Open)</summary>
-<p>![Aadhaar Example](</p>
+  <img src="./assets/aadhar.png">
 </details>
 
 <hr>
