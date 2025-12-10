@@ -742,7 +742,7 @@ This is normal — don't panic or lose your brain.</p>
 # NIOS Admission Streams Explained
 
 # Stream 1
-Open to all learners and freshers. Admissions are open throughout the year. Examinations are held in April-May for Block 1 learners and October-November for Block 2 learners. (*Although you may give exams in different blocks from yours and [On Demand](https://nios-students.pages.dev/wiki/Exams-Assignments#ode-on-demand-examination), after the first exam is past, you don't have to appear in it.*) Students in Stream 1 must submit TMAs and attend PCP classes. [More info on TMA & PCP](Exams-Assignments) | [Admission schedule Stream I Block 1](wiki/HandbookforS1b1.md) | [Stream 1 block 2 Oct Exam](wiki/HandbookforS1b2.md) | [Registration flow chart](https://dq4kzxd7fbbni.cloudfront.net/static/dist/images/pdf/process-flow/ProcessFlowDetailed_SecSrSec_Stream1and2_June2023.pdf) | [Fee Structure](https://sdmis.nios.ac.in/home/fees#:~:text=Fee%20Structure%20%2D%20(Without%20Late%20Fee)%20for%20Stream%201%20of%20Online%20Admission)
+Open to all learners and freshers. Admissions are open throughout the year. Examinations are held in April-May for Block 1 learners and October-November for Block 2 learners. (*Although you may give exams in different blocks from yours and [On Demand](https://nios-students.pages.dev/wiki/Exams-Assignments#ode-on-demand-examination), after the first exam is past, you don't have to appear in it.*) Students in Stream 1 must submit TMAs and attend PCP classes. [More info on TMA & PCP](Exams-Assignments) | [Admission schedule Stream I Block 1] | [Stream 1 block 2 Oct Exam] | [Registration flow chart](https://dq4kzxd7fbbni.cloudfront.net/static/dist/images/pdf/process-flow/ProcessFlowDetailed_SecSrSec_Stream1and2_June2023.pdf) | [Fee Structure](https://sdmis.nios.ac.in/home/fees#:~:text=Fee%20Structure%20%2D%20(Without%20Late%20Fee)%20for%20Stream%201%20of%20Online%20Admission)
 
 # Stream 2
 Stream 2 is only for failed students - There are NO TMAs and FA PCP classes in it, only practical exam and theory exam
@@ -752,7 +752,7 @@ This stream is available for learners who have failed and want to improve scores
 > For students enrolled in Stream 2, **examination fees are included in the admission fees for the first time.**
 
 # Stream 3 and 4
-On-Demand Examination System (ODES) at Secondary Level (10th class) and Senior Secondary Level (12th class). Open for admissions throughout the year. Suitable for learners seeking to update their qualifications or clear failed subjects. [More Info on Stream 3 & 4]_(wiki/Full ODE Information.md)
+On-Demand Examination System (ODES) at Secondary Level (10th class) and Senior Secondary Level (12th class). Open for admissions throughout the year. Suitable for learners seeking to update their qualifications or clear failed subjects. [More Info on Stream 3 & 4 ODE](wiki/Full ODE Information.md)
 
 # Transfer of Credit (ToC)
    **TOC option is only for = failed students**
