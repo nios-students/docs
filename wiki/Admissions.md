@@ -1,587 +1,735 @@
-# Admission
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NIOS Admission Guide</title>
+<style>
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  background: #000000;
+  color: #e0e0e0;
+  padding: 20px;
+  line-height: 1.6;
+  max-width: 900px;
+  margin: 0 auto;
+}
 
-__Admissions are completely online at [sdmis.nios.ac.in](https://sdmis.nios.ac.in) only__ (for 12th (Sr. Sec), 10th (Sec), and OBE).
+h1 {
+  color: #ffffff;
+  text-align: center;
+  margin-bottom: 10px;
+}
 
- 
+a {
+  color: #667eea;
+  text-decoration: none;
+}
 
+a:hover {
+  text-decoration: underline;
+}
+
+details {
+  background: #1a1a1a;
+  border-radius: 12px;
+  margin-bottom: 16px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3), 0 0 0 1px rgba(255, 255, 255, 0.1);
+  transition: all 0.3s ease;
+}
+
+details:hover {
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4), 0 0 0 1px rgba(255, 255, 255, 0.15);
+  transform: translateY(-2px);
+}
+
+details[open] {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5), 0 0 0 1px rgba(255, 255, 255, 0.2);
+}
+
+summary {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 20px 24px;
+  font-size: clamp(18px, 5vw, 26px);
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  list-style: none;
+  flex-direction: row-reverse;
+  transition: background 0.3s ease;
+}
+
+summary:hover {
+  background: linear-gradient(135deg, #5568d3 0%, #6a3f8f 100%);
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+summary::after {
+  content: '▶';
+  font-size: 20px;
+  transition: transform 0.3s;
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(255, 255, 255, 0.25);
+  border-radius: 50%;
+}
+
+details[open] summary::after {
+  transform: rotate(90deg);
+}
+
+.content {
+  padding: 20px 24px;
+  color: #e0e0e0;
+  line-height: 1.8;
+  background: #0f0f0f;
+}
+
+.content h2 {
+  color: #667eea;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+.content h3 {
+  color: #8b9aee;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.content p {
+  margin-bottom: 12px;
+  color: #c0c0c0;
+}
+
+.content ul {
+  margin-left: 20px;
+  margin-bottom: 16px;
+}
+
+.content li {
+  margin-bottom: 8px;
+  color: #c0c0c0;
+}
+
+.content strong {
+  color: #ffffff;
+}
+
+.content hr {
+  border: none;
+  border-top: 1px solid #333;
+  margin: 30px 0;
+}
+
+.intro {
+  text-align: center;
+  margin: 30px 0;
+  padding: 20px;
+  background: #1a1a1a;
+  border-radius: 12px;
+}
+
+.intro strong {
+  color: #ffffff;
+}
+
+br {
+  display: block;
+  margin: 8px 0;
+  content: "";
+}
+</style>
+</head>
+<body>
+
+<h1>Admission</h1>
+
+<div class="intro">
+<strong>Admissions are completely online at <a href="https://sdmis.nios.ac.in" target="_blank">sdmis.nios.ac.in</a> only</strong> (for 12th (Sr. Sec), 10th (Sec), and OBE).
+</div>
 
 <details>
-<summary style="
-    color:white;
-    padding:12px 18px;
-    border-radius:8px;
-    font-size: clamp(18px, 5vw, 26px);
-    font-weight:700;
-    cursor:pointer;
-    display:block;
-">
-  📘 How to Take Admission in NIOS 10th (Secondary) <br> as a Fresher & for failed Students - Full guide.
-</summary>
+<summary>📘 How to Take Admission in NIOS 10th (Secondary) as a Fresher & for failed Students - Full guide.</summary>
+<div class="content">
 
+<h2>1. Who Can Take Admission?</h2>
 
+<h3><strong>Freshers</strong></h3>
+<p>Anyone who is <strong>14 years or above</strong>.</p>
 
-## 1. Who Can Take Admission?
+<h3><strong>Failed Students</strong></h3>
+<p>Anyone who has <strong>failed in 9th or 10th</strong> in a regular school can also take admission directly,<br>
+either as a fresher or using <strong>TOC (Transfer of Credit)</strong>.</p>
 
-### **Freshers**
-Anyone who is **14 years or above**.
+<h2>Extra Info for Failed Students Only (TOC)</h2>
 
-### **Failed Students**
-Anyone who has **failed in 9th or 10th** in a regular school can also take admission directly,  
-either as a fresher or using **TOC (Transfer of Credit)**.
+<p>NIOS allows transferring marks of <strong>up to 2 passed subjects</strong> from your previous board.<br>
+This is called <strong>TOC – Transfer of Credit</strong>.</p>
 
-# Extra Info for Failed Students Only (TOC)
+<h3>TOC Rules:</h3>
+<ul>
+<li>Only for <strong>failed students</strong></li>
+<li>Maximum <strong>2 subjects</strong> are allowed</li>
+<li>The subject must exist in <strong>NIOS subject list</strong></li>
+<li>TOC fee: <strong>₹230 per subject</strong> (Notification 37/2024)</li>
+<li>You must send your <strong>original failed marksheet</strong> to your NIOS Regional Centre<br>
++ a copy of your admission form</li>
+<li>If you don't send it → <strong>TOC will not be applied</strong></li>
+</ul>
 
-NIOS allows transferring marks of **up to 2 passed subjects** from your previous board.  
-This is called **TOC – Transfer of Credit**.
+<hr>
 
-### TOC Rules:
-- Only for **failed students**  
-- Maximum **2 subjects** are allowed  
+<h2>2. You Can Take Admission Yourself (Avoid Middlemen)</h2>
 
+<p>Many students go to cybercafés or agents who charge <strong>too much</strong> for a very simple process.<br>
+Most of them even <strong>fill the form incorrectly</strong>.</p>
 
-- The subject must exist in **NIOS subject list**  
+<p><strong>Truth:</strong> You can complete NIOS admission yourself in <strong>15–20 minutes</strong>.<br>
+It is simple, not rocket science.</p>
 
+<hr>
 
-- TOC fee: **₹230 per subject** (Notification 37/2024)  
+<h2>3. Documents Needed</h2>
 
-
-- You must send your **original failed marksheet ** to your NIOS Regional Centre  
-+ a copy of your admission form  
-
-
-- If you don’t send it → **TOC will not be applied**
-
-
----
-
-## 2. You Can Take Admission Yourself (Avoid Middlemen)
-
-Many students go to cybercafés or agents who charge **too much** for a very simple process.  
-Most of them even **fill the form incorrectly**.
-
-**Truth:** You can complete NIOS admission yourself in **15–20 minutes**.  
-It is simple, not rocket science.
-
----
-
-## 3. Documents Needed
-
-### (a) Digital Aadhaar Card  
-Download the digital copy of your Aadhaar from the **UIDAI website**.
+<h3>(a) Digital Aadhaar Card</h3>
+<p>Download the digital copy of your Aadhaar from the <strong>UIDAI website</strong>.</p>
 
 <details>
 <summary>📌 Aadhaar Example (Click to View)</summary>
-
-![Aadhaar Example()
-
+<p>![Aadhaar Example()</p>
 </details>
 
----
+<hr>
 
-### (b) Passport-size Photo  
-A formal photo is required.  
-You can click it on your phone — just keep it clean, not like an Instagram selfie.
+<h3>(b) Passport-size Photo</h3>
+<p>A formal photo is required.<br>
+You can click it on your phone — just keep it clean, not like an Instagram selfie.</p>
 
----
+<hr>
 
-### (c) Identity Proof  
-Aadhaar works as both ID and address proof.
+<h3>(c) Identity Proof</h3>
+<p>Aadhaar works as both ID and address proof.</p>
 
----
+<hr>
 
-### (d) Self-Declaration Certificate — **Most Important**
+<h3>(d) Self-Declaration Certificate — <strong>Most Important</strong></h3>
 
-NIOS needs proof that:  
-- You are **above 14 years**, and  
-- You want to take **admission in NIOS 10th**
+<p>NIOS needs proof that:</p>
+<ul>
+<li>You are <strong>above 14 years</strong>, and</li>
+<li>You want to take <strong>admission in NIOS 10th</strong></li>
+</ul>
 
-If you don’t upload a self-declaration, NIOS may ask for more school documents —  
-and **you don’t want that headache**.
+<p>If you don't upload a self-declaration, NIOS may ask for more school documents —<br>
+and <strong>you don't want that headache</strong>.</p>
 
-Even if you don’t have 8th/9th mark sheets, a **self-declaration is enough**.
+<p>Even if you don't have 8th/9th mark sheets, a <strong>self-declaration is enough</strong>.</p>
 
 <details>
 <summary>📌 Self-Declaration Example (Click to View)</summary>
-
-![Self Declaration Example()
-
+<p>![Self Declaration Example()</p>
 </details>
 
----
+<hr>
 
-### (e) For Failed Students  
-Upload your **10th failed marksheet** —  
-digital copy from DigiLocker / clear phone photo / result website screenshot - any thing will work here.
+<h3>(e) For Failed Students</h3>
+<p>Upload your <strong>10th failed marksheet</strong> —<br>
+digital copy from DigiLocker / clear phone photo / result website screenshot - any thing will work here.</p>
 
+<hr>
 
----
+<h2>4. Step-by-Step Admission Process</h2>
 
-## 4. Step-by-Step Admission Process
+<h3><strong>Step 1:</strong></h3>
+<p>Search on Google → <strong>"NIOS online admission portal"</strong><br>
+Open: <strong>sdmis.nios.ac.in</strong></p>
 
-### **Step 1:**  
-Search on Google → **"NIOS online admission portal"**  
-Open: **sdmis.nios.ac.in**
+<hr>
 
----
+<h3><strong>Step 2:</strong></h3>
+<p>Go to:<br>
+<strong>Admission → Stream 1 → Secondary Course (10th)</strong></p>
 
-### **Step 2:**  
-Go to:  
-**Admission → Stream 1 → Secondary Course (10th)**
+<hr>
 
----
+<h3><strong>Step 3:</strong> Fill Basic Details</h3>
+<p>Enter:</p>
+<ul>
+<li>Name</li>
+<li>DOB</li>
+<li>Parents' names</li>
+<li>Mobile number</li>
+<li>Aadhaar or PAN number</li>
+<li>Address</li>
+</ul>
 
-### **Step 3:** Fill Basic Details  
-Enter:  
-- Name  
-- DOB  
-- Parents’ names  
-- Mobile number  
-- Aadhaar or PAN number  
-- Address  
+<p>⚠️ <strong>Everything must match word-for-word with your documents.</strong></p>
 
-⚠️ **Everything must match word-for-word with your documents.**
+<p>No spelling mistakes, no incorrect surnames, no wrong DOB.</p>
 
-No spelling mistakes, no incorrect surnames, no wrong DOB.
+<hr>
 
----
+<h2>Important Address Details</h2>
 
-## Important Address Details
+<h3><strong>Permanent Address</strong></h3>
+<p>Must be <strong>exactly as on Aadhaar</strong>.</p>
 
-### **Permanent Address**  
-Must be **exactly as on Aadhaar**.
+<h3><strong>Correspondence Address</strong></h3>
+<ul>
+<li>If your current living address is the same as your Aadhaar address → then keep it the same</li>
+<li>If the current living address is different, → Then you must upload proof of that address so you will get the study centre and exam centre in that state and city</li>
+</ul>
 
-### **Correspondence Address**  
-- If your current living address is the same as your Aadhaar address → then keep it the same  
-- If the current living address is different, →  Then you must upload proof of that address so you will get the study centre and exam centre in that state and city  
+<p>Accepted proofs: (Any document in your or your parents' name)</p>
+<ul>
+<li>Gas bill</li>
+<li>Electricity bill</li>
+<li>Water bill</li>
+<li>Rent agreement</li>
+<li>Bank statement</li>
+</ul>
 
-Accepted proofs:  (Any document in your or your parents’ name)
-- Gas bill  
-- Electricity bill  
-- Water bill  
-- Rent agreement  
-- Bank statement  
+<hr>
 
----
+<h2>Step 4: Select Subject</h2>
 
-## Step 4: Select Subject
+<p>You can choose <strong>5 to 7 subjects</strong>.<br>
+Minimum requirement: <strong>1 language + 4 other subjects</strong></p>
 
-You can choose **5 to 7 subjects**.  
-Minimum requirement: **1 language + 4 other subjects**
+<p>1. a) You are required to take <strong>at least 1 language subject</strong>.</p>
 
-1. a) You are required to take __at least 1 language subject__.
+<p>b) You <strong>can take up to 2 language subjects</strong>, e.g., Hindi and English</p>
 
- b) You __can take up to 2 language subjects__, e.g., Hindi and English
+<p>2. a) NIOS lets you choose any subject; however, you <strong>MUST</strong> choose your subjects according to your future career/goals.</p>
 
-2. a) NIOS lets you choose any subject; however, you **MUST** choose your subjects according to your future career/goals.
+<p>c) Don't think that you can complete 12th in one year. <strong>If you passed out of 10th, you are required to maintain a 1-year gap between passing 10th and completing 12th.</strong></p>
 
- c) Don't think that you can complete 12th in one year. __If you passed out of 10th, you are required to maintain a 1-year gap between passing 10th and completing 12th.__
+<p>(Here You can see the available subject in NIOS)</p>
 
-(Here You can see the available subject in NIOS)
----
+<hr>
 
-## Step 5: Choose Good Nearest Study Centre
+<h2>Step 5: Choose Good Nearest Study Centre</h2>
 
-Your study centre is where:  
-- Practical exams happen  
-- TMA is submitted/received  
-- You receive Documents after passing  
+<p>Your study centre is where:</p>
+<ul>
+<li>Practical exams happen</li>
+<li>TMA is submitted/received</li>
+<li>You receive Documents after passing</li>
+</ul>
 
-So pick a good study centre - Search their name on Google, see how the school looks on Google Maps, and see if they have good infrastructure!
+<p>So pick a good study centre - Search their name on Google, see how the school looks on Google Maps, and see if they have good infrastructure!</p>
 
-Best study centres generally are - 
-- Kendriya Vidyalayas(KVs) or Army Schools
-- DPS / DAV / GD Goenka / FAS
-- Reputed private or government schools  
+<p>Best study centres generally are -</p>
+<ul>
+<li>Kendriya Vidyalayas(KVs) or Army Schools</li>
+<li>DPS / DAV / GD Goenka / FAS</li>
+<li>Reputed private or government schools</li>
+</ul>
 
+<hr>
 
----
+<h2>Step 6: Upload Your Documents</h2>
 
-## Step 6: Upload Your Documents
+<p>Upload in these sections:</p>
 
-Upload in these sections:
+<ul>
+<li><strong>Photo</strong> → Your formal photo</li>
+<li><strong>Signature</strong> → photo of your signature</li>
+<li><strong>Identity Proof</strong> → digital Aadhaar</li>
+<li><strong>Previous Qualification Certificate</strong> → upload <strong>Self-Declaration</strong></li>
+<li><strong>Correspondence Address Proof</strong></li>
+<li>Aadhaar (if same address)</li>
+<li>If a different address than the Aadhar card, then upload other proof--
+<ul>
+<li>Accepted proofs: (Can be Any document in your or your parents' name)</li>
+<li>Gas bill</li>
+<li>Electricity bill</li>
+<li>Water bill</li>
+<li>Rent agreement</li>
+<li>Bank statement )</li>
+</ul>
+</li>
+</ul>
 
-- **Photo** → Your formal photo  
-- **Signature** → photo of your signature  
-- **Identity Proof** → digital Aadhaar  
-- **Previous Qualification Certificate** → upload **Self-Declaration**  
-- **Correspondence Address Proof**  
-- Aadhaar (if same address)  
-- If a different address than the Aadhar card, then upload other proof-- 
-    Accepted proofs:  (Can be Any document in your or your parents’ name)
-    - Gas bill  
-    - Electricity bill  
-    - Water bill  
-    - Rent agreement  
-    - Bank statement )
+<hr>
 
----
+<h2>Step 7: Pay Admission Fees</h2>
 
-## Step 7: Pay Admission Fees  
+<p>Payment gateways available:</p>
+<ul>
+<li><strong>UBI</strong></li>
+<li><strong>BOI</strong></li>
+</ul>
 
-Payment gateways available:  
-- **UBI**  
-- **BOI**
+<hr>
 
----
+<h2>Step 8: Download Confirmation Copy</h2>
 
-## Step 8: Download Confirmation Copy
+<p>Go to <strong>Print</strong> option and download:</p>
+<ul>
+<li>Admission form</li>
+<li>Payment receipt</li>
+</ul>
 
-Go to **Print** option and download:  
-- Admission form  
-- Payment receipt  
+<hr>
 
----
+<h2>Step 9: Admission Confirmation</h2>
 
-## Step 9: Admission Confirmation
+<p>If you have filled everything correctly, then admission will be confirmed in <strong>30–60 days</strong>.<br>
+This is normal — don't panic or lose your brain.</p>
 
-If you have filled everything correctly, then admission will be confirmed in **30–60 days**.  
-This is normal — don’t panic or lose your brain.
+<p>You will receive an <strong>email</strong>, and you can also check inside your NIOS login.</p>
 
-You will receive an **email**, and you can also check inside your NIOS login.
+<hr>
 
----
+<h3>Keep These Safe</h3>
+<ul>
+<li>Reference number</li>
+<li>Registered email</li>
+<li>NIOS password</li>
+</ul>
 
-### Keep These Safe
-- Reference number  
-- Registered email  
-- NIOS password  
+<p>You'll need them again and again.</p>
 
-You’ll need them again and again.
+<hr>
 
----
+<h2>After Admission – What Next?</h2>
 
-# After Admission – What Next?
+<p>Here, Now you should read these guides on what happens next? What do you have to do next? -</p>
 
-Here, Now you should read these guides on what happens next? What do you have to do next?  -
+<h3>Good to know things just after admission:</h3>
 
-### Good to know things just after admission:
-
-
+</div>
 </details>
-
-
-
 
 <br>
 
-
 <details>
-<summary style="
-    color:white;
-    padding:12px 18px;
-    border-radius:8px;
-    font-size: clamp(18px, 5vw, 26px);
-    font-weight:700;
-    cursor:pointer;
-    display:block;
-">
-  📘 How to take admission in NIOS Senior Secondary (12th Standard) as a fresher or as a 12th failed student!!
-</summary>
+<summary>📘 How to take admission in NIOS Senior Secondary (12th Standard) as a fresher or as a 12th failed student!!</summary>
+<div class="content">
 
-   
-### Simple Guide for Freshers, and failed students to take admission IN NIOS 12th
+<h3>Simple Guide for Freshers, and failed students to take admission IN NIOS 12th</h3>
 
----
+<hr>
 
-## 1. Who Can Take Admission?
+<h2>1. Who Can Take Admission?</h2>
 
-### **Freshers / New Students**
-- Anyone who is or above: 15
-- Has passed **10th class** from any recognized board.
+<h3><strong>Freshers / New Students</strong></h3>
+<ul>
+<li>Anyone who is or above: 15</li>
+<li>Has passed <strong>10th class</strong> from any recognized board.</li>
+</ul>
 
-### 🧒 NIOS 10th → 12th Gap Rule (Very Simple)
-Think of it like this 
-NIOS wants 2 years gap between:
-when you pass 10th, and
+<h3>🧒 NIOS 10th → 12th Gap Rule (Very Simple)</h3>
+<p>Think of it like this<br>
+NIOS wants 2 years gap between:<br>
+when you pass 10th, and</p>
 
+<p>when you finish 12th and get the final marksheet</p>
 
-when you finish 12th and get the final marksheet
+<p>You cannot get the final 12th marksheet before 2 years are completed. <br></p>
 
+<h3>🧩 Two Ways to Do NIOS 12th</h3>
+<p>✅ Way 1: Normal Way (Easiest)<br>
+Pass 10th in 2024</p>
 
-You cannot get the final 12th marksheet before 2 years are completed. <br>
+<p>Take NIOS 12th admission in 2025</p>
 
+<p>Give all exams together in 2026</p>
 
-### 🧩 Two Ways to Do NIOS 12th
-✅ Way 1: Normal Way (Easiest)
-Pass 10th in 2024
+<p>Get full marksheet ✅</p>
 
+<p>Simple. No confusion. <br></p>
 
-Take NIOS 12th admission in 2025
+<h3>✅ Way 2: Part-by-Part Way (NIOS Special Option)</h3>
+<p>NIOS also allows you to give exams in parts.<br>
+Example:<br>
+Passed 10th in 2024</p>
 
+<p>Took NIOS 12th admission in 2024 / 2025</p>
 
-Give all exams together in 2026
+<p>Gave 2–3 subjects exam in 2025 April / oct</p>
 
+<p>Gave the remaining subjects in 2026 or later</p>
 
-Get full marksheet ✅
+<p>After 2 years complete → NIOS gives full 12th marksheet ✅ <br></p>
 
+<h3>🧠 Important:</h3>
+<p>NIOS keeps your passed subjects marks safe</p>
 
-Simple. No confusion. <br>
+<p>You don't lose marks</p>
 
-### ✅ Way 2: Part-by-Part Way (NIOS Special Option)
-NIOS also allows you to give exams in parts.
-Example:
-Passed 10th in 2024
+<p><br></p>
 
+<h3>⚠️ Very Important Things to Remember</h3>
+<p>✅ Only exams can be given in parts</p>
 
-Took NIOS 12th admission in 2024 / 2025
+<p>❌ TMA (assignments) must be uploaded together</p>
 
+<p>❌ Practical classes (FA PCP) must be attended together</p>
 
-Gave 2–3 subjects exam in 2025 April / oct
+<p>❌ You can't split TMAs or practicals class year-wise</p>
 
+<p>🧠 In One Line (Ultra Simple)<br>
+👉 You can give 12th exams early, but NIOS will give the final marksheet only after 2 years from passing 10th.<br>
+That's it.</p>
 
-Gave the remaining subjects in 2026 or later
+<hr>
 
+<h2>Extra Info for Failed Students (TOC for 12th)</h2>
 
-After 2 years complete → NIOS gives full 12th marksheet ✅ <br>
+<p>NIOS allows transferring marks of <strong>up to 2 passed subjects</strong> from your previous board.<br>
+This helps you avoid re-studying subjects you already passed.</p>
 
+<h3><strong>TOC Rules for 12th</strong></h3>
+<ul>
+<li>Only for <strong>failed students</strong></li>
+<li>You can transfer <strong>max 2 subjects</strong></li>
+<li>The subject MUST exist in <strong>NIOS 12th subject list</strong></li>
+<li>TOC fee: <strong>₹230 per subject</strong></li>
+<li>You must send:
+<ul>
+<li><strong>Original failed/compartment marksheet</strong></li>
+<li>Printout of NIOS admission form to your Regional centre or NIOS HQ under 10 days of admission confirmation</li>
+</ul>
+</li>
+<li>If you don't send documents → <strong>TOC is won't be applied</strong></li>
+</ul>
 
-### 🧠 Important:
-NIOS keeps your passed subjects marks safe
+<hr>
 
+<h2>2. You Can Take Admission Yourself (Avoid Middlemen)</h2>
 
-You don’t lose marks
+<p>Cybercafés and agents charge <strong>high fees</strong> for a very simple online form.<br>
+Many even <strong>fill in wrong details</strong>, causing admission rejection.</p>
 
+<p><strong>You can do it yourself in 15–20 minutes.</strong><br>
+It is extremely simple.</p>
 
+<hr>
 
-<br> ### ⚠️ Very Important Things to Remember
-✅ Only exams can be given in parts
+<h2>3. Documents Needed for NIOS 12th Admission</h2>
 
-
-❌ TMA (assignments) must be uploaded together
-
-
-❌ Practical classes (FA PCP) must be attended together
-
-
-❌ You can’t split TMAs or practicals class year-wise
-
-
-
-🧠 In One Line (Ultra Simple)
-👉 You can give 12th exams early, but NIOS will give the final marksheet only after 2 years from passing 10th.
-That’s it.
-
----
-
-# Extra Info for Failed Students (TOC for 12th)
-
-NIOS allows transferring marks of **up to 2 passed subjects** from your previous board.  
-This helps you avoid re-studying subjects you already passed.
-
-### **TOC Rules for 12th**
-- Only for **failed students**  
-- You can transfer **max 2 subjects**  
-- The subject MUST exist in **NIOS 12th subject list**  
-- TOC fee: **₹230 per subject**  
-- You must send:
-  - **Original failed/compartment marksheet**
-  -  Printout of NIOS admission form  to your Regional centre or NIOS HQ under 10 days of admission confirmation
-- If you don’t send documents → **TOC is won’t be applied**
-
----
-
-## 2. You Can Take Admission Yourself (Avoid Middlemen)
-
-Cybercafés and agents charge **high fees** for a very simple online form.  
-Many even **fill in wrong details**, causing admission rejection.
-
-**You can do it yourself in 15–20 minutes.**  
-It is extremely simple.
-
----
-
-## 3. Documents Needed for NIOS 12th Admission
-
-### (a) Digital Aadhaar Card  
-Download from **UIDAI** website.
+<h3>(a) Digital Aadhaar Card</h3>
+<p>Download from <strong>UIDAI</strong> website.</p>
 
 <details>
 <summary>📌 Aadhaar Example (Click to Open)</summary>
-
-![Aadhaar Example](
-
+<p>![Aadhaar Example](</p>
 </details>
 
----
+<hr>
 
-### (b) Passport-size Photo  
-Can be taken on your phone — must look **formal**.
+<h3>(b) Passport-size Photo</h3>
+<p>Can be taken on your phone — must look <strong>formal</strong>.</p>
 
----
+<hr>
 
-### (c) 10th Pass Marksheet (IMPORTANT)
-This is mandatory for 12th admission.
-- Digi Locker version is ideal
-- Or Physical marksheet Photo
+<h3>(c) 10th Pass Marksheet (IMPORTANT)</h3>
+<p>This is mandatory for 12th admission.</p>
+<ul>
+<li>Digi Locker version is ideal</li>
+<li>Or Physical marksheet Photo</li>
+</ul>
 
+<hr>
 
----
+<h3>(d) Identity Proof</h3>
+<p>Aadhaar works as both ID and address proof.</p>
 
+<hr>
 
+<h2>4. Step-by-Step Admission Process (12th)</h2>
 
-### (d) Identity Proof  
-Aadhaar works as both ID and address proof.
+<h3><strong>Step 1 — Visit NIOS Portal</strong></h3>
+<p>Google: <strong>"NIOS online admission portal"</strong><br>
+Open: <strong> sdmis.nios.ac.in</strong></p>
 
----
+<hr>
 
+<h3><strong>Step 2 — Select Stream & Course</strong></h3>
+<p><strong>Admission → Stream 1 → Senior Secondary (12th)</strong></p>
 
+<hr>
 
+<h3><strong>Step 3 — Fill Personal Details</strong></h3>
+<p>Enter:</p>
+<ul>
+<li>Name</li>
+<li>DOB</li>
+<li>Parents' names</li>
+<li>Mobile number</li>
+<li>Aadhaar/PAN</li>
+<li>Address</li>
+</ul>
 
-## 4. Step-by-Step Admission Process (12th)
+<p>⚠️ <strong>Everything must match your documents exactly.<br>
+Even one spelling mistake can delay verification.</strong></p>
 
-### **Step 1 — Visit NIOS Portal**
-Google: **“NIOS online admission portal”**  
-Open: ** sdmis.nios.ac.in**
+<hr>
 
----
+<h2>Important Address Rules</h2>
 
-### **Step 2 — Select Stream & Course**
-**Admission → Stream 1 → Senior Secondary (12th)**
+<h3>Permanent Address</h3>
+<p>Must match word-for-word on Aadhaar copy <strong>exactly</strong>.</p>
 
----
+<h3>Correspondence Address</h3>
+<ul>
+<li>If your current living address is the same as your Aadhaar address → then keep it the same</li>
+<li>If the current living address is different, → Then you must upload proof of that address so you will get the study centre and exam centre in that state and city</li>
+</ul>
 
-### **Step 3 — Fill Personal Details**
-Enter:
-- Name  
-- DOB  
-- Parents’ names  
-- Mobile number  
-- Aadhaar/PAN  
-- Address  
+<p>Accepted proofs: (Any document in your or your parents' name)</p>
+<ul>
+<li>Gas bill</li>
+<li>Electricity bill</li>
+<li>Water bill</li>
+<li>Rent agreement</li>
+<li>Bank statement</li>
+</ul>
 
-⚠️ **Everything must match your documents exactly.  
-Even one spelling mistake can delay verification.**
+<h2>Important - Part / dual admission</h2>
 
----
+<ul>
+<li>Don't click yes on part admission, it's only for those who have already passed 12th and just want to give 1 or 2 subject exams for some course eligibility (for eg - Pilot exams)</li>
+</ul>
 
-## Important Address Rules
+<p>—</p>
 
-### Permanent Address  
-Must match word-for-word on Aadhaar copy **exactly**.
+<h2>Step 4: Select Subject</h2>
 
-### Correspondence Address  
-- If your current living address is the same as your Aadhaar address → then keep it the same  
-- If the current living address is different, →  Then you must upload proof of that address so you will get the study centre and exam centre in that state and city  
+<p>You can choose <strong>5 to 7 subjects</strong>.<br>
+Minimum requirement: <strong>1 language + 4 other subjects</strong></p>
 
-Accepted proofs:  (Any document in your or your parents’ name)
-- Gas bill  
-- Electricity bill  
-- Water bill  
-- Rent agreement  
-- Bank statement  
+<p>1. a) You are required to take <strong>at least 1 language subject</strong>.</p>
 
-## Important - Part / dual admission 
+<p>b) You <strong>can take up to 2 language subjects</strong>, e.g., Hindi and English</p>
 
-- Don’t click yes on part admission, it’s only for those who have already passed 12th and just want to give 1 or 2 subject exams for some course eligibility (for eg - Pilot exams)
+<p>4. Choose subjects based on your <strong>future goals</strong>:</p>
+<ul>
+<li>Want to do graduation → choose academic subjects</li>
+<li>Want easy scoring → choose simpler subjects like Home Science, Data entry, Physical education, Computer Science, Intro to law, Mass communication, sociology, Psychology, etc.</li>
+</ul>
 
-—
-## Step 4: Select Subject
+<p>(Here You can see the available subject in NIOS)</p>
 
-You can choose **5 to 7 subjects**.  
-Minimum requirement: **1 language + 4 other subjects**
+<hr>
 
-1. a) You are required to take __at least 1 language subject__.
+<h2>Step 5: Choose Nearest Study Centre</h2>
 
- b) You __can take up to 2 language subjects__, e.g., Hindi and English
- 
-4. Choose subjects based on your **future goals**:
-   - Want to do graduation → choose academic subjects  
-   - Want easy scoring → choose simpler subjects like Home Science, Data entry, Physical education, Computer Science, Intro to law, Mass communication, sociology, Psychology, etc.  
+<p>Your study centre handles:</p>
+<ul>
+<li>Practical exams</li>
+<li>TMA & Practical Marks</li>
+<li>You receive Documents after passing</li>
+</ul>
 
+<p>So pick a good study centre - Search their name on Google, see how the school looks on Google Maps, and see if they have good infrastructure!</p>
 
-(Here You can see the available subject in NIOS)
----
+<p>Best study centres generally are -</p>
+<ul>
+<li>Kendriya Vidyalayas(KVs) or Army Schools</li>
+<li>Good private schools DPS / DAV / GD Goenka / FAS</li>
+<li>Reputed private or government schools</li>
+</ul>
 
-## Step 5: Choose Nearest Study Centre
+<h2>Step 6: Upload Your Documents</h2>
 
-Your study centre handles:
-- Practical exams  
-- TMA & Practical Marks
-- You receive Documents after passing  
+<p>Upload in these sections:</p>
 
+<ul>
+<li><strong>Photo</strong> → Your formal photo</li>
+<li><strong>Signature</strong> → photo of your signature</li>
+<li><strong>Identity Proof</strong> → digital Aadhaar</li>
+<li><strong>Previous Qualification Certificate</strong> → upload <strong>10 Result / Marksheet</strong></li>
+<li><strong>Correspondence Address Proof</strong></li>
+<li>Aadhaar (if same address)</li>
+<li>If a different living address than the Aadhar card, then upload other proof--
+<ul>
+<li>Accepted proofs: (Can be Any document in your or your parents' name)</li>
+<li>Gas bill</li>
+<li>Electricity bill</li>
+<li>Water bill</li>
+<li>Rent agreement</li>
+<li>Bank statement )</li>
+</ul>
+</li>
+</ul>
 
-So pick a good study centre - Search their name on Google, see how the school looks on Google Maps, and see if they have good infrastructure!
+<hr>
 
-Best study centres generally are - 
-- Kendriya Vidyalayas(KVs) or Army Schools
--  Good private schools DPS / DAV / GD Goenka / FAS
-- Reputed private or government schools  
+<h2>Step 7: Pay Admission Fees</h2>
 
+<p>Payment Options:</p>
+<ul>
+<li><strong>UBI Gateway</strong></li>
+<li><strong>BOI Gateway</strong></li>
+</ul>
 
+<p>If payment fails → try again after 10 minutes.</p>
 
-## Step 6: Upload Your Documents
+<hr>
 
-Upload in these sections:
+<h2>Step 8: Download Admission payment Copy</h2>
 
-- **Photo** → Your formal photo  
-- **Signature** → photo of your signature  
-- **Identity Proof** → digital Aadhaar  
-- **Previous Qualification Certificate** → upload **10 Result / Marksheet**  
-- **Correspondence Address Proof**  
-- Aadhaar (if same address)  
-- If a different living address than the Aadhar card, then upload other proof-- 
-    Accepted proofs:  (Can be Any document in your or your parents’ name)
-    - Gas bill  
-    - Electricity bill  
-    - Water bill  
-    - Rent agreement  
-    - Bank statement )
+<p>Download from payment history tab onthe dashboard</p>
+<ul>
+<li>Payment receipt</li>
+</ul>
 
----
+<hr>
 
-## Step 7: Pay Admission Fees
+<h2>Step 9: Admission Confirmation??</h2>
 
-Payment Options:
-- **UBI Gateway**  
-- **BOI Gateway**
+<p>If you have filled everything correctly, then admission will be confirmed in <strong>30–60 days</strong>.<br>
+This is normal — don't panic or lose your brain.</p>
 
-If payment fails → try again after 10 minutes.
+<p>You will receive an <strong>email</strong>, and you can also check inside your NIOS login.</p>
 
----
+<hr>
 
-## Step 8: Download Admission payment Copy
+<h3>Keep These Safe</h3>
+<ul>
+<li>Reference number</li>
+<li>Registered email</li>
+<li>NIOS password</li>
+</ul>
 
-Download from payment history tab onthe  dashboard
-- Payment receipt  
+<p>You'll need them again and again.</p>
 
+<h2>After Admission – What Next?</h2>
 
----
+<p>You now need to understand:</p>
+<ul>
+<li>TMA</li>
+<li>FA PCP classes</li>
+<li>Practical exams</li>
+<li>Theory Exam Hall ticket</li>
+<li>Study material</li>
+<li>Important dates and deadline of all these</li>
+</ul>
 
-## Step 9: Admission Confirmation??
+<p>Here, Now you should read these guides on what happens next? What do you have to do next?</p>
 
-If you have filled everything correctly, then admission will be confirmed in **30–60 days**.  
-This is normal — don’t panic or lose your brain.
+<hr>
 
-You will receive an **email**, and you can also check inside your NIOS login.
-
----
-
-### Keep These Safe
-- Reference number  
-- Registered email  
-- NIOS password  
-
-You’ll need them again and again.
-
-
-
-# After Admission – What Next?
-
-You now need to understand:
-- TMA  
-- FA PCP classes  
-- Practical exams  
-- Theory Exam Hall ticket 
-- Study material  
-- Important dates and deadline of all these
-
-Here, Now you should read these guides on what happens next? What do you have to do next? 
-
-
----
-
+</div>
 </details>
 
+</body>
+</html>
 
 
 
@@ -665,6 +813,7 @@ To apply for Dual Enrollment or Part Admission, students should:
 
 
 ---
+
 
 
 
