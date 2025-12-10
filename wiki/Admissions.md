@@ -157,7 +157,8 @@ br {
 <h1>Admission</h1>
 
 <div class="intro">
-<strong>Admissions are completely online at <a href= sdmis.nios.ac.in target="_blank">sdmis.nios.ac.in</a> only</strong> (for 12th (Sr. Sec), 10th (Sec), and OBE).
+<strong>Admissions are completely online at <a href="https://sdmis.nios.ac.in" target="_blank">sdmis.nios.ac.in</a>
+ only</strong> (for 12th (Sr. Sec), 10th (Sec), and OBE).
 </div>
 
 <details>
@@ -256,7 +257,7 @@ digital copy from DigiLocker / clear phone photo / result website screenshot - a
 <h2>4. Step-by-Step Admission Process</h2>
 
 <h3><strong>Step 1:</strong></h3>
-<p>Search on Google → <strong>"NIOS online admission portal"</strong><br>
+<p>Search on Google → <strong>"NIOS online admission portal"</strong> <br/>
 Open: <strong>sdmis.nios.ac.in</strong></p>
 
 <hr>
@@ -328,7 +329,7 @@ Minimum requirement: <strong>1 language + 4 other subjects</strong></p>
 <p>Your study centre is where:</p>
 <ul>
 <li>Practical exams happen</li>
-<li>You Get TMA Marks from here /li>
+<li>You Get TMA Marks from here </li>
 <li>You receive Documents after passing</li>
 </ul>
 
