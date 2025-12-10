@@ -208,7 +208,7 @@ It is simple, not rocket science.</p>
 
 <details>
 <summary>📌 Aadhaar Example (Click to View)</summary>
-  <img src="./assets/aadhar.png">
+  <img src="./assets/aadhar.png" />
 
 </details>
 
@@ -239,8 +239,9 @@ and <strong>you don't want that headache</strong>.</p>
 <p>Even if you don't have 8th/9th mark sheets, a <strong>self-declaration is enough</strong>.</p>
 
 <details>
-<summary>📌 Self-Declaration Example (Click to View)</summary>
-    <img src="./assets/self-decl.jpg">
+<summary>📌 Self-Declaration Example (Click to View) </summary>
+   <img src="./assets/self-decl.jpg" alt="Self-declaration example" />
+
 
 </details>
 
@@ -529,7 +530,7 @@ It is extremely simple.</p>
 
 <details>
 <summary>📌 Aadhaar Example (Click to Open)</summary>
-  <img src="./assets/aadhar.png">
+  <img src="./assets/aadhar.png" />
 </details>
 
 <hr>
