@@ -327,7 +327,7 @@ Minimum requirement: <strong>1 language + 4 other subjects</strong></p>
 
 <details>
 <summary>📌 See Subjects Available in NIOS for 12th (Click to Open)</summary>
-  <img src="./assets/NIOS-10th-subjects-list.png />
+  <img src="./assets/NIOS-10th-subjects-list.png" />
 </details>
 
 <hr>
@@ -637,7 +637,7 @@ Minimum requirement: <strong>1 language + 4 other subjects</strong></p>
 
 <details>
 <summary>📌 See Subjects Available in NIOS for 12th (Click to Open)</summary>
-  <img src="./assets/NIOS-12th-subjects-list.png />
+  <img src="./assets/NIOS-12th-subjects-list.png" />
 </details>
 
 
