@@ -10,8 +10,8 @@ Like -- "Admission", "STREAM 1", "ODE", " TMA " , "PCP",  "Practical", "pyqs"**<
 # All The Terminologies/Acronyms That Everyone Needs To Know:
 
 - NIOS: National Institute of Open Schooling.           [Link to section]
-- Subjects Available In NIOS that You Can Choose:       [Subjects in 10th link](./assets/NIOS-10th-subjects-list.png) <br> 
-                                                        [Subjects in NIOS 12th ](./assets/NIOS-12th-subjects-list.png) 
+- Subjects Available In NIOS that You Can Choose:       [Subjects in 10th link](https://nios-unofficial.info/assets/NIOS-10th-subjects-list.BoyYnxdv.png) <br> 
+                                                        [Subjects in NIOS 12th ](https://nios-unofficial.info/assets/NIOS-12th-subjects-list.DFZwAQ1X.png) 
 - Subjects That Have Practicals In NIOS:                [Link to section](/wiki/pr.md)
 - TOC: Transfer of Credit                               [Link to section](/wiki/Admissions.html#transfer-of-credit-toc)
 - TMA: Tutor Marked Assignments.                        [Link to section](/wiki/Exams-Assignments#practical-exams)
