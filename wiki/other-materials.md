@@ -12,10 +12,13 @@ The materials are applicable for all exams (On-demand and public), so please sto
 
 - [English formats of letters, e-mails, and memos (Applicable for both Secondary and Senior Secondary 10th and 12th)](https://drive.google.com/file/d/16_x7g3z3xabTg_a1eRRZBhVV8LLhFiD1/view?usp=drivesdk)
 
-- [Question Banks (**12th Sr. Sec**)](https://drive.google.com/drive/folders/1BUGHbC5k6UpgkfrdY3FWd47MzJ0SJM8r)  
+- [NIOS PCM Chapter & Year-wise Pyqs](https://drive.google.com/drive/folders/1vsKArot4UvcKzy547aBQq_GOwQ7cVlkX?usp=sharing)
+   only PCM
+
+-  [Nios 10th Manish verma Solved PYPS](https://drive.google.com/drive/folders/1xkmdEObC2SNaVCgzvLGPe59N1C-KvVtS?usp=sharing) | [Question Banks (**12th Sr. Sec**)](https://drive.google.com/drive/folders/1BUGHbC5k6UpgkfrdY3FWd47MzJ0SJM8r)  
   **Physics, Chemistry, Biology, Mathematics, Geography, Home Science, Environmental Science, Political Science, Early Childhood Care, History, Physical Education and Yoga, Painting, Introduction to Laws, Sociology, Business Studies, Economics, English, History, and VOC-(660) Web Development**
 
-- [Imp Q&A Sr. Sec (12th) (By DOON WINNER)](https://drive.google.com/drive/folders/1FwWxlIHr12S0br7IsxjNkSf2idZf-Ktu?usp=drive_link)
+-  [10th IMP Q&A (by Manish verma](https://drive.google.com/drive/folders/1xkmdEObC2SNaVCgzvLGPe59N1C-KvVtS?usp=sharing) | [Imp Q&A Sr. Sec (12th) (By DOON WINNER)](https://drive.google.com/drive/folders/1FwWxlIHr12S0br7IsxjNkSf2idZf-Ktu?usp=drive_link)
 
 - [**Student-made notes**](https://drive.google.com/drive/folders/1ttDPhDMNFK3uRudaJWie83mTeVgvmGo_?usp=drive_link)  
   **Maths (311) (12th Sr.Sec), Chemistry (313), English (302) (Sr. Sec 12th), Introduction to Laws (338), Data Entry Operations (336) (12th Sr. Sec), Business studies, Psychology (12th Sr.Sec), English (302) (Sr.Sec 12th), Pol Sci., Sociology (Sr.Sec 12th), Home Sci. (Sr.Sec 12ths)**
@@ -112,6 +115,10 @@ Editor of English formats and formatter of this document:
 
 Writer of student-made notes of Psychology¹:
 **u/Sure-Woodpecker-3952**
+
+Thank you - **luffytard** for 10th class IMP Q&A and Solved PYQS
+
+Thank you **Asta / ninja personal** for NIOS PCM chapter-year-wise pyqs
 
 Writer of student-made notes of Pol Sci., sociology, Psychology², Maths formula-sheets, and English[```*```](https://www.reddit.com/r/Nios_unofficial/s/lV3SKa2Guk): **u/advanced-novel3307**
 
