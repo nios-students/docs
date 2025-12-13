@@ -1,0 +1,49 @@
+name: Update Changelog
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-changelog:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate changelog entry
+        run: |
+          # Date + time in YYYY-MM-DD HH:MM format
+          DATETIME=$(git log -1 --pretty=format:%cd --date=format:'%Y-%m-%d %H:%M')
+          SHA=$(git rev-parse --short HEAD)
+          AUTHOR=$(git log -1 --pretty=format:%an)
+
+          # Collapse multiline commit messages
+          MESSAGE=$(git log -1 --pretty=format:%B | sed ':a;N;$!ba;s/\n/ /g')
+
+          printf "### %s (%s - %s)\n\n- %s\n\n" \
+            "$DATETIME" "$AUTHOR" "$SHA" "$MESSAGE" > NEW_ENTRY.md
+
+      - name: Prepend entry to CHANGELOG.md
+        run: |
+          if [ -f CHANGELOG.md ]; then
+            cat NEW_ENTRY.md CHANGELOG.md > CHANGELOG.tmp
+            mv CHANGELOG.tmp CHANGELOG.md
+            rm NEW_ENTRY.md
+          else
+            mv NEW_ENTRY.md CHANGELOG.md
+          fi
+
+      - name: Commit and push updated CHANGELOG.md
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: update CHANGELOG.md [skip ci]"
+          file_pattern: CHANGELOG.md
+          branch: ${{ github.ref_name }}
