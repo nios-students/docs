@@ -170,6 +170,8 @@ br {
 <summary>📘 How to Take Admission in NIOS 10th (Secondary) as a Fresher & for failed Students - Full guide.</summary>
 <div class="content">
 
+  **[Admission deadline and fees ?](https://sdmis.nios.ac.in/home/fees)**
+
 <h2>1. Who Can Take Admission?</h2>
 
 <h3><strong>Freshers</strong></h3>
@@ -435,6 +437,8 @@ This is normal — don't panic or lose your brain.</p>
 <h3>Simple Guide for Freshers, and failed students to take admission IN NIOS 12th</h3>
 
 <hr>
+
+  **[Admission deadline and fees ?](https://sdmis.nios.ac.in/home/fees)**
 
 <h2>1. Who Can Take Admission?</h2>
 
@@ -756,6 +760,60 @@ This is normal — don't panic or lose your brain.</p>
 # Stream 1
 Open to all learners and freshers. Admissions are open throughout the year. Examinations are held in April-May for Block 1 learners and October-November for Block 2 learners. (*Although you may give exams in different blocks from yours and [On Demand](https://nios-students.pages.dev/wiki/Exams-Assignments#ode-on-demand-examination), after the first exam is past, you don't have to appear in it.*) Students in Stream 1 must submit TMAs and attend PCP classes. [More info on TMA & PCP](Exams-Assignments) | [Admission schedule Stream I Block 1] | [Stream 1 block 2 Oct Exam] | [Registration flow chart](https://dq4kzxd7fbbni.cloudfront.net/static/dist/images/pdf/process-flow/ProcessFlowDetailed_SecSrSec_Stream1and2_June2023.pdf) | [Fee Structure](https://sdmis.nios.ac.in/home/fees#:~:text=Fee%20Structure%20%2D%20(Without%20Late%20Fee)%20for%20Stream%201%20of%20Online%20Admission)
 
+
+## 🌱 A) STREAM 1 :
+
+**Who it’s for:**  
+- Fresh learners (10th / 12th full course)  
+- Part admission learners
+
+**Exam type:** Public Exam + ODE  
+**First exam held:**  
+- Block 1 → April  
+- Block 2 → October  
+
+**Admission:**  
+- Block 1 → 16 March – 15 September  
+- Block 2 → 16 September – 15 March  
+
+**Components:**  
+- TMA  
+- FA PCP & Practical Exam  
+- Theory Exam  
+
+⚠️ Stream 1 & 2 learners can appear for ODE **only after first public exam**
+
+---
+
+### SYLLABUS :
+- NIOS Secondary & Sr. Secondary are **2-year courses**
+- 9–10 & 11–12 syllabi are **merged**
+- **60% syllabus** → Public Exam / ODE (PE chapters)
+- **40% syllabus** → TMA only (no exams)
+
+---
+
+### VALIDITY OF ADMISSION :
+- Admission valid for **5 years**
+- Up to **9 public exam attempts**
+- Multiple ODE attempts allowed
+
+---
+
+### CREDIT ACCUMULATION :
+- Can appear in one or more subjects per exam
+- Passed subjects are carried forward till completion
+
+---
+
+### PART CREDIT :
+- 12th: If theory passed & practical failed (or vice versa), only failed part needs reattempt
+- 10th: Reattempt requires **both theory & practical**
+
+
+
+
+
 # Stream 2
 Stream 2 is only for failed students - There are NO TMAs and FA PCP classes in it, only practical exam and theory exam
 This stream is available for learners who have failed and want to improve scores in the Secondary or Senior Secondary (10th class or 12th class) examination from a recognized board and want to update their qualification in one or all subjects. These exams are conducted during October-November Public Examinations.
@@ -763,21 +821,44 @@ This stream is available for learners who have failed and want to improve scores
 > [!WARNING]  
 > For students enrolled in Stream 2, **examination fees are included in the admission fees for the first time.**
 
+
+## 🌱 B) STREAM 2 :
+
+**Who it’s for:**  
+- Failed 10th/12th learners using TOC  
+- Part admission learners
+
+**Exam type:** Public Exam + ODE  
+**First attempt:** October (mandatory)  
+**Admission:** 1 May – 30 June  
+*(Dates may extend)*
+
+**Components:**  
+- Practical + Theory only  
+- ❎ No TMA / FA / PCP  
+
+📢 First exam fee is included in admission fee
+
 # Stream 3 and 4
 On-Demand Examination System (ODES) at Secondary Level (10th class) and Senior Secondary Level (12th class). Open for admissions throughout the year. Suitable for learners seeking to update their qualifications or clear failed subjects. [More Info on Stream 3 & 4 ODE](wiki/Full ODE Information.md)
 
 # Transfer of Credit (ToC)
+
    **TOC option is only for = failed students**
 ToC is one of the flagship features of NIOS. **Failed** learners can transfer the marks of **2** subjects from the parent board to NIOS.
 
 **Rules and Norms of ToC:**
 - The ToC fee is ₹**230 per subject** (as per NEW notification: [37/2024](https://www.nios.ac.in/media/documents/notification/yr2024/Exam/Notification-34-2024.pdf)).
 - The subject you wish to transfer must be in NIOS's curriculum.
-- The **original failed marksheet** should be present in **physical form**, and you **must** send it to your Regional Center after confirmation of admission along with a copy of your **admission form**. If you don't send it, the ToC won't apply.
+- The **original failed marksheet** should be present in **physical form**, and you **must** send it to your Regional Center or NIOS HQ after confirmation of admission along with a copy of your **admission form**. If you don't send it, the ToC won't apply.
   
 - You can transfer up to two passed subjects' marks from your original marksheet (e.g., CBSE) to NIOS.
   
 - Final result: A combined NIOS marksheet showing 5 subjects (2 from CBSE, 3 from NIOS).
+
+
+**[Here is whole TOC guide on how to apply for it and what to do](https://www.reddit.com/r/Nios_unofficial/comments/1lb51g1/a_guide_on_nios_streams_toc_part_admission/)**
+
 
 
 # Dual Enrollment or Part Admission
@@ -803,6 +884,19 @@ The Dual Enrollment option is particularly beneficial for:
 
 > [!NOTE]  
 > Some universities, like Delhi University, do not accept subjects completed via dual enrollment. For example, if a student has studied humanities through CBSE and completed Mathematics through NIOS, they cannot apply to DU’s Economics program, as all the required subjects need to be in the main high school diploma. So please check your university’s requirements before choosing this path.
+
+
+
+
+## 🟩 FINAL COMPARISON :
+
+| Stream | Who it’s for | Exam type | First exam | Study center | TMA/FA |
+|------|--------------|-----------|------------|--------------|--------|
+| S1 | Fresh learners (10+12) | PE + ODE | April / Oct | Yes | Yes |
+| S2 | Only Failed learners (10+12) | PE + ODE | October | Yes (practical) | No |
+| S3 | 10th failed | ODE only | Booked date | No | No |
+| S4 | 12th failed | ODE only | Booked date | No | No |
+|Part admission | for 10th or 12th passed students or who are currenlty doing 10 or 12th and want to add 1 or upto 4 subjects | admission can be taken into Stream 1 or stream 3/4 for quick exam| Yes in stream 1, not in stream 3 or 4 | Yes TMA and FA PCP In stream one (ez marks), No TMA and FA PCP in stream 3/ 4 (ode) | 
 
 ### Admission Process
 To apply for Dual Enrollment or Part Admission, students should:
