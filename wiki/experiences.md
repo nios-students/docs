@@ -9,15 +9,15 @@ title: NIOS Student Experiences
 
 Now, to read about other people's experiences with their practical exam, so that you will know what to expect and gain more clarity on the subject? 
 
-**[OCT 2025 Link to section](https://www.reddit.com/r/Nios_unofficial/comments/1ner92o/prmegathread_oct_2025_nios_practicals_stream_1/)**
+- **[OCT 2025 Link to section](https://www.reddit.com/r/Nios_unofficial/comments/1ner92o/prmegathread_oct_2025_nios_practicals_stream_1/)**
 
-**[April 2025 Link to section](https://www.reddit.com/r/Nios_unofficial/comments/1jk4nm2/got_your_practical_today_good_luck/?share_id=pbM-pZtpqk_cJp9_zv-Rf&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1)**
+- **[April 2025 Link to section](https://www.reddit.com/r/Nios_unofficial/comments/1jk4nm2/got_your_practical_today_good_luck/?share_id=pbM-pZtpqk_cJp9_zv-Rf&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1)**
 
 
-**[My practical experience in detail for oct 2025 exams](https://www.reddit.com/r/Nios_unofficial/comments/1njor14/my_practical_experience_in_detail_for_oct_2025/)**
+- **[My practical experience in detail for oct 2025 exams](https://www.reddit.com/r/Nios_unofficial/comments/1njor14/my_practical_experience_in_detail_for_oct_2025/)**
 Btw she got full marks in TMA and Practical
 
-**[First Practical Exam Exp](https://www.reddit.com/r/Nios_unofficial/comments/1nfqy3v/first_practical_exp/)**
+- **[First Practical Exam Exp](https://www.reddit.com/r/Nios_unofficial/comments/1nfqy3v/first_practical_exp/)**
 
 
 ## ODE Exam experiences and megathread 
@@ -55,11 +55,11 @@ Btw she got full marks in TMA and Practical
 
 4.**[90.2% 12th ](https://www.reddit.com/r/Nios_unofficial/comments/1ld0z51/got_my_result_very_happy_with_it_when_can_i/)**
 
-5. **[NIOS 12th Mixed Reviews](https://www.reddit.com/r/JEENEETards/s/NtQaH3Aph8)**  
+5.**[NIOS 12th Mixed Reviews](https://www.reddit.com/r/JEENEETards/s/NtQaH3Aph8)**  
    A thread with varied opinions on NIOS, with some students appreciating its flexibility while others discuss challenges.  
    > *Some points are debunked [here](https://www.reddit.com/r/NIOS_Students/s/FvxaZPPSNx).*
 
-6 - **[71% PCM , failed in Math tho](https://www.reddit.com/r/Nios_unofficial/comments/1ldbb6r/got_71_in_12th_science_stream_studied_only_for/)**
+6.**[71% PCM , failed in Math tho](https://www.reddit.com/r/Nios_unofficial/comments/1ldbb6r/got_71_in_12th_science_stream_studied_only_for/)**
 
 7. **[Dropped Out in 2016. 8 Years Later, I Chose to Try Again..](https://www.reddit.com/r/Nios_unofficial/comments/1m1zucr/dropped_out_in_2016_8_years_later_i_chose_to_try/)**
 
