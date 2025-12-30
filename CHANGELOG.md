@@ -1,3 +1,7 @@
+### 2025-12-30 12:23 (Sabya sachi - 202fea9)
+
+- Fix formatting and update links in experiences.md
+
 ### 2025-12-30 12:22 (Sabya sachi - 7fe39d0)
 
 - Correct link text case for October 2025 section
