@@ -14,6 +14,9 @@ features:
   - title: How To
     details: Useful How-To Guides for helping you through your NIOS Journey!
     link: /home/how-to/
+  - title: NIOS Alumni Experiences
+    details: Read experiences of Students who passed- their Whole NIOS journey, Exam, result and their mistakes, so that you will know what to expect & gain more clarity!!
+    link:/wiki/experiences.html
   - title: Come Hang
     details: NIOS STUDENTS Chat groups to network and find like-minded peers
     link: /wiki/chat/
