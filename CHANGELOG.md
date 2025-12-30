@@ -1,3 +1,7 @@
+### 2025-12-30 12:40 (Sabya sachi - 35e6127)
+
+- Fix link formatting in index.md
+
 ### 2025-12-30 12:40 (Sabya sachi - 9a460d8)
 
 - alumni
