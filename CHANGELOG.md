@@ -1,3 +1,7 @@
+### 2025-12-30 12:43 (Sabya sachi - 86ff136)
+
+- alumni page  Updated the details for the NIOS Alumni Experiences section to improve clarity.
+
 ### 2025-12-30 12:40 (Sabya sachi - 35e6127)
 
 - Fix link formatting in index.md
