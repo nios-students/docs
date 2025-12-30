@@ -30,8 +30,8 @@ Btw she got full marks in TMA and Practical
 
 - **[Trouma is over, got 60+ in all subjects](https://www.reddit.com/r/Nios_unofficial/comments/1odk5sf/and_the_trouma_is_finally_over/)**
 
-- **[NIOS On Demand experience to take admission in college last minute after failing compartment in CBSE ](https://www.reddit.com/r/Nios_unofficial/comments/1odvrde/nios_on_demand_experience_to_take_admission_in/)**
-[his psychology and sociology ODE exam exp](https://www.reddit.com/r/Nios_unofficial/comments/1n856fq/psychology_and_sociology_ode_reviewexperience_for/)
+- **[NIOS On Demand experience to take admission in college last minute after failing compartment in CBSE ](https://www.reddit.com/r/Nios_unofficial/comments/1odvrde/nios_on_demand_experience_to_take_admission_in/)** <br>
+ [his psychology and sociology ODE exam exp](https://www.reddit.com/r/Nios_unofficial/comments/1n856fq/psychology_and_sociology_ode_reviewexperience_for/)
 
 - **[Whole A to Z ODE experience](https://www.reddit.com/r/Nios_unofficial/comments/1nglt6i/my_nios_exam_experience_a_to_z/)**
 
