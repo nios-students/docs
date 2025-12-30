@@ -15,7 +15,7 @@ hero:
 features:
   - title: Take Admission
     details: A Step By Step Guide on Taking Admission through NIOS
-    link: https://nios.ac.in/student-information-section/admission-procedure-videos.aspx
+    link: https://nios-unofficial.info/wiki/Admissions.html
   - title: TMAs
     details: A Simple Guide on Creating Tutor-Marked-Assignments
     link: wiki/how to make TMA
