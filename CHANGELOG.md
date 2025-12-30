@@ -1,3 +1,7 @@
+### 2025-12-30 12:22 (Sabya sachi - 7fe39d0)
+
+- Correct link text case for October 2025 section
+
 ### 2025-12-30 12:22 (Sabya sachi - f5992fa)
 
 - pr, ode and better overall stru. with new exp links  Added sections for practical exam experiences and ODE exam experiences, including links to community discussions and personal stories. Updated positive and negative experiences with new entries.
