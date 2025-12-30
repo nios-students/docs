@@ -1,3 +1,7 @@
+### 2025-12-30 10:37 (Sabya sachi - 0320675)
+
+- admission page updated
+
 ### 2025-12-14 17:36 (Sabya sachi - bd34beb)
 
 - updated streams info as per woodpecker's post  same as title
