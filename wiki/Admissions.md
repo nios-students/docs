@@ -840,7 +840,7 @@ This stream is available for learners who have failed and want to improve scores
 📢 First exam fee is included in admission fee
 
 # Stream 3 and 4
-On-Demand Examination System (ODES) at Secondary Level (10th class) and Senior Secondary Level (12th class). Open for admissions throughout the year. Suitable for learners seeking to update their qualifications or clear failed subjects. [More Info on Stream 3 & 4 ODE](wiki/Full ODE Information.md)
+On-Demand Examination System (ODES) at Secondary Level (10th class) and Senior Secondary Level (12th class). Open for admissions throughout the year. Suitable for learners seeking to update their qualifications or clear failed subjects. [More Info on Stream 3 & 4 ODE](https://nios-unofficial.info/wiki/Full%20ODE%20Information.html)
 
 # Transfer of Credit (ToC)
 
@@ -924,6 +924,7 @@ To apply for Dual Enrollment or Part Admission, students should:
 
 
 ---
+
 
 
 
