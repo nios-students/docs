@@ -15,7 +15,7 @@ hero:
 features:
   - title: Take Admission
     details: A Step By Step Guide on Taking Admission through NIOS
-    link: https://nios-unofficial.info/wiki/Admissions.html
+    link: wiki/Admissions
   - title: TMAs
     details: A Simple Guide on Creating Tutor-Marked-Assignments
     link: wiki/how to make TMA
@@ -34,5 +34,4 @@ features:
   - title: Apply For a Scribe
     details: A simple guide on Applying for a Scribe
     link: /wiki/howto's-scribe
-
 ---
