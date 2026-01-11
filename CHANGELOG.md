@@ -1,3 +1,7 @@
+### 2026-01-11 08:17 (Sabya sachi - a7b9cf7)
+
+- merged study material into other
+
 ### 2026-01-02 23:58 (111-vk - be3b5d8)
 
 - Merge pull request #27 from 111-vk/contents  fix: remove UI interference 
