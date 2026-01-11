@@ -1,16 +1,39 @@
+---
+layout: doc
+title: NIOS Study Materials, PYQS, IMP QUES, Solved TMAs & Practical File.
+---
+
 Last updated
-🕟:**19-09-2025, 11:15 AM (IST)**
+🕟:**10-01-2026, 11:15 AM (IST)**
 
 The materials are applicable for all exams (On-demand and public), so please stop asking that.
 ----
 
-# Books, Guides, and More!
-- [NIOS Textbooks .PDF](https://nios.ac.in/online-course-material.aspx) and [Vocational Books (in .PDF)](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1nL-EvabkRTi)
+# Books and Guides!
+
+NIOS hardly provides books so better to study from PDFs
+--- 
+### 📚 Course Materials
+- [Secondary Online Course Materials (10th)](https://nios.ac.in/online-course-material/secondary-courses.aspx)  
+  <sub>Official NIOS site</sub>
+- [Senior Online Secondary Course Materials (12th)](https://nios.ac.in/online-course-material/sr-secondary-courses.aspx)  
+  <sub>Official NIOS site</sub>
+- [Vocational Books (Google Drive)](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1nL-EvabkRTi)
+
+
+### 🌐 Study Material Availability by Language
+- [Check Availability of Study Material in Different Languages](https://sdmis.nios.ac.in/home/query-related)
+  <br><sub>Find out which subjects are available in which mediums (languages).</sub>
+  >note: <sub><sup>Sometimes the link may show an error like "<i>You are not allowed to perform this action.</i>" If this happens, simply open the link in a private/incognito window.</sup></sub>
+
 
 - [Guides books and stuff](https://drive.google.com/drive/folders/10IbqMO8jnsQntDMfeoQWKiWxfcpYBZqo?usp=drive_link)  
   **Physical Education, Physics, Maths, Chemistry, Science & Technology (10th Sec), Home Science (10th Sec), and English (12th Sr. Sec)**
 
 - [English formats of letters, e-mails, and memos (Applicable for both Secondary and Senior Secondary 10th and 12th)](https://drive.google.com/file/d/16_x7g3z3xabTg_a1eRRZBhVV8LLhFiD1/view?usp=drivesdk)
+
+
+# IMP QUES, and MORE
 
 - [NIOS PCM Chapter & Year-wise Pyqs](https://drive.google.com/drive/folders/1vsKArot4UvcKzy547aBQq_GOwQ7cVlkX?usp=sharing)
    only PCM
@@ -46,7 +69,7 @@ The materials are applicable for all exams (On-demand and public), so please sto
 
 ---
 
-# Practical Files
+# Solved Practical Files
 **Senior Secondary (12th)**  
 - [Computer Science-330](https://drive.google.com/drive/folders/1B4LC8LNbWwBj6i1u6VBKf4LzDcfGD1UX)
 - [Data Entry Operations-**336 Sr. Sec (12th)**](https://drive.google.com/drive/folders/1K5O8mtX-NXT-ezFsqh3ZsA0IdrJQ1SeU)
