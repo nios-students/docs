@@ -1,3 +1,7 @@
+### 2026-01-11 14:42 (Sabya sachi - 43540e1)
+
+- Fix formatting of NIOS books and guides section
+
 ### 2026-01-11 14:40 (Sabya sachi - 0b6a4ed)
 
 - Fix formatting in Study-materials.md  Corrected formatting of the note about NIOS books.
