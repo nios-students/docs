@@ -31,7 +31,7 @@ Like -- "Admission", "STREAM 1", "ODE", " TMA " , "PCP",  "Practical", "pyqs"**<
 - How To Make TMA:                                           [Link To Section](/wiki/how%20to%20make%20TMA.md)
 - What happens in Practical PCP Class (FA PCP):              [Link To Section](/wiki/Exams-Assignments.md#pcp-classes-practical-pcp-fa-practical-exam-sa)
 - How To Make Practical Files for Practical Exam (SA PCP):   [Link To Section](/wiki/howto-rec-book.html)
-- Pyqs, Question banks, IMP questions, notes, and more: [Link to Section](wiki/Study-materials.md)
+- Pyqs, Question banks, IMP questions, notes, and more: [Link to Section](/wiki/Study-materials.md)
 
 
 
