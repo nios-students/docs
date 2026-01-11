@@ -1,3 +1,7 @@
+### 2026-01-11 08:43 (Sabya sachi - 192caba)
+
+- merged study material into other
+
 ### 2026-01-11 08:38 (Sabya sachi - 2d147d3)
 
 - merged study material into other
