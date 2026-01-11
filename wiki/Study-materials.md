@@ -11,7 +11,7 @@ The materials are applicable for all exams (On-demand and public), so please sto
 
 ## Books and Guides!
 
-NIOS hardly provides books so better to study from PDFs
+ *NIOS hardly provides books so better to study from PDFs**
 --- 
 
 ### 📚 Course Materials
