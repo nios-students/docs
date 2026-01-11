@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: NIOS Study Materials, PYQS, IMP QUES, Solved TMAs & Practical File.
+title: NIOS Study Materials.
 ---
 
 Last updated
@@ -13,6 +13,7 @@ The materials are applicable for all exams (On-demand and public), so please sto
 
 NIOS hardly provides books so better to study from PDFs
 --- 
+
 ### 📚 Course Materials
 - [Secondary Online Course Materials (10th)](https://nios.ac.in/online-course-material/secondary-courses.aspx)  
   <sub>Official NIOS site</sub>
@@ -31,6 +32,8 @@ NIOS hardly provides books so better to study from PDFs
   **Physical Education, Physics, Maths, Chemistry, Science & Technology (10th Sec), Home Science (10th Sec), and English (12th Sr. Sec)**
 
 - [English formats of letters, e-mails, and memos (Applicable for both Secondary and Senior Secondary 10th and 12th)](https://drive.google.com/file/d/16_x7g3z3xabTg_a1eRRZBhVV8LLhFiD1/view?usp=drivesdk)
+
+---
 
 
 # IMP QUES, and MORE
