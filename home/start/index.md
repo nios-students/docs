@@ -26,11 +26,9 @@ features:
     link: wiki/Admissions
      
   - title: Study Materials
-    details: Link to textbooks and resources of NIOS
-    link: /wiki/Study-Materials
-  - title: Other Materials
-    details: Useful NIOS Related Materials
-    link: /wiki/other-materials
+    details: Link to Books, PYQS, IMP Ques, Notes and resources for NIOS Exam.
+    link: /wiki/Study-materials.md
+
   - title: FAQs
     details: Frequently Asked Questions, All in One Place.
     link: /wiki/FAQ'S
