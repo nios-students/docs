@@ -9,7 +9,7 @@ Last updated
 The materials are applicable for all exams (On-demand and public), so please stop asking that.
 ----
 
-# Books and Guides!
+## Books and Guides!
 
 NIOS hardly provides books so better to study from PDFs
 --- 
@@ -36,7 +36,7 @@ NIOS hardly provides books so better to study from PDFs
 ---
 
 
-# IMP QUES, and MORE
+## IMP QUES, and MORE
 
 - [NIOS PCM Chapter & Year-wise Pyqs](https://drive.google.com/drive/folders/1vsKArot4UvcKzy547aBQq_GOwQ7cVlkX?usp=sharing)
    only PCM
@@ -56,7 +56,7 @@ NIOS hardly provides books so better to study from PDFs
 
 ---
 
-# Question Papers of Previous Year's Examination
+## Question Papers of Previous Year's Examination
 **NIOS Website Provides all PYQS, Just Not the current year and ODE ones, for that our student community got you covered**
 
 - [**Official PYQs page (nios.ac.in)**](https://nios.ac.in/student-information-section/question-paper-of-previous-year-examination-academic.aspx)
@@ -72,7 +72,7 @@ NIOS hardly provides books so better to study from PDFs
 
 ---
 
-# Solved Practical Files
+## Solved Practical Files
 **Senior Secondary (12th)**  
 - [Computer Science-330](https://drive.google.com/drive/folders/1B4LC8LNbWwBj6i1u6VBKf4LzDcfGD1UX)
 - [Data Entry Operations-**336 Sr. Sec (12th)**](https://drive.google.com/drive/folders/1K5O8mtX-NXT-ezFsqh3ZsA0IdrJQ1SeU)
@@ -106,13 +106,13 @@ NIOS hardly provides books so better to study from PDFs
 
 ---
 
-# Solved TMAs
+## Solved TMAs
 [Solved TMAs **2026**](https://drive.google.com/drive/folders/1gE4y4LfosN4m7SbK6l1M23BwBjJaXgGo?usp=sharing)
 
 
 ---
 
-# Credits
+## Credits
 **Special thanks! to anyone who scanned and sent their papers/ guides**
 
 Compiler of PYQs (Apr 24 & Oct 24), practical files, handwritten TMAs, VOC books, writer of Introduction to Laws notes, practical files of 336, 663, 330, and person in charge of maintaining this document:  
@@ -153,7 +153,7 @@ Writer for Home Sci. (Sr.Sec (12th)):
 
 ---
 
-# Copyright Statement
+## Copyright Statement
 - All student-made notes and practical files are subject to © NIOS-Students Contributors 2024-2025. The above-listed content cannot be modified or sold without the permission of the web developer and content author of the particular subject/topic/work.
 - No code, images, logos, or any other assets of **The National Institute of Open Schooling (NIOS)** were copied or used in the making of this website.
 - If copyright laws have been violated, we shall remove such content upon notice from the copyright holder. Please contact us at [unofficialnios@gmail.com](mailto:unofficialnios@gmail.com).
