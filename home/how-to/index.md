@@ -30,7 +30,7 @@ features:
     link: /wiki/th
   - title: Subject-Wise Handbooks
     details: Easy-to-use handbooks for various NIOS subjects/Streams
-    link: /wiki/Seb_Hand_Books
+    link: /wiki/Sub_Hand_Books
   - title: Apply For a Scribe
     details: A simple guide on Applying for a Scribe
     link: /wiki/howto's-scribe
