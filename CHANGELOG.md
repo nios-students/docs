@@ -1,3 +1,7 @@
+### 2026-01-11 18:38 (111-vk - 711a2a5)
+
+- Fix 404 for link Subject-Wise Handbooks
+
 ### 2026-01-11 14:42 (Sabya sachi - 43540e1)
 
 - Fix formatting of NIOS books and guides section
