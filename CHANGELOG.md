@@ -1,3 +1,7 @@
+### 2026-01-11 14:40 (Sabya sachi - 0b6a4ed)
+
+- Fix formatting in Study-materials.md  Corrected formatting of the note about NIOS books.
+
 ### 2026-01-11 09:08 (Sabya sachi - 521c6be)
 
 - merged study material into other
