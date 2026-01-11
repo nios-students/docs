@@ -104,7 +104,7 @@ There are two ways to approach these exams as a failed student, depending on you
 - Only public exam chapters, no TMA chapters! Sometimes, 2-3 questions from TMA chapters may appear by mistake. Check out the RTI we filed:
 
   >!Bonus - How to study? Study material? What to skip? What to focus on?
-  >[Click here](/wiki/other-materials.md)
+  >[Click here](wiki/Study-materials.md)
 
 ## Are there TMA chapters in ODE?
 - No, you only have to study for public exam chapters for all exams in NIOS!
