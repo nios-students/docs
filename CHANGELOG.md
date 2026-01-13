@@ -1,3 +1,7 @@
+### 2026-01-13 10:01 (Sabya sachi - d3a60c9)
+
+- self decl button, study center change guide
+
 ### 2026-01-13 09:55 (Sabya sachi - 1db2792)
 
 - study center change guide
