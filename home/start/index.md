@@ -24,6 +24,10 @@ features:
   - title: Admissions
     details: A brief explanation of NIOS's Streams 
     link: wiki/Admissions
+
+  - title: After Admissions
+    details: Ok Admission done now what's next? What to do after admission?
+    link: /wiki/AfterAdmission.md
      
   - title: Study Materials
     details: Link to Books, PYQS, IMP Ques, Notes and resources for NIOS Exam.

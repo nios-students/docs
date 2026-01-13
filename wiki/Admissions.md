@@ -247,9 +247,10 @@ You'll need them again and again.
 
 ### After Admission – What Next?
 
-Here, Now you should read these guides on what happens next? What do you have to do next?
+    Here, Now you should read these guides on what happens next? What do you have to do next?
+    [Link to section](/wiki/AfterAdmission.md)
 
-#### Good to know things just after admission:
+
 
 </details>
 
@@ -523,7 +524,11 @@ You will receive an **email**, and you can also check inside your NIOS login.
 
 You'll need them again and again.
 
+
 ### After Admission – What Next?
+
+    Here, Now you should read these guides on what happens next? What do you have to do next?
+    [Link to section](/wiki/AfterAdmission.md)
 
 You now need to understand:
 

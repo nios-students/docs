@@ -10,6 +10,8 @@ Like -- "Admission", "STREAM 1", "ODE", " TMA " , "PCP",  "Practical", "pyqs"**<
 # All The Terminologies/Acronyms That Everyone Needs To Know:
 
 - NIOS: National Institute of Open Schooling.           [Link to section]
+- How to take Admission?                   :            [Link To Section](/wiki/Admissions.md)
+- After Admission?                                      [Link To Section](/wiki/AfterAdmission.md)
 - Subjects Available In NIOS that You Can Choose:       [Subjects in 10th link](https://nios-unofficial.info/assets/NIOS-10th-subjects-list.BoyYnxdv.png) <br> 
                                                         [Subjects in NIOS 12th ](https://nios-unofficial.info/assets/NIOS-12th-subjects-list.DFZwAQ1X.png) 
 - Subjects That Have Practicals In NIOS:                [Link to section](/wiki/pr.md)
@@ -28,10 +30,11 @@ Like -- "Admission", "STREAM 1", "ODE", " TMA " , "PCP",  "Practical", "pyqs"**<
 
 - Important Dates Of Stream 1 Block 1 April To May session : [Link To Section](/wiki/HandbookforS1b1.md#important-dates)
 - Important Dates Of Stream 1 Block 2 OCt To Nov session :   [Link To Section](/wiki/HandbookforS1b2.md#important-dates)
+- How to Start Studying? What to Study? & Prep for exam? :   [Link To Sectio](/wiki/How-To-Study&Prep.md)
 - How To Make TMA:                                           [Link To Section](/wiki/how%20to%20make%20TMA.md)
 - What happens in Practical PCP Class (FA PCP):              [Link To Section](/wiki/Exams-Assignments.md#pcp-classes-practical-pcp-fa-practical-exam-sa)
 - How To Make Practical Files for Practical Exam (SA PCP):   [Link To Section](/wiki/howto-rec-book.html)
-- Pyqs, Question banks, IMP questions, notes, and more: [Link to Section](/wiki/Study-materials.md)
+- Pyqs, Question banks, IMP questions, notes, and more:      [Link to Section](/wiki/Study-materials.md)
 
 
 
@@ -66,10 +69,10 @@ Like -- "Admission", "STREAM 1", "ODE", " TMA " , "PCP",  "Practical", "pyqs"**<
 - **SYT**: Subject Yet To Be Cleared In Theory (You Will Give Theory Exam Again)  
 - **SYP**: Subject Yet to be Cleared In Practical (You Will Give Practicals Again)  
 - **SYC**: Subject Yet to be Cleared (You Will give Both Theory And Practical Again)  
-- **IMPR**: Pass and Appeared for Improvement  
+- **IMPR**: Pass and Appeared for Improvement (when you give reexam to Improve marks) 
 - **ADDL**: Pass and Appeared for Additional Subject  
 - **RW**: Result Withheld (Mostly When Student Is Caught Cheating)  
-- **RL**: Result Later  
+- **RL**: Result Later  (result will be out in few days)
 - **UFM**: Using Of Unfair Means  
 - **NC**: Not computable as the required data for result calculation is unavailable  
 
@@ -113,5 +116,5 @@ It helps us keep this community running, do more cool stuff, and support even mo
 
 At the end of the day — you all are great. 🫶
 
-### 「NIOS Unofficial」
+**「NIOS Unofficial」**
 

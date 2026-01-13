@@ -16,6 +16,9 @@ features:
   - title: Take Admission
     details: A Step By Step Guide on Taking Admission through NIOS
     link: wiki/Admissions
+  - title: How to Study & Prep for NIOS Exams?
+    details: A Step By Step Guide, Tips, and resoureces so you won't loose your mind!
+    link: /wiki/How-To-Study&Prep.md
   - title: TMAs
     details: A Simple Guide on Creating Tutor-Marked-Assignments
     link: wiki/how to make TMA
