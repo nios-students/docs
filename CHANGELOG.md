@@ -1,3 +1,7 @@
+### 2026-01-13 10:04 (Sabya sachi - 5fb464f)
+
+- self decl button and img width, study center change guide
+
 ### 2026-01-13 10:01 (Sabya sachi - d3a60c9)
 
 - self decl button, study center change guide
