@@ -1,3 +1,7 @@
+### 2026-01-13 08:05 (Sabya sachi - a4a0a2f)
+
+- after admission, how to study, linked it into admission and glosarry page too
+
 ### 2026-01-13 08:02 (Sabya sachi - 814c794)
 
 - after admission, how to study, linked it into admission and glosarry page too
