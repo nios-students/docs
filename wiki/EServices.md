@@ -41,7 +41,7 @@ This means:
 - Due to this, you want to change your study centre  
 - Mention the **new study centre you want to shift to**
 - just chat gpt the format bro
-- Here is one Self-Decl.. letter Example
+- [Here is one Self-Decl.. letter Example](/wiki/assets/Self del for bribe center.jpeg)
 
 #### 3. Choose the new study centre carefully
 - Make sure the study centre is **active**
