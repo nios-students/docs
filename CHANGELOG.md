@@ -1,3 +1,7 @@
+### 2026-01-13 09:21 (Sabya sachi - 63bc0f6)
+
+- self decl for bribe
+
 ### 2026-01-13 14:22 (Sabya sachi - 05930a9)
 
 -  change study centre  Removed informal comments and added a note about emailing after applying for a change.
