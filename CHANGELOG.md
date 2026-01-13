@@ -1,3 +1,7 @@
+### 2026-01-13 14:22 (Sabya sachi - 05930a9)
+
+-  change study centre  Removed informal comments and added a note about emailing after applying for a change.
+
 ### 2026-01-13 14:19 (Sabya sachi - 0810dbe)
 
 - study center change request
