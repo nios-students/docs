@@ -79,7 +79,7 @@ Below are the **tools and step-by-step instructions** you need to follow to appl
   <details>
   <summary style="color: #1976d2; font-weight: bold;"> ### Click Here is one Self-Decl.. letter Example</summary>
 
-    <img src="(/wiki/assets/Self%20del%20for%20bribe%20center.jpeg">
+    <img src="/wiki/assets/Self del for bribe center.jpeg" width="450">
   </details>
 
 
