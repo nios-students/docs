@@ -1,3 +1,7 @@
+### 2026-01-13 08:02 (Sabya sachi - 814c794)
+
+- after admission, how to study, linked it into admission and glosarry page too
+
 ### 2026-01-11 18:38 (111-vk - 711a2a5)
 
 - Fix 404 for link Subject-Wise Handbooks
