@@ -25,10 +25,10 @@ Don't be DumbAs* follow the NIOS deadlines!
 a) [STREAM 1 BLOCK 1](https://nios-students.pages.dev/wiki/HandbookforS1b1#%F0%9F%93%85-important-dates)
 
 b) [STREAM 1 BLOCK 2](https://nios-students.pages.dev/wiki/HandbookforS1b2#important-dates)
+s
+c) [How To Start Studying, What to study and TIPS??](/wiki/How-To-Study&Prep.md)
 
-c) [How To Start Studying, What to study and TIPS??](wiki/How-To-Study&Prep.md)
-
-d) [Study Center Guide]
+d) [Study Center Guide, When to visit? for what? what to ask?](https://www.reddit.com/r/Nios_unofficial/comments/1lx0f86/when_to_contact_your_nios_study_center_and_how_to/?share_id=UC7HWipxwluwjN0bO3vO7&utm_medium=android_app&utm_name=androidcss&utm_source=share&)
 
 e) [NIOS Passesd Students Experiences?](/wiki/experiences.md)
 
