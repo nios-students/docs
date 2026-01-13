@@ -1,3 +1,7 @@
+### 2026-01-13 09:55 (Sabya sachi - 1db2792)
+
+- study center change guide
+
 ### 2026-01-13 09:49 (Sabya sachi - 5bfa835)
 
 - study center change guide
