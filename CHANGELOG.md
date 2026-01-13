@@ -1,3 +1,7 @@
+### 2026-01-13 13:40 (Sabya sachi - 011756b)
+
+- Fixed formatting   Corrected formatting and improved clarity in the After Admission section, including steps for document verification and admission confirmation.
+
 ### 2026-01-13 08:05 (Sabya sachi - a4a0a2f)
 
 - after admission, how to study, linked it into admission and glosarry page too
