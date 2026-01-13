@@ -21,11 +21,45 @@ This means:
 - But now, when you called or visited them, they told you they are **no longer affiliated with NIOS**
 - or bribe case
 
+### ### TBH, you don’t need to lose your mind if your NIOS study centre is INACTIVE
+
+Here’s why:
+- If your study centre is inactive, the **NIOS system automatically updates your details** for practical exams
+- When the **practical exam schedule is released**, the system **assigns a new practical centre** on your hall ticket
+- The new centre is usually **near your location, within the same district**
+- Your **practical hall ticket** which comes 1 week before practical exam will clearly show:
+  - The new practical centre  
+  - Practical exam date and details  
+
+This works as a built-in **safety mechanism**, so students are not affected even if the original study centre is no longer active.
+
+So if you’re thinking, *“What will happen to my exam?”* — here’s the simple answer:
+- Your practical exam will **automatically shift to a new centre**
+- All updated details will appear on your **new practical hall ticket**
+
+Below is an example showing how it looks on the ticket.
+
+<img src="/wiki/assets/inactive study center issue.jpeg" alt="new study centre" width="450">
+---
+
+### Okay, but what about my TMA marks?
+- You just need to **upload your TMAs properly**
+- The study centre being inactive does **not affect TMA evaluation**
+- NIOS HQ or RC will automatically give TMA marks on your result!
+---
+
+### Still want to change the study centre?
+
+If you still want to change your study centre yourself, you can do that.
+
+Below are the **tools and step-by-step instructions** you need to follow to apply for a study centre change.
+
+
   **You can either visit your Regional centre to change your study centre or do this, both are the same thing!**
 
 ---
 
-### What to do in this case?
+## Study Centre Change Request Guide!?
 
 #### 1. Write a self-declaration letter (handwritten)
 - Address it to **NIOS Headquarters** and **your NIOS Regional Centre**
