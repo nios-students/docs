@@ -40,8 +40,8 @@ This means:
 - They / Principle informed you that they are inactive / no longer affiliated with NIOS  
 - Due to this, you want to change your study centre  
 - Mention the **new study centre you want to shift to**
-- (just chat gpt the format bro)
-- [Here is one Self Decl.. letter Example
+- just chat gpt the format bro
+- Here is one Self-Decl.. letter Example
 
 #### 3. Choose the new study centre carefully
 - Make sure the study centre is **active**
@@ -65,7 +65,7 @@ This means:
 **Small tip: After applying for a change, also email lsc@nios.ac.in and [your Regional Centre](https://nios-unofficial.info/wiki/chat/#official-nios-contact-information)that you applied for this, attach your payment receipt. And Please approve this request!**
 
 That’s it. Follow the steps properly and the request should go through without issues and will be confirmed in week or 2.
-```
-
+``
+</details>
 
 
