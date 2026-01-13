@@ -1,3 +1,7 @@
+### 2026-01-13 22:17 (111-vk - 4455214)
+
+- Remove duplicate docs folder to eliminate confusion
+
 ### 2026-01-13 10:04 (Sabya sachi - 5fb464f)
 
 - self decl button and img width, study center change guide
