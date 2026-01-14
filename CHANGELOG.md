@@ -1,3 +1,7 @@
+### 2026-01-14 15:53 (Sabya sachi - 549f866)
+
+- revised formating  Updated the NIOS preparation guide with new sections and links for better clarity and resources.
+
 ### 2026-01-14 15:45 (Sabya sachi - 6cf98d7)
 
 - fixed deadlinks
