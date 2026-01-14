@@ -1,35 +1,40 @@
+# This covers **everything you actually need** to start NIOS preparation properly.
 
+If you’re confused about:
+- How to study
+- How to start
+- Where to study from
+- What *not* to study
+- TMA chapters vs exam chapters
 
+This guide answers all of that in a practical way.
 
-# Well We know… tujhe NIOS ka padhai kaise karni aur NIOS KE Exams kaise hote hai bilkul idea nahi hoga 🥺💔
+---
 
+# Core Study Guides
 
-- How to study?
-- How to start?
-- Where to study from?
-- What not to study?
-- TMA chapters VS Exam chapters?
-- How to prepare for Exams? How to study what to study for practicals?!
+- [How to study in NIOS & prepare for NIOS exams](https://www.reddit.com/r/Nios_unofficial/s/8DzRVhpIIG)
 
-**This guide literally shows you EXACTLY how to start studying without overthinking.**
+- [How to study for exams + practicals (read full comment)](https://www.reddit.com/r/Nios_unofficial/s/91gj5YVN8h)
 
-- [How to study in NIOS & prepare for nios exams](https://www.reddit.com/r/Nios_unofficial/s/8DzRVhpIIG)
+- [How to write answers in NIOS exams (avoid low marks)](https://www.reddit.com/r/Nios_unofficial/s/x14h62H5RG)
 
-- [How to study for exams + practicals 2 (read full comment)](https://www.reddit.com/r/Nios_unofficial/s/91gj5YVN8h)
+---
 
-- [How to write Answers in NIOS exam - so you don't cry over low marks ](https://www.reddit.com/r/Nios_unofficial/s/x14h62H5RG)
+# Study Material & PYQs
 
-- [NIOS Study material, pyqs, Imp Ques and more](https://nios-unofficial.info/wiki/Study-materials.html)
--# (we don't have 10th study material as others clearly haven't contributed for that)
+- [NIOS study material & previous year questions](https://nios-unofficial.info/wiki/Study-materials.html)
+- Note: 10th study material is limited due to low community contribution.
 
+---
 
-## And listen — we genuinely believe the best way to learn is from people who’ve already done it.
+# Learn From Real Students' Experiences
 
-So here’s a link to real students who scored well, studied properly, and shared their full NIOS journey, including their exam experience and results.
+The fastest way to understand NIOS is to learn from people who already cleared it properly and not the crybabies.
 
-[LINK TO EXPERIENCE SECTION](/wiki/experiences.md)
+These are real student experiences—study methods, exam strategy, mistakes, and final results.
 
-Learn from the ones who actually made it, and not cry babies
+[NIOS alumni experiences](https://nios-unofficial.info/wiki/Glossary.html#experiences-to-learn-from)
 
-
-(Seriously… read for 5 minutes and studying will feel 10x easier 😭)
+---
+Spend a few focused minutes reading this, and studying and NIOS will feel far more structured.
