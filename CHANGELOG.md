@@ -1,3 +1,7 @@
+### 2026-01-14 15:45 (Sabya sachi - 6cf98d7)
+
+- fixed deadlinks
+
 ### 2026-01-14 15:30 (Sabya sachi - 4bbf370)
 
 - Revise After Admission guidelines for NIOS students  Updated the After Admission section to clarify the admission process, document verification, and important notes for NIOS students. Added links for resources and emphasized the importance of staying updated.
