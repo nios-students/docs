@@ -15,6 +15,8 @@ This guide answers all of that in a practical way.
 
 - [How to study in NIOS & prepare for NIOS exams](https://www.reddit.com/r/Nios_unofficial/s/8DzRVhpIIG)
 
+- [PCM Study TIPS by another student](https://www.reddit.com/r/Nios_unofficial/comments/1q9tv0a/treasure_for_pcm/)
+
 - [How to study for exams + practicals (read full comment)](https://www.reddit.com/r/Nios_unofficial/s/91gj5YVN8h)
 
 - [How to write answers in NIOS exams (avoid low marks)](https://www.reddit.com/r/Nios_unofficial/s/x14h62H5RG)
