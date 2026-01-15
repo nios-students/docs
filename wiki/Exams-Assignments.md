@@ -3,14 +3,13 @@ layout: doc
 title: What Is TMA/PCP/FA PCP/SA PCP/Exam??
 ---
 
-
-TMA/PCP Info/ FA PCP/ SA PCP/ Public Exam!
 -------------------------
 
-# Things that Every NIOS Student Should Know!
+## Things that Every NIOS Student Should Know!
 ---
 
-# ⚠️ Stream 2 / 3 / 4 Students (Read Carefully)
+## ⚠️ Stream 2 / 3 / 4 Students 
+(Read Carefully)
 
 - ❌ No TMA  
 - ❌ No PCP  
@@ -18,18 +17,35 @@ TMA/PCP Info/ FA PCP/ SA PCP/ Public Exam!
 - ✅ Only:
   - Theory exam
   - Practical exam (SA – 100%)
-- [Jump to SA PCP (practical exam)
+- Jump to SA PCP [(practical exam)](/wiki/Exams-Assignments.md#sa-pcp-practical-examination)
 
-📌 Still prepare a **practical file**  
+📌 Still prepare a **practical file for practical subjects**  
 (minimum **10 experiments**)
 
 
-# 1️⃣ TMA (Tutor Marked Assignment)
+## 1️⃣ TMA (Tutor Marked Assignment)
 
 ### What is TMA? (Simple version)
 
 **TL;DR:**  
 TMA is **mandatory** to upload and it happens **only once**, all Online Process.
+
+
+Here’s what you actually do:
+- NIOS gives **5 questions per subject** on your NIOS account - TMA section
+
+- You:
+  - Make a **handwritten assignment file**
+  - Write the **questions + answers**
+  - Convert it to **PDF**
+  - Log in to your NIOS Student Account and Upload it **before the deadline**
+
+- Ideal TMA marks are 16 to 18
+- Best time to upload TMA is MID
+- If you miss the deadline → **no marks** (and yes, regret later)
+- If you miss your TMAs and Exa, then you can pay exam fees of next exam cycle, for example, for OCT, then also submit your TMA
+
+You get **20 marks per subject** for TMA. These marks show on your dashboard and marksheet.
 
 ### 📅 TMA Deadlines
 
@@ -40,22 +56,9 @@ TMA is **mandatory** to upload and it happens **only once**, all Online Process.
 
 👉 **Miss the date = zero marks**
 
-Here’s what you actually do:
-- NIOS gives **5 questions per subject** on your NIOS account - TMA section
-- You:
-  - Make a **handwritten assignment file**
-  - Write the **questions + answers**
-  - Convert it to **PDF**
-  - Log in to your NIOS Student Account and Upload it **before the deadline**
-- Ideal TMA marks are 16 to 18
-- Best time to upload TMA is MID
-- If you miss the deadline → **no marks** (and yes, regret later)
-- If you miss your TMAs and Exa, then you can pay exam fees of next exam cycle, for example, for OCT, then also submit your TMA
-
-You get **20 marks per subject** for TMA. These marks show on your dashboard and marksheet.
 
 ### What TMA actually is (official meaning)
-- TMA = **Tutor Marked Assignment**
+- TMA = **Tutor Marked Assignment**, all online process
 - Also called **Internal Assessment (IA)**
 - It carries **20% of theory marks**
 - Final theory marks =  
@@ -74,12 +77,12 @@ You get **20 marks per subject** for TMA. These marks show on your dashboard and
 
 ---
 
-# 📘 How to make TMAs / Solved TMAs??
+## 📘 How to make TMAs / Solved TMAs??
 **See this TMA guide: *[link here](/wiki/how%20to%20make%20TMA.md)***
 
 ---
 
-# 2️⃣ PCP (Personal Contact Programme)
+## 2️⃣ PCP (Personal Contact Programme)
 <img src="./assets/pcp.jpg" width="400px">
 
 
@@ -104,7 +107,7 @@ You get **20 marks per subject** for TMA. These marks show on your dashboard and
 
 ---
 
-# 3️⃣ FA PCP & Practical Exam (SA PCP)
+## 3️⃣ FA PCP & Practical Exam (SA PCP)
 
 ### What is FA PCP?
 - Only for **Stream 1 students, not Stream 2,3,4**
@@ -133,7 +136,7 @@ You get **20 marks per subject** for TMA. These marks show on your dashboard and
 - Stream 2/3/4 → Only SA (100% practical exam)
 
 
-# 📅 FA PCP & Practical Exam Timeline (Stream 1)
+### 📅 FA PCP & Practical Exam Timeline (Stream 1)
 
 | Block | Component | Dates |
 |-----|----------|------|
@@ -158,7 +161,7 @@ You get **20 marks per subject** for TMA. These marks show on your dashboard and
 
 ---
 
-# 💸 Fees (Very Important)
+### 💸 Fees (Very Important)
 
 - ❎ No extra fee for FA PCP (same admission year)
 - ❎ Practical exam fee is **already included** in exam fee
@@ -172,7 +175,7 @@ You get **20 marks per subject** for TMA. These marks show on your dashboard and
 If someone asks for money → **they’re wrong**
 
 
-# SA PCP -- Practical Examination
+## SA PCP (Practical Examination)
 
 Practical examinations are conducted at your study centre/AI (in most cases) 1 month before the public exams. For on-demand exams, **please ask at the exam center for the date and time on the day of the theory paper.** [Detailed info on practicals](/wiki/pr)
 
@@ -195,24 +198,24 @@ Practical examinations are conducted at your study centre/AI (in most cases) 1 m
 - **Block-2 October:** 2nd week of September
 
 
-# IMP Related links:
+## IMP Related links:
 1. This is where you will get your [FA, SA, And Exam hall ticket, 1 or 2 week before](https://sdmis.nios.ac.in/search/fa-hall-ticket)
 2. How TO make THE Practical file? SOlved Practicals? - [Click HERE](/wiki/howto-rec-book.md)
 3. Read Other students Practical Exam experience, to learn more - [Click Here](https://www.reddit.com/r/Nios_unofficial/comments/1ner92o/prmegathread_oct_2025_nios_practicals_stream_1/)
 
-# PE (Public Examination)
+## PE (Public Examination)
 
 - The Public Examinations(theory exam) are held **twice** a year in the months of April-May and October-November. Eligibility criteria for writing PE: all students admitted under **stream 1 & 2** can pay the exam fees and appear for the exam. [How to pay exam fees?](https://drive.google.com/file/d/1SQAL7MZbkI2XUnyTSU0Nl0RbVB82HXKF/view?usp=drivesdk)
 
 
-- IF you gave exam in April or oct and if you failed, got low marks , then you can give exam again in oct or april, you just pay exam fees which opens after your result. TMA, FA and SA pcp marks carry forward, if you want you can give practicals exam again!
+- IF you gave exam in April or oct and if you failed, got low marks , then you can give exam again in oct or april, you just pay exam fees which opens after your result. TMA, FA and SA pcp marks carry forward, if you want you can give practicals exam again too with theory!
 
 - STREAM 3,4 (ODE) can't give Public exam, they can only give ODE in JAN TO March or July to  Sept
 
 > Please note that **students of stream 2 pay exam fees for first exam while taking admission, but later if they want to give exam again they will have to pay exam fees.** 
 
 
-# ODE (NIOS Improvement Exam)
+## ODE (NIOS Improvement Exam)
 - [Read Full NIOS ODE Information](/wiki/Full%20ODE%20Information.md)
 
 
@@ -221,7 +224,7 @@ Practical examinations are conducted at your study centre/AI (in most cases) 1 m
 No one owes you anything & Nios alr sucks with help. Take control of your life. Follow the guides here, they will clear all the stuff , Keep yourself NIOS updated from anywhere yt, telegram, reddit , discord.
 Don't be DumbAs* follow the NIOS deadlines!
 
-## TIMELINE (gives you a general IDEA, bookmark this shi)
+### TIMELINE (gives you a general IDEA, bookmark this shi)
 
 a) [STREAM 1 BLOCK 1](/wiki/HandbookforS1b1.md#important-dates)
 
