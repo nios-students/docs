@@ -46,14 +46,15 @@ You still have:
 - Exam timelines
 
 
-**so yeah after admission, there will be only one more payment **exam fees** and  you just need to keep yourself updated with your NIOS stream block updates (don't miss on things).**
+**so yeah, after admission, there will be only one more payment **exam fees** and  you just need to keep yourself updated with your NIOS stream block updates (don't miss on things).**
+> NOTE: Exam fees are only for Stream 1. For Streams 2, 3, and 4, your exam fees for the first exam are included when you take admission.
 
 
 **So listen—better you hear this now than cry about it later.**
-No one owes you anything & Nios alr sucks with help. Take control of your life. Follow the guides here they will clear all the stuff , Keep yourself NIOS updated from anywhere yt, telegram, reddit , discord.
+No one owes you anything & Nios alr sucks with help. Take control of your life. Follow the guides here, they will clear all the stuff , Keep yourself NIOS updated from anywhere yt, telegram, reddit , discord.
 Don't be DumbAs* follow the NIOS deadlines!
 
-## TIMELINE (gives you general IDEA, bookmark this shi)
+## TIMELINE (gives you a general IDEA, bookmark this shi)
 
 a) [STREAM 1 BLOCK 1](/wiki/HandbookforS1b1.md#important-dates)
 
