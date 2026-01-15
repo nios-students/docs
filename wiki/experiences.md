@@ -63,9 +63,20 @@ Btw she got full marks in TMA and Practical
 
 7. **[Dropped Out in 2016. 8 Years Later, I Chose to Try Again..](https://www.reddit.com/r/Nios_unofficial/comments/1m1zucr/dropped_out_in_2016_8_years_later_i_chose_to_try/)**
 
-8. **[A JEE aspirant crossed her 75% criteria](https://www.reddit.com/r/Nios_unofficial/comments/1q7jekh/my_october_2025_nios_result/)**
-9. **[Another aspirant scored good marks and shared tips](https://www.reddit.com/r/Nios_unofficial/comments/1q84evy/im_cry_so_happy_omg_nios_marks_and_exp_10th_gap/)**
-10. **[A student scored 82%](https://www.reddit.com/r/Nios_unofficial/comments/1q843yq/when_will_nios_digilocker_marksheet_be_available/)**
+8. **[ 83% in NIOS 12th PCM, A JEE aspirant crossed her 75% criteria,  and shared tips in comments](https://www.reddit.com/r/Nios_unofficial/comments/1q7jekh/my_october_2025_nios_result/)**
+
+9. **[87 to 92 % PCBM, shared his result with tips and tricks](https://www.reddit.com/r/Nios_unofficial/comments/1q84evy/im_cry_so_happy_omg_nios_marks_and_exp_10th_gap/)**
+
+10. **[12th commerce with maths student scored 82%](https://www.reddit.com/r/Nios_unofficial/comments/1q843yq/when_will_nios_digilocker_marksheet_be_available/)**
+
+11. [75% 12th PCM, GOT QUALIFIED FOR EVERY EXAM YAY ](https://www.reddit.com/r/Nios_unofficial/comments/1q7k8hs/got_qualified_for_every_exam_yay/)
+
+12. **[71% 12th PCM, Stream 2](https://www.reddit.com/r/Nios_unofficial/comments/1q8gjak/my_october_nios_result_finally_done/)**
+
+13. **[12th commerce, good marks, failed In maths tho](https://www.reddit.com/r/Nios_unofficial/comments/1q80n5u/sr_sec_result_came_and_got_syc_in_mathematics/)**
+
+- [How he studied and tips](https://www.reddit.com/r/Nios_unofficial/comments/1q80n5u/sr_sec_result_came_and_got_syc_in_mathematics/)
+
 
 ## 10th Secondary Public Exam Experiences
    
@@ -96,6 +107,9 @@ Btw she got full marks in TMA and Practical
 8. **[Flexibility in NIOS as a Boon for Dropouts](https://www.reddit.com/r/india/s/gsXmuRgWFd)**  
    A dropout shares how NIOS’s flexible learning structure allowed them to continue their education and pursue their goals.
 
+9. **[72% in 10th oct 2025, shared tips how she studied](https://www.reddit.com/r/Nios_unofficial/comments/1q8xp5z/my_resultig/)**
+
+10. **[83% in 10th, school drop out tho. Shared her tips and study hacks in comments!](https://www.reddit.com/r/Nios_unofficial/comments/1q8zpg9/results_aa_gaye/)**
 
 ---
 
@@ -115,6 +129,9 @@ Btw she got full marks in TMA and Practical
 5. **[Quora: Problems with NIOS](https://www.quora.com/Did-you-experience-any-problems-with-NIOS/answer/Prakrith-Prakash-Nair?ch=15&oid=131541373&share=f67e372c&srid=uwmaYx&target_type=answer)**  
     A Quora answer detailing challenges faced with NIOS, such as issues with administrative processes and recognition in some institutions.
 
+6. **[71% not 75%](https://www.reddit.com/r/Nios_unofficial/comments/1q7l61y/ode_results_please_help/)**
+
+7. [74.9% not 75 for jee, Stream 2 student tho no TMA](https://www.reddit.com/r/Nios_unofficial/comments/1q7kosc/pls_helppp_what_to_do_im_getting_742_rechecking/)
 
 ---
 
