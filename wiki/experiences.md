@@ -63,55 +63,75 @@ Btw she got full marks in TMA and Practical
 
 7. **[Dropped Out in 2016. 8 Years Later, I Chose to Try Again..](https://www.reddit.com/r/Nios_unofficial/comments/1m1zucr/dropped_out_in_2016_8_years_later_i_chose_to_try/)**
 
+8. **[ 83% in NIOS 12th PCM, A JEE aspirant crossed her 75% criteria,  and shared tips in comments](https://www.reddit.com/r/Nios_unofficial/comments/1q7jekh/my_october_2025_nios_result/)**
+
+9. **[87 to 92 % PCBM, shared his result with tips and tricks](https://www.reddit.com/r/Nios_unofficial/comments/1q84evy/im_cry_so_happy_omg_nios_marks_and_exp_10th_gap/)**
+
+10. **[12th commerce with maths student scored 82%](https://www.reddit.com/r/Nios_unofficial/comments/1q843yq/when_will_nios_digilocker_marksheet_be_available/)**
+
+11. [75% 12th PCM, GOT QUALIFIED FOR EVERY EXAM YAY ](https://www.reddit.com/r/Nios_unofficial/comments/1q7k8hs/got_qualified_for_every_exam_yay/)
+
+12. **[71% 12th PCM, Stream 2](https://www.reddit.com/r/Nios_unofficial/comments/1q8gjak/my_october_nios_result_finally_done/)**
+
+13. **[12th commerce, good marks, failed In maths tho](https://www.reddit.com/r/Nios_unofficial/comments/1q80n5u/sr_sec_result_came_and_got_syc_in_mathematics/)**
+
+- [How he studied and tips](https://www.reddit.com/r/Nios_unofficial/comments/1q80n5u/sr_sec_result_came_and_got_syc_in_mathematics/)
+
 
 ## 10th Secondary Public Exam Experiences
    
 
-8. **[75% 10th, Overcoming Challenges with NIOS](https://www.reddit.com/r/Nios_unofficial/comments/1lqgyvk/saw_the_other_post_i_wanted_to_share_my/)**  
+1. **[75% 10th, Overcoming Challenges with NIOS](https://www.reddit.com/r/Nios_unofficial/comments/1lqgyvk/saw_the_other_post_i_wanted_to_share_my/)**  
     Inspired by another post, a student shares their NIOS journey, highlighting how the program’s flexibility helped them overcome personal challenges and succeed academically.
 
 
-9. **[82.6% Journey Through NIOS 10th](https://www.reddit.com/r/Nios_unofficial/comments/1lq2w4h/giving_10th_through_nios_my_journey_experience/)**  
+2. **[82.6% Journey Through NIOS 10th](https://www.reddit.com/r/Nios_unofficial/comments/1lq2w4h/giving_10th_through_nios_my_journey_experience/)**  
    A student reflects on their experience completing 10th grade through NIOS, praising the self-paced learning and supportive study materials, though they mention the need for self-discipline to stay on track.
 
-10. **[Successful Completion of 10th Grade](https://www.reddit.com/r/Nios_unofficial/comments/1loc71w/yee_i_have_passed_10th/)**  
+3. **[Successful Completion of 10th Grade](https://www.reddit.com/r/Nios_unofficial/comments/1loc71w/yee_i_have_passed_10th/)**  
    A student celebrates passing their 10th-grade NIOS exams, expressing relief and gratitude for the program’s accessibility and support.
 
-11. **[Quora: Should I Switch to the NIOS Board from CBSE?](https://www.quora.com/Should-I-switch-to-the-NIOS-board-from-CBSE/answer/Balaji-Thyagarajan-4?ch=15&oid=255311615&share=b09d7591&srid=uwmaYx&target_type=answer)**  
+4. **[Quora: Should I Switch to the NIOS Board from CBSE?](https://www.quora.com/Should-I-switch-to-the-NIOS-board-from-CBSE/answer/Balaji-Thyagarajan-4?ch=15&oid=255311615&share=b09d7591&srid=uwmaYx&target_type=answer)**  
    A detailed answer discussing the benefits of switching to NIOS, including flexibility in subject choices and exam schedules. 
 
 
-12. **[70% Proudly Passing 10th NIOS Exams](https://www.reddit.com/r/Nios_unofficial/comments/1lo4sah/passed_the_exam/)**  
+5. **[70% Proudly Passing 10th NIOS Exams](https://www.reddit.com/r/Nios_unofficial/comments/1lo4sah/passed_the_exam/)**  
     A student shares their joy at passing their NIOS exams, emphasizing the program’s flexibility as key to balancing studies with other commitments.
 
-13. **[70.7%  Another 10th class Success Story](https://www.reddit.com/r/Nios_unofficial/comments/1lo4gc7/passed_my_examss/)**  
+6. **[70.7%  Another 10th class Success Story](https://www.reddit.com/r/Nios_unofficial/comments/1lo4gc7/passed_my_examss/)**  
     A student announces passing their NIOS exams, highlighting how the program’s structure helped them achieve their academic goals.
 
-14. **[Helpful Tips for Other NIOS Students](https://www.reddit.com/r/Nios_unofficial/comments/1lpym34/some_info_that_might_help_anybody/)**  
+7. **[Helpful Tips for Other NIOS Students](https://www.reddit.com/r/Nios_unofficial/comments/1lpym34/some_info_that_might_help_anybody/)**  
     A student shares practical advice for navigating NIOS, including tips on study planning, exam preparation, and utilizing resources effectively, which helped them succeed.
 
-15. **[Flexibility in NIOS as a Boon for Dropouts](https://www.reddit.com/r/india/s/gsXmuRgWFd)**  
+8. **[Flexibility in NIOS as a Boon for Dropouts](https://www.reddit.com/r/india/s/gsXmuRgWFd)**  
    A dropout shares how NIOS’s flexible learning structure allowed them to continue their education and pursue their goals.
 
+9. **[72% in 10th oct 2025, shared tips how she studied](https://www.reddit.com/r/Nios_unofficial/comments/1q8xp5z/my_resultig/)**
+
+10. **[83% in 10th, school drop out tho. Shared her tips and study hacks in comments!](https://www.reddit.com/r/Nios_unofficial/comments/1q8zpg9/results_aa_gaye/)**
 
 ---
 
 ## ⚠️ Negative Experiences & Cautions
 
-16-**[NIOS study center asking money for higher TMA & practical marks ](https://www.reddit.com/r/Nios_unofficial/comments/1pflex8/nios_study_center_asking_money_for_higher_tma/)**
+1 -**[NIOS study center asking money for higher TMA & practical marks ](https://www.reddit.com/r/Nios_unofficial/comments/1pflex8/nios_study_center_asking_money_for_higher_tma/)**
 
-17. **[Scam with the Guy, Beware](https://www.reddit.com/r/NIOS_Students/s/Lbshhgu26O)**  
+2 . **[Scam with the Guy, Beware](https://www.reddit.com/r/NIOS_Students/s/Lbshhgu26O)**  
     A warning about a scam targeting NIOS students, advising caution when dealing with unofficial sources or individuals.
 
-18. **[Another Scam](https://www.reddit.com/r/NIOS_Students/s/MuxgDH0y1U)**  
+3. **[Another Scam](https://www.reddit.com/r/NIOS_Students/s/MuxgDH0y1U)**  
     Another report of fraudulent activity related to NIOS, urging students to verify information through official channels.
 
-19. **[Bribe Concerns](https://www.reddit.com/r/NIOS_Students/s/MAOeA7bcpA)**  
+4. **[Bribe Concerns](https://www.reddit.com/r/NIOS_Students/s/MAOeA7bcpA)**  
     A student recounts an experience involving a bribe request, highlighting the importance of ethical conduct and reporting such incidents.
 
-20. **[Quora: Problems with NIOS](https://www.quora.com/Did-you-experience-any-problems-with-NIOS/answer/Prakrith-Prakash-Nair?ch=15&oid=131541373&share=f67e372c&srid=uwmaYx&target_type=answer)**  
+5. **[Quora: Problems with NIOS](https://www.quora.com/Did-you-experience-any-problems-with-NIOS/answer/Prakrith-Prakash-Nair?ch=15&oid=131541373&share=f67e372c&srid=uwmaYx&target_type=answer)**  
     A Quora answer detailing challenges faced with NIOS, such as issues with administrative processes and recognition in some institutions.
 
+6. **[71% not 75%](https://www.reddit.com/r/Nios_unofficial/comments/1q7l61y/ode_results_please_help/)**
+
+7. [74.9% not 75 for jee, Stream 2 student tho no TMA](https://www.reddit.com/r/Nios_unofficial/comments/1q7kosc/pls_helppp_what_to_do_im_getting_742_rechecking/)
 
 ---
 
