@@ -1,3 +1,7 @@
+### 2026-01-15 10:13 (Sabya sachi - e341a04)
+
+- added more links and resources   Corrected punctuation and phrasing for clarity.
+
 ### 2026-01-14 15:53 (Sabya sachi - 549f866)
 
 - revised formating  Updated the NIOS preparation guide with new sections and links for better clarity and resources.
