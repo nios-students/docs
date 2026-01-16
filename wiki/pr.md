@@ -8,12 +8,21 @@ title: Practical Exam
 
 ## What happens in the practical exam?
 
-1. Submission of practical file
-2. Viva/oral
-3. Activity/Answering the Paper
+**Happens In Two Part**
+- 1st You submit Your Practical File in which you write 10 to 12 experiments, and 
+- 2nd They will take the written practical too 
+  - Give you a sheet to write 2-3 easy experiments
+- Questions come from:
+  - Practical file
+  - Practical manual
+  - or just very basic
+
+- **5% chance:** that they may take Written + Viva
+  - Very basic conceptual questions
+
 
 > [!NOTE]
-> **Submission of practical file at the day of exam**
+> **Submission of practical file at the day of practical exam**
 
 
 ## Which subject has practical?
