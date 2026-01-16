@@ -1,3 +1,7 @@
+### 2026-01-16 17:38 (Sabya sachi - db0078f)
+
+- Revise practical exam details in pr.md  Clarified the practical exam process and updated submission details.
+
 ### 2026-01-15 13:11 (Sabya sachi - 4ec8b81)
 
 - Merge pull request #31 from DevKing69/patch-2  Update experiences.md
