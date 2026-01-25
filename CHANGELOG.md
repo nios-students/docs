@@ -1,3 +1,7 @@
+### 2026-01-25 23:19 (Sabya sachi - 527f739)
+
+- Update Exams-Assignments.md with new content
+
 ### 2026-01-16 17:38 (Sabya sachi - db0078f)
 
 - Revise practical exam details in pr.md  Clarified the practical exam process and updated submission details.
