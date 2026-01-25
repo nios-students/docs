@@ -107,13 +107,15 @@ You get **20 marks per subject** for TMA. These marks show on your dashboard and
 
 ---
 
-## 3️⃣ FA PCP & Practical Exam (SA PCP)
+## 3️⃣ FA PCP & Practical Classes
 
 ### What is FA PCP?
-- Only for **Stream 1 students, not Stream 2,3,4**
-- Only for subjects **with practicals** [Subjects with practicals Link](/wiki/pr.md)
-- FA PCP = **5 compulsory practical classes**
-- Conducted by your **allotted study centre**
+FA pcp are 5 practical classes held at your study center, only for the practical subject, where they teach you.
+- Teachers guide you on:
+  - How to write the **practical file**
+  - How to prepare for the **practical exam**
+  - What will happen in **Practical exam**
+
 
 ### Marks Distribution (Very Important)
 
@@ -121,11 +123,12 @@ You get **20 marks per subject** for TMA. These marks show on your dashboard and
 - Means for subject like PCB,PE = FA marks = 10  + SA marks 10 = total 20
 
 
-### What happens in FA PCP?
-- Teachers guide you on:
-  - How to write the **practical file**
-  - How to prepare for the **practical exam**
-  - What will happen in **Practical exam**
+### IMP points of FA PCP?
+- Only for **Stream 1 students, not Stream 2,3,4**
+- Only for subjects **with practicals** [Subjects with practicals Link](/wiki/pr.md)
+- FA PCP = **5 compulsory practical classes**
+- Conducted by your **allotted study centre**
+
 
 ⚠️ **PCP vs FA PCP**
 - PCP → doubt sessions (non-compulsory)
@@ -136,7 +139,7 @@ You get **20 marks per subject** for TMA. These marks show on your dashboard and
 - Stream 2/3/4 → Only SA (100% practical exam)
 
 
-### 📅 FA PCP & Practical Exam Timeline (Stream 1)
+### 📅 FA PCP AKA Practical Classes (Stream 1)
 
 | Block | Component | Dates |
 |-----|----------|------|
@@ -177,11 +180,11 @@ If someone asks for money → **they’re wrong**
 
 ## SA PCP (Practical Examination)
 
-Practical examinations are conducted at your study centre/AI (in most cases) 1 month before the public exams. For on-demand exams, **please ask at the exam center for the date and time on the day of the theory paper.** [Detailed info on practicals](/wiki/pr)
+Practical examinations are conducted at your study centre/AI (in most cases) 1 month or 2 weeks before the public exams. For on-demand exams, **please ask at the exam center for the date and time on the day of the theory paper.** [Detailed info on practicals](/wiki/pr)
 
 ### What happens in SA PCP? Practical exam?
 **Happens In Two Part**
-- 1st You submit Your Practical File in which you write 10 to 12 experiemnts, and 
+- 1st You submit Your Practical File in which you write 10 to 12 experiments, and 
 - 2nd They will take the written practical too 
   - Give you a sheet to write 2-3 easy experiments
 - Questions come from:
@@ -233,5 +236,6 @@ b) [STREAM 1 BLOCK 2](/wiki/HandbookforS1b2.md#important-dates)
 c) [How To Start Studying, What to study and TIPS??](/wiki/How-To-Study&Prep.md))
 
 d) [Study Center Guide, When to visit? for what? what to ask?](https://www.reddit.com/r/Nios_unofficial/comments/1lx0f86/when_to_contact_your_nios_study_center_and_how_to/?share_id=UC7HWipxwluwjN0bO3vO7&utm_medium=android_app&utm_name=androidcss&utm_source=share&)
+
 
 e) [NIOS Passesd Students Experiences?](/wiki/experiences.md)
