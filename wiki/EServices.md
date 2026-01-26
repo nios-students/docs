@@ -88,7 +88,7 @@ Below are the **tools and step-by-step instructions** you need to follow to appl
 - Make sure the study centre is **active**
 - Confirm it is **currently affiliated with NIOS**
 - Do not repeat the same mistake
-  How to do it? here is the NIOS SC portal! - https://sdmis.nios.ac.in/registration/locate-study-center
+  How to do it? Here is the NIOS SC portal! - https://sdmis.nios.ac.in/registration/locate-study-center
 
 #### 4. Complete the self-declaration
 - Write your **name**
@@ -105,7 +105,7 @@ Below are the **tools and step-by-step instructions** you need to follow to appl
 ---
 **Small tip: After applying for a change, also email lsc@nios.ac.in and [your Regional Centre](https://nios-unofficial.info/wiki/chat/#official-nios-contact-information)that you applied for this, attach your payment receipt. And Please approve this request!**
 
-That’s it. Follow the steps properly and the request should go through without issues and will be confirmed in week or 2.
+That’s it. Follow the steps properly, and the request should go through without issues and will be confirmed in week or 2.
 ``
 </details>
 
@@ -121,9 +121,9 @@ and now you only have **3 or 4 subjects max**!
 
 ---
 
-So first understand the mess you are in:
+So first, understand the mess you are in:
 - The **Part Admission** option is meant for people who are **already 12th passed** and later in life want to add **1 or 2 subjects** (like Maths, Physics, etc.) for things like pilot programs, navy, or similar requirements.
-- TOC option is for failed students not for passed students!
+- TOC option is for failed students, not for passed students!
 
 
 ### What went wrong
@@ -147,9 +147,10 @@ No more random clicks. No more dumb moves.
 
 ### There are 2 cases, so the solution for each is different
 
+  (click button to open)
   
   <details>
-  ### <summary>📘 CASE 1 - Part admission "Yes", Previous qualtifical "12th",  but NO TOC!.</summary>
+  ### <summary>📘 CASE 1 - Part admission "Yes", Previous qualification "12th",  but NO TOC!.</summary>
 
   ### Case 1
 
@@ -302,7 +303,7 @@ No more random clicks. No more dumb moves.
 
 
   <details>
-   <summary>📘 CASE 2 - Part admission "Yes", Previous qualtifical "12th", and Opted for TOC too!.</summary>
+   <summary>📘 CASE 2 - Part admission "Yes", Previous qualification "12th", and Opted for TOC too!.</summary>
 
   Nothing here rn, still working on it, don't have support nor any motivation to write this
 
