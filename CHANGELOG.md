@@ -1,3 +1,7 @@
+### 2026-01-26 19:29 (Sabya sachi - a3ec68d)
+
+- toc issue  Removed duplicate content and clarified instructions for fixing the NIOS 12th admission mistake.
+
 ### 2026-01-26 19:22 (Sabya sachi - 23882bc)
 
 - added partadmission and previous qual fix guide  Corrected minor grammatical errors and improved clarity in the text.
