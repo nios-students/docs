@@ -1,3 +1,7 @@
+### 2026-01-26 19:22 (Sabya sachi - 23882bc)
+
+- added partadmission and previous qual fix guide  Corrected minor grammatical errors and improved clarity in the text.
+
 ### 2026-01-26 19:20 (Sabya sachi - 22a5268)
 
 - added part admission, previous qual fix guide
