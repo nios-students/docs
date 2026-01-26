@@ -1,3 +1,7 @@
+### 2026-01-26 19:20 (Sabya sachi - 22a5268)
+
+- added part admission, previous qual fix guide
+
 ### 2026-01-26 19:03 (Sabya sachi - 5a1367f)
 
 - Added Part Admission, Previous qual issue fix guide   added the how to fix guide for part admission and previous qual as 12th passed guide as case 1   case 2 - with TOC opted too, will add later!
