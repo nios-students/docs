@@ -2,10 +2,10 @@ Working on it any questions regarding this subject please mail at [Unofficialnio
 ---------
 # E-services
 You can use e-services to change, edit and add information. Basically this saves your butt if you screwed up!
-# How does this work?
+## How does this work?
 You select the service you want apply for attach documents and  pay the fees. Your [RC](/wiki/Glossary) will verify it then forward it to [SSS](/wiki/Glossary) they will confirm it.
 
-# Basic details change/Correction
+## Basic details change/Correction
 - Name change/correction (Including student, guardian and parents)
 
 ## Study Centre Change Request Guide! 
@@ -22,7 +22,7 @@ This means:
 - But now, when you called or visited them, they told you they are **no longer affiliated with NIOS**
 - or bribe case
 
-### ### TBH, you don’t need to lose your mind if your NIOS study centre is INACTIVE
+### TBH, you don’t need to lose your mind if your NIOS study centre is INACTIVE
 
 Here’s why:
 - If your study centre is inactive, the **NIOS system automatically updates your details** for practical exams
@@ -60,7 +60,7 @@ Below are the **tools and step-by-step instructions** you need to follow to appl
 
 ---
 
-## Study Centre Change Request Guide!?
+### Study Centre Change Request Guide!?
 
 #### 1. Write a self-declaration letter (handwritten)
 - Address it to **NIOS Headquarters** and **your NIOS Regional Centre**
@@ -114,8 +114,7 @@ That’s it. Follow the steps properly and the request should go through without
 <details>
 <summary>📘 12th Part Admission "Yes", Previous qualtifical "12th" and TOC issue (How to Fix Guide)!.</summary>
 
-# Admission Issue
-### You wanted admission in NIOS 12th as a fresher with 5 subjects, but you picked these options
+### You wanted to take admission in NIOS 12th as a fresher with 5 subjects, but you picked these options
 **Part Admission = YES** + **Previous Qualification = 12th Passed** or **Opted for TOC too as a 12th passed student when you TOC option is only for failed students**
 and now you only have **3 or 4 subjects max**!
 
@@ -127,7 +126,7 @@ So first understand the mess you are in:
 - TOC option is for failed students not for passed students!
 
 
-## What went wrong
+### What went wrong
 
 
 You took admission in NIOS **without properly reading how it works or which stream/option is meant for what purpose**, and now you’re panicking and blaming NIOS for your **mistake**.
@@ -146,13 +145,13 @@ No more random clicks. No more dumb moves.
 ---
 
 
-## There are 2 cases, so the solution for each is different
+### There are 2 cases, so the solution for each is different
 
   
   <details>
   ### <summary>📘 CASE 1 - Part admission "Yes", Previous qualtifical "12th",  but NO TOC!.</summary>
 
-  #### Case 1
+  ### Case 1
 
 
   You applied for **Class 12 admission** and selected:
@@ -172,10 +171,10 @@ No more random clicks. No more dumb moves.
   ---
   
   
-  ## ✅ Solution (Follow carefully)
+  #### ✅ Solution (Follow carefully)
   
   
-  ### Step 1: Change Previous Qualification
+  #### Step 1: Change Previous Qualification
   
   
   1. Log in to your **NIOS account**
@@ -214,7 +213,7 @@ No more random clicks. No more dumb moves.
   ---
   
   
-  ### Step 2: Change Part Admission to NO
+  #### Step 2: Change Part Admission to NO
   
   
   1. Again go to **e-Services**
@@ -238,7 +237,7 @@ No more random clicks. No more dumb moves.
   ---
   
   
-  ### Step 3: NOW wait (don’t panic)
+  #### Step 3: NOW wait (don’t panic)
   - This whole thing will take 2 to 3 weeks! so wait , fking wait
   - Eservice thing is a **2-step process**:
   - First: your request is **verified** (accepted)
@@ -258,7 +257,7 @@ No more random clicks. No more dumb moves.
   ---
   
   
-  ## 🔴 Important Final Step (Most people forget this)
+  #### 🔴 Important Final Step 4 (Most people forget this)
   
   
   Once **both changes are approved and visible**:
@@ -272,7 +271,7 @@ No more random clicks. No more dumb moves.
   ---
   
   
-  ## 💸 Fees Breakdown
+  #### 💸 Fees Breakdown
   
   
   - Previous Qualification Change: **₹200**
@@ -283,7 +282,7 @@ No more random clicks. No more dumb moves.
   ---
   
   
-  ## ✅ Final Result
+  #### ✅ Final Result
   
   
   And that’s it — now you are done.
@@ -303,7 +302,7 @@ No more random clicks. No more dumb moves.
 
 
   <details>
-  ### <summary>📘 CASE 2 - Part admission "Yes", Previous qualtifical "12th", and Opted for TOC too!.</summary>
+   <summary>📘 CASE 2 - Part admission "Yes", Previous qualtifical "12th", and Opted for TOC too!.</summary>
 
   Nothing here rn, still working on it, don't have support nor any motivation to write this
 
