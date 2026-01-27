@@ -1,3 +1,7 @@
+### 2026-01-27 18:11 (Sabya sachi - c8f7641)
+
+- Add custom layout for AdSense verification
+
 ### 2026-01-26 19:29 (Sabya sachi - a3ec68d)
 
 - toc issue  Removed duplicate content and clarified instructions for fixing the NIOS 12th admission mistake.
