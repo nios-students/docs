@@ -27,18 +27,28 @@ features:
 
   - title: After Admissions
     details: Ok Admission done now what's next? What to do after admission?
-    link: /wiki/AfterAdmission.md
-     
+    link: /wiki/AfterAdmission
+  
+  - title: Fees
+    details: All about fees in NIOS.
+    link: /wiki/Fees
+
   - title: Study Materials
     details: Link to Books, PYQS, IMP Ques, Notes and resources for NIOS Exam.
-    link: /wiki/Study-materials.md
+    link: /wiki/Study-materials
+
+  - title: Hall ticket
+    details: Details on how to obtain your hall ticket.
+    link: /wiki/HallTicket
 
   - title: FAQs
     details: Frequently Asked Questions, All in One Place.
     link: /wiki/FAQ'S
-  - title: Student Obligation Info
-    details: Info on Exams, Assignments, Practicals and PCPs
+
+  - title: All about TMAs, (FA/SA) PCP, PCP
+    details: Info on assigments, practical examinations and PCP classes.
     link: /wiki/Exams-Assignments
+
   - title: E-services
     details: detail info e-services
     link: /wiki/EServices
