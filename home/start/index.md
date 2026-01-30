@@ -33,6 +33,10 @@ features:
     details: All about fees in NIOS.
     link: /wiki/Fees
 
+  - title: All about TMAs, (FA/SA) PCP, PCP
+    details: Info on assigments, practical examinations and PCP classes.
+    link: /wiki/Exams-Assignments
+    
   - title: Study Materials
     details: Link to Books, PYQS, IMP Ques, Notes and resources for NIOS Exam.
     link: /wiki/Study-materials
@@ -44,10 +48,6 @@ features:
   - title: FAQs
     details: Frequently Asked Questions, All in One Place.
     link: /wiki/FAQ'S
-
-  - title: All about TMAs, (FA/SA) PCP, PCP
-    details: Info on assigments, practical examinations and PCP classes.
-    link: /wiki/Exams-Assignments
 
   - title: E-services
     details: detail info e-services
