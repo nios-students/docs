@@ -1,3 +1,7 @@
+### 2026-02-01 18:52 (Sabya sachi - 4ed9c7a)
+
+- Revise Study Center Guide and timeline information  Updated the Study Center Guide link and added details about important dates.
+
 ### 2026-02-01 18:45 (Sabya sachi - 4dabcbf)
 
 - Revise hall ticket details and instructions  Updated hall ticket information and clarified instructions regarding availability and study center interactions.
