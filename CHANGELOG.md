@@ -1,3 +1,7 @@
+### 2026-02-01 18:59 (Sabya sachi - 4785255)
+
+- Revise marksheet article with updated information  Updated the content for clarity and added new sections regarding result timelines and document collection.
+
 ### 2026-02-01 18:52 (Sabya sachi - 4ed9c7a)
 
 - Revise Study Center Guide and timeline information  Updated the Study Center Guide link and added details about important dates.
