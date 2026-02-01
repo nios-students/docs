@@ -2,16 +2,22 @@
 
 ---
 
-## 📘 Admission Fee  
+## 📘 Admission Fee  and Admission Window Deadline
 **Stream-1 (Without Late Fee)**  
 Source: [visit source](https://sdmis.nios.ac.in/home/fees)
+
+
+### ❗ Important
+- Exam fees are paid **after admission**, when the exam fee portal opens  
+- More than 5 subjects
+
 
 ### 🔹 Secondary (10th) – 5 Subjects
 
 **Admission Fee**
 - Male: ₹2340  
 - Female: ₹1890  
-- SC / ST / Ex-Serviceman / PwD: ₹1560  
+- SC / ST / Ex-Serviceman / PwD: ₹1560  (but you need to have a certificate)
 
 **Exam Fees**
 - Theory subject exam: ₹300  
@@ -30,16 +36,11 @@ Source: [visit source](https://sdmis.nios.ac.in/home/fees)
 - Theory subject exam: ₹300  
 - Practical subject: ₹300 (theory) + ₹150 (practical)
 
----
-
-### ❗ Important
-- Exam fees are paid **after admission**, when the exam fee portal opens  
-- More than 5 subjects: **₹940 per additional subject**
 
 ---
 
-### 📅 Dates
-Always check our announcements channel or the NIOS official notification page for updates.
+### 📅 Dates For Exam Fees
+Always check our announcements channel on Reddit or Discord or the NIOS official notification page for updates.
 
 - **S1B1 (April Exam)**  
   - 20 Nov – 20 Dec (without late fee)  
@@ -73,5 +74,8 @@ Source: [visit source](https://nios-unofficial.info/assets/ode-fees.B6RDgWul.jpg
 ---
 
 ### ⚠️ Important
-- In **Stream 2, 3, or 4 (ODE)**, during first-time registration, **all fees are paid at once**  
-- Online application / transaction fee: ₹70  
+- In **Stream 2, 3, or 4 (ODE)**, during the registration time, **all fees, including Exam fees and Admission fees, are paid at once, hence the high amount**  
+- Online application/transaction fee: ₹70  
+- To know about What is TMA/ PCP/ FA PCP/ SA PCP and What happens here then [Click Here to Know more](wiki/Exams-Assignments.md)
+- **To Know the general Timeline and Important Dates of what happens when in NIOS for your stream, see this - [Click here](/wiki/Glossary.md#bonus)**
+
