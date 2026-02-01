@@ -1,3 +1,7 @@
+### 2026-02-01 18:45 (Sabya sachi - 4dabcbf)
+
+- Revise hall ticket details and instructions  Updated hall ticket information and clarified instructions regarding availability and study center interactions.
+
 ### 2026-01-30 20:50 (Sabya sachi - cccc69f)
 
 - Merge pull request #33 from AusterDev/infodump  Infodump
