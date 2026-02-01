@@ -78,8 +78,8 @@ This is where your hall ticket will be available when it is released! [Visit thi
 
 ## 🏫 Important
 - Practical and FA PCP are held at your **study centre**  
-- Read the **Study Center Guide** to know more  
-- **To Know the general Timeline of what happens when in NIOS for your stream, see this - [Click here](/wiki/Glossary.md#bonus)**
+- Read the **[Study Center Guide]()** to know more   
+- **To Know the general Timeline and Important Dates of what happens when in NIOS for your stream, see this - [Click here](/wiki/Glossary.md#bonus)**
 
 ---
 
