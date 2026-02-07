@@ -1,6 +1,7 @@
 ---
-order: 22
+layout : doc
 title: Chat Groups
+order: 22
 ---
 
 # Chat Groups

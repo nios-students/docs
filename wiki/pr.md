@@ -1,5 +1,6 @@
 ---
 title: Practical Exam
+order: 24
 ---
 
 <h1 align="center">Practical Exam</h1>
