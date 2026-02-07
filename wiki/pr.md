@@ -63,19 +63,54 @@ Please view the table below:
 
 
 
-**[How to make the practical file (Click to view)](/wiki/howto-rec-book)**
+**[How to make the practical file? or Solved Practicals ? (Click THIS )](/wiki/howto-rec-book)**
 
 
-## What is FA?
 
-FA (formative assessment), also known as FA PCP, carries **50% of practical marks.** In these classes, they'll help with making a practical file and explain what to do for the practical exam.
+## What is FA PCP?
+FA pcp are 5 practical classes held at your study center, only for the practical subject, where they teach you.
+- Teachers guide you on:
+  - How to write the **practical file**
+  - How to prepare for the **practical exam**
+  - What will happen in **Practical exam**
 
 
-**Exceptions**
+### Marks Distribution (Very Important)
 
-a) NO FA PCP for stream 2, 3, and 4 (ODE) meaning **100%** of marks are scored/given during Practical exam itself. 
+- Overall Practical Marks = 50% FA (Practical Classes) + 50% SA (Practical Exam)
+- Means for subject like PCB,PE = FA marks = 10  + SA marks 10 = total 20
 
-b) NO FA PCP **marks** for [Vocational subjects](https://nios-students.pages.dev/wiki/FAQ'S.html#what-is-the-two-vocational-sebjects-rule) meaning **100%** of marks is Scored/given during Practical exam.
+- You Just Get 50% Practical Marks for attending These 5 Classes
+
+### IMP points of FA PCP?
+- Only for **Stream 1 students, not Stream 2,3,4**
+- Only for subjects **with practicals** [Subjects with practicals Link](/wiki/pr.md)
+- FA PCP = **5 compulsory practical classes**
+- Conducted by your **allotted study centre**
+
+
+⚠️ **PCP vs FA PCP**
+- PCP → doubt sessions (non-compulsory)
+- FA PCP → compulsory, **carry marks**
+
+⚠️ **Streams Difference**
+- Stream 1 → FA + SA
+- Stream 2/3/4 → Only SA (100% practical exam)
+
+
+### 📅 FA PCP AKA Practical Classes (Stream 1)
+
+| Block | Component | Dates |
+|-----|----------|------|
+| S1 Block 1 | FA PCP | 1 Feb – 10 March |
+| | Practical Exam (SA) | After 10 March |
+| S1 Block 2 | FA PCP | 1 Aug – 10 Sept |
+| | Practical Exam (SA) | After 10 Sept |
+
+📌 NIOS gives **general dates only for FA PCP**  
+📌 Exact dates are given by **your study centre**, so it's imp that you **visit** your center before hand
+
+- **Full Study Center Guide, When to visit, What to ask? [ Click Here](https://www.reddit.com/r/Nios_unofficial/comments/1lx0f86/when_to_contact_your_nios_study_center_and_how_to/)**
 
 
 ## What is SA?
@@ -212,4 +247,4 @@ Any questions or want to share your experience, use one of the options below:
 
 ---
 
-*Written by pingforhelp*
+*Written by pingforhelp, Hrithik*

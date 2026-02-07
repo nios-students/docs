@@ -1,3 +1,10 @@
+---
+layout: doc
+title: Fees
+order: 3
+---
+
+
 <h1 align="center">Fees in NIOS</h1>
 
 ---

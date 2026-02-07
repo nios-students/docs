@@ -1,6 +1,7 @@
 ---
-order: 0
+layout: doc
 title: Scribe Info
+
 ---
 
 How To Apply for a Scribe?

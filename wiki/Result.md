@@ -1,3 +1,10 @@
+---
+layout: doc
+title: Result
+order: 13
+---
+
+
 # When Are NIOS Results Declared?
 
 [NIOS official result website](https://results.nios.ac.in/)

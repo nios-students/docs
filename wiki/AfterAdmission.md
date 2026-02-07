@@ -1,3 +1,10 @@
+---
+layout: doc
+title: After Admission
+order: 4
+---
+
+
 ## 🟦 AFTER ADMISSION — WHAT NEXT?
 
 **Admission is a two-step process.**

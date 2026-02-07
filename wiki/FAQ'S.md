@@ -1,3 +1,10 @@
+---
+layout: doc
+title: Fees
+order: 3
+---
+
+
 [Official FAQs (Theoffical ones are outdated. They are from 2014.)](https://sdmis.nios.ac.in/home/faqs) 
 
 # Our FAQs

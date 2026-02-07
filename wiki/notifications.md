@@ -1,3 +1,8 @@
+---
+layout: doc
+title: Notifications & Updates
+---
+
 <h1 align="center">Notifications</h1>
 
 ---

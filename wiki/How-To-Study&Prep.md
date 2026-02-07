@@ -1,3 +1,10 @@
+---
+layout: doc
+title: How To Study & Prep
+order: 11
+---
+
+
 # This covers **everything you actually need** to start NIOS preparation properly.
 
 If you’re confused about:

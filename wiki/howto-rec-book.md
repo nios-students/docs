@@ -1,9 +1,11 @@
 ---
-order: 0
-title: Record Book
+layout: doc
+title: How To Make Practical File
+order: 10
 ---
 
-# Guidelines for making the practical file/Record book.
+
+# Guide for making the practical file/Record book.
 
 ## FAQ'S
 - In what should I make the file?
@@ -17,7 +19,7 @@ Ans: Just go to your nearest stationery store and ask for a
 
 - How many experiments / activities should I write in it?
 
-Ans: Maximum **10**|Minimum **8**
+Ans: Maximum **12**|Minimum **10**
 
 - The specific dates and times aren't given in my hallticket why is that?! (for [PE](/wiki/Exams-Assignments#pe-public-examination) **APRIL and  OCTOBER ONLY**)
 
@@ -83,4 +85,16 @@ An acknowledgement letter and certificate aren't needed.
 
 
 
+# What happens in the practical exam?
 
+**Practical Exam Happens In Two Part**
+- 1st You submit Your Practical File in which you write 10 to 12 experiments, and 
+- 2nd They will take the written practical too 
+  - Give you a sheet to write 2-3 easy experiments
+- Questions come from:
+  - Practical file
+  - Practical manual, Syllabus that you are already studying
+  - or just very basic
+
+- **5% chance:** that they may take Written + Viva
+  - Very basic conceptual questions

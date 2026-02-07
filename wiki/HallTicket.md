@@ -1,3 +1,10 @@
+---
+layout: doc
+title: Hall Ticket
+order: 6
+---
+
+
 <h1 align="center">Hall Tickets: When, What, Where?</h1>
 
 ---

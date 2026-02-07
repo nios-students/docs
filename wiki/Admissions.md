@@ -1,3 +1,11 @@
+---
+layout: doc
+title: Admission
+order: 2
+---
+
+
+
 # NIOS Admission Guide
 
 > **Admissions are completely online at [sdmis.nios.ac.in](https://sdmis.nios.ac.in) only** (for 12th (Sr. Sec), 10th (Sec), and OBE).
