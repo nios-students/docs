@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: View FA , SA MARKS Status
-order: 25
+order: 22
 ---
 
 # This Page Is about How you can view if you got FA , SA MARKS

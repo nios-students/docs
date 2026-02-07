@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: NIOS Student Experiences
-order: 17
+order: 15
 ---
 
 # NIOS Student Experiences & Reviews
