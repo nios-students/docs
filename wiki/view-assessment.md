@@ -2,9 +2,12 @@
 layout: doc
 title: View FA , SA MARKS Status
 order: 25
+---
 
-Everything about view assessment
---------
+# This Page Is about How you can view if you got FA , SA MARKS
+
+so that you won't have to pay FA fees, and worry about if you study center marked you absent in your practical exam (SA)
+
 
 What is this?
 
