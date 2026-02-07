@@ -1,6 +1,7 @@
 ---
 layout: doc
 title: Notifications & Updates
+order: 19
 ---
 
 <h1 align="center">Notifications</h1>

@@ -1,3 +1,10 @@
+---
+layout: doc
+title: NIOS LINKS
+order: 32
+---
+
+
 # NIOS & SDMIS Links
 
 ## 1. Core Student Services

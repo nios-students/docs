@@ -1,7 +1,7 @@
 ---
 layout: doc
-title: Fees
-order: 3
+title: FAQ's
+order: 18
 ---
 
 
