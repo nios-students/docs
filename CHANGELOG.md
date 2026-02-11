@@ -1,3 +1,7 @@
+### 2026-02-11 13:29 (Sabya sachi - eb7e151)
+
+- Revise Step-2 for clarity on free resources  Updated Step-2 to emphasize the availability of solved free NIOS practicals.
+
 ### 2026-02-11 13:25 (Sabya sachi - 033eb96)
 
 - Update Computer Science-330 link in Study materials
