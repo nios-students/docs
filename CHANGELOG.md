@@ -1,3 +1,7 @@
+### 2026-02-11 13:25 (Sabya sachi - 033eb96)
+
+- Update Computer Science-330 link in Study materials
+
 ### 2026-02-07 11:42 (Sabya sachi - b28a5ce)
 
 - last step of reorder of the look
