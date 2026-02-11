@@ -75,7 +75,7 @@ The materials are applicable for all exams (On-demand and public), so please sto
 
 ## Solved Practical Files
 **Senior Secondary (12th)**  
-- [Computer Science-330](https://drive.google.com/drive/folders/1B4LC8LNbWwBj6i1u6VBKf4LzDcfGD1UX)
+- [Computer Science-330](https://drive.google.com/drive/folders/1D5snHrQpRncdMjh_fqMdnmXm0Tz1Vz0r?usp=sharing)
 - [Data Entry Operations-**336 Sr. Sec (12th)**](https://drive.google.com/drive/folders/1K5O8mtX-NXT-ezFsqh3ZsA0IdrJQ1SeU)
 - [Physics-312](https://drive.google.com/file/d/1Tch83yqj_tKsHOzExcl1dMGCxSJKvAYb/view?usp=drivesdk)
 - [Chemistry-313](https://drive.google.com/file/d/1ztU0LXRhlxP-Vztslwhh9-51Wjxn20wo/view?usp=drivesdk)
