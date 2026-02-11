@@ -63,7 +63,8 @@ One side lines and the other side writes i.e. without lines.
 
 Step-1 Download your Lab Manual from [nios.ac.in](https://nios.ac.in/online-course-material.aspx#maincontent). Course material → Grade → Subject → scroll down and download Sub name (777) Lab manual.pdf 
 
-Step-2 Pick where you will write or copy paste from our stuff [__***IT'S FREE!!!!***__](/wiki/Study-materials.md#solved-practical-files)
+Step-2 Pick where you will write or copy paste from our stuff
+**Solved Free NIOS Practicals [_IT'S FREE!!!! ](/wiki/Study-materials.md#solved-practical-files)**
 
 Step-3 Start by finding pictures or conducting experiments (relevant for computer-related subjects)
 
