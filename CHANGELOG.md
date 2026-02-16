@@ -1,3 +1,7 @@
+### 2026-02-16 12:14 (111-vk - ac2d19d)
+
+- fix branch name in main.yml
+
 ### 2026-02-16 11:39 (111-vk - bd4a95d)
 
 - Improve Discord notifications by adding clear separators between messages
