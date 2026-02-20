@@ -1,3 +1,7 @@
+### 2026-02-20 16:41 (Sabya sachi - 5cf132e)
+
+- Merge pull request #35 from DevKing69/patch-4  Update HandbookforS1b2.md hall ticekt and datesheet
+
 ### 2026-02-20 16:38 (Sabya sachi - 3aec62d)
 
 - Merge pull request #34 from DevKing69/patch-3  Update HandbookforS1b1.md  hall ticekt and datesheet
