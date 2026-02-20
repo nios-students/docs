@@ -1,3 +1,7 @@
+### 2026-02-20 16:38 (Sabya sachi - 3aec62d)
+
+- Merge pull request #34 from DevKing69/patch-3  Update HandbookforS1b1.md  hall ticekt and datesheet
+
 ### 2026-02-16 12:14 (111-vk - ac2d19d)
 
 - fix branch name in main.yml
