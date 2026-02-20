@@ -45,8 +45,11 @@ Still working on it. Any questions regarding this stream/subject, please email u
 | Last date for TMA            | 31 January                              |
 | FA PCP (05 classes)          | February                                |
 | Results of TMA               | *                                       |
+| Hall ticket for SA PCP       | 5 to 13 march                           |
 | Practical exam/SA            | March (second week)                     |
 | Theory exam/PE               | April-May                               |
+| Theory Exam Datesheet        | (3rd week to 4th week) of march         |
+| Theory exam hall ticket      |                                         |
 | View assessment of SA        | 2 weeks from practical exam to May      |
 | Results                      | June*                                   |
 | Digilocker result & certs    | 2 weeks after result                    |
