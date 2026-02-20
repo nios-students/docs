@@ -30,26 +30,26 @@ Still working on it. Any questions regarding this subject, please mail to unoffi
 - From 16th February to 28th February	With Late Fee of ₹520
 - From 1st March to 15th March	With Late Fee of ₹910
 
-
-
 # Important Dates
 |    | Event / Activity                           | Month / Time Period                      |
 |----|--------------------------------------------|------------------------------------------|
-| 1  | TMA uploading Starts                       |  Mid of June                              |
+| 1  | TMA uploading Starts                       | Mid of June                              |
 | 2  | Exam fees payment                          | Mid of June                              |
 | 3  | PCP (30 classes)                           | May                                      |
 | 4  | Last date for TMA submission               | 31 July                                  |
 | 5  | FA PCP (05 classes)                        | August                                   |
-| 6  | Results of TMA*                            | —                                        |
-| 7  | Practical exam / SA                        | September (second week)                  |
-| 8  | Theory exam / PE                           | October – November                       |
+| 6  | Hall Ticket for SA PCP                     | 5 September – 15 September               |
+| 7  | Results of TMA*                            | —                                        |
+| 8  | Practical exam / SA                        | September (second week)                  |
 | 9  | View assessment of SA                      | 3 weeks from the practical exam          |
-| 10 | Results                                    | Mid to end January*                      |
-| 11 | Digilocker result & certificate            | 2 weeks after result                     |
-| 12 | Re-evaluation / Re-check                   | 20 days after results are released       |
-| 13 | Physical documents                         | March to April  at your Study centre     |
-| 14 | Results of re-evaluation / re-checking     | 60 days                                  |
-
+| 10 | Theory Exam Datesheet Release              | 3rd week September – 4th week September  |
+| 11 | Theory exam / PE                           | October – November                       |
+| 12 | Exam Hall Ticket (Theory Exam)             | 1 October – 13 October                   |
+| 13 | Results                                    | Mid to end January*                      |
+| 14 | Digilocker result & certificate            | 2 weeks after result                     |
+| 15 | Re-evaluation / Re-check                   | 20 days after results are released       |
+| 16 | Physical documents                         | March to April at your Study centre      |
+| 17 | Results of re-evaluation / re-checking     | 60 days                                  |
 
 **What is TMA? How to make it? What is PCP? What Practical? How to Study? What to do? What not to do?**
 - Don't worry pookies, Our community got you coverd for all this
