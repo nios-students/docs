@@ -41,10 +41,10 @@ Still working on it. Any questions regarding this subject, please mail to unoffi
 | 6  | Hall Ticket for SA PCP                     | 5 September – 15 September               |
 | 7  | Results of TMA*                            | —                                        |
 | 8  | Practical exam / SA                        | September (second week)                  |
-| 9  | View assessment of SA                      | 3 weeks from the practical exam          |
+| 9  | View marks of SA in dashboard              | 3 weeks from the practical exam          |
 | 10 | Theory Exam Datesheet Release              | 3rd week September – 4th week September  |
-| 11 | Theory exam / PE                           | October – November                       |
-| 12 | Exam Hall Ticket (Theory Exam)             | 1 October – 13 October                   |
+| 11 | Exam Hall Ticket (Theory Exam)             | 1 October – 13 October                   |
+| 12 | Theory exam / PE                           | October – November                       |
 | 13 | Results                                    | Mid to end January*                      |
 | 14 | Digilocker result & certificate            | 2 weeks after result                     |
 | 15 | Re-evaluation / Re-check                   | 20 days after results are released       |
