@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "NIOS Students"
+  name: "NIOS Unofficial Community OF NIOS Students"
   text: "Simple Guides made by Students"
   tagline: "「NIOS Unofficial」 for NIOS Students."
 
