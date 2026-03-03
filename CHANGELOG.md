@@ -1,3 +1,7 @@
+### 2026-03-03 10:53 (Sabya sachi - 1b59680)
+
+- Add information on how to get physical NIOS books  Added section on obtaining physical NIOS books and a guide link.
+
 ### 2026-02-21 12:03 (Sabya sachi - 20a104d)
 
 - changed the headline from nios students to this one
