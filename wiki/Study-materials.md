@@ -15,6 +15,12 @@ The materials are applicable for all exams (On-demand and public), so please sto
   #### NIOS hardly provides books so better to study from PDFs
 --- 
 
+### HOW to get Physical NIOS BOOKS
+ **NIOS BOOKS (IF you really need books and can't study from PDFs)**
+  - You Can File CP Gramp Compalint, which other students did too and received their books!
+  -  **Here is the Guide on how to file CP Gram complaint for BOOKS - [[CLICK ME](https://www.reddit.com/r/Nios_unofficial/comments/1rj2ucs/complete_guide_how_nios_students_can_file/)]**
+
+
 ### 📚 Course Materials
 - [Secondary Online Course Materials (10th)](https://nios.ac.in/online-course-material/secondary-courses.aspx)  
   <sub>Official NIOS site</sub>
