@@ -1,3 +1,7 @@
+### 2026-03-07 11:31 (Sabya sachi - 8cceee9)
+
+- Update Study-materials.md with new resources  Added links to solved practical files and updated contributors.
+
 ### 2026-03-07 11:29 (Sabya sachi - 19adce5)
 
 - Change header format for practical file section
