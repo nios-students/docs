@@ -1,3 +1,7 @@
+### 2026-03-07 18:10 (Sabya sachi - 5feb379)
+
+- Enhance NIOS Mathematics study order in handbook  Added a detailed study order for NIOS Mathematics, including Class 11 and Class 12 topics, along with important notes and study tips.
+
 ### 2026-03-07 11:31 (Sabya sachi - 8cceee9)
 
 - Update Study-materials.md with new resources  Added links to solved practical files and updated contributors.
