@@ -1,3 +1,7 @@
+### 2026-03-07 11:27 (Sabya sachi - 7e481c3)
+
+- solved PF eg  Updated formatting and links in the practical submission instructions.
+
 ### 2026-03-03 10:53 (Sabya sachi - 1b59680)
 
 - Add information on how to get physical NIOS books  Added section on obtaining physical NIOS books and a guide link.
