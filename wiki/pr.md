@@ -64,7 +64,7 @@ Please view the table below:
 
 
 
-**[How to make the practical file? or Solved Practicals ? (Click THIS )](/wiki/howto-rec-book)**
+### **[How to make the practical file? or Solved Practicals ? (Click THIS )](/wiki/howto-rec-book)**
 
 
 
