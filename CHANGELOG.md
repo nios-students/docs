@@ -1,3 +1,7 @@
+### 2026-03-07 18:10 (Sabya sachi - 975883e)
+
+- Fix HTML tags in Sub_Hand_Books.md
+
 ### 2026-03-07 18:10 (Sabya sachi - 5feb379)
 
 - Enhance NIOS Mathematics study order in handbook  Added a detailed study order for NIOS Mathematics, including Class 11 and Class 12 topics, along with important notes and study tips.
