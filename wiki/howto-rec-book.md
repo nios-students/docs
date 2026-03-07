@@ -66,7 +66,7 @@ Step-1 Download your Lab Manual from [nios.ac.in](https://nios.ac.in/online-cour
 Step-2 Pick where you will write or copy paste from our stuff <br>
 ### **[Solved Free NIOS Practicals [_IT'S FREE!!!! ](/wiki/Study-materials.md#solved-practical-files)]** <br>
 
-### **[[NIOS Practical Files Complete Example](https://drive.google.com/drive/folders/1m2ul3JYeyS4iDUlu-8y1g27qiUH-HKKx?usp=drive_link)]** <br>
+### **[[Solved NIOS Practical Files For Example](https://drive.google.com/drive/folders/1m2ul3JYeyS4iDUlu-8y1g27qiUH-HKKx?usp=drive_link)]** <br>
 
 Step-3 Start by finding pictures or conducting experiments (relevant for computer-related subjects)
 
