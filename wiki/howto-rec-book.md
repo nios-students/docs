@@ -32,7 +32,7 @@ Ans: You **won't** get a Practical hallticket as your centre is same for both Pr
 
 
 
-# Where should I submit the practical file??
+# Where should I submit the practical file?? 
 
 Ans: Offline at the practical examination as follows:
 -----------------------------
@@ -64,7 +64,9 @@ One side lines and the other side writes i.e. without lines.
 Step-1 Download your Lab Manual from [nios.ac.in](https://nios.ac.in/online-course-material.aspx#maincontent). Course material → Grade → Subject → scroll down and download Sub name (777) Lab manual.pdf 
 
 Step-2 Pick where you will write or copy paste from our stuff <br>
-### **Solved Free NIOS Practicals [_IT'S FREE!!!! ](/wiki/Study-materials.md#solved-practical-files)**
+### **[Solved Free NIOS Practicals [_IT'S FREE!!!! ](/wiki/Study-materials.md#solved-practical-files)]** <br>
+
+### **[[NIOS Practical Files Complete Example](https://drive.google.com/drive/folders/1m2ul3JYeyS4iDUlu-8y1g27qiUH-HKKx?usp=drive_link)]** <br>
 
 Step-3 Start by finding pictures or conducting experiments (relevant for computer-related subjects)
 
