@@ -80,6 +80,9 @@ The materials are applicable for all exams (On-demand and public), so please sto
 ---
 
 ## Solved Practical Files
+
+### **[[Solved NIOS Practical Files For Example](https://drive.google.com/drive/folders/1m2ul3JYeyS4iDUlu-8y1g27qiUH-HKKx?usp=drive_link)]** <br>
+
 **Senior Secondary (12th)**  
 - [Computer Science-330](https://drive.google.com/drive/folders/1D5snHrQpRncdMjh_fqMdnmXm0Tz1Vz0r?usp=sharing)
 - [Data Entry Operations-**336 Sr. Sec (12th)**](https://drive.google.com/drive/folders/1K5O8mtX-NXT-ezFsqh3ZsA0IdrJQ1SeU)
@@ -139,6 +142,9 @@ Writer of student-made notes for Chemistry, English, and Maths. Compiler and edi
 
 Writer of student-made notes for Business Studies:  
 **Priya Yeturi**
+
+For Solved Practical Files 
+**Skulled11 - discord**
 
 English formats:  
 **1pointperspective**
