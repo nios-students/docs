@@ -8,7 +8,7 @@ order: 17
 # Specific Subject Handbooks
 
 # Specific Subject Handbooks
-- <details>
+<details>
 <summary> **[Maths - 311]** </summary> 
 
 (P.S. You can do same for other subjects too, like Physics, Chemistry, BIO, Accounts, and ECO)
