@@ -1,3 +1,7 @@
+### 2026-03-12 12:39 (Sabya sachi - 00ae2a1)
+
+- Modify glossary and add new sections  Updated glossary details and added new sections for Result and Marksheet, and NIOS ODE.
+
 ### 2026-03-12 12:31 (Sabya sachi - 0bb07f8)
 
 - Revise practicals information and add links  Updated practicals section with links and formatting.
