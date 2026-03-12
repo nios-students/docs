@@ -1,3 +1,7 @@
+### 2026-03-12 12:31 (Sabya sachi - 0bb07f8)
+
+- Revise practicals information and add links  Updated practicals section with links and formatting.
+
 ### 2026-03-12 12:24 (Sabya sachi - 55375b7)
 
 - Revise ODE exam information and FAQs  Updated registration details, exam procedures, and practical exam information for ODE. Revised FAQs and added links for student resources.
