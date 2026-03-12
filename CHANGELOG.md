@@ -1,3 +1,7 @@
+### 2026-03-12 12:24 (Sabya sachi - 55375b7)
+
+- Revise ODE exam information and FAQs  Updated registration details, exam procedures, and practical exam information for ODE. Revised FAQs and added links for student resources.
+
 ### 2026-03-07 18:10 (Sabya sachi - 975883e)
 
 - Fix HTML tags in Sub_Hand_Books.md
