@@ -101,16 +101,18 @@ ODE runs under two main categories of students:
 
 If you have taken any subject that includes practicals, you will need to complete them as part of the exam process.
 
-**How to know if your subject has practicals**
+**How to know if your subject has practicals** <br>
 To check which subjects include practicals, see this list:  
 **[[Click here](/wiki/pr.md)]**
 
 
-**What happens in the practical exam? Practical preparation guide??**
+**What happens in the practical exam? Practical preparation guide??** <br>
+
 You can use the following guide which includes all the practical stuff and **solved practical PDFs** to prepare your practical file and viva:  
 **[[Click here](/wiki/howto-rec-book.md)]**
 
 **Practical exam date and centre**
+
 For **ODE Exam**, the **practical exam center is the same as your theory exam centre**.
 
 The usual process is:
