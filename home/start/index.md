@@ -16,7 +16,7 @@ hero:
 
 features:
   - title: Glossary
-    details: Commonly Used NIOS Terms
+    details: All Info at one Page
     link: /wiki/Glossary
   - title: About
     details: About NIOS and Us!
@@ -44,6 +44,14 @@ features:
   - title: Hall ticket
     details: Details on how to obtain your hall ticket.
     link: /wiki/HallTicket
+
+  - title: Result And Marksheet
+    details: All about NIOS Result / Marksheet dates, guidelines, codes & process
+    link: 
+
+  - title: NIOS ODE
+    details: All info about ON Demand Exam
+    link: /wiki/Full ODE Information
 
   - title: FAQs
     details: Frequently Asked Questions, All in One Place.
