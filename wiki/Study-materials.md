@@ -48,8 +48,8 @@ The materials are applicable for all exams (On-demand and public), so please sto
 - [NIOS PCM Chapter & Year-wise Pyqs](https://drive.google.com/drive/folders/1vsKArot4UvcKzy547aBQq_GOwQ7cVlkX?usp=sharing)
    only PCM
 
--  [Nios 10th Manish verma Solved PYPS](https://drive.google.com/drive/folders/1xkmdEObC2SNaVCgzvLGPe59N1C-KvVtS?usp=sharing) | [Question Banks (**12th Sr. Sec**)](https://drive.google.com/drive/folders/1BUGHbC5k6UpgkfrdY3FWd47MzJ0SJM8r)  
-  **Physics, Chemistry, Biology, Mathematics, Geography, Home Science, Environmental Science, Political Science, Early Childhood Care, History, Physical Education and Yoga, Painting, Introduction to Laws, Sociology, Business Studies, Economics, English, History, and VOC-(660) Web Development**
+-  [Nios 10th Manish verma Solved PYPS](https://drive.google.com/drive/folders/1xkmdEObC2SNaVCgzvLGPe59N1C-KvVtS?usp=sharing) | [Question Banks (**12th Sr. Sec**)](https://drive.google.com/drive/folders/1pVSKznbgPCSecNVV53v9-Pb_UD-fBMVD?usp=sharing)  
+  **For Science, Commerce and Arts subjects mostly!**
 
 -  [10th IMP Q&A (by Manish verma](https://drive.google.com/drive/folders/1xkmdEObC2SNaVCgzvLGPe59N1C-KvVtS?usp=sharing) | [Imp Q&A Sr. Sec (12th) (By DOON WINNER)](https://drive.google.com/drive/folders/1FwWxlIHr12S0br7IsxjNkSf2idZf-Ktu?usp=drive_link)
 
