@@ -10,6 +10,8 @@ order: 15
 
 Now, to read about other people's experiences with their practical exam, so that you will know what to expect and gain more clarity on the subject? 
 
+- **[April 2026 Link to section](https://www.reddit.com/r/Nios_unofficial/comments/1ra07dv/stream12_march2026_practical_datesheet_out/)**
+
 - **[OCT 2025 Link to section](https://www.reddit.com/r/Nios_unofficial/comments/1ner92o/prmegathread_oct_2025_nios_practicals_stream_1/)**
 
 - **[April 2025 Link to section](https://www.reddit.com/r/Nios_unofficial/comments/1jk4nm2/got_your_practical_today_good_luck/?share_id=pbM-pZtpqk_cJp9_zv-Rf&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1)**
