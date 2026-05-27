@@ -316,6 +316,12 @@ You can expect results within 40–50 days after the exam.
 | Bharatiya Darshan (247)           |
 | Sanskrit Sahitya (248)            |
 
+--------
+
+[Read more Q&As](https://www.reddit.com/r/Nios_unofficial/comments/1tm5g4o/nios_ondemand_examination_ode_megathread_starting/)
+
+
+
 **Technical issues and other miscellaneous FAQs**
 
 ## What are the official video resources
@@ -326,7 +332,7 @@ Related links:
 - [Sub](https://www.reddit.com/r/Nios_unofficial)
 
 2 YT channels for recorded vids:
-- [NIOS secondary (10th)](https://youtube.com/@niossecondarycourses)
+- [NIOS Secondary (10th)](https://youtube.com/@niossecondarycourses)
 - [NIOS Senior Secondary (12th)](https://youtube.com/@niosseniorsecondarycourses)
 > [!WARNING]
 > **Archived Live Streams from 2019-2024 (August). This channel is now used for events only. [NIOS Live Video](https://youtube.com/@nioslivevideo)**
