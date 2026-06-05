@@ -68,7 +68,7 @@ The materials are applicable for all exams (On-demand and public), so please sto
 
 - [**Official PYQs page (nios.ac.in)**](https://nios.ac.in/student-information-section/question-paper-of-previous-year-examination-academic.aspx)
   
-- [April 2025](https://drive.google.com/drive/folders/1zoQp9Uy2mh7MhW6qEGtb6sfJnE9TSck2?usp=drive_link)
+- [April 2026](https://drive.google.com/drive/folders/1XfCaaVLgb_0VkXv5KVR7o7t57KFXUWcG?usp=sharing)
   
 - [PYQs **October-November 2024**](https://drive.google.com/drive/folders/1upgHPV4moRE72l4IHVCE9FpkNMbF8Kvh)
   
