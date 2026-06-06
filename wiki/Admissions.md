@@ -629,8 +629,8 @@ This stream is available for learners who have failed and want to improve scores
 ## 🌱 B) STREAM 2 :
 
 **Who it’s for:**
-
-- Failed 10th/12th learners using TOC
+- Failed learners without Using TOC, just simple 5 to 7 subjects in NIOS
+- Failed 10th/12th learners by using TOC
 - Part admission learners
 
 **Exam type:** Public Exam + ODE  
