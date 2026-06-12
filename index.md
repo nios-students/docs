@@ -28,4 +28,18 @@ features:
   <h3>🚀 NIOSHUB</h3>
 
   <p>Would like to get perfectly handwritten NIOS TMAs?</p>
+
+  <ul>
+    <li>📦 Quality Handwriting</li>
+    <li>📝 Self Upload Guides</li>
+    <li>🤝 We Upload For You Service</li>
+  </ul>
+
+  <a
+    class="nioshub-button"
+    href="https://nioshub.site"
+    target="_blank"
+  >
+    Explore NIOSHUB →
+  </a>
 </div>
