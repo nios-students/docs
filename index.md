@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "NIOS Unofficial Community OF NIOS Students"
+  name: "NIOS Unofficial Students Community"
   text: "Simple Guides made by Students"
   tagline: "「NIOS Unofficial」 for NIOS Students."
 
@@ -23,6 +23,21 @@ features:
   - title: Notifications
     details: Stay updated with important dates and announcements for students
     link: /wiki/notifications/
-  - title: 🚀 NIOSHUB
-    details: Get Perfect NIOS Handwritten TMA PDFs, Self Upload and We Upload For You service.
-    link: https://nioshub.site
+
+
+--- 
+<div class="nioshub-cta">
+  <h3>🚀 NIOSHUB</h3>
+
+  <p>Would like to get perfectly handwritten NIOS TMAs?</p>
+
+  <ul>
+    <li>📦 Quality Handwriting</li>
+    <li>📝 Self Upload Guides</li>
+    <li>🤝 We Upload For You Service</li>
+  </ul>
+
+  <a class="nioshub-button" href="https://nioshub.site" target="_blank">
+    Explore NIOSHUB
+  </a>
+</div>
