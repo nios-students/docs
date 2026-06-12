@@ -23,6 +23,6 @@ features:
   - title: Notifications
     details: Stay updated with important dates and announcements for students
     link: /wiki/notifications/
-    - title: 🚀 NIOSHUB
+  - title: 🚀 NIOSHUB
     details: Get Perfect NIOS Handwritten TMA PDFs, Self Upload and We Upload For You service.
     link: https://nioshub.site
