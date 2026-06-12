@@ -26,16 +26,18 @@ features:
 ---
 <div class="nioshub-cta">
 
-### 🚀 NIOSHUB — Get Handwritten TMAs PDF!
-
-Would Like to Get Perfect Handwritten NIOS TMAs?
+<h3>🚀 NIOSHUB — Get Handwritten TMAs PDF!</h3>
 
 <p>
-A dedicated platform for NIOS students to Get TMAs PDFs.
+Would like to get perfectly handwritten NIOS TMAs?
+</p>
+
+<p>
+A dedicated platform for NIOS students to get Handwritten TMA PDFs.
 </p>
 
 <div class="nioshub-benefits">
-  <span>📦 Quality Handwritting </span>
+  <span>📦 Quality Handwriting</span>
   <span>📝 Self Upload Guides</span>
   <span>🤝 We Upload For You Service</span>
 </div>
@@ -45,7 +47,7 @@ A dedicated platform for NIOS students to Get TMAs PDFs.
   href="https://nioshub.site"
   target="_blank"
 >
-Explore NIOSHUB →
+  Explore NIOSHUB →
 </a>
 
 </div>
