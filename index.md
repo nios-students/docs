@@ -24,30 +24,5 @@ features:
     details: Stay updated with important dates and announcements for students
     link: /wiki/notifications/
 ---
-<div class="nioshub-cta">
-
-<h3>🚀 NIOSHUB — Get Handwritten TMAs PDF!</h3>
-
-<p>
-Would like to get perfectly handwritten NIOS TMAs?
-</p>
-
-<p>
-A dedicated platform for NIOS students to get Handwritten TMA PDFs.
-</p>
-
-<div class="nioshub-benefits">
-  <span>📦 Quality Handwriting</span>
-  <span>📝 Self Upload Guides</span>
-  <span>🤝 We Upload For You Service</span>
-</div>
-
-<a
-  class="nioshub-button"
-  href="https://nioshub.site"
-  target="_blank"
->
-  Explore NIOSHUB →
-</a>
-
-</div>
+# Test
+Hello
