@@ -80,6 +80,32 @@ You get **20 marks per subject** for TMA. These marks show on your dashboard and
 ---
 
 ## 📘 How to make TMAs / Solved TMAs??
+
+> [!WARNING]
+> ## 🚀 IF YOU DON'T WANT TO MAKE TMAs YOURSELF?
+>
+> **Either Short on time?**
+>
+> **Handwriting looks like a doctor's prescription?**
+>
+> **Or just don't want the headache of writing 100+ pages manually?**
+>
+> Then honestly... **don't.**
+>
+> 👉 Get **Perfect Handwritten TMA PDFs** instead:
+>
+> ## 🔥 NIOSHUB
+>
+> **➡️ https://nioshub.site**
+>
+> - ✅ Neat Handwritten TMA PDFs
+>-  ✅ Get Front Page Made For You
+> - ✅ Self-Upload Service
+> - ✅ We Upload For You Service
+> - ✅ Order Tracking
+>
+> *No judgment. Do whatever works best for you.*
+
 **See this TMA guide: *[link here](/wiki/how%20to%20make%20TMA.md)***
 
 ---
