@@ -35,11 +35,7 @@ features:
     <li>🤝 We Upload For You Service</li>
   </ul>
 
-  <a
-    class="nioshub-button"
-    href="https://nioshub.site"
-    target="_blank"
-  >
-    Explore NIOSHUB →
+  <a class="nioshub-button" href="https://nioshub.site" target="_blank">
+    Explore NIOSHUB
   </a>
 </div>
