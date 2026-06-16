@@ -1,3 +1,7 @@
+### 2026-06-16 12:20 (Sachi - fdca2e0)
+
+- Revise TMA creation guidance and alternatives  Updated the wording and formatting for clarity and emphasis on alternatives for creating TMAs.
+
 ### 2026-06-16 12:16 (Sachi - 068da8e)
 
 - Update TMA guide with alternatives and resources  Added a section on alternatives to making TMAs by hand.
