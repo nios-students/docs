@@ -1,3 +1,7 @@
+### 2026-06-16 12:16 (Sachi - 068da8e)
+
+- Update TMA guide with alternatives and resources  Added a section on alternatives to making TMAs by hand.
+
 ### 2026-06-12 12:25 (Sachi - f8ddf9a)
 
 - nios hub in TMA
