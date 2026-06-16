@@ -35,7 +35,7 @@ order: 9
 ## How to Make TMA?
 
 
-> [!WARNING]
+> [!Wait Wait Wait]
 > ## 🚀 DON'T WANT TO MAKE TMAs YOURSELF?
 >
 > **Short on time?**
@@ -59,6 +59,8 @@ order: 9
 > - ✅ Order Tracking
 >
 > *No judgment. Do whatever works best for you.*
+
+### Anyways If you don't want to get handwritten TMAs, it's totally fine. Here are the solved TMA PDFs with a proper guide on how to make them on your own!
 
 
 1. **First download the TMA questions paper from your Student dashboard**  
