@@ -35,10 +35,11 @@ order: 9
 ## How to Make TMA?
 
 
-> [!Wait Wait Wait]
-> ## 🚀 DON'T WANT TO MAKE TMAs YOURSELF?
+> [!Warning]
+> ## Wait Wait Wait
+> ## 🚀 IF YOU DON'T WANT TO MAKE TMAs YOURSELF :-
 >
-> **Short on time?**
+> **Either Short on time?**
 >
 > **Handwriting looks like a doctor's prescription?**
 >
@@ -46,7 +47,7 @@ order: 9
 >
 > Then honestly... **don't.**
 >
-> 👉 Get **Perfect Handwritten TMA PDFs** instead:
+> 👉 You Can Get **Perfect Handwritten TMA PDFs** instead:
 >
 > ## 🔥 NIOSHUB
 >
@@ -57,7 +58,8 @@ order: 9
 > - ✅ Self-Upload Service
 > - ✅ We Upload For You Service
 > - ✅ Order Tracking
->
+>   
+> **Not Selling you but sharing an alternative, The Site Is made by the same MODs of NIOS Unofficial**
 > *No judgment. Do whatever works best for you.*
 
 ### Anyways If you don't want to get handwritten TMAs, it's totally fine. Here are the solved TMA PDFs with a proper guide on how to make them on your own!
