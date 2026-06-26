@@ -1,3 +1,7 @@
+### 2026-06-26 13:21 (Sachi - bda495a)
+
+- Rename 'Come Hang' to 'Come Join Student Group'
+
 ### 2026-06-16 12:20 (Sachi - fdca2e0)
 
 - Revise TMA creation guidance and alternatives  Updated the wording and formatting for clarity and emphasis on alternatives for creating TMAs.
