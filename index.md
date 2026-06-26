@@ -17,7 +17,7 @@ features:
   - title: NIOS Alumni Experiences
     details: Read experiences of Students who passed. Their Whole NIOS journey, so that you will know what to expect & gain more clarity!!
     link: /wiki/experiences.html
-  - title: Come Hang
+  - title: Come Join Student Group
     details: NIOS STUDENTS Chat groups to network and find like-minded peers
     link: /wiki/chat/
   - title: Notifications
