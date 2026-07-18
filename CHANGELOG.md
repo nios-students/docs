@@ -1,3 +1,7 @@
+### 2026-07-18 15:30 (111-vk - 3b679e7)
+
+- fix: Rename login_with_Enrollment_No to login_with_Enrollment_No.md  forgot to add file extension (.md) because i'm dumb
+
 ### 2026-07-18 15:13 (111-vk - f98a1c9)
 
 - docs: add NIOS enrollment-number login recovery guide
