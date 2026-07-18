@@ -1,3 +1,7 @@
+### 2026-07-18 15:13 (111-vk - f98a1c9)
+
+- docs: add NIOS enrollment-number login recovery guide
+
 ### 2026-06-26 13:21 (Sachi - bda495a)
 
 - Rename 'Come Hang' to 'Come Join Student Group'
