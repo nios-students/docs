@@ -6,7 +6,7 @@ order: 12
 
 
 Last updated
-🕟:**19-10-2026, 10:06 AM (IST)**
+🕟:**19-10-2026, 10:32 PM (IST)**
 
 The materials are applicable for all exams (On-demand and public), so please stop asking that.
 ----
@@ -31,25 +31,36 @@ The materials are applicable for all exams (On-demand and public), so please sto
 
 ### 🧾 (NEW) Study materials from the community
 
-- **[Class 10 (Secondary)](https://drive.google.com/drive/folders/1pVxKT0dme_FdKnb8BFsjwhBPOKmHxoEf)** 
-  <sub>Google Drive</sub>
+- (NEW) **[Class 10 (Secondary)](https://drive.google.com/drive/folders/1pVxKT0dme_FdKnb8BFsjwhBPOKmHxoEf)** 
+   <sub>Google Drive</sub>
   - Chapter-wise study notes and PYQs.
   - Solved PYQs from 2024 to 2026.
   - Short notes for revision.
   - Chapter-wise mind maps for public exams.
 
-- **[Class 12 (Senior Secondary)](https://drive.google.com/drive/folders/1UHMGlfaBfQ8ULzUt131yn5zkYknDS1g2)** <sub>Google Drive</sub>
+- (NEW) **[Class 12 (Senior Secondary)](https://drive.google.com/drive/folders/1UHMGlfaBfQ8ULzUt131yn5zkYknDS1g2)** <sub>Google Drive</sub>
   - Chapter-wise study notes and PYQs.
   - Solved PYQs from 2024 to 2026.
   - Short notes for revision.
   - Chapter-wise mind maps for public exams.
+
+- **[Class 10 (Secondary) student-made notes](https://drive.google.com/drive/folders/1Wnc3y4klyqdP4MjmGnlClqcNUfH5Bv6K)**
+  - Business Studies, Data Entry Operations, English
+
+- **[Class 12 (Sr.Secondary) student-made notes](https://drive.google.com/drive/folders/1d7TOjlBLCDXjfHucoyxbL8D27Oa7Hnwv)**
+  - Maths (311), Chemistry (313), English (302), Introduction to Laws (338), Data Entry Operations (336), Business studies (319), Psychology, Pol Sci. (317), Sociology, Home Science, Physical Education
+
+- **[Terminal Answers](https://drive.google.com/drive/folders/1QxgVf9rmN91oStaDyrM_2IXtsFgZCL-K?usp=drive_link)** 
+  - Physics, Mathematics, Chemistry, and Biology. For subjects or lessons not available in the above link, check [here for Sr. Sec (12th)](https://brainly.in/textbook-solutions/book-sets/s-nios-board/c-class-12) and [here for Sec (10th)](https://brainly.in/textbook-solutions/book-sets/s-nios-board/c-class-10)
+ 
+- [Brief summaries / kinda notes for both Secondary and Senior Secondary **10th and 12th**](https://www.flexiprep.com/NIOS-Notes)
 
 ### 🌐 Study Material Availability by Language
 - [Check Availability of Study Material in Different Languages](https://sdmis.nios.ac.in/home/query-related)
   <br><sub>Find out which subjects are available in which mediums (languages).</sub>
   >note: <sub><sup>Sometimes the link may show an error like "<i>You are not allowed to perform this action.</i>" If this happens, simply open the link in a private/incognito window.</sup></sub>
 
-
+### 📚 Guide books and formats
 - [Guides books and stuff](https://drive.google.com/drive/folders/10IbqMO8jnsQntDMfeoQWKiWxfcpYBZqo?usp=drive_link)  
   **Physical Education, Physics, Maths, Chemistry, Science & Technology (10th Sec), Home Science (10th Sec), and English (12th Sr. Sec)**
 
@@ -58,23 +69,18 @@ The materials are applicable for all exams (On-demand and public), so please sto
 ---
 
 
-## IMP QUES, and MORE
+## ❓ Previous Year Questions (Solved)
 
 - [NIOS PCM Chapter & Year-wise Pyqs](https://drive.google.com/drive/folders/1vsKArot4UvcKzy547aBQq_GOwQ7cVlkX?usp=sharing)
-   only PCM
+   <sub>PCM only</sub>
 
--  [Nios 10th Manish verma Solved PYPS](https://drive.google.com/drive/folders/1xkmdEObC2SNaVCgzvLGPe59N1C-KvVtS?usp=sharing) | [Question Banks (**12th Sr. Sec**)](https://drive.google.com/drive/folders/1pVSKznbgPCSecNVV53v9-Pb_UD-fBMVD?usp=sharing)  
+- [Nios 10th Manish verma Solved PYPS](https://drive.google.com/drive/folders/1xkmdEObC2SNaVCgzvLGPe59N1C-KvVtS?usp=sharing)
+
+### ❔ Question Banks
+-  [Question Banks (**12th Sr. Sec**)](https://drive.google.com/drive/folders/1pVSKznbgPCSecNVV53v9-Pb_UD-fBMVD?usp=sharing)  
   **For Science, Commerce and Arts subjects mostly!**
 
 -  [10th IMP Q&A (by Manish verma](https://drive.google.com/drive/folders/1xkmdEObC2SNaVCgzvLGPe59N1C-KvVtS?usp=sharing) | [Imp Q&A Sr. Sec (12th) (By DOON WINNER)](https://drive.google.com/drive/folders/1FwWxlIHr12S0br7IsxjNkSf2idZf-Ktu?usp=drive_link)
-
-- [**Student-made notes**](https://drive.google.com/drive/folders/1ttDPhDMNFK3uRudaJWie83mTeVgvmGo_?usp=drive_link)  
-  **Maths (311) (12th Sr.Sec), Chemistry (313), English (302) (Sr. Sec 12th), Introduction to Laws (338), Data Entry Operations (336) (12th Sr. Sec), Business studies, Psychology (12th Sr.Sec), English (302) (Sr.Sec 12th), Pol Sci., Sociology (Sr.Sec 12th), Home Sci. (Sr.Sec 12ths)**
-
-- [Terminal Answers](https://drive.google.com/drive/folders/1QxgVf9rmN91oStaDyrM_2IXtsFgZCL-K?usp=drive_link)  
-  Physics, Mathematics, Chemistry, and Biology. For subjects or lessons not available in the above link, check [here for Sr. Sec (12th)](https://brainly.in/textbook-solutions/book-sets/s-nios-board/c-class-12) and [here for Sec (10th)](https://brainly.in/textbook-solutions/book-sets/s-nios-board/c-class-10)
- 
-- [Brief summaries / kinda notes for both Secondary and Senior Secondary **10th and 12th**](https://www.flexiprep.com/NIOS-Notes)
 
 ---
 
