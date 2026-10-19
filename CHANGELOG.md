@@ -1,3 +1,7 @@
+### 2026-10-19 22:11 (Auster - 7726e70)
+
+- Merge pull request #37 from AusterDev/contents  update study materials
+
 ### 2026-07-18 15:30 (111-vk - 3b679e7)
 
 - fix: Rename login_with_Enrollment_No to login_with_Enrollment_No.md  forgot to add file extension (.md) because i'm dumb
