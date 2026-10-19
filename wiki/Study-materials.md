@@ -6,7 +6,7 @@ order: 12
 
 
 Last updated
-🕟:**10-01-2026, 11:15 AM (IST)**
+🕟:**19-10-2026, 10:06 AM (IST)**
 
 The materials are applicable for all exams (On-demand and public), so please stop asking that.
 ----
@@ -21,13 +21,28 @@ The materials are applicable for all exams (On-demand and public), so please sto
   -  **Here is the Guide on how to file CP Gram complaint for BOOKS - [[CLICK ME](https://www.reddit.com/r/Nios_unofficial/comments/1rj2ucs/complete_guide_how_nios_students_can_file/)]**
 
 
-### 📚 Course Materials
-- [Secondary Online Course Materials (10th)](https://nios.ac.in/online-course-material/secondary-courses.aspx)  
+### 📚 Course Materials 
+- **[Class 10 (Secondary)](https://nios.ac.in/online-course-material/secondary-courses.aspx)**
   <sub>Official NIOS site</sub>
-- [Senior Online Secondary Course Materials (12th)](https://nios.ac.in/online-course-material/sr-secondary-courses.aspx)  
-  <sub>Official NIOS site</sub>
-- [Vocational Books (Google Drive)](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1nL-EvabkRTi)
 
+- **[Class 12 (Senior Secondary)](https://nios.ac.in/online-course-material/sr-secondary-courses.aspx)**  <sub>Official NIOS site</sub>
+- **[Vocational Books](https://drive.google.com/drive/folders/10yjMKD5XLDjPqNbYba6V1nL-EvabkRTi)**  <sub>Google Drive</sub>
+
+
+### 🧾 (NEW) Study materials from the community
+
+- **[Class 10 (Secondary)](https://drive.google.com/drive/folders/1pVxKT0dme_FdKnb8BFsjwhBPOKmHxoEf)** 
+  <sub>Google Drive</sub>
+  - Chapter-wise study notes and PYQs.
+  - Solved PYQs from 2024 to 2026.
+  - Short notes for revision.
+  - Chapter-wise mind maps for public exams.
+
+- **[Class 12 (Senior Secondary)](https://drive.google.com/drive/folders/1UHMGlfaBfQ8ULzUt131yn5zkYknDS1g2)** <sub>Google Drive</sub>
+  - Chapter-wise study notes and PYQs.
+  - Solved PYQs from 2024 to 2026.
+  - Short notes for revision.
+  - Chapter-wise mind maps for public exams.
 
 ### 🌐 Study Material Availability by Language
 - [Check Availability of Study Material in Different Languages](https://sdmis.nios.ac.in/home/query-related)
