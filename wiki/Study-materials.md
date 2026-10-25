@@ -89,13 +89,15 @@ The materials are applicable for all exams (On-demand and public), so please sto
 
 - [**Official PYQs page (nios.ac.in)**](https://nios.ac.in/student-information-section/question-paper-of-previous-year-examination-academic.aspx)
   
-- [April 2026](https://drive.google.com/drive/folders/1XfCaaVLgb_0VkXv5KVR7o7t57KFXUWcG?usp=sharing)
+- [PYQs of April 2026](https://drive.google.com/drive/folders/1XfCaaVLgb_0VkXv5KVR7o7t57KFXUWcG?usp=sharing)
   
-- [PYQs **October-November 2024**](https://drive.google.com/drive/folders/1upgHPV4moRE72l4IHVCE9FpkNMbF8Kvh)
+- [PYQs of **October-November 2024**](https://drive.google.com/drive/folders/1upgHPV4moRE72l4IHVCE9FpkNMbF8Kvh)
   
 - PYQs of April-May 2024 [Sr. Secondary (12th)](https://drive.google.com/drive/folders/1pPiI4xloWBmxJ05zej-b-WDO2KzyKlnr) and [Secondary (10th)](https://drive.google.com/drive/folders/1TeVxkTpZndUQNLPmUMGjQaekqa6-D7QC)
   
-- [**ODE PYQS Folder for Practice**](https://drive.google.com/drive/folders/15Ze19-paWosIyQF0LdCoBA5WQg6OxHFk?usp=drive_link)**
+- [PYQs of **2021-2025**](https://drive.google.com/drive/folders/1XvKd1XFf2AnjtxeN_9JqjwLH8dTHzyhV)
+
+- [**ODE PYQS Folder for Practice**](https://drive.google.com/drive/folders/15Ze19-paWosIyQF0LdCoBA5WQg6OxHFk?usp=drive_link)
 
 
 ---
